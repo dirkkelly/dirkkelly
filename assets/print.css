@@ -1,0 +1,8 @@
+.navbar .nav {
+  display: none !important;
+}
+
+.navbar .navbar-inner {
+  border: none !important;
+  -webkit-box-shadow: none !important;
+}
