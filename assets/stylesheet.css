@@ -68,3 +68,12 @@ body {
 .jobs h5 time, .schools h5 time {
   float: right;
 }
+
+.skills ul, .hobbies ul {
+  margin: 0;
+  list-style: none;
+}
+
+.skills ul li, .hobbies ul li {
+  padding: 0 0 4px;
+}
