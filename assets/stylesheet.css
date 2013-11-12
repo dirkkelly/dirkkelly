@@ -17,63 +17,38 @@ body {
   background: white;
 }
 
-.thumbnails {
-  position: absolute;
-  top: 50%;
-  margin-top: -160px;
-  z-index: -1;
-}
-
-.thumbnail.span12, .thumbnail.span4 {
-  box-sizing: border-box;
-}
-
-.thumbnail.span4 {
-  margin-bottom: 0;
-}
-
-.thumbnail {
-  cursor: default;
-}
-
-.thumbnail p, .thumbnail h3 {
-  margin-bottom: 0;
-}
-
-.thumbnail a:hover {
-  text-decoration: none;
-}
-
-.thumbnail a:hover h3, .thumbnail a:hover p {
-  color: #558bc4;
-}
-
 .career h4, .education h4 {
   border-bottom: 2px solid #333;
-  margin-bottom: 20px;
 }
 
-.jobs dt, .schools dt {
+dl {
+  margin-top: 10px;
+}
+
+dt {
   border-bottom: 1px solid #333;
 }
 
-.jobs dd, .schools dd {
+dd {
   margin-bottom: 30px;
 }
 
-.jobs h5, .schools h5 {
+h5 {
   font-weight: bold;
 }
 
-.jobs h5 time, .schools h5 time {
+h5 time {
   float: right;
 }
 
-.skills ul, .hobbies ul {
-  margin: 0;
-  list-style: none;
+a {
+  text-decoration: underline;
 }
 
-.skills ul li, .hobbies ul li {
-  padding: 0 0 4px;
+a:hover {
+  color: #3F658F;
+}
+
+p strong {
+  color: #558bc4;
 }
