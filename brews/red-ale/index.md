@@ -1,6 +1,7 @@
 ---
 title:                Red Ale
-layout:               default
+layout:               brew
+category:             red-ale
 color:      13SRM
 og:         1.053
 fg:         1.014
@@ -8,6 +9,7 @@ abv:        5.2%
 bitterness: 27IBU
 ---
 
+Amt   |Ing
 ------|--------
 8oz   |American Caramel 60̊L
 4oz   |Belgian Aromatic 20̊L
@@ -15,18 +17,11 @@ bitterness: 27IBU
 3lb   |Golden Light Dry Malt Extract
 3.3lb |Amber Liquid Malt Extract
 
----|------------|------|----
-2oz|Fuggle      |4.2%AA|60min
-1oz|Willamette  |4.2%AA|60min
+Amt|Stem        |%AA |mins
+---|------------|----|----
+2oz|Fuggle      |4.2|60
+1oz|Willamette  |4.2|60
 
+Amt      |Name
 ---------|----------------------------------
 1 Package|Wyeast 1084 Irish Ale Liquid Yeast
-
-<ul>
-  {% for post in site.categories.red-ale %}
-    <li>
-      {{ post.date | date_to_string }}
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
