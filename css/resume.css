@@ -22,11 +22,11 @@ h5 time {
   float: right;
 }
 
-a {
+.career a, .education a {
   text-decoration: underline;
 }
 
-a:hover {
+.career a, .education a:hover {
   color: #3F658F;
 }
 
