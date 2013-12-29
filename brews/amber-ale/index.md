@@ -1,1 +1,3 @@
-amber-ale.md
+---
+title:      Amber Ale
+---
