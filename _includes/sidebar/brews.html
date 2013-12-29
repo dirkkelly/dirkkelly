@@ -1,5 +1,13 @@
+<ol class="breadcrumb">
+  <li><a href="/brews">Brews</a></li>
+  <li>
+    <a href="/brews/{{page.category}}">
+      {{page.category | undash | capitalize}}
+    </a>
+  </li>
+</ol>
+
 <ul class="col-md-3">
-  <h3><a href="/brews/{{page.category}}">{{page.category}}</a></h3>
   {% for post in site.categories[page.category] %}
     <li>
       {{ post.date | date_to_string }}
