@@ -1,0 +1,11 @@
+<div class="col-md-3">
+  <h3>Brewing</h3>
+  <ul class="list-group">{% for post in site.categories.brewing %}
+    {%include sidebar/post.html post="post"%}
+  {% endfor %}</ul>
+
+  <h3>Bottling</h3>
+  <ul class="list-group">{% for post in site.categories.bottling %}
+    {%include sidebar/post.html post="post"%}
+  {% endfor %}</ul>
+</div>

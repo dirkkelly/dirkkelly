@@ -1,5 +1,6 @@
 ---
-title:      Saison Ale
+title:                Saison Ale
+layout:               default
 ---
 
 <ul>

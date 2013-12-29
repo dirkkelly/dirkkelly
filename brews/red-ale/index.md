@@ -1,6 +1,6 @@
 ---
-title:      Red Ale
-layout:     recipe
+title:                Red Ale
+layout:               default
 color:      13SRM
 og:         1.053
 fg:         1.014

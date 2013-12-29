@@ -1,5 +1,6 @@
 ---
-title:      Amber Ale
+title:                Amber Ale
+layout:               default
 ---
 
 <ul>

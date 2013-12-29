@@ -1,0 +1,2 @@
+table tr:first-child { width: 30%; }
+table tr:last-child { width: 70%; }
