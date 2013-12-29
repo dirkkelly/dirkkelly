@@ -21,3 +21,12 @@ bitterness: 27IBU
 
 ---------|----------------------------------
 1 Package|Wyeast 1084 Irish Ale Liquid Yeast
+
+<ul>
+  {% for post in site.categories.red-ale %}
+    <li>
+      {{ post.date | date_to_string }}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
