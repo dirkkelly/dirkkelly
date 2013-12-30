@@ -25,6 +25,8 @@ ABV
 ----
 Alcohol By Volume:  5.7 % is bang on the recipe
 
+What|When
+----|----
 0955|Fill 5 gallons of warm soapy water
 1000|Get all the gear
 1005|Dunk some bottles
