@@ -8,7 +8,9 @@
       <time datetime="{{page.date}}">{{page.date | date_to_string}}</time>
     </small>
   </h1>
-  {{ content }}
+  <div class="post">
+    {{ content }}
+  </div>
   <div id="disqus_thread"></div>
 </div>
 {%include sidebar/brews/post.html%}

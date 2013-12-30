@@ -13,7 +13,7 @@ title:                Brews
       </h3>
     </div>
     <div class="panel-body">
-      <img src="/images/esky.jpg" />
+      <img src="/images/esky.jpg" alt="dirkkelly.com/brews First Cooler" />
     </div>
   </div>
 </div>
@@ -28,7 +28,29 @@ title:                Brews
     </div>
     <div class="panel-body">
       <ul class="nav nav-stacked">
-        {% for post in site.posts limit:4 %}
+        {% for post in site.categories.brews limit:4 %}
+          <li>
+            <a href="{{post.url}}">
+              {{post.title}}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="col-md-4 col-md-pull-8">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">
+        <a href="/brews">
+          Latest Blog Posts
+        </a>
+      </h3>
+    </div>
+    <div class="panel-body">
+      <ul class="nav nav-stacked">
+        {% for post in site.categories.blog limit:4 %}
           <li>
             <a href="{{post.url}}">
               {{post.title}}
