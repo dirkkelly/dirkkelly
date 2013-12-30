@@ -9,3 +9,5 @@ abv:        5.2%
 bitterness: 27IBU
 ---
 
+The brew that started it all, Red Ales have always been
+a beer I would drink, if I ever found it.
