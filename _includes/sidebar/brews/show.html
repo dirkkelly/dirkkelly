@@ -1,24 +1,28 @@
-<ul class="col-md-3">
-  {% for category in site.categories%}
-    {% if category[0] != "brews" %}
-      {% if category[0] == page.category %}
-        <li class="active">
-          {{category[0] | undash | capitalize}}
-          <ul>
-            {% for post in site.categories[page.category] %}
-              <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </li>
-      {% else %}
-        <li>
-          <a href="/brews/{{category[0]}}">
-            {{category[0] | undash | capitalize}}
-          </a>
-        </li>
+<div class="col-md-4">
+  <ul class="nav nav-pills nav-stacked">
+    {% for category in site.categories%}
+      {% if category[0] != "brews" %}
+        {% if category[0] == page.category %}
+          <li class="active">
+            <a href="/brews/{{category[0]}}">
+              {{category[0] | undash | capitalize}}
+            </a>
+            <ul class="nav nav-pills nav-stacked">
+              {% for post in site.categories[page.category] %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% else %}
+          <li>
+            <a href="/brews/{{category[0]}}">
+              {{category[0] | undash | capitalize}}
+            </a>
+          </li>
+        {% endif %}
       {% endif %}
-    {% endif %}
-  {% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
+</div>

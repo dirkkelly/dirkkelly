@@ -1,5 +1,5 @@
 ---
-title:                How's It Smell? Delicious
+title:                How's It Smell?
 category:             saison-ale
 layout:               brews/post
 fg:                   1.005
@@ -33,7 +33,7 @@ Alcohol By Volume:  5.7 % is bang on the recipe
 1025|Start cleaning
 1130|rinsing
 1200|Go on adventure
-1355|FG measure
+1355|FG measure, smells delicious
 1400|sanitzing bottles
 1430|sugar and racking
 1450|swirled it

@@ -1,5 +1,5 @@
 ---
-title:                Empty The Detergent Guy
+title:                Empty The Detergent
 category:             amber-ale
 layout:               brews/post
 fg:                   1.057
