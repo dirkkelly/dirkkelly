@@ -18,3 +18,8 @@ h1 time {
 .nav-stacked ul li a {
   padding: 6px 15px;
 }
+
+.alert img {
+  margin-top: 10px;
+  width: 100%;
+}

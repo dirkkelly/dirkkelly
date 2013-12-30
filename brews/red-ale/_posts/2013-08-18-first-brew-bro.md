@@ -14,6 +14,7 @@ og:         1.050
   <strong>Adding Yeast</strong>
   In this post I specify I add it before the ice bath, hopefully I didn't do this.
   As my brother pointed out this would shock the yeast.
+  <img src="/brews/red-ale/images/dont-kill-the-yeast-bro.png" alt="Don't Kill The Yeast, Bro" />
 </div>
 
 When|What
