@@ -1,3 +1,20 @@
 table tr:first-child { width: 30%; }
 table tr:last-child { width: 70%; }
-.nav-stacked ul { margin-left: 15px !important; }
+
+h1 {
+  margin-top: 0;
+}
+
+h1 time {
+  font-size: 12px;
+  font-weight: normal;
+  float: right;
+}
+
+.nav-stacked ul {
+  margin: 10px 0 10px 15px;
+}
+
+.nav-stacked ul li a {
+  padding: 6px;
+}

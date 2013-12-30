@@ -3,7 +3,7 @@
     {% for category in site.categories%}
       {% if category[0] != "brews" %}
         {% if category[0] == page.category %}
-          <li>
+          <li class="active">
             <a href="/brews/{{category[0]}}">
               {{category[0] | undash | capitalize}}
             </a>
