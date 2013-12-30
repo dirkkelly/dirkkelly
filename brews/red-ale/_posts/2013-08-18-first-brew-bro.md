@@ -1,4 +1,5 @@
 ---
+title:                First Brew, Bro
 category:             red-ale
 layout:               brew
 og:                   1.050

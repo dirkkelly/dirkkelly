@@ -1,4 +1,5 @@
 ---
+title:                Read the FG
 category:             red-ale
 layout:               brew
 fg:                   1.010

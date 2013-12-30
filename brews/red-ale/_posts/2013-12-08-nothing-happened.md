@@ -1,4 +1,5 @@
 ---
+title:                Nothing Happened
 category:             red-ale
 layout:               brew
 fg:                   x

@@ -1,6 +1,6 @@
 ---
 title:                Red Ale
-layout:               brew
+layout:               brews
 category:             red-ale
 color:      13SRM
 og:         1.053

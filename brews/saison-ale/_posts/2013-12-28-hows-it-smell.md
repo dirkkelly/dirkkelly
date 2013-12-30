@@ -1,4 +1,5 @@
 ---
+title:                How's It Smell? Delicious
 category:             saison-ale
 layout:               brew
 fg:                   1.005

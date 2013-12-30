@@ -1,6 +1,9 @@
 {%include header.html%}
-{%include sidebar/brews.html%}
+{%include breadcrumbs/brew.html%}
+{%include sidebar/brew.html%}
 <div class="col-md-9 col-sm-12">
+  <time class="pull-right" datetime="{{page.date}}">{{page.date | date_to_string}}</time>
+  <h1>{{page.title}}</h1>
   {{ content }}
 </div>
 {%include footer.html%}

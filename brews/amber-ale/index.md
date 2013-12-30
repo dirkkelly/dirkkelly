@@ -1,5 +1,5 @@
 ---
 title:                Amber Ale
-layout:               brew
+layout:               brews
 category:             amber-ale
 ---
