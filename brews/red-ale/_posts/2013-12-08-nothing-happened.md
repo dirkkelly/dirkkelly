@@ -1,7 +1,7 @@
 ---
 title:                Nothing Happened
 category:             red-ale
-layout:               brew
+layout:               brews/post
 fg:                   x
 abv:                  x
 ---

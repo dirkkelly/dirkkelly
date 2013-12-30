@@ -1,0 +1,11 @@
+<ul class="col-md-3">
+  {% for category in site.categories%}
+    {% if category[0] != "brews" %}
+      <li>
+        <a href="/brews/{{category[0]}}">
+          {{category[0] | undash | capitalize}}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

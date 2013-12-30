@@ -1,7 +1,7 @@
 ---
 title:                Unorganized, Unsober
 category:             red-ale
-layout:               brew
+layout:               brews/post
 og:                    x
 ---
 

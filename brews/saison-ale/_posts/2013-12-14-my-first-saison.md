@@ -1,7 +1,7 @@
 ---
 title:                My First Saison
 category:             saison-ale
-layout:               brew
+layout:               brews/post
 og:       1.048
 ---
 

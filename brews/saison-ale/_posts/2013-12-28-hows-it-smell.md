@@ -1,7 +1,7 @@
 ---
 title:                How's It Smell? Delicious
 category:             saison-ale
-layout:               brew
+layout:               brews/post
 fg:                   1.005
 abv:                  5.7%
 ---

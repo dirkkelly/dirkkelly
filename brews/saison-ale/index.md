@@ -1,5 +1,5 @@
 ---
 title:                Saison Ale
-layout:               brews
+layout:               brews/show
 category:             saison-ale
 ---

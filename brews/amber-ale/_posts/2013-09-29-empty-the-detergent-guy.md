@@ -1,7 +1,7 @@
 ---
 title:                Empty The Detergent Guy
 category:             amber-ale
-layout:               brew
+layout:               brews/post
 fg:                   1.057
 abv:                  6.5%
 ---
