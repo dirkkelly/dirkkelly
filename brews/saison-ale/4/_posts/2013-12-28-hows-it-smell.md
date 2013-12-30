@@ -4,10 +4,6 @@ category:   saison-ale
 layout:     brews/post
 ---
 
-
-ABV
-----
-
 What|When
 ----|----
 0951|Opened the pail, damn this smells delicious
