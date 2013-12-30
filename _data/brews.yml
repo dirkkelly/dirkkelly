@@ -1,6 +1,17 @@
 - name: Red Ale
   slug: red-ale
+  batches:
+    - name: One
+      slug: "1"
+    - name: Three
+      slug: "3"
 - name: Amber Ale
   slug: amber-ale
+  batches:
+    - name: Two
+      slug: "2"
 - name: Saison Ale
   slug: saison-ale
+  batches:
+    - name: Four
+      slug: "4"
