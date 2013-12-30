@@ -1,15 +1,15 @@
 ---
-title:                My First Saison
-category:             saison-ale
-layout:               brews/post
-og:       1.048
+title:      My First Saison
+category:   saison-ale
+layout:     brews/post
+og:         1.048
 ---
 
 What|When
 ----|----
 1300|activate yeast
 1315|Cleaning
-1335|Sanitizer bucket filling
+1335|Sanitiser bucket filling
 1335|2 Gl @ 165F
 1345|Steeped malts
 1346|CHECK YOUR VALVES BEFORE FILLING A BUCKET, JESUS FUCK GUY LEARN A LESSON
@@ -28,7 +28,7 @@ What|When
 1615|added hops
 1630|put in cooler
 1701|PROTIP: Forgot to take off the lid
-1720|emptied sanitized fermenting bucket
+1720|emptied sanitised fermenting bucket
 1720|transferred, burns on bottom, that was the black stuff
 1730|Gravity 1.048
 1735|Stored away in a blanky

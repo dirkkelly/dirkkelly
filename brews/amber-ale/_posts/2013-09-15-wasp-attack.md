@@ -1,8 +1,8 @@
 ---
-title:                Wasp Attack
-category:             amber-ale
-layout:               brews/post
-og:                   1.008
+title:      Wasp Attack
+category:   amber-ale
+layout:     brews/post
+og:         1.008
 ---
 
 What|When
@@ -19,7 +19,7 @@ What|When
 1505|Got Ice
 1510|Boiling wort
 1520|added hops, boiling for 30
-1530|started filling sanitized bucket
+1530|started filling sanitised bucket
 1540|warming liquid malt
 1550|added the liquid malt
 1550|warming honey
@@ -27,9 +27,9 @@ What|When
 1620|added honey
 1621|dropped in the cover, then spilt some when i put it down, very lol. probably got 95% in
 1635|added hops
-1640|immersed in bath, sanitized thermometer
+1640|immersed in bath, sanitised thermometer
 1705|the bath is going brilliantly this time, just used the sink, currently at 90 with a few minutes to go, can spare it another 10 minutes to get to 75
-1715|poured out the sanitizer, didn't save it because I'm a wasteful person.
+1715|poured out the sanitiser, didn't save it because I'm a wasteful person.
 1720|need a better strainer
 1740|OG reads 1.120
 1743|stirred batch, remeasured 1.070

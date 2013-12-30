@@ -1,9 +1,9 @@
 ---
-title:                How's It Smell?
-category:             saison-ale
-layout:               brews/post
-fg:                   1.005
-abv:                  5.7%
+title:      How's It Smell?
+category:   saison-ale
+layout:     brews/post
+fg:         1.005
+abv:        5.7%
 ---
 
 Bottle Calculations
@@ -36,7 +36,7 @@ What|When
 1130|rinsing
 1200|Go on adventure
 1355|FG measure, smells delicious
-1400|sanitzing bottles
+1400|sanitsing bottles
 1430|sugar and racking
 1450|swirled it
 1455|filling

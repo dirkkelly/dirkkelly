@@ -1,9 +1,9 @@
 ---
-title:                Nothing Happened
-category:             red-ale
-layout:               brews/post
-fg:                   x
-abv:                  x
+title:      Nothing Happened
+category:   red-ale
+layout:     brews/post
+fg:         x
+abv:        x
 ---
 
 What|When

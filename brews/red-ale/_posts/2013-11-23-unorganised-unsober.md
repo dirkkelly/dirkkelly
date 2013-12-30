@@ -1,8 +1,9 @@
 ---
-title:                Unorganized, Unsober
-category:             red-ale
-layout:               brews/post
-og:                    x
+title:      Read the FG
+title:      Unorganised, Unsober
+category:   red-ale
+layout:     brews/post
+og:         x
 ---
 
 
