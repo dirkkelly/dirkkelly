@@ -4,24 +4,6 @@ category:   red-ale
 layout:     brews/post
 ---
 
-<div class="alert alert-warning">
-  <p>
-    <strong>First Post</strong>
-    I'm still learning how to do things in this post, I may make mistakes along the way.
-  </p>
-</div>
-
-<div class="alert alert-danger">
-  <p>
-    <strong>Adding Yeast</strong>
-    In this post I specify I add it before the ice bath, hopefully I didn't do this.
-    As my brother pointed out this would shock the yeast.
-  </p>
-  <p>
-    <img src="/brews/red-ale/1/images/dont-kill-the-yeast-bro.png" alt="Don't Kill The Yeast, Bro" />
-  </p>
-</div>
-
 When|What
 ----|----
 1015|Collected all my junk
@@ -49,3 +31,22 @@ When|What
 1355|moved to sink for greater ice/water ratio
 1435|Hydrometer reads 1.050
 1436|I really think I've messed up the sanitisation part...
+
+<div class="alert alert-warning">
+  <p>
+    <strong>First Post</strong>
+    I'm still learning how to do things in this post, I may make mistakes along the way.
+  </p>
+</div>
+
+<div class="alert alert-danger">
+  <p>
+    <strong>Adding Yeast</strong>
+    In this post I specify I add it before the ice bath, hopefully I didn't do this.
+    As my brother pointed out this would shock the yeast.
+  </p>
+  <p>
+    <img src="/brews/red-ale/1/images/dont-kill-the-yeast-bro.png" alt="Don't Kill The Yeast, Bro" />
+  </p>
+</div>
+
