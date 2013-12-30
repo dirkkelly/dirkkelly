@@ -3,17 +3,38 @@ layout:               default
 title:                Brews
 ---
 
+<div class="col-md-8">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">
+        <a href="/brews">
+          I Brew Beer
+        </a>
+      </h3>
+    </div>
+    <div class="panel-body">
+    </div>
+  </div>
+</div>
 <div class="col-md-4">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h3 class="panel-title">
         <a href="/brews">
-          Brews
+          Latest Brew Posts
         </a>
-      </h4>
+      </h3>
     </div>
     <div class="panel-body">
-      <p>Want to know more?</p>
+      <ul class="nav nav-stacked">
+        {% for post in site.posts limit:4 %}
+          <li>
+            <a href="{{post.url}}">
+              {{post.title}}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
 </div>

@@ -42,5 +42,4 @@ When|What
 1350|added two more bags of ice $6 from next door.
 1355|moved to sink for greater ice/water ratio
 1435|Hydrometer reads 1.050
-
-I  really think I've messed up the sanitisation part...
+1436|I really think I've messed up the sanitisation part...

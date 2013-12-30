@@ -13,6 +13,3 @@ What|When
 1935|done, yield 37x12 10x15, pretty good, pretty damn good.
 1936|Bobs burgers is fantastic just finished 2 seasons
 1941|Ima make nachos for dinner and finish off everything i've got
-
-
-Alcohol By Volume: 6.5%
