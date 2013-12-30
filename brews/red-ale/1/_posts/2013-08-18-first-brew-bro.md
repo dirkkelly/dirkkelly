@@ -5,15 +5,21 @@ layout:     brews/post
 ---
 
 <div class="alert alert-warning">
-  <strong>First Post</strong>
-  I'm still learning how to do things in this post, I may make mistakes along the way.
+  <p>
+    <strong>First Post</strong>
+    I'm still learning how to do things in this post, I may make mistakes along the way.
+  </p>
 </div>
 
 <div class="alert alert-danger">
-  <strong>Adding Yeast</strong>
-  In this post I specify I add it before the ice bath, hopefully I didn't do this.
-  As my brother pointed out this would shock the yeast.
-  <img src="/brews/red-ale/1/images/dont-kill-the-yeast-bro.png" alt="Don't Kill The Yeast, Bro" />
+  <p>
+    <strong>Adding Yeast</strong>
+    In this post I specify I add it before the ice bath, hopefully I didn't do this.
+    As my brother pointed out this would shock the yeast.
+  </p>
+  <p>
+    <img src="/brews/red-ale/1/images/dont-kill-the-yeast-bro.png" alt="Don't Kill The Yeast, Bro" />
+  </p>
 </div>
 
 When|What

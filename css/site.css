@@ -19,7 +19,6 @@ h1 small {
   padding: 6px 15px;
 }
 
-.alert img {
-  margin-top: 10px;
+.panel img, .alert img {
   width: 100%;
 }
