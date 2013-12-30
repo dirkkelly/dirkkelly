@@ -3,7 +3,10 @@
 <div class="col-md-8 col-sm-12 col-md-push-4">
   <h1>
     {{page.title}}
-    <time datetime="{{page.date}}">{{page.date | date_to_string}}</time>
+    <small>
+      <a href="{{page.categories|array_to_url}}">Batch #{{page.categories[2]}}</a>
+      <time datetime="{{page.date}}">{{page.date | date_to_string}}</time>
+    </small>
   </h1>
   {{ content }}
 </div>

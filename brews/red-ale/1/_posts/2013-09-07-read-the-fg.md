@@ -2,8 +2,6 @@
 title:      Read the FG
 category:   red-ale
 layout:     brews/post
-fg:         1.010
-abv:        5.3%
 ---
 
 When|What

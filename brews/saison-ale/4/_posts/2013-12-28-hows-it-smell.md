@@ -2,8 +2,6 @@
 title:      How's It Smell?
 category:   saison-ale
 layout:     brews/post
-fg:         1.005
-abv:        5.7%
 ---
 
 Bottle Calculations

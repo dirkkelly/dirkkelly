@@ -1,0 +1,6 @@
+- name: Red Ale
+  slug: red-ale
+- name: Amber Ale
+  slug: amber-ale
+- name: Saison Ale
+  slug: saison-ale

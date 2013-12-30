@@ -2,7 +2,6 @@
 title:      Wasp Attack
 category:   amber-ale
 layout:     brews/post
-og:         1.008
 ---
 
 What|When

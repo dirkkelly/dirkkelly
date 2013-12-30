@@ -1,9 +1,9 @@
 module Jekyll
-  module Capitalize
-    def capitalize(content)
-      content.split.map(&:capitalize)*' '
+  module ArrayToUrl
+    def array_to_url(array)
+      array.map { |el| "/#{el}"}
     end
   end
 end
 
-Liquid::Template.register_filter(Jekyll::Capitalize)
+Liquid::Template.register_filter(Jekyll::ArrayToUrl)

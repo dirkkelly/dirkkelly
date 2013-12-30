@@ -2,8 +2,6 @@
 title:      Empty The Detergent
 category:   amber-ale
 layout:     brews/post
-fg:         1.057
-abv:        6.5%
 ---
 
 What|When

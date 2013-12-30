@@ -1,13 +1,9 @@
 <div class="col-md-4 col-md-pull-8">
   <ul class="nav nav-pills nav-stacked">
-    {% for category in site.categories%}
-      {% if category[0] != "brews" %}
-        <li>
-          <a href="/brews/{{category[0]}}">
-            {{category[0] | undash | capitalize}}
-          </a>
-        </li>
-      {% endif %}
+    {% for brew in site.data.brews%}
+      <li>
+        <a href="/brews/{{brew.slug}}">{{brew.name}}</a>
+      </li>
     {% endfor %}
   </ul>
 </div>
