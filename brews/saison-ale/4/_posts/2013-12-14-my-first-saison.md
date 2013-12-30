@@ -31,3 +31,12 @@ What|When
 1720|transferred, burns on bottom, that was the black stuff
 1730|Gravity 1.048
 1735|Stored away in a blanky
+
+<div class="alert alert-info">
+  <p>
+    <strong>Disappoint</strong>
+    I burnt this and didn't understand so until I was transferring,
+    I had noticed the occasional black blob that would zoom by before I could scoop it.
+    I don't believe it will have any noticable effect though. 
+  </p>
+</div>
