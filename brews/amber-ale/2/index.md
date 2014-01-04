@@ -1,5 +1,5 @@
 ---
-title:      Amber Ale
+title:      Two
 batch:      "2"
 layout:     brews/batch
 category:   amber-ale

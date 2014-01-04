@@ -1,5 +1,5 @@
 ---
-title:      Saison Ale
+title:      Four
 batch:      "4"
 layout:     brews/batch
 category:   saison-ale

@@ -1,5 +1,5 @@
 ---
-title:      Red Ale
+title:      Three
 batch:      "3"
 layout:     brews/batch
 category:   red-ale
