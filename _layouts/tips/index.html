@@ -1,0 +1,9 @@
+{%include header/tips.html%}
+
+<h1>{{page.title}}</h1>
+
+{% for tip in site.categories.tips %}
+  {% include tips/tip.html%}
+{% endfor %}
+
+{%include footer.html%}
