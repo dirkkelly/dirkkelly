@@ -1,4 +1,4 @@
 ---
-status:     pending
+status:     success
 layout:     tips/show
 ---
