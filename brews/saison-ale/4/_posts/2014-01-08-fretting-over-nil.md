@@ -26,6 +26,4 @@ onto my second Saison while watching The Hobbit as a recap from my Saturday view
 It's been a rough few days after being trapped in Illinois, which I'll be discussing
 more in my blog (there's a draft lurking in there somewhere already).
 
-I'm off to Japan tomorrow night, I'll be quiet until I'm back (around the 20th).
-
 If you'd like to join me for a tasting, or just want to know more, leave a comment below!
