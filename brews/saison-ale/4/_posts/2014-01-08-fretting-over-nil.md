@@ -16,7 +16,7 @@ even if one particular neurotic brain didn't [believe it would](/brews/saison-al
 This brew has has a definite spicy front, going into an
 aromatic middle with a nice hoppy finish.
 
-It's amber appearance only slightly sets it apart from the now legendary
+Its amber appearance only slightly sets it apart from the now legendary
 [Red Ale Batch #3](/brews/red-ale/3) which was a holiday favorite in 2013.
 
 I'm looking forward to returning to this brew in two weeks, for now I'm
