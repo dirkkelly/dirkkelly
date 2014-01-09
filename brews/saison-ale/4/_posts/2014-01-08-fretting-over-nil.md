@@ -20,7 +20,8 @@ It's amber appearance only slightly sets it apart from the now legendary
 [Red Ale Batch #3](/brews/red-ale/3) which was a holiday favorite in 2013.
 
 I'm looking forward to returning to this brew in two weeks, for now I'm
-onto my second Saison while watching The Hobbit as a recap from my Saturday viewing.
+onto my second Saison while watching The Hobbit as a recap from my Saturday viewing
+(this has been my favorite of the ensite series so far).
 
 It's been a rough few days after being trapped in Illinois, which I'll be discussing
 more in my blog (there's a draft lurking in there somewhere already).
