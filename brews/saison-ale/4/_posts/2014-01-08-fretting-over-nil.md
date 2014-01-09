@@ -26,7 +26,8 @@ onto my second Saison while watching The Hobbit as a recap from my Saturday view
 It's been a rough few days after being trapped in Illinois, which I'll be discussing
 more in my blog (there's a draft lurking in there somewhere already).
 
-If you'd like to join me for a tasting, or just want to know more, leave a comment below!
+If you'd like to join me for a tasting, or just want to know more,
+[see what I'm doing with my beers](/brews/2014/01/09/you-wanna-what-now.html).
 
 I'm off to Japan tomorrow night, so it will need to be after I'm back (around the 20th).
 
