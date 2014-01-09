@@ -11,7 +11,7 @@ Well one thing is for sure, I still need to practice my photo taking, apologies.
 </p>
 
 However the first go of the Saison Ale has turned out to be brilliant,
-even if one particular neurotic brain didn't [believe it would](/brews/saison-ale/4/2014-01-04-my-first-beer-bad-dream.html).
+even if one particular neurotic brain didn't [believe it would](/brews/saison-ale/4/2014/01/04/my-first-beer-bad-dream.html).
 
 This brew has has a definite spicy front, going into an
 aromatic middle with a nice hoppy finish.
