@@ -27,3 +27,5 @@ It's been a rough few days after being trapped in Illinois, which I'll be discus
 more in my blog (there's a draft lurking in there somewhere already).
 
 I'm off to Japan tomorrow night, I'll be quiet until I'm back (around the 20th).
+
+If you'd like to join me for a tasting, or just want to know more, leave a comment below!
