@@ -1,6 +1,6 @@
 ---
 title:      Only Hangouts
-category:   blog
+layout:     post
 ---
 
 I am only bringing my work phone to Japan,
