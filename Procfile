@@ -1,1 +1,1 @@
-web: jekyll server --watch
+web: jekyll server --watch --p 5000
