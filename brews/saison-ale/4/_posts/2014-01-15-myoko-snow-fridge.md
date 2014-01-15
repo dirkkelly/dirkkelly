@@ -22,3 +22,7 @@ walking out of the Narita Airport toilet I managed to smash one of the
 bottles open. Still three out of four isn't a bad effort.
 
 Stay tuned for the tasting feedback.
+
+<p class="alert alert-success">
+  Now that's a far better beer photo.
+</p>

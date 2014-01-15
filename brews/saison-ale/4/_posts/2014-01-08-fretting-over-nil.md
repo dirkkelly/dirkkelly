@@ -6,10 +6,6 @@ image_url:  /brews/saison-ale/4/images/saison-4.jpg
 image_alt:  Saison 4 Initial Opening, Looks Beautiful
 ---
 
-<p class="alert alert-warning">
-Well one thing is for sure, I still need to practice my photo taking, apologies.
-</p>
-
 However the first go of the Saison Ale has turned out to be brilliant,
 even if one particular neurotic brain didn't [believe it would](/brews/saison-ale/4/2014/01/04/my-first-beer-bad-dream.html).
 
@@ -31,3 +27,6 @@ If you'd like to join me for a tasting, or just want to know more,
 
 I'm off to Japan tomorrow night, so it will need to be after I'm back (around the 20th).
 
+<p class="alert alert-warning">
+Well one thing is for sure, I still need to practice my photo taking, apologies.
+</p>
