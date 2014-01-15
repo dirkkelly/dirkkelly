@@ -1,5 +1,5 @@
 ---
-title:      Only Hangouts
+title:      only hangouts
 layout:     post
 ---
 
