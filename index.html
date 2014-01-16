@@ -40,22 +40,6 @@ title:                Brews
   </div>
 </div>
 <div class="col-md-4 col-md-pull-8">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">
-        Latest Blog Posts
-      </h3>
-    </div>
-    <div class="panel-body">
-      <ul class="nav nav-stacked">
-        {% for post in site.categories.blog limit:4 %}
-          <li>
-            <a href="{{post.url}}">
-              {{post.title}}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+  {% include sidebar/posts/latest.html %}
+  {% include posts/image.html %}
 </div>

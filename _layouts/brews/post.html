@@ -14,10 +14,8 @@
   <div id="disqus_thread"></div>
 </div>
 {%include sidebar/brews/post.html%}
-{%if page.image_url%}
-  <div class="col-md-4 col-md-pull-8">
-    <img src="{{page.image_url}}" alt="{{page.image_alt}}" class="img-thumbnail"/>
-  </div>
-{%endif%}
+<div class="col-md-4 col-md-pull-8">
+  {% include posts/image.html %}
+</div>
 {%include disqus.html%}
 {%include footer.html%}
