@@ -24,6 +24,22 @@
           <li><a href="/brews/saison-ale">Saison Ale</a></li>
         </ul>
       </li>
+      <li class="dropbown">
+        <a href="/blog" class="dropdown-toggle" data-toggle="dropdown">
+          Blogs
+          <b class="caret"></b>
+        </a>
+        <ul class="dropdown-menu">
+          {% for post in site.categories.blog %}
+            <li>
+              <a href="{{post.url}}">
+                <time datetime="{{post.date}}">{{post.date | date_to_string}}</time>
+                {{post.title}}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
     </ul>
 
     <ul class="nav navbar-nav navbar-right">
