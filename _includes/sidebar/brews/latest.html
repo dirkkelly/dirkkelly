@@ -1,16 +1,18 @@
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">
-      Latest Blog Posts
+      <a href="/brews">
+        Latest Brew Posts
+      </a>
     </h3>
   </div>
   <div class="panel-body">
     <ul class="nav nav-stacked">
-      {% for post in site.categories.blog limit:8 %}
+      {% for brew in site.categories.brews limit:7 %}
         <li>
-          <a href="{{post.url}}">
-            <time datetime="{{post.date}}">{{post.date | date_to_string}}</time>
-            {{post.title}}
+          <a href="{{brew.url}}">
+            <time datetime="{{brew.date}}">{{brew.date | date_to_string}}</time>
+            {{brew.title}}
           </a>
         </li>
       {% endfor %}
