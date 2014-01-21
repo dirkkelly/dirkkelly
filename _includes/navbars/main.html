@@ -1,5 +1,4 @@
 <nav class="navbar navbar-default" role="navigation">
-  <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
       <span class="sr-only">Toggle navigation</span>
@@ -10,37 +9,13 @@
     <h1><a class="navbar-brand" href="/">dirkkelly.com</a></h1>
   </div>
 
-  <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     <ul class="nav navbar-nav">
-      <li class="dropdown">
-        <a href="/brews" class="dropdown-toggle" data-toggle="dropdown">
-          Brews
-          <b class="caret"></b>
-        </a>
-        <ul class="dropdown-menu">
-          <li><a href="/brews/red-ale">Red Ale</a></li>
-          <li><a href="/brews/amber-ale">Amber Ale</a></li>
-          <li><a href="/brews/saison-ale">Saison Ale</a></li>
-        </ul>
-      </li>
       <li class="dropbown">
-        <a href="/blog" class="dropdown-toggle" data-toggle="dropdown">
-          Blogs
-          <b class="caret"></b>
-        </a>
-        <ul class="dropdown-menu" role="menu">
-          {% for post in site.categories.blog %}
-            {% if post.url == page.url %} <li class="active">
-            {% else %} <li>
-            {% endif %}
-              <a href="{{post.url}}">
-                <time datetime="{{post.date}}">{{post.date | date_to_string}}</time>
-                {{post.title}}
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
+        {% include navbars/blogs.html %}
+      </li>
+      <li class="dropdown">
+        {% include navbars/brews.html %}
       </li>
     </ul>
 

@@ -1,0 +1,16 @@
+<a href="/blog" class="dropdown-toggle" data-toggle="dropdown">
+  Blogs
+  <b class="caret"></b>
+</a>
+<ul class="dropdown-menu" role="menu">
+  {% for post in site.categories.blog %}
+    {% if post.url == page.url %} <li class="active">
+    {% else %} <li>
+    {% endif %}
+      <a href="{{post.url}}">
+        <time datetime="{{post.date}}">{{post.date | date_to_string}}</time>
+        {{post.title}}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
