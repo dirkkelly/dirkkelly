@@ -1,9 +1,11 @@
 ---
 layout:               default
-title:                Brews
+title:                Dirk Kelly
 ---
 
 # Dirk Kelly
+
+## Brewer, Boarder and Internet Software Person
 
 ---
 
