@@ -1,5 +1,7 @@
 {%include header.html%}
+
 {%include breadcrumbs/brews/post.html%}
+
 <div class="col-md-8 col-sm-12 col-md-push-4">
   <h1>
     {{page.title}}
@@ -13,9 +15,14 @@
   </div>
   <div id="disqus_thread"></div>
 </div>
-{%include sidebar/brews/post.html%}
+
 <div class="col-md-4 col-md-pull-8">
-  {% include posts/image.html %}
+  {% include sidebar/brews/post.html %}
 </div>
+
+<div class="col-md-4 col-md-pull-8">
+  {% include sidebar/pages/image.html %}
+</div>
+
 {%include disqus.html%}
 {%include footer.html%}

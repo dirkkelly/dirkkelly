@@ -1,9 +1,7 @@
-<div class="col-md-4 col-md-pull-8">
-  <ul class="nav nav-pills nav-stacked">
-    {% for brew in site.data.brews%}
-      <li>
-        <a href="/brews/{{brew.slug}}">{{brew.name}}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<ul class="nav nav-pills nav-stacked">
+  {% for brew in site.data.brews%}
+    <li>
+      <a href="/brews/{{brew.slug}}">{{brew.name}}</a>
+    </li>
+  {% endfor %}
+</ul>

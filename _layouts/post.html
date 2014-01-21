@@ -1,24 +1,27 @@
 {%include header.html%}
-<div class="row">
-  <div class="col-md-8 col-sm-12 col-md-push-4">
-    <h1>
-      {{page.title}}
-      <small>
-        <time datetime="{{page.date}}">{{page.date | date_to_string}}</time>
-      </small>
-    </h1>
-    <div class="post">
-      {{content}}
-    </div>
+
+<div class="col-md-8 col-sm-12 col-md-push-4">
+  <h1>
+    {{page.title}}
+    <small>
+      <time datetime="{{page.date}}">{{page.date | date_to_string}}</time>
+    </small>
+  </h1>
+  <div class="post">
+    {{content}}
   </div>
-  <div class="col-md-4 col-md-pull-8">
-    {% include sidebar/posts/latest.html %}
-    {% include posts/image.html %}
-  </div>
+
+  <div id="disqus_thread"></div>
 </div>
-<div class="row">
-  <div id="disqus_thread" class="col-md-8 col-sm-12 col-md-push-4">
-  </div>
+
+<div class="col-md-4 col-md-pull-8">
+  {% include sidebar/posts/latest.html %}
 </div>
-{%include disqus.html%}
-{%include footer.html%}
+
+<div class="col-md-4 col-md-pull-8">
+  {% include sidebar/pages/image.html %}
+</div>
+
+{% include disqus.html %}
+
+{% include footer.html %}
