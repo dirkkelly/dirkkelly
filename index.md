@@ -9,7 +9,7 @@ title:                Dirk Kelly
 
 ---
 
-<img src="/images/2014-01-19.jpg" class="col-md-4 img-circle" alt="Dirk Kelly - 2014/01/19" />
+<img src="/images/2014-01-19.jpg" class="col-md-4 img-circle img-responsive" alt="Dirk Kelly - 2014/01/19" />
 
 <div class="col-md-4">
   {% include sidebar/posts/latest.html %}
