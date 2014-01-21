@@ -58,3 +58,7 @@ time {
   width:        100px;
   color:        #aaa;
 }
+
+.active time {
+  color:        #333;
+}
