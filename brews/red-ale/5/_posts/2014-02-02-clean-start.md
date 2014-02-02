@@ -9,7 +9,7 @@ Note: Not sure I got the right Belgian, we'll see how it goes, have last brew st
 
 No Fugle, Using WIlliamette
 
-I broke my hydrometer, going to try to find a timeslot when I can bolt to bitters and esters
+I broke my hydrometer, going to try to find a timeslot when I can bolt to [Bitter and Esters](http://bitterandesters.com/).
 
 When|What
 ----|----
@@ -44,6 +44,7 @@ When|What
 1425|Shook wort by transferring between pot and fermentor
 1430|Took a sample, will go grab a hydro to measure it, if it's off, it's off
 1430|pitched yeast, closed up and stored
-1515|1.055
+1440|Time to run to [Bitter and Esters](http://bitterandesters.com/) to get a new Hydrometer.
+1515|Got it, home, measured the sample in the fridge. 1.055, not bad.
 
 4.5 hours, with the ice run around adding at least 15 to that. Good Effort
