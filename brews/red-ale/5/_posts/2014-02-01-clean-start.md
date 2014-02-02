@@ -9,6 +9,8 @@ Note: Not sure I got the right Belgian, we'll see how it goes, have last brew st
 
 No Fugle, Using WIlliamette
 
+I broke my hydrometer, going to try to find a timeslot when I can bolt to bitters and esters
+
 When|What
 ----|----
 1000|Started Cleaning - Taking extra care, this stuff isn't new anymore
@@ -26,3 +28,22 @@ When|What
 1210|Superbowl Sunday at Alex's, chucked a few bottles of saison in the fridge also
 1215|Boil over, controlled it
 1215|added hops
+1235|warming the liquid malt
+1245|added the liquid malt
+1255|I love the smell of this red ale
+1315|WEnt to get ice, no ice at the deli, went to the diner, they sold me a big bag for 3$, God Bless America
+1318|Time to buy a wort chiller though, for seriously
+1320|Back on the boil, adding the hops
+1335|put into ice bath, i need more ice
+1345|ran for more ice
+1355|adding ice, it's working wonders
+1400|hovering above 80F, looking for something around 75
+1405|Just hit 80F, leaving until 75F
+1410|Transfering wort to fermenter
+1415|Found a single burn point at bottom of pot, not sure when it happened
+1425|Shook wort by transferring between pot and fermentor
+1430|Took a sample, will go grab a hydro to measure it, if it's off, it's off
+1430|pitched yeast, closed up and stored
+1515|1.055
+
+4.5 hours, with the ice run around adding at least 15 to that. Good Effort
