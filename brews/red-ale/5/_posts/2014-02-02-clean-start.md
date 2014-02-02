@@ -3,14 +3,6 @@ category:   red-ale
 layout:     brews/post
 ---
 
-TIL: Every time I look for the American Caramel instead it is Caramal Breis
-
-Note: Not sure I got the right Belgian, we'll see how it goes, have last brew still around to compare
-
-No Fugle, Using WIlliamette
-
-I broke my hydrometer, going to try to find a timeslot when I can bolt to [Bitter and Esters](http://bitterandesters.com/).
-
 When|What
 ----|----
 1000|Started Cleaning - Taking extra care, this stuff isn't new anymore
@@ -47,4 +39,28 @@ When|What
 1440|Time to run to [Bitter and Esters](http://bitterandesters.com/) to get a new Hydrometer.
 1515|Got it, home, measured the sample in the fridge. 1.055, not bad.
 
-4.5 hours, with the ice run around adding at least 15 to that. Good Effort
+<div class="alert alert-info">
+  <p>
+    <strong>TIL</strong>
+    Every time I look for the American Caramel instead it is Caramal Breis
+  </p>
+</div>
+
+<div class="alert alert-warning">
+  <p>
+    Not sure I got the right Belgian, we'll see how it goes, have last brew still around to compare
+  </p>
+</div>
+
+<div class="alert alert-warning">
+  <p>
+    <strong>No Fugle, Using WIlliamette</strong>
+  </p>
+</div>
+
+<div class="alert alert-danger">
+  <p>
+    <strong>Broke my Hydrometer, didn't replace it</strong>
+    Now I'm going to have to bolt to Bitter and Esters to get one.
+  </p>
+</div>
