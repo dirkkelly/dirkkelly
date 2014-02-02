@@ -1,5 +1,5 @@
 ---
-category:   saison-sale
+category:   saison-ale
 layout:     brews/post
 ---
 
