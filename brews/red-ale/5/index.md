@@ -2,7 +2,7 @@
 title:      Five
 batch:      "5"
 layout:     brews/batch
-category:   five-ale
+category:   red-ale
 og:         "1.055"
 fg:         "?"
 abv:        "?"
