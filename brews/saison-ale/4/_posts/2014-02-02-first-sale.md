@@ -19,5 +19,5 @@ it's important that we support efforts to get clean water to all corners
 of the globe.
 
 It's absolutely taken for granted in North America, how long until
-they realize it's not unlimited and inplement restrictions such
-as those in Australia? 
+they realize it's not unlimited and implement restrictions such
+as those in Australia?
