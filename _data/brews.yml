@@ -5,6 +5,8 @@
       slug: "1"
     - name: Three
       slug: "3"
+    - name: Five
+      slug: "5"
 - name: Amber Ale
   slug: amber-ale
   batches:
