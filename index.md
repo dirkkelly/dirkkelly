@@ -9,7 +9,7 @@ title:                Dirk Kelly
 
 ---
 
-<img src="/images/2014-01-19.jpg" class="col-md-4 img-circle img-responsive" alt="Dirk Kelly - 2014/01/19" />
+<img src="https://en.gravatar.com/userimage/6781491/d805c07320bd5624c1e963b34adb020a.jpg?size=400" class="col-md-4 img-circle img-responsive" alt="Dirk Kelly - 2014/01/19" />
 
 <div class="col-md-4">
   {% include sidebar/posts/latest.html %}
