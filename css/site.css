@@ -57,6 +57,7 @@ time {
   display:      inline-block;
   width:        100px;
   color:        #aaa;
+  text-right:   right;
 }
 
 .active time {
