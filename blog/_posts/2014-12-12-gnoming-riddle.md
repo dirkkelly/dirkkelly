@@ -8,39 +8,39 @@ At this point I have a solid idea of who it is, but with hints this good I'm def
 
 ### The Clue
 
->
-  Hi Dirk!
-  Ho Dirk!
-  Your Gnome is here to play!
 
-  Hey Dirk!
-  Hoo Dirk!
-  A poem for you I say!
+    Hi Dirk!
+    Ho Dirk!
+    Your Gnome is here to play!
 
-  A riddle rhyme to pass the time.
-  A little line: a secret sign!
-  Now can you find the clue that I'm
-  unwinding for you? (Middle line!)
+    Hey Dirk!
+    Hoo Dirk!
+    A poem for you I say!
 
-  Ha Dirk!
-  Hee Dirk!
-  I'm near to you indeed!
+    A riddle rhyme to pass the time.
+    A little line: a secret sign!
+    Now can you find the clue that I'm
+    unwinding for you? (Middle line!)
 
-  How Dirk?
-  Who Dirk?
-  Your Gnome has done it's deed!
+    Ha Dirk!
+    Hee Dirk!
+    I'm near to you indeed!
 
-  I've left the seed for you to read
-  A tiny weed, a glowing bead!
-  And all the rest is chickenfeed!
-  So do not heed the call of greed!
+    How Dirk?
+    Who Dirk?
+    Your Gnome has done it's deed!
 
-  It's only one! The center rung!
-  Your gnome's fair song has thus been sung.
-  Now take the air into your lung
-  and clear your mind of dirt and dung.
+    I've left the seed for you to read
+    A tiny weed, a glowing bead!
+    And all the rest is chickenfeed!
+    So do not heed the call of greed!
 
-  (and by my hint you now be stung.)
+    It's only one! The center rung!
+    Your gnome's fair song has thus been sung.
+    Now take the air into your lung
+    and clear your mind of dirt and dung.
+
+    (and by my hint you now be stung.)
 
 ### The Answer
 
