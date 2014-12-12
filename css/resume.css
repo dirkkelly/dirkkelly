@@ -20,6 +20,7 @@ h5 {
 
 h5 time {
   float: right;
+  text-right: right;
 }
 
 .career a, .education a {
