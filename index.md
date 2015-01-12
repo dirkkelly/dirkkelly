@@ -18,7 +18,8 @@ layout: default
   <ul class="list-group">
     {% for episode in site.adventure_time %}
       <li class="list-group-item">
-        <a href="{{ episode.url }}">s{{episode.season}}e{{episode.episode}} - {{ episode.title }}</a>
+        <a class="pull-right" href="{{ episode.url }}">.json?</a>
+        <strong>s{{episode.season}}e{{episode.episode}} - {{ episode.title }}</strong>
         <p>{{ episode.plot }}</p>
       </li>
     {% endfor %}
