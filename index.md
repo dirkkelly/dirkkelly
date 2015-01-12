@@ -11,7 +11,7 @@ layout: default
   </div>
 </div>
 
-<div class="panel panel-default">
+<div class="panel panel-warning">
   <div class="panel-heading">
     <h1 class="panel-title">Adventure Time <small>In which give my opinions on what an episode means, to me?</small></h1>
   </div>
