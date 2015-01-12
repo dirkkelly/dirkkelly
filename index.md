@@ -14,10 +14,7 @@ title:                Dirk Kelly
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h1 class="panel-title">Adventure Time</h1>
-  </div>
-  <div class="panel-body">
-    <strong>In which give my opinions on what an episode means, to me?</strong>
+    <h1 class="panel-title">Adventure Time <small>In which give my opinions on what an episode means, to me?</small></h1>
   </div>
   <ul class="list-group">
     {% for episode in site.adventure_time %}
