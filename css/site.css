@@ -5,12 +5,6 @@ h1 {
   margin-top: 0;
 }
 
-h1 small {
-  font-size: 12px;
-  font-weight: normal;
-  float: right;
-}
-
 h1 + h2 {
   margin-top: 0;
   font-size:  28px;

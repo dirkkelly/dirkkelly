@@ -3,21 +3,12 @@ layout:               default
 title:                Dirk Kelly
 ---
 
-# Dirk Kelly
-
-## Brewer, Boarder and Internet Software Person
-
----
-
-<div class="row">
-  <img src="/images/2014-10-14.jpg" class="col-md-4 img-circle img-responsive" alt="Dirk Kelly - 2014/01/19" />
-
-  <div class="col-md-4">
-    {% include sidebar/posts/latest.html %}
+<div class="media page-header">
+  <div class="media-left">
+    <img src="/images/2015-01-12.jpg" alt="Dirk Kelly - 2014/01/19" class="img-circle" style="width: 100px; height: 100px" />
   </div>
-
-  <div class="col-md-4">
-    {% include sidebar/brews/latest.html %}
+  <div class="media-body">
+    <h1 style="padding-top: 65px; margin-bottom: 0">Dirk Kelly <small>Brewer, Boarder and Internet Software Person</small></h1>
   </div>
 </div>
 
@@ -36,4 +27,14 @@ title:                Dirk Kelly
       </li>
     {% endfor %}
   </ul>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    {% include sidebar/posts/latest.html %}
+  </div>
+
+  <div class="col-md-6">
+    {% include sidebar/brews/latest.html %}
+  </div>
 </div>
