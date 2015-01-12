@@ -19,7 +19,7 @@ title:                Dirk Kelly
   <ul class="list-group">
     {% for episode in site.adventure_time %}
       <li class="list-group-item">
-        <a href="{{ episode.url }}">{{ episode.title }}</a>
+        <a href="{{ episode.url }}">s{{episode.season}}e{{episode.episode}} - {{ episode.title }}</a>
         <p>{{ episode.plot }}</p>
       </li>
     {% endfor %}
