@@ -1,4 +1,6 @@
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+title: Dirk Kelly
+subtitle: Internet Software Advocate
 collections:
   adventure_time:
     output: true

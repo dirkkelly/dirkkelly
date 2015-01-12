@@ -8,7 +8,7 @@ title:                Dirk Kelly
     <img src="/images/2015-01-12.jpg" alt="Dirk Kelly - 2014/01/19" class="img-circle" style="width: 100px; height: 100px" />
   </div>
   <div class="media-body">
-    <h1 style="padding-top: 65px; margin-bottom: 0">Dirk Kelly <small>Brewer, Boarder and Internet Software Person</small></h1>
+    <h1 style="padding-top: 65px; margin-bottom: 0">{{site.title}} <small>{{site.subtitle}}</small></h1>
   </div>
 </div>
 
