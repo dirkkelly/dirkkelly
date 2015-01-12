@@ -1,6 +1,7 @@
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 title: Dirk Kelly
 subtitle: Internet Software Advocate
+logo: /images/2015-01-12.jpg
 collections:
   adventure_time:
     output: true

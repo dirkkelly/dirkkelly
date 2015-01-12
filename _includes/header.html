@@ -1,2 +1,13 @@
-{%include header/begin.html %}
-{%include header/end.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>{{site.title}}{% if page.title %} - {{ page.title }}{% endif %}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{site.logo}}" type="image/x-icon">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/site.css" rel="stylesheet">
+  </head>
+  <body>
+    {%include navbars/main.html %}
+    <div class="container">

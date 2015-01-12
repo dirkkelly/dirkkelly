@@ -53,6 +53,10 @@ time {
   color:        #aaa;
 }
 
+h1 time {
+  display: inline;
+}
+
 .active time {
   color:        #333;
 }
