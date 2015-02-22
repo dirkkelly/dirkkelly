@@ -11,7 +11,7 @@
         {% else %} <li>
         {% endif %}
           <a href="{{post.url}}">
-            <time datetime="{{post.date}}">{{post.date | date_to_string}}</time>
+            <time>{{post.date | date_to_string}}</time>
             {{post.title}}
           </a>
         </li>
