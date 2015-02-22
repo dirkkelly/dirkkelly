@@ -1,1 +1,1 @@
-web: jekyll server --watch
+web: jekyll server --safe --watch
