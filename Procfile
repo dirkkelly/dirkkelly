@@ -1,1 +1,1 @@
-web: jekyll server --safe --watch
+web: jekyll server --baseurl= --safe --watch
