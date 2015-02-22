@@ -9,7 +9,7 @@ layout: application
     {{page.title}}
     <small>
       <a href="{{page.categories|array_to_url}}">Batch #{{page.categories[2]}}</a>
-      <time>{{page.date | date_to_string}}</time>
+      <time>{{page.date | date: "%Y-%m-%d"}}</time>
     </small>
   </h1>
   <div class="post">

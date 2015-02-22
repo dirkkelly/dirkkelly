@@ -11,7 +11,7 @@
       {% for brew in site.categories.brews limit:7 %}
         <li>
           <a href="{{brew.url}}">
-            <time>{{brew.date | date_to_string}}</time>
+            <time>{{brew.date | date: "%Y-%m-%d"}}</time>
             {{brew.title}}
           </a>
         </li>

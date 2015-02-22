@@ -3,7 +3,7 @@ layout: application
 ---
 
 <div class="col-md-8 col-sm-12 col-md-push-4">
-  <h1 class="page-header">{{page.title}} <small><time>{{page.date | date_to_string}}</time></small></h1>
+  <h1 class="page-header">{{page.title}} <small><time>{{page.date | date: "%Y-%m-%d"}}</time></small></h1>
   <div class="post">
     {{content}}
   </div>

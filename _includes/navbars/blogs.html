@@ -8,7 +8,7 @@
     {% else %} <li>
     {% endif %}
       <a href="{{post.url}}">
-        <time>{{post.date | date_to_string}}</time>
+        <time>{{post.date | date: "%Y-%m-%d"}}</time>
         {{post.title}}
       </a>
     </li>
