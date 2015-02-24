@@ -34,7 +34,7 @@ Undoing this choice fixed everything.
 
 ---
 
-And Github Pages treats **master** the same as **gh-pages** anyway.
+And Github Pages hosts **master** the same as **gh-pages** anyway.
 
 ![Fist Pump](http://dirkkelly.com/gifs/yes/breakfast-club-jud-fist-pump.gif)
 
