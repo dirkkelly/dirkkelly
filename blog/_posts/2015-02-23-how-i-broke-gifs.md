@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I Broke Gifs
+image: http://dirkkelly.com/gifs/epic/atomic_bomb.gif
 ---
 
 Yesterday **[dirkkelly.com/gifs]** went dark.

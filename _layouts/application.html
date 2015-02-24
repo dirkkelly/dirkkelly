@@ -9,6 +9,7 @@
     <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
     <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
     <meta property="og:type" content="article" />
+    {% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
     <link rel="icon" href="{{site.logo}}" type="image/x-icon">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/site.css" rel="stylesheet">
