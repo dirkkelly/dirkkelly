@@ -1,5 +1,5 @@
 ---
-title: Yet Another Password Policy (Rant)
+title: Yet Another Password Policy
 layout: post
 image: http://dirkkelly.com/gifs/boom/drop-the-mic.gif
 ---
