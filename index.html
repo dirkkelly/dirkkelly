@@ -1,28 +1,35 @@
 ---
-layout: default
+layout: index
+title: Dirk Kelly
+subtitle: Internet Software Activist
+image: /images/photo-1423753623104-718aaace6772.jpeg
 ---
 
-<div class="media page-header">
-  <div class="media-left">
-    <img src="{{site.logo}}" alt="Dirk Kelly - 2014/01/19" class="img-circle" style="width: 100px; height: 100px" />
-  </div>
-  <div class="media-body">
-    <h1>{{site.title}} <small>{{site.subtitle}}</small></h1>
-  </div>
-</div>
+{% for post in site.categories.blog limit: 5 %}
+  {% unless post.draft %}
+    <article class="post" id="{{ post.date | date: '%Y-%m-%d' }}-{{ post.title | replace: ' ','-' }}" data-date="{{ post.date | date: '%Y-%m-%d' }}" data-title="{{ post.title }}">
+      <div class="row">
+        <div class="col-xs-12">
+          {% include post_title.html post=page %}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          {{ post.content }}
+        </div>
+      </div>
+    </article>
+  {% endunless %}
+{% endfor %}
 
-<div class="panel panel-warning">
-  <div class="panel-heading">
-    <h1 class="panel-title">Adventure Time <small>In which give my opinions on what an episode means, to me?</small></h1>
-  </div>
-  <ul class="list-group">
-    {% for episode in site.adventure_time %}
-      <li class="list-group-item">
-        <strong>s{{episode.season}}e{{episode.episode}} - {{ episode.title }}</strong>
-        <p>{{ episode.plot }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
-{% include sidebar/posts/latest.html %}
+{% for post in site.categories.blog offset: 5 %}
+  {% unless post.draft %}
+    <article class="post" id="{{ post.date | date: '%Y-%m-%d' }}-{{ post.title | replace: ' ','-' }}" data-date="{{ post.date | date: '%Y-%m-%d' }}" data-title="{{ post.title }}">
+      <div class="row">
+        <div class="col-xs-12">
+          {% include post_title.html post=page %}
+        </div>
+      </div>
+    </article>
+  {% endunless %}
+{% endfor %}

@@ -2,11 +2,28 @@
 layout: application
 ---
 
-<div class="col-xs-12 col-md-8 col-md-push-2">
-  <h1 class="page-header">{{page.title}} <small><time>{{page.date | date: "%Y-%m-%d"}}</time></small></h1>
-  <div class="post">
-    {{content}}
-  </div>
+<div class="container">
+  <article class="post">
+    <div class="row">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+        {% include post_title.html post=page %}
+      </div>
+    </div>
+
+    {% if page.draft %}
+      <div class="row">
+        <div class="col-xs-12 col-md-8 col-md-offset-2">
+          {% include draft.html %}
+        </div>
+      </div>
+    {% endif %}
+
+    <div class="row">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+        {{content}}
+      </div>
+    </div>
+  </article>
 
   <div id="disqus_thread"></div>
 </div>
