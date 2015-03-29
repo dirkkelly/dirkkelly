@@ -2,21 +2,13 @@
 layout: application
 ---
 
-<div class="col-md-8 col-sm-12 col-md-push-4">
+<div class="col-xs-12 col-md-8 col-md-push-2">
   <h1 class="page-header">{{page.title}} <small><time>{{page.date | date: "%Y-%m-%d"}}</time></small></h1>
   <div class="post">
     {{content}}
   </div>
 
   <div id="disqus_thread"></div>
-</div>
-
-<div class="col-md-4 col-md-pull-8">
-  {% include sidebar/posts/post.html %}
-</div>
-
-<div class="col-md-4 col-md-pull-8">
-  {% include sidebar/pages/image.html %}
 </div>
 
 {% include disqus.html %}
