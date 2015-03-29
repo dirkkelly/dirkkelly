@@ -2,6 +2,7 @@
 title:      Japanese Fire Party, OH MY
 category:   blog
 layout:     post
+author: dirkkelly
 ---
 
 Tonight my friends went to the [Japanese Fire Festival](bit.ly/1e0h6)

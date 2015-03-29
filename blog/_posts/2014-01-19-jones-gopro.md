@@ -2,6 +2,7 @@
 category:   blog
 layout:     post
 title:      Jones, Go Pro
+author: dirkkelly
 ---
 
 Thank you Highschool Film and Television class.

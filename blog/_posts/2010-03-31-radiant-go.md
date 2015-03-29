@@ -2,6 +2,7 @@
 layout: post
 title: Radiant GO .com
 tags: squaretalent
+author: dirkkelly
 ---
 
 I've been doing a bit of work for our squares lately,

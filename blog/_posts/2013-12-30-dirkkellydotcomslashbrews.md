@@ -4,6 +4,7 @@ category:   blog
 layout:     post
 image_url:  /blog/images/red-ale-2.png
 image_alt:  Red Ale Batch 2 Photograph
+author: dirkkelly
 ---
 
 I've finally started up this website again,

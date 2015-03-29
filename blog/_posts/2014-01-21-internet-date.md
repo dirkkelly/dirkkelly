@@ -2,6 +2,7 @@
 category:   blog
 layout:     post
 title:      Internet Date
+author: dirkkelly
 ---
 
 Getting in front of this one.

@@ -1,6 +1,7 @@
 ---
 category:   blog
 layout:     post
+author: dirkkelly
 ---
 
 Today was a quiet day, I woke early, had breakfast,

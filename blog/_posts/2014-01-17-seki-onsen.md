@@ -1,6 +1,7 @@
 ---
 category:   blog
 layout:     post
+author: dirkkelly
 ---
 
 Went to [Seki Onsen](http://www.snowjapan.com/japan-ski-resorts/niigata/myoko/seki-onsen)

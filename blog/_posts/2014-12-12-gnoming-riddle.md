@@ -2,6 +2,7 @@
 layout: post
 title: My Gnome knows that I love Riddles!
 tags: interexchange iexculture gnomin
+author: dirkkelly
 ---
 
 At this point I have a solid idea of who it is, but with hints this good I'm definitely going to let it play out.

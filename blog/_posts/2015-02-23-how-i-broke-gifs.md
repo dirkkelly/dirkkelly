@@ -2,6 +2,7 @@
 layout: post
 title: How I Broke Gifs
 image: http://dirkkelly.com/gifs/crying/bugs-crying.gif
+author: dirkkelly
 ---
 
 Yesterday **[dirkkelly.com/gifs]** went dark.
