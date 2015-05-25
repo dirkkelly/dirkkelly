@@ -1,7 +1,5 @@
-<a href="/blog" class="dropdown-toggle" data-toggle="dropdown">
-  Blogs
-  <b class="caret"></b>
-</a>
+<a href="/blog" class="dropdown-toggle" data-toggle="dropdown">Posts <b class="caret"></b></a>
+
 <ul class="dropdown-menu" role="menu">
   {% for post in site.categories.blog %}
     {% if post.url == page.url %} <li class="active">
