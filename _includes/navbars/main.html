@@ -1,22 +1,25 @@
 <nav class="navbar navbar-default" role="navigation">
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-      <span class="sr-only">Toggle navigation</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-    <a class="navbar-brand" href="/">dirkkelly.com</a>
-  </div>
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <img src="{{site.logo}}" class="pull-left img-circle" style="width: 40px;" />
+      <a class="navbar-brand" href="/">Dirk Kelly</a>
+    </div>
 
-  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-    <ul class="nav navbar-nav">
-      <li>
-        <a href="/resume">Résumé</a>
-      </li>
-      <li class="dropbown">
-        {% include navbars/blogs.html %}
-      </li>
-    </ul>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="/resume">Résumé</a>
+        </li>
+        <li class="dropbown">
+          {% include navbars/blogs.html %}
+        </li>
+      </ul>
+    </div>
   </div>
 </nav>

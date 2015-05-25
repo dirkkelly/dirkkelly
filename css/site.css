@@ -1,3 +1,7 @@
+.navbar img {
+  margin: 5px 10px 0;
+}
+
 table tr:first-child { width: 30%; }
 table tr:last-child { width: 70%; }
 
@@ -59,4 +63,18 @@ h1 time {
 
 .active time {
   color:        #333;
+}
+
+.post {
+  margin-top: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+
+.post p {
+  margin-bottom: 10px;
+}
+
+.post .page-header .img-circle {
+  width: 70px;
 }
