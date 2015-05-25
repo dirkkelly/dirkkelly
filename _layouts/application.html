@@ -10,7 +10,7 @@
     <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ page.excerpt | strip_html }}{% endif %}" />
     <meta property="og:type" content="article" />
     {% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
-    <link rel="icon" href="{{site.logo}}" type="image/x-icon">
+    <link rel="icon" href="{{ site.baseurl }}{{ site.logo }}" type="image/x-icon">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href="/css/site.css" rel="stylesheet">
