@@ -27,6 +27,6 @@ Love the subject manner, very reminisce of [Tim Minchin - Storm](https://www.you
 
 This whole album turned out to be pretty legit today.
 
-The video is even better, because Cowboys.
+The video is something, because Cowboys.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-5Ae-LhMIG0" frameborder="0" allowfullscreen></iframe>
