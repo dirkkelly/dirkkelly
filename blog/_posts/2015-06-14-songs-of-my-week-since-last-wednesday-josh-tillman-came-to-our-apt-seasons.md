@@ -2,7 +2,7 @@
 title: Songs of My Week
 layout: post
 author: dirkkelly
-image: /blog/images/36517f04-12d8-11e5-8ac0-64462a1a7a5c.png
+image: http://dirkkelly.com/blog/images/36517f04-12d8-11e5-8ac0-64462a1a7a5c.png
 ---
 
 I just wanted to keep track of some new songs I hear this week that I liked.
