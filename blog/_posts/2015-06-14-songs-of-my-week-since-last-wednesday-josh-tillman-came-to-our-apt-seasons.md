@@ -5,7 +5,7 @@ author: dirkkelly
 image: http://dirkkelly.com/blog/images/36517f04-12d8-11e5-8ac0-64462a1a7a5c.png
 ---
 
-I just wanted to keep track of some new songs I hear this week that I liked.
+Just wanted to keep track of some songs I heard and enjoyed this week.
 
 ### [Highasakite - Since Last Wednesday](https://www.youtube.com/watch?v=1GZHB0v7y6w)
 
