@@ -1,5 +1,15 @@
 ---
 title: A Good Tuesday
+subtitle: |
+  Sleeping In,
+  Leveling Up,
+  Fixing E-82000113 on PS4,
+  Playing with Cisco Meraki Wireless,
+  Getting Help from Facebook,
+  Migrating Jekyll to Middleman,
+  and drinking wine and playing video games.
+  
+  Happy Tuesday Earth.
 layout: post
 author: dirkkelly
 ---
