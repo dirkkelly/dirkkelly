@@ -70,7 +70,7 @@ information with the rich content we've amassed.
 
 The fellas informed me that Journey is now on the PS4, got home and immediately downloaded it.
 
-I received the **E-82000113 error when I went to install the game, this was after I had updated
+I received the **E-82000113** error when I went to install the game, this was after I had updated
 my credit card. I read a lot of solutions, and went through a system rebuild (it didn't take hours,
 like 10 minutes).
 
