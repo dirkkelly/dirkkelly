@@ -1,5 +1,7 @@
 ---
 title: A Good Tuesday
+layout: post
+author: dirkkelly
 ---
 
 ## Slept In
