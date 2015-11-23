@@ -7,26 +7,24 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <img src="{{site.logo}}" class="pull-left img-circle" style="width: 40px;" />
+      <a href="/"><img src="{{site.logo}}" class="pull-left img-circle" style="width: 40px;" /></a>
       <a class="navbar-brand" href="/">Dirk Kelly</a>
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="dropbown">
-          {% include navbars/blogs.html %}
-        </li>
         <li>
           <a href="/resume">
-            <i class="fa fa-file-text-o"></i>
-            Résumé
+            <i class="fa fa-file-text-o"></i> Résumé
           </a>
         </li>
         <li>
           <a href="/gifs">
-            <i class="fa fa-picture-o"></i>
-            Gifs
+            <i class="fa fa-picture-o"></i> Gifs
           </a>
+        </li>
+        <li class="dropbown">
+          {% include navbars/blogs.html %}
         </li>
       </ul>
       <ul class="nav navbar-nav pull-right">
