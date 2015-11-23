@@ -2,3 +2,20 @@
 layout: index
 subtitle: Internet Software Activist
 ---
+
+{% for post in site.categories.blog %}
+  {% if post.featured %}
+    <article class="post" id="{{ post.date | date: '%Y-%m-%d' }}-{{ post.title | replace: ' ','-' }}" data-date="{{ post.date | date: '%Y-%m-%d' }}" data-title="{{ post.title }}">
+      <div class="row">
+        <div class="col-xs-12">
+          {% include post_title.html post=page heading="h2" %}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          {{ post.content }}
+        </div>
+      </div>
+    </article>
+  {% endif %}
+{% endfor %}

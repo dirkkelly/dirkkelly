@@ -3,6 +3,7 @@ category:   engineering
 layout:     post
 title:      The Styleguide
 author: dirkkelly
+featured: true
 ---
 
 Over the past few months I've lead a charge at InterExchange to implement

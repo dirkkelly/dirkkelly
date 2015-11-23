@@ -1,25 +1,22 @@
 {% assign post = include.post %}
+{% assign heading = include.heading || "h1" %}
 {% for member in site.data.members %}
   {% if member.github == post.author %}
     {% assign author = member %}
   {% endif %}
 {% endfor %}
-<div class="page-header media">
-  <div class="pull-left">
-    <a href="https://github.com/{{ author.github }}">
-      <img class="media-object img-circle" src="https://avatars0.githubusercontent.com/u/{{ author.avatar }}" alt="{{ author.name }}"/>
-    </a>
-  </div>
-  <div class="media-body">
-    <small>
-      <a href="https://github.com/{{ author.github }}">
-        {{ author.name }}
-      </a>
 
-      {{ post.date | date: '%Y-%m-%d' }}, {{ post.date | date: '%A' }}
-    </small>
-    <h1 class="media-heading">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h1>
+<div class="page-header">
+  <{{ heading }}><a href="{{ post.url }}">{{ post.title }}</a></{{ heading }}>
+  <div class="row">
+    <div class="col-xs-12 clearfix">
+      <p style="margin-bottom: 0">
+        <span style="white-space: nowrap">
+          <a href="https://github.com/{{ author.github }}"><img class="avatar img-circle" style="margin-top: -5px; width: 30px" src="https://avatars0.githubusercontent.com/u/{{ author.avatar }}" alt="{{ author.name }}"></a>
+          <a href="https://github.com/{{ author.github }}"><strong>{{ author.name }}</strong></a>
+        </span>
+        <small style="white-space: nowrap">{{ post.date | date: '%Y-%m-%d' }}, {{ post.date | date: '%A' }}</small>
+      </p>
+    </div>
   </div>
 </div>

@@ -3,6 +3,7 @@ title: Yet Another Password Policy
 layout: post
 image: http://dirkkelly.com/gifs/boom/drop-the-mic.gif
 author: dirkkelly
+featured: true
 ---
 
 Sitting at work today and I hear the team in the other room talking about passwords.
