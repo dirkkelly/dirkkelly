@@ -1,0 +1,36 @@
+.career h4, .education h4 {
+  border-bottom: 2px solid #333;
+}
+
+dl {
+  margin-top: 10px;
+}
+
+dt {
+  border-bottom: 1px solid #333;
+}
+
+dd {
+  margin-bottom: 30px;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+h5 time {
+  float: right;
+  text-right: right;
+}
+
+.career a, .education a {
+  text-decoration: underline;
+}
+
+.career a, .education a:hover {
+  color: #3F658F;
+}
+
+p strong {
+  color: #558bc4;
+}

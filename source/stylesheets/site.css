@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/*:root {
+  --primary-color: #336699;
+  --secondary-color: #7F6AB0;
+  --neutral-color: #E8E8E8;
+  --alternative-color: #32B089;
+  --highlight-color: #47A62F;
+}
+
+body {
+  background: var(--neutral-color);
+}*/
+
+body {
+  background: #F8F8F8;
+}
