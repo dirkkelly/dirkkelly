@@ -10,6 +10,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <%= stylesheet_link_tag :site %>
   </head>
   <body class="<%= page_classes %>">
@@ -21,9 +22,18 @@
           <h2 class="text-muted"><small>Internet Technologist <%= link_to "Resume", "/resume" %></small></h2>
         </div>
       </div>
+
       <div class="row">
         <div class="col-xs-12 m-t-1">
           <%= yield %>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12 m-t-1">
+          <p class="text-muted">
+            <small>I built this site with <a href="http://v4-alpha.getbootstrap.com/">Bootstrap</a> using <a href="https://middlemanapp.com/">Middleman</a>.</small>
+          </p>
         </div>
       </div>
     </div>
