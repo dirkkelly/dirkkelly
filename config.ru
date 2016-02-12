@@ -1,6 +1,6 @@
 if ENV['RACK_ENV'] == 'production'
   require 'rack/ssl-enforcer'
-   use Rack::SslEnforcer
+  use Rack::SslEnforcer, only_hosts: 'dirkkelly.com'
 end
 
 require 'middleman-core/load_paths'
