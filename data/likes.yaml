@@ -1,0 +1,36 @@
+- interexchange:
+  name: InterExchange
+  action: Go Abroad
+  url: https://interexchange.org/
+  description: Uniting People Through International Exchange.
+  image_url: /images/interexchange.jpg
+- berniesanders:
+  name: Bernie Sanders
+  action: Change History
+  url: https://berniesanders.com/
+  description: I believe America needs a democratic socialist revolution.
+  image_url: /images/bernie.jpg
+- betanyc:
+  name: Beta NYC
+  action: Join Us
+  url: http://betanyc.us/
+  description: NYC's civic technology and open government vanguard.
+  image_url: /images/betanyc.jpg
+- citygram:
+  name: Beta NYC
+  action: Join Us
+  url: http://citygram.nyc/
+  description: Updates on topics and areas you care about in New York.
+  image_url: /images/citygram.jpg
+- eff:
+  name: EFF
+  action: Be Free
+  url: https://eff.org/
+  description: The Internet belongs to everyone and must remain free.
+  image_url: /images/eff.jpg
+- climate:
+  name: Climate Change
+  action: It's Happening
+  url: https://climate.nasa.org/
+  description: The world is changing from humanities destructive polluting.
+  image_url: /images/climate.jpg
