@@ -1,3 +1,8 @@
+if ENV['RACK_ENV'] == 'production'
+  require 'rack/ssl'
+  use Rack::SSL
+end
+
 require 'middleman-core/load_paths'
 ::Middleman.setup_load_paths
 
