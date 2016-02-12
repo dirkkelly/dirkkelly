@@ -25,6 +25,10 @@ if ENV['RACK_ENV'] == 'development'
   activate :livereload
 end
 
+activate :blog do |blog|
+  blog.prefix = "blog"
+end
+
 ###
 # Helpers
 ###

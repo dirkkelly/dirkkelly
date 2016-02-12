@@ -30,3 +30,7 @@ a {
 .crush :last-child {
   margin-top: 0;
 }
+
+article img {
+  max-width: 100%;
+}
