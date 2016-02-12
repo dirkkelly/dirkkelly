@@ -1,6 +1,6 @@
 if ENV['RACK_ENV'] == 'production'
-  require 'rack/ssl'
-  use Rack::SSL
+  require 'rack/ssl-enforcer'
+   use Rack::SslEnforcer
 end
 
 require 'middleman-core/load_paths'
