@@ -31,6 +31,6 @@
 - citygram:
   name: Citygram NYC
   action: Join Us
-  url: http://citygram.nyc/
+  url: https://citygram.nyc/
   description: Updates on topics and areas you care about in New York.
   image_url: /images/citygram.jpg
