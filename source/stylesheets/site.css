@@ -23,3 +23,10 @@ a {
 .card-img-top {
   width: 100%;
 }
+
+.crush :first-child {
+  margin-bottom: 0;
+}
+.crush :last-child {
+  margin-top: 0;
+}
