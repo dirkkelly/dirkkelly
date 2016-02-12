@@ -21,7 +21,7 @@ page 'essays/*', layout: 'essay'
 # General configuration
 
 # Reload the browser automatically whenever files change
-configure :development do
+if ENV['RACK_ENV'] == 'development'
   activate :livereload
 end
 
