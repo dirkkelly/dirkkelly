@@ -18,7 +18,7 @@ googleAnalytics = "UA-38004449-5"
   repo_url = "https://github.com/dirkkelly/dirkkelly"
 
   version = "27.10.0"
-  logo = "images/logo.png"
+  logo = "/images/logo.png"
   favicon = "favicon.ico"
 
   permalink = "#"
