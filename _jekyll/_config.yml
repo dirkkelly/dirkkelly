@@ -1,7 +1,0 @@
-title: Dirk Kelly
-baseurl: http://dirkkelly.com
-subtitle: Internet Software Advocate
-logo: /images/2015-11-01.jpg
-collections:
-  adventure_time:
-    output: true
