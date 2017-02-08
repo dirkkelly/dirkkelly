@@ -26,7 +26,6 @@
 		<div class="wrapper">
 			{{ range where .Site.Pages "Type" "index" }}
 				<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
-        <h2>{{ .Subtitle }}></h2>
 
 				{{ .Content }}
 			{{ end }}
