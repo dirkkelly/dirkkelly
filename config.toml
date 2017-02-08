@@ -48,6 +48,11 @@ googleAnalytics = "UA-38004449-5"
   url    = "/"
   weight = 0
 
+[[menu.main]]
+  name   = "Résumé"
+  url    = "/resume/"
+  weight = 0
+
 [blackfriday]
   smartypants = true
   fractions = true
