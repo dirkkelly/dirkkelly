@@ -9,7 +9,7 @@ weight: 0
 
 It took me a long time to accept this limitation in my being. I believe it to be one of the most important and yet most overlooked aspects of who I am.
 
-As a human I am prone to so many flawed traits, to be a great example of this species will take significant effort and work.
+As a human I am prone to so many flawed traits, to be a great example of this species will take significant effort.
 
 Here I am, attempting to carry out that work by building documentation of who I am.
 
