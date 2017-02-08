@@ -23,7 +23,7 @@ I believe in cultural exchange, I believe that we need to be challenged in our v
 
 Am I? I don't know anymore. I'm certainly not a fan of our current economic model. That's not to say that I don't recognize how to leverage it. I just chose for so long to disregard and fight against a system I didn't believe in.
 
-Ultimately I benefit from, and contribute to, and extemely capitalize system at this point.
+Ultimately I benefit from, and contribute to, an extremely capitalize system at this point.
 
 A goal is to move beyond capitalism towards a system that doesn't require labor to define value of humans, yet recognizes that those same humans require purpose in order to survive.
 
@@ -31,25 +31,25 @@ A goal is to move beyond capitalism towards a system that doesn't require labor 
 
 I'm building this documentation with a new piece of technology that I'm hoping to implement across my organization.
 
-This gives me an opportunity to compare the tool to so many others that I have used, contribuated to, consulted on, deployed with, supported, regretted, and praised.
+This gives me an opportunity to compare the tool to so many others that I have used, contributed to, consulted on, deployed with, supported, regretted, and praised.
 
-I adore the Internet, simplifying the abiliy to publish to it is a high priority to me.
+I adore the Internet, simplifying the ability to publish to it is a high priority to me.
 
-That's not to say I don't recognize, abore, and warn against the cost of technology influencing our lives.
+That's not to say I don't recognize and abhor the cost of technology influencing our lives.
 
 ## Executive
 
-[InterExchange](https://www.interexchange.org/) is a non profit organizatin which understands that people build empathy towards each other through in-person interaction.
+[InterExchange](https://www.interexchange.org/) is a non profit organization which understands that people build empathy towards each other through in-person interaction.
 
 With the aim of reducing adversity between cultures we administer international exchange programs that enable participants to interact with a foreign society through work and volunteer opportunities.
 
-I'm their Chief Technology Officer. It's my responsibility to understand how the industry can be innovated and made more effiency, then guide the implementation of these improvements through structured process and automation.
+I'm their Chief Technology Officer. It's my responsibility to understand how the industry can be innovated and made more efficiency, then guide the implementation of these improvements through structured process and automation.
 
 ## Perth
 
 I was born here, I promise you it's one of the most beautiful places I have been on this Earth.
 
-My family live here, they're a clan of caring, hard-working, intelligent, and opionated people.
+My family live here, they're a clan of caring, hard-working, intelligent, and opinionated people.
 
 Perth's economy is weak, I recognized this many years ago and moved in response.
 

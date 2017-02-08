@@ -44,7 +44,7 @@ Being away from the top of the business allowed me to focus on learning the craf
 
 Worked with two friends to build a native IOS dating app released throughout Australia.
 
-Potential Investors, App Store Approval, A language none of us knew, we learnt a lot by doing.
+Potential Investors, App Store Approval, A language none of us knew, we learned a lot by doing.
 
 ### Software Developer
 
@@ -68,11 +68,11 @@ I now know that getting bills paid is hard, that sustainable hours are vital and
 
 Predominantly built PHP single purpose apps within the student services division. Installed and maintained an [OpenReports](http://oreports.com/) service.
 
-Learnt how to respond to business needs promptly, helped build an agile working environment within a less-agile business.
+Learned how to respond to business needs promptly, helped build an agile working environment within a less-agile business.
 
 ## Education
 
-### Internet Software Development <small>Bachelor Science</small>
+### Internet Software Development<br/><small>Bachelor Science</small>
 
 #### [Murdoch University](http://www.murdoch.edu.au/) <small>2006 - 2009</small>
 
@@ -93,12 +93,10 @@ My tests will guide me through a codebase; I test always, when it is necessary a
 ### User Focussed
 
 My process prioritizes end-user features over solving problems that don't exist yet.
-      
 
 ### Future Prepared
 
 I work closely with product teams to champion and promote quality time spent on technical debt and R&amp;D.
-
 
 ### Self Directed
 
