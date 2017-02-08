@@ -23,8 +23,6 @@ I believe in cultural exchange, I believe that we need to be challenged in our v
 
 Am I? I don't know anymore. I'm certainly not a fan of our current economic model. That's not to say that I don't recognize how to leverage it. I just chose for so long to disregard and fight against a system I didn't believe in.
 
-Ultimately I benefit from, and contribute to, an extremely capitalize system at this point.
-
 A goal is to move beyond capitalism towards a system that doesn't require labor to define value of humans, yet recognizes that those same humans require purpose in order to survive.
 
 ## Technologist
