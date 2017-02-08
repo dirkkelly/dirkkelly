@@ -67,6 +67,4 @@ I enjoy New York, I don't love it, but I love the friends that have become my fa
 
 Colorado stole my heart the first time I visited. It's funny that a small town like Fort Collins has become such an important part of my life.
 
-It's a beautiful city, located in the most beautiful area of the country.
-
 If I could live here, I would. Maybe some day I will.
