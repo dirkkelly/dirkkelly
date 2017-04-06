@@ -1,7 +1,5 @@
 ---
-date: 2017-02-07T19:30:02+05:00
 title: Résumé
-weight: 10
 ---
 
 ## Career
@@ -13,11 +11,11 @@ weight: 10
 InterExchange provides work and travel opportunities to young people, I manage their use of technology to achieve organization goals.
 
 Having successfully built a quality engineering team, I am working on an organizational level to simplify systems and improve business.
-       
+
 ### Lead Software Developer
 
 #### [InterExchange](http://interexchange.org) <small>2013 - 2015</small>
- 
+
 InterExchange provides work and travel opportunities to young people, I built and maintain their online service application.
 
 After many years consulting on various projects, I am now taking the time to fully understand a single organization.

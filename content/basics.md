@@ -1,8 +1,5 @@
 ---
-date: 2017-02-078T19:27:00+05:00
-title: Dirk Kelly
-type: index
-weight: 0
+title: Basics
 ---
 
 ## Human
