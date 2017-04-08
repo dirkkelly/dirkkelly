@@ -6,6 +6,9 @@ metadataformat = "yaml"
 canonifyurls = true
 googleAnalytics = "UA-38004449-5"
 
+[taxonomies]
+   tag = "tags"
+
 [params]
   author = "dirkkelly"
   description = "Australian Technologist living in New York"
