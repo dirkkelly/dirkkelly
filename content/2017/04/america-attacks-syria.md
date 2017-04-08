@@ -14,7 +14,7 @@ I'd already been feeling very depressed and anxious the last few days, at 9pm I 
 
 Two hours later when reports started coming in I attempted to write a post, here's how far I got.
 
-> [America just launched ~60 cruise missiles at Syria][1] in response to an [alleged Assad chemical attack][2]
+> [America just launched ~60 cruise missiles at Syria][1] in response to an [alleged Assad chemical attack][2].
 
 > This is a massive escalation, a direct attack at Russia, and a cataclysmic moment.
 
@@ -46,7 +46,7 @@ At this point in history humanity should be focussed on two clear goals.
 
 The dangers that nuclear war and climate change pose to us are species level extinction in scope.
 
-Fighting in Syria doesn't help us fix these problems, in fact it only makes them worse. If we continue to engage in fighting against Syrian soldiers instead of ISIL we will continue to be stuck in a quagmire where we spend the richest countries GDP in efforts to further destroy the Earth instead of saving it.
+Fighting in Syria doesn't help us fix these problems, in fact it only makes them worse. If we continue to engage in fighting against Syrian soldiers instead of ISIL we will continue to be stuck in a quagmire where we spend the richest country's GDP in efforts to further destroy the Earth instead of saving it.
 
 I was devastated by this attack because I know that it will only lead to more, and will only lead our civilization further into the collapse of society that we are seeing globally.
 
