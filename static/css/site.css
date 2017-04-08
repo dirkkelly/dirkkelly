@@ -11,4 +11,13 @@ ul#tags {
 #tags li {
   display: inline-block;
   list-style: none;
+  padding: 0;
+}
+
+#tags li a:after {
+  content: ","
+}
+
+#tags li:last-child a:after {
+  content: ""
 }

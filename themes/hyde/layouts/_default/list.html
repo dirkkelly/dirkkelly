@@ -6,11 +6,10 @@
           {{ range .Data.Pages }}
           <li>
             <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
-            {{ if .Date.IsZero }}
-            {{ else }}
+            {{ if (not .Date.IsZero) }}
               <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
             {{ end }}
-            {{ partial "tags" . }}
+            <small>{{ partial "tags" . }}</small>
           </li>
           {{ end }}
       </ul>
