@@ -1,6 +1,6 @@
 ---
 date: 2017-04-08
-title: Noam Chomsky on Trumps First 75 Days
+title: Noam Chomsky on Trump's First 75 Days
 tags: [America, Election, Chomsky, Trump, Democracy Now]
 ---
 
