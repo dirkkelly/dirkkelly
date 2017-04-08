@@ -9,6 +9,7 @@ ul#tags {
 }
 
 #tags li {
+  font-size: 0.8rem;
   display: inline-block;
   list-style: none;
   padding: 0;
