@@ -38,7 +38,7 @@ That's not to say I don't recognize and abhor the cost of technology influencing
 
 With the aim of reducing adversity between cultures we administer international exchange programs that enable participants to interact with a foreign society through work and volunteer opportunities.
 
-I'm their Chief Technology Officer. It's my responsibility to understand how the industry can be innovated and made more efficiency, then guide the implementation of these improvements through structured process and automation.
+I'm their Chief Technology Officer. It's my responsibility to understand how the industry can be innovated and made more efficient, then guide the implementation of these improvements through structured process and automation.
 
 ## Perth
 
