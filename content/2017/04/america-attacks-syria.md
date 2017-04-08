@@ -6,7 +6,7 @@ tags: [Trump, America, Syria, Russia, Nuclear War, Climate Change]
 
 ## My Reaction
 
-I lost myself to anger on after I learned that America had fired 59 missiles from the Mediterranean Sea into a Syria Airbase.
+I lost myself to anger after I learned that America had fired 59 missiles from the Mediterranean Sea into a Syria Airbase.
 
 I'd already been feeling very depressed and anxious the last few days, at 9pm I sent this message to my partner.
 
