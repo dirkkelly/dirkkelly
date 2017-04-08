@@ -1,6 +1,7 @@
 ---
 date: 2017-04-01
 title: Reading List
+tags: [America, Trump, Chomsky, Curtis]
 ---
 
 Currently _work in progress_ This all comes from a [Youtube Playlist](https://www.youtube.com/playlist?list=PLtWyAlh3D1zDspYHgbCeQR2RlERNydGiz), this

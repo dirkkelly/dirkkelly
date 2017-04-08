@@ -1,6 +1,7 @@
 ---
 date: 2017-04-05
 title: Resist
+tags: [America, Trump]
 ---
 
 I will begin to resist by writing more.

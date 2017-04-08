@@ -12,11 +12,7 @@
 
         {{ .Content }}
 
-        <ul id="tags">
-          {{ range .Params.tags }}
-            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
-          {{ end }}
-        </ul>
+        {{ partial "tags" . }}
       </div>
 
       {{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}

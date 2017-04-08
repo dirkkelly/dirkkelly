@@ -18,4 +18,4 @@ googleAnalytics = "UA-38004449-5"
 [[menu.main]]
     name = "Résumé"
     url = "/resume/"
-    weight = -100
+    weight = -1
