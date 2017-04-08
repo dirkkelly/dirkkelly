@@ -1,5 +1,7 @@
-.lead {
-  font-size: 1.1rem;
+@media (max-width: 48em) {
+  .sidebar {
+    padding: 1rem;
+  }
 }
 
 ul#tags {
