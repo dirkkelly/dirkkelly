@@ -107,9 +107,3 @@ I place a high emphasis on the value of pairing as a tool for teaching and reduc
 ### Open Source
 
 An existing committer to many projects and I'll surely commit more in the future. I enjoy using and supporting OSS.
-
-## Not Searching
-
-I'm very happy with InterExchange and not interested in new offers.
-
-When I'm next looking for a job, I'll let people know.
