@@ -1,0 +1,8 @@
+ul#tags {
+  padding: 0;
+}
+
+#tags li {
+  display: inline-block;
+  list-style: none;
+}
