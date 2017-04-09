@@ -2,11 +2,12 @@
 title: Contact
 ---
 
+
 ## Personal
 
 A lot of people know my actual email, however anything works on my domain.
 
-**[anything@dirkkelly.com][1]**
+**[anything@dirkkelly.com](mailto:anything@dirkkelly.com)**
 
 <small>_I'm not looking for a new career._</small>
 
@@ -14,18 +15,14 @@ A lot of people know my actual email, however anything works on my domain.
 
 If this is [InterExchange](https://www.interexchange.org/contact/) related.
 
-**[dkelly@interexchange.org][2]**
+**[dkelly@interexchange.org](mailto:dkelly@interexchange.org)**
 
 <small>_Please Do Not use this for job offers or recruiting._</small>
 
-## Keybase
+## Secure
 
-**[keybase.io/dirkkelly][3]**
+**[keybase.io/dirkkelly](https://keybase.io/dirkkelly)**
 
-[1]: mailto:anything@dirkkelly.com
-[2]: mailto:dkelly@interexchange.org
-[3]: https://keybase.io/dirkkelly
+## Signal
 
-## Telegram
-
-<small>_I'm still reviewing how to release this._</small>
+<small>Still reviewing how to release this._</small>
