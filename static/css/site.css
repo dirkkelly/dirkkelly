@@ -13,15 +13,18 @@
   }
 }
 
-ul#tags {
+ul#tags, ul#posts {
+  padding: 0;
+}
+
+#tags li, #posts li {
+  list-style: none;
   padding: 0;
 }
 
 #tags li {
   font-size: 0.8rem;
   display: inline-block;
-  list-style: none;
-  padding: 0;
 }
 
 #tags li a:after {
@@ -30,4 +33,8 @@ ul#tags {
 
 #tags li:last-child a:after {
   content: ""
+}
+
+#posts .post-date {
+  margin-bottom: 0;
 }
