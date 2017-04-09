@@ -22,11 +22,9 @@ If this is [InterExchange](https://www.interexchange.org/contact/) related.
 
 **[keybase.io/dirkkelly][3]**
 
-<small>_I will be releasing a public key soon, if you have urgent need for it just email me._</small>
-
 [1]: mailto:anything@dirkkelly.com
 [2]: mailto:dkelly@interexchange.org
-[3]: https://keybase.io/dirkkkly
+[3]: https://keybase.io/dirkkelly
 
 ## Telegram
 
