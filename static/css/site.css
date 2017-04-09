@@ -1,6 +1,15 @@
 @media (max-width: 48em) {
   .sidebar {
-    padding: 1.5rem 0.5rem;
+    padding: 1.5rem 0.5rem 1rem;
+  }
+
+  .sidebar ul li {
+    display: inline-block;
+    margin-right: 5px;
+  }
+
+  .content {
+    padding-top: 1.5rem;
   }
 }
 

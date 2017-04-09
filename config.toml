@@ -19,3 +19,7 @@ googleAnalytics = "UA-38004449-5"
     name = "Résumé"
     url = "/resume/"
     weight = -1
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 0
