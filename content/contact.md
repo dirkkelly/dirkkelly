@@ -17,7 +17,7 @@ If this is [InterExchange](https://www.interexchange.org/contact/) related.
 
 **[dkelly@interexchange.org](mailto:dkelly@interexchange.org)**
 
-<small>_Please Do Not use this for job offers or recruiting._</small>
+<small>_Please do not use this for recruiting._</small>
 
 ## Secure
 
