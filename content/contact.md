@@ -25,4 +25,4 @@ If this is [InterExchange](https://www.interexchange.org/contact/) related.
 
 ## Signal
 
-<small>Still reviewing how to release this._</small>
+<small>_Still reviewing how to release this._</small>
