@@ -12,7 +12,7 @@ InterExchange provides work and travel opportunities to young people, I manage t
 
 Having successfully built a quality engineering team, I am working on an organizational level to simplify systems and improve business.
 
-### Lead Software Developer
+### Lead Software Engineer
 
 #### [InterExchange](http://interexchange.org) <small>2013 - 2015</small>
 
