@@ -15,8 +15,6 @@ It's so easy to get lost in the narrative about what is happening outside us, th
 
 ## The Last 100 Days
 
-I want to think forward about what's next of importance for me, and I'm going to use the recent history to assess where I can put more effort and where I can offer myself praise for my work.
-
 Work has been very successful, our engineering team is more than at capacity, we have moved through three times faster than expected and are now able to tackle a major project that will redefine how we operate a department. _My home life has been lovely, living with my friend and former housemate has shown me how much a different perspective on a situation makes it so much more positive_
 
 In my personal life there is a person I have built a great relationship with, someone who I have genuinely great times with, can happily sit next to reading a book, and pushes me to be a better version of myself. I'm grateful for the memories we're making with each other.
