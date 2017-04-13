@@ -9,7 +9,9 @@ I had personally been thinking about these 100 days a lot lately, and honestly, 
 
 Today I was walking and I decided to check how many days I had been back in America since my last trip home, turns out it is 99 days.
 
-So I thought I'd write about what I've been up to these last 99 days, and what I'm focussed on for the next 100. Before you get to reading any further though, I want you to take pause and think about your plans for the next 100. It's so easy to get lost in the narrative about what is happening outside us, that often we neglect to pay attention to our story.
+So I thought I'd write about what I've been up to these last 99 days, and what I'm focussed on for the next 100.
+
+It's so easy to get lost in the narrative about what is happening outside us, that often we neglect to pay attention to our story.
 
 ## The Last 100 Days
 
