@@ -31,7 +31,7 @@ Following that I will be attending another close friend's wedding, as a member o
 
 At work we'll be planning the next two projects that will revolutionize our organization, they're both firmly based in areas that I am particularly interested and span across the two teams that we have devised and nurtured over the half decade we've been working together.
 
-Personally I will begin the process of moving out of America and into my backpack, begining the first stage of my quiet retreat from a nation I moved to many years ago. This means that soon enough I will be back home with my family, lifelong friends, scouting community, and a political and economical systemt that we need to work together to reform.
+Personally I will begin the process of moving out of America and into my backpack, begining the first stage of my quiet retreat from a nation I moved to many years ago. This means that soon enough I will be back home with my family, lifelong friends, scouting community, and a political and economical system that we need to work together to reform.
 
 Ultimately the next 100 days are a precursor to more organized resistance. After considered thought for a long time it is time for me to raise my head and call out the injustices in our systems that threaten the future of our species.
 
