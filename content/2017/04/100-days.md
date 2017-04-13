@@ -27,7 +27,7 @@ Mentally I have had difficulty managing my depression, feeling a great personal 
 
 I've just organized a trip to Colorado to see one of my closest friends and his beautiful dog Edna, he lives in one of the most beautiful parts of this country, the times I've spent in Fort Collins hold a special place in my heart.
 
-Following that I will be attending another close friend's wedding, as a member of the bridal party no less! It will be held in the beautiful Prospect park, alongside his family from Perth, friends from New York, wife from New York, and her family from Russia. So many cultures of the world that mean so much to me meeting for a celebration of two wonderful people.
+Following that I will be attending another close friend's wedding, as a member of the bridal party no less! It will be held in the beautiful Prospect park, alongside his family from Perth, wife from New York, and her family from Russia. So many cultures of the world that mean so much to me meeting for a celebration of two wonderful people.
 
 At work we'll be planning the next two projects that will revolutionize our organization, they're both firmly based in areas that I am particularly interested and span across the two teams that we have devised and nurtured over the half decade we've been working together.
 
