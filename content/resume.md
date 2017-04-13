@@ -31,7 +31,7 @@ I started to get to learn more about businesses and use my improved software dev
 ### Software Developer
 
 #### [Pivotal Labs](http://pivotallabs.com/) <small>2011 - 2012</small>
- 
+
 Pivots are an amalgamation of engineers and consultants, I build apps for clients and teach them an agile development process.
 
 Being away from the top of the business allowed me to focus on learning the craft behind building software.
@@ -47,7 +47,7 @@ Potential Investors, App Store Approval, A language none of us knew, we learned 
 ### Software Developer
 
 #### [Frontier Group](http://www.thefrontiergroup.com.au/) <small>2010 - 2011</small>
-      
+
 Started off as a Rails engineer and moved on to the product management and client liaison side of things.
 
 Working for a larger firm showed me just how little I knew about business and how vital process is for them to succeed.
@@ -55,7 +55,7 @@ Working for a larger firm showed me just how little I knew about business and ho
 ### Owner / Developer
 
 #### [Square Talent](https://github.com/squaretalent) <small>2009 - 2011</small>
-        
+
 Ran a one man Rails consulting gig for a couple of years, teamed up with local designers and eventually other developers.
 
 I now know that getting bills paid is hard, that sustainable hours are vital and that the technical part of business can't be your only focus.

@@ -38,3 +38,19 @@ ul#tags, ul#posts {
 #posts .post-date {
   margin-bottom: 0;
 }
+
+@media print
+{
+  .hidden-print, .hidden-print *
+  {
+    display: none !important;
+  }
+
+  h2:not(:first-child) {
+    page-break-before: always;
+  }
+
+  h1 + h2 {
+    page-break-before: avoid !important;
+  }
+}
