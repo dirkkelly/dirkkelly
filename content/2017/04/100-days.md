@@ -17,6 +17,8 @@ It's so easy to get lost in the narrative about what is happening outside us, th
 
 Work has been very successful, our engineering team is ahead of schedule, we have moved through three times faster than expected and are now able to tackle a major project that will redefine how we operate a department.
 
+My home is beautiful, I live with a fantastic friend who is a great support to me, a gym friend, fellow philosopher and activist, a calmness in a storm I so often feel.
+
 In my personal life there is a person I have built a great relationship with, someone who I have genuinely great times with, can happily sit next to reading a book, and pushes me to be a better version of myself. I'm grateful for the memories we're making with each other.
 
 Personally I have had difficulty managing my depression, feeling a great personal weight on me for the issues we're seeing in the world. Returning to my earlier statement about the focus on what Trump has been doing, losing myself in these issues has had a significant toll on my ability to maintain a healthy perspective on the great successes in my personal life.
