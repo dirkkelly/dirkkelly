@@ -17,15 +17,15 @@ It's so easy to get lost in the narrative about what is happening outside us, th
 
 Work has been very successful, our engineering team is ahead of schedule, we have moved through three times faster than expected and are now able to tackle a major project that will redefine how we operate a department.
 
-My home is beautiful, I live with a fantastic friend who is a great support to me, a gym friend, fellow philosopher and activist, a calmness in a storm I so often feel.
+My home life is great, I live with a fantastic friend/gym buddy/fellow philosopher/activist, he provides calmness in a storm I so often feel.
 
-In my personal life there is a person I have built a great relationship with, someone who I have genuinely great times with, can happily sit next to reading a book, and pushes me to be a better version of myself. I'm grateful for the memories we're making with each other.
+In my personal life there is someone I have built a great relationship with, someone who I have genuinely great times with, can happily sit next to reading a book, and pushes me to be a better version of myself. I'm grateful for the memories we're making with each other.
 
 Mentally I have had difficulty managing my depression, feeling a great personal weight on me for the [issues we're seeing in the world](https://dirkkelly.com/2017/04/america-attacks-syria/). Returning to my earlier statement about the focus on what Trump has been doing, losing myself in these issues has had a significant toll on my ability to maintain a healthy perspective on the great successes in my personal life.
 
 ## The Next 100 Days
 
-I've just organized a trip to Colorado to see one of my closest friends and his beautiful dog Edna, he lives in one of the most beautiful parts of this country, the times I've spent in Fort Collins hold a special place in my heart.
+I've just organized a trip to Colorado to see one of my closest friends and his dog Edna, he lives in one of the most pristine parts of this country, the times I've spent in Fort Collins hold a special place in my heart.
 
 Following that I will be attending another close friend's wedding, as a member of the bridal party no less! It will be held in the beautiful Prospect park, alongside his family from Perth, wife from New York, and her family from Russia. So many cultures of the world that mean so much to me, meeting for a celebration of two wonderful people.
 
