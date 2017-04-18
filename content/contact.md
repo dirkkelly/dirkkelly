@@ -23,6 +23,10 @@ If this is [InterExchange](https://www.interexchange.org/contact/) related.
 
 **[keybase.io/dirkkelly](https://keybase.io/dirkkelly)**
 
+## Mastodon
+
+**[https://mastodon.dirkkelly.com/@dirkkelly](https://mastodon.dirkkelly.com/@dirkkelly)**
+
 ## Signal
 
 <small>_Still reviewing how to release this._</small>
