@@ -23,7 +23,7 @@ If this is [InterExchange](https://www.interexchange.org/contact/) related.
 
 **[keybase.io/dirkkelly](https://keybase.io/dirkkelly)**
 
-## Mastodon
+## [Mastodon](https://mastodon.dirkkelly.com/auth/sign_in/)
 
 **[https://mastodon.dirkkelly.com/@dirkkelly](https://mastodon.dirkkelly.com/@dirkkelly)**
 
