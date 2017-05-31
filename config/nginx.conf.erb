@@ -1,0 +1,107 @@
+daemon off;
+worker_processes <%= ENV.fetch('NGINX_WORKERS', 4) %>; # Heroku dynos have at least 4 cores.
+
+events {
+  use <%= ('development' == ENV.fetch('RACK_ENV', 'development')) ? 'kqueue' : 'epoll' %>;
+  accept_mutex on;
+  worker_connections 1024;
+}
+
+http {
+  map_hash_max_size 4096;
+  map_hash_bucket_size 81920;
+
+  gzip on;
+  gzip_comp_level 2;
+  gzip_min_length 512;
+
+  server_tokens off;
+
+  log_format l2met 'measure#nginx.service=$request_time request_id=$http_x_request_id';
+
+  access_log logs/nginx/access.log l2met;
+  error_log logs/nginx/error.log;
+
+  include mime.types;
+  default_type application/octet-stream;
+  sendfile on;
+
+  client_body_timeout 5;
+
+  upstream app_server {
+    server unix:/tmp/nginx.socket fail_timeout=0;
+  }
+
+  map $uri $new_path {
+    include redirect/paths.map;
+  }
+
+  map $uri $new_domain {
+    include redirect/domains.map;
+  }
+
+  server {
+    listen <%= ENV.fetch('PORT', '8080') %>;
+    server_name _;
+    keepalive_timeout 4;
+    root build/;
+
+    open_file_cache          max=2000 inactive=60s;
+    open_file_cache_valid    1h;
+    open_file_cache_min_uses 5;
+    open_file_cache_errors   off;
+
+    rewrite ^([^.\?]*[^/])$ http://$host$1/ permanent; # force trailing slash
+
+    if ($new_path) {
+      return 301 $scheme://$host$new_path; # redirect path
+    }
+
+    if ($new_domain) {
+      return 301 $new_domain; # redirect domain
+    }
+
+    <% unless 'development' == ENV.fetch('RACK_ENV', 'development') %>if ($http_x_forwarded_proto != "https") {
+      return 301 https://$host$request_uri; # force https
+    }<% end %>
+
+    location / {
+      expires 1h;
+      add_header Cache-Control "public";
+      error_page 404 /404/index.html;
+    }
+
+    location ~* \.(?:rss|atom)$ {
+      expires 1h;
+      add_header Cache-Control "public";
+    }
+
+    # Media: images, icons, video, audio, HTC
+    location ~* \.(?:jpg|jpeg|gif|png|ico|cur|gz|svg|svgz|mp4|ogg|ogv|webm|htc)$ {
+      expires 1w;
+      access_log off;
+      add_header Cache-Control "public";
+    }
+
+    # Fonts
+    location ~* \.(?:eot|ttf|woff)$ {
+      expires 1w;
+      access_log off;
+      add_header Cache-Control "public";
+      add_header Access-Control-Allow-Origin *;
+    }
+
+    # CSS and Javascript
+    location ~* \.(?:css|js)$ {
+      expires 1w;
+      access_log off;
+      add_header Cache-Control "public";
+    }
+  }
+
+  <% if 'production' == ENV.fetch('RACK_ENV', 'development') %>server {
+    listen <%= ENV.fetch('PORT') %>;
+    server_name .dirkkelly.herokuapp.com;
+    return 301 https://www.dirkkelly.com$request_uri; # force domain
+  }<% end %>
+}
