@@ -39,6 +39,19 @@ ul#tags, ul#posts {
   margin-bottom: 0;
 }
 
+h1 {
+  margin-bottom: 0;
+}
+
+h1 + h2 {
+  margin-top: 0;
+}
+
+h2 {
+  color: #444;
+  font-size: 1em;
+}
+
 @media print
 {
   .hidden-print, .hidden-print *

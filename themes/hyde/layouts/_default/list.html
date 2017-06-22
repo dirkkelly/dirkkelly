@@ -4,6 +4,9 @@
 
     <div class="content container">
       <h1 class="post-title">{{ .Title }}</h1>
+      {{ if .Param "Subtitle" }}
+        <h2>{{ .Param "Subtitle" }}</h2>
+      {{ end }}
       <ul id="posts">
           {{ range .Data.Pages }}
           <li>
