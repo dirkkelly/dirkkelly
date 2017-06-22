@@ -9,13 +9,13 @@ The last two days I have been consuming all I can find that covers the thinking 
 
 I wanted to share some of the pieces I had found so far before continuing on my research of his work.
 
-Jensen has spent his life advocating the protection and restoration of the environment, educating and writing about how to become engaged in the fight against the destruction of our planet. His work corralates the violence perpetuated by the dominant Capitalist culture and how this is driven by the Cult of Masculinity.
+Jensen has spent his life advocating the protection and restoration of the environment, educating and writing about how to become engaged in the fight against the destruction of our planet. His work correlates the violence perpetuated by the dominant Capitalist culture and how this is driven by the Cult of Masculinity.
 
 ### Civilization & Resistance
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LHEgpjsGPss" frameborder="0" allowfullscreen></iframe>
 
-This was my first introduction to Derrick, the introduction and its narrative structure allignment with Star Wars was incredibly intriguing. This would also be my introduction to his book "The End Game"
+The introduction and its narrative structure allignment with Star Wars was incredibly intriguing.
 
 The end of this video gives an insight into the people's responses to Derrick's works, providing a fantastic example of how to interact and defend yourself from a reactionary and violent member of society.
 
