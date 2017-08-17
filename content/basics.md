@@ -1,4 +1,4 @@
 ---
 title: Basics
-redirect: /about/
+redirect: about/
 ---
