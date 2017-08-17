@@ -2,7 +2,7 @@
 date: 2017-08-18
 title: The Paradox of Tolerance
 subtitle: The Open Society and Its Enemies, Philosopher Karl Popper
-tags: [Philosophy, Tolerance, Hate, Nazism, Karl Popper]
+tags: [Philosophy, Tolerance, Hate, Trump, Nazism, Karl Popper]
 ---
 
 ![Paradox of Tolerance](https://i.redditmedia.com/HcuZIT5w8xJLMXoISDexG1GNz5Dj7xHO_QGeueMtdPU.jpg?w=614&s=93fcd38109cc94fdc092b669ae6e76e5)
