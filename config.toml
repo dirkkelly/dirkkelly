@@ -11,7 +11,7 @@ googleAnalytics = "UA-38004449-5"
 
 [params]
   author = "dirkkelly"
-  description = "Australian Technologist living on Earth during the Holocene extinction"
+  description = "Human Australian Technologist living on Earth during the Holocene extinction"
 
   themeColor = "theme-base-0d"
 
@@ -20,10 +20,14 @@ googleAnalytics = "UA-38004449-5"
     url = "/resume/"
     weight = 1
 [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 2
 [[menu.main]]
     name = "RSS"
     url = "/index.xml"
-    weight = 3
+    weight = 2
