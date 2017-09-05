@@ -2,7 +2,7 @@
 date: 2017-06-21
 title: Derrick Jensen
 subtitle: Bringing Down Civilization, The Violence of Capitalism
-tags: [Climate, Capitalism, Violence]
+tags: [YouTube, Jensen, Climate, Capitalism, Violence]
 ---
 
 The last two days I have been consuming all I can find that covers the thinking of Derrick Jensen.
