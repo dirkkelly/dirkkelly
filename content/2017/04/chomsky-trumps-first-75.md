@@ -1,7 +1,7 @@
 ---
 date: 2017-04-08
 title: Noam Chomsky on Trump's First 75 Days
-tags: [America, Election, Chomsky, Trump, Democracy Now]
+tags: [America, Election, Chomsky, Noam Chomsky, Trump, Donald Trump, Democracy Now]
 ---
 
 Recently [Democracy Now interviewed Noam Chomsky on Trump's first 75 Days as President][1], here's some key points I took away from it.
