@@ -14,7 +14,13 @@
     </ul>
 
     <ul class="sidebar-nav hidden-print">
-      {{ range .Site.Menus.tags }}
+      {{ range .Site.Menus.resist }}
+        <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+      {{end}}
+    </ul>
+
+    <ul class="sidebar-nav hidden-print">
+      {{ range .Site.Menus.empire }}
         <li><a href="{{.URL}}"> {{ .Name }} </a></li>
       {{end}}
     </ul>
