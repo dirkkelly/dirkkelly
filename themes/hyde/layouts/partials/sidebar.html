@@ -8,12 +8,6 @@
     </div>
 
     <ul class="sidebar-nav hidden-print">
-      {{ range .Site.Menus.main }}
-        <li><a href="{{.URL}}"> {{ .Name }} </a></li>
-      {{end}}
-    </ul>
-
-    <ul class="sidebar-nav hidden-print">
       {{ range .Site.Menus.resist }}
         <li><a href="{{.URL}}"> {{ .Name }} </a></li>
       {{end}}
@@ -21,6 +15,12 @@
 
     <ul class="sidebar-nav hidden-print">
       {{ range .Site.Menus.empire }}
+        <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+      {{end}}
+    </ul>
+
+    <ul class="sidebar-nav hidden-print">
+      {{ range .Site.Menus.meta }}
         <li><a href="{{.URL}}"> {{ .Name }} </a></li>
       {{end}}
     </ul>

@@ -15,22 +15,6 @@ googleAnalytics = "UA-38004449-5"
 
   themeColor = "theme-base-0d"
 
-[[menu.main]]
-    name = "Résumé"
-    url = "/resume/"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 3
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 4
 [[menu.resist]]
     name = "Resist"
     url = "/tags/resist"
@@ -56,3 +40,20 @@ googleAnalytics = "UA-38004449-5"
     name = "Donald Trump"
     url = "/tags/donald-trump"
     weight = 6
+
+[[menu.meta]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.meta]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+[[menu.meta]]
+    name = "Résumé"
+    url = "/resume/"
+    weight = 3
+[[menu.meta]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 4
