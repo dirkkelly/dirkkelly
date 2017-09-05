@@ -32,6 +32,10 @@ googleAnalytics = "UA-38004449-5"
     url = "/index.xml"
     weight = 2
 [[menu.tags]]
+    name = "Resist"
+    url = "/tags/resist"
+    weight = 2
+[[menu.tags]]
     name = "America"
     url = "/tags/america"
     weight = 2
