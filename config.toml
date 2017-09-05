@@ -13,7 +13,7 @@ googleAnalytics = "UA-38004449-5"
   author = "dirkkelly"
   description = "Australian Living in America During the Collapse of Capitalism"
 
-  themeColor = "theme-base-0d"
+  themeColor = "theme-base-au"
 
 [[menu.resist]]
     name = "Resist"
