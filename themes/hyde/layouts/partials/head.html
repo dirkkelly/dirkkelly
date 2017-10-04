@@ -28,10 +28,10 @@
 
     {{ .Hugo.Generator }}
 
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/poole.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/syntax.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/hyde.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/site.css?v=1.0.5">
+    <link rel="stylesheet" href='{{ .Site.BaseURL }}css/poole.css?v={{ .Now.Format "2006-01-02" }}'>
+    <link rel="stylesheet" href='{{ .Site.BaseURL }}css/syntax.css?v={{ .Now.Format "2006-01-02" }}'>
+    <link rel="stylesheet" href='{{ .Site.BaseURL }}css/hyde.css?v={{ .Now.Format "2006-01-02" }}'>
+    <link rel="stylesheet" href='{{ .Site.BaseURL }}css/site.css?v={{ .Now.Format "2006-01-02" }}'>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700%7CAbril+Fatface">
 
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
