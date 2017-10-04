@@ -1,0 +1,28 @@
+---
+date: 2017-10-04
+title: 3 Great Contrapoint Videos for Lefties
+---
+
+Are you a leftist trying to find your way in this crazy world of polarized political views?
+
+Would you like to expand your field of discourse rather than remain in echo chambers while the world changes around you?
+
+[Contrapoints](https://www.youtube.com/contrapoints) is a YouTube Philosopher who is working extremely hard to produce informative and enjoyable videos about modern life, the struggles of the left, and the importance of discourse to promote a progressive agenda.
+
+Three of her latest videos are aimed at helping you understand both sides of the struggle.
+
+### [The Left](https://www.youtube.com/watch?v=QuN6GfUix7c)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QuN6GfUix7c" frameborder="0" allowfullscreen></iframe>
+
+### [Decrypting the Alt-Right](https://www.youtube.com/watch?v=Sx4BVGPkdzk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sx4BVGPkdzk" frameborder="0" allowfullscreen></iframe>
+
+### [What the Alt-Right Fears](https://www.youtube.com/watch?v=a3XjRO4-kGk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a3XjRO4-kGk" frameborder="0" allowfullscreen></iframe>
+
+---
+
+I'm a huge supporter of Contrapoints, she's a brave person for tackling these issues in the mediums chosen. If you enjoy her work and want to support progressive thinkers, you can donate to her [Patreon](https://patreon.com/contrapoints).

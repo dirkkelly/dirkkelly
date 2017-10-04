@@ -251,10 +251,9 @@ a.sidebar-nav-item:focus {
 
 /* Australian */
 .theme-base-au .sidebar {
-  background-color: #008751;
+  background-color: #336699;
 }
 .theme-base-au .content a,
 .theme-base-au .related-posts li a:hover {
-  color: #FCD116;
-  color: #8f5536;
+  color: #336699;
 }

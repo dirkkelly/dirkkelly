@@ -8,13 +8,6 @@
           {{ if .Param "Subtitle" }}
             <h2>{{ .Param "Subtitle" }}</h2>
           {{ end }}
-          {{ if .Param "Author" }}
-            {{ if .Param "link" }}
-              <h3><a href='{{ .Param "link" }}'>{{ .Param "Author" }}</a></h3>
-            {{ else }}
-              <h3>{{ .Param "Author" }}</h3>
-            {{ end }}
-          {{ end }}
 
           {{ if (not .Date.IsZero) }}
             <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</a>
