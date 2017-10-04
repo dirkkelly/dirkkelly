@@ -122,22 +122,22 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    2rem;
+  padding-bottom: 2rem;
 }
 
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 20rem;
+    margin-left: 19rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: 19rem;
+    margin-right: 2rem;
   }
 }
 
@@ -256,4 +256,24 @@ a.sidebar-nav-item:focus {
 .theme-base-au .content a,
 .theme-base-au .related-posts li a:hover {
   color: #336699;
+}
+
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  border: none;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

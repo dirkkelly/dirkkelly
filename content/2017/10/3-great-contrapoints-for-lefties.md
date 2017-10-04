@@ -12,15 +12,21 @@ Three of her latest videos are aimed at helping you understand both sides of the
 
 ### [The Left](https://www.youtube.com/watch?v=QuN6GfUix7c)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QuN6GfUix7c" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/QuN6GfUix7c" allowfullscreen></iframe>
+</div>
 
 ### [Decrypting the Alt-Right](https://www.youtube.com/watch?v=Sx4BVGPkdzk)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sx4BVGPkdzk" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+<iframe src="https://www.youtube.com/embed/Sx4BVGPkdzk" allowfullscreen></iframe>
+</div>
 
 ### [What the Alt-Right Fears](https://www.youtube.com/watch?v=a3XjRO4-kGk)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a3XjRO4-kGk" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+<iframe src="https://www.youtube.com/embed/a3XjRO4-kGk" allowfullscreen></iframe>
+</div>
 
 ---
 
