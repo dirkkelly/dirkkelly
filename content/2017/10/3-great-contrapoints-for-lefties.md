@@ -5,8 +5,6 @@ title: 3 Great Contrapoint Videos for Lefties
 
 Are you a leftist trying to find your way in this crazy world of polarized political views?
 
-Would you like to expand your field of discourse rather than remain in echo chambers while the world changes around you?
-
 [Contrapoints](https://www.youtube.com/contrapoints) is a YouTube Philosopher who is working extremely hard to produce informative and enjoyable videos about modern life, the struggles of the left, and the importance of discourse to promote a progressive agenda.
 
 Three of her latest videos are aimed at helping you understand both sides of the struggle.
