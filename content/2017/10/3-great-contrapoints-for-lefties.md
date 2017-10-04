@@ -19,15 +19,13 @@ Three of her latest videos are aimed at helping you understand both sides of the
 ### [Decrypting the Alt-Right](https://www.youtube.com/watch?v=Sx4BVGPkdzk)
 
 <div class="embed-container">
-<iframe src="https://www.youtube.com/embed/Sx4BVGPkdzk" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Sx4BVGPkdzk" allowfullscreen></iframe>
 </div>
 
 ### [What the Alt-Right Fears](https://www.youtube.com/watch?v=a3XjRO4-kGk)
 
 <div class="embed-container">
-<iframe src="https://www.youtube.com/embed/a3XjRO4-kGk" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/a3XjRO4-kGk" allowfullscreen></iframe>
 </div>
-
----
 
 I'm a huge supporter of Contrapoints, she's a brave person for tackling these issues in the mediums chosen. If you enjoy her work and want to support progressive thinkers, you can donate to her [Patreon](https://patreon.com/contrapoints).
