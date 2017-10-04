@@ -3,26 +3,29 @@
   <div class="content container">
     <div class="posts">
       {{ range .Data.Pages }}
-        <div class="post">
-          <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-          {{ if .Param "Subtitle" }}
-            <h2>{{ .Param "Subtitle" }}</h2>
-          {{ end }}
+        {{ if .Param "Redirect" }}
+        {{ else }}
+          <div class="post">
+            <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            {{ if .Param "Subtitle" }}
+              <h2>{{ .Param "Subtitle" }}</h2>
+            {{ end }}
 
-          {{ if (not .Date.IsZero) }}
-            <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</a>
-          {{ end }}
+            {{ if (not .Date.IsZero) }}
+              <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</a>
+            {{ end }}
 
-          {{ if .Param "Image" }}
-            <a href='{{ .Site.BaseURL }}images/{{ .Param "Image" }}'>
-              <img src='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' alt='{{ .Param "Subtitle" }}' />
-            </a>
-          {{ end }}
+            {{ if .Param "Image" }}
+              <a href='{{ .Site.BaseURL }}images/{{ .Param "Image" }}'>
+                <img src='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' alt='{{ .Param "Subtitle" }}' />
+              </a>
+            {{ end }}
 
-          {{ .Content }}
+            {{ .Content }}
 
-          {{ partial "tags" . }}
-        </div>
+            {{ partial "tags" . }}
+          </div>
+        {{ end }}
       {{ end }}
     </div>
   </div>
