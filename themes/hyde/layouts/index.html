@@ -14,7 +14,9 @@
           {{ end }}
 
           {{ if .Param "Image" }}
-            <img src='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' alt='{{ .Param "Subtitle" }}' />
+            <a href='{{ .Site.BaseURL }}images/{{ .Param "Image" }}'>
+              <img src='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' alt='{{ .Param "Subtitle" }}' />
+            </a>
           {{ end }}
 
           {{ .Content }}
