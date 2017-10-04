@@ -1,6 +1,7 @@
 ---
 date: 2017-10-04
-title: 3 Great Contrapoint Videos for Lefties
+title: 3 Great Contrapoints Videos for Lefties
+tags: [Resist, Contrapoints, Antifa, Alt-Right, Nazism]
 ---
 
 Are you a leftist trying to find your way in this crazy world of polarized political views?
