@@ -6,7 +6,7 @@ tags: [Resist, Contrapoints, Antifa, Alt-Right, Nazism]
 
 Are you a leftist trying to find your way in this crazy world of polarized political views?
 
-[Contrapoints](https://www.youtube.com/contrapoints) is a YouTube Philosopher who is working extremely hard to produce informative and enjoyable videos about modern life, the struggles of the left, and the importance of discourse to promote a progressive agenda.
+[Contrapoints][Contrapoints] is a YouTube Philosopher who is working extremely hard to produce informative and enjoyable videos about modern life, the struggles of the left, and the importance of discourse to promote a progressive agenda.
 
 Three of her latest videos are aimed at helping you understand both sides of the struggle.
 
@@ -28,4 +28,6 @@ Three of her latest videos are aimed at helping you understand both sides of the
   <iframe src="https://www.youtube.com/embed/a3XjRO4-kGk" allowfullscreen></iframe>
 </div>
 
-I'm a huge supporter of Contrapoints, she's a brave person for tackling these issues in the mediums chosen. If you enjoy her work and want to support progressive thinkers, you can donate to her [Patreon](https://patreon.com/contrapoints).
+I really value the work of [Contrapoints][Contrapoints], she's a brave person for tackling these issues in the mediums chosen. If you enjoy her work and want to support progressive thinkers, you can donate to [Contrapoints Patreon](https://patreon.com/contrapoints).
+
+[Contrapoints]: https://www.youtube.com/contrapoints
