@@ -20,6 +20,10 @@ googleAnalytics = "UA-38004449-5"
     url = "/tags/resist"
     weight = 1
 [[menu.resist]]
+    name = "Contrapoints"
+    url = "/tags/contrapoints"
+    weight = 2
+[[menu.resist]]
     name = "Noam Chomsky"
     url = "/tags/noam-chomsky"
     weight = 3
