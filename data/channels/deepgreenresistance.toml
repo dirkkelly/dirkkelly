@@ -1,0 +1,12 @@
+name = "Deep Green Resistance"
+slug = "deepgreenresistance"
+url = "https://youtube.com/DeepGreenResistance/"
+description = "View videos from the radical environmental and social justice organization Deep Green Resistance."
+featured = true
+
+[[videos]]
+  id = "cx56AvMGrAA"
+  url = "https://www.youtube.com/watch?v=cx56AvMGrAA"
+  embed = "https://www.youtube.com/embed/cx56AvMGrAA"
+  name = "Derrick Jensen Resistance Radio w/ James Howard Kunstler"
+  date = "2017-09-03"
