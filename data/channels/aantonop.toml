@@ -1,0 +1,17 @@
+name = "Andreas M. Antonopoulos"
+slug = "aantonop"
+url = "https://youtube.com/user/aantonop"
+description = "Videos about Bitcoin, Ethereum and other Open Blockchain topics"
+featured = false
+
+[[videos]]
+  id = "ONvg9SbauMg"
+  url = "https://www.youtube.com/watch?v=ONvg9SbauMg"
+  embed = "https://www.youtube.com/embed/ONvg9SbauMg"
+  name = "The Stories We Tell About Money"
+
+[[videos]]
+  id = "FyK4P7ZdOK8"
+  url = "https://www.youtube.com/watch?v=FyK4P7ZdOK8"
+  embed = "https://www.youtube.com/embed/FyK4P7ZdOK8"
+  name = "Money as a System of Control"
