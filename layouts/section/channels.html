@@ -1,8 +1,9 @@
 {{ partial "head.html" . }}
   {{ partial "sidebar.html" . }}
   <div class="content container">
-    <h1>Channels</h1>
-    <ul>
+    <h1>{{ .Title }}</h1>
+
+    <ul style="list-style: none; padding: 0">
       {{ range .Site.Data.channels }}
         {{ partial "channels/li" . }}
       {{ end }}
