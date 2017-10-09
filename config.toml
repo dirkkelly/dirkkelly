@@ -18,32 +18,6 @@ googleAnalytics = "UA-38004449-5"
 
     themeColor = "theme-base-au"
 
-[[menu.resist]]
-    name = "Resist"
-    url = "/tags/resist"
-    weight = 2
-[[menu.resist]]
-    name = "Noam Chomsky"
-    url = "/tags/noam-chomsky"
-    weight = 3
-[[menu.resist]]
-    name = "Derrick Jensen"
-    url = "/tags/derrick-jensen"
-    weight = 4
-[[menu.resist]]
-    name = "Adam Curtis"
-    url = "/tags/adam-curtis"
-    weight = 5
-
-[[menu.empire]]
-    name = "America"
-    url = "/tags/america"
-    weight = 2
-[[menu.empire]]
-    name = "Donald Trump"
-    url = "/tags/donald-trump"
-    weight = 6
-
 [[menu.meta]]
     name = "About"
     url = "/about/"

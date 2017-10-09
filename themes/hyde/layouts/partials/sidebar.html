@@ -9,32 +9,24 @@
 
     <ul class="sidebar-nav hidden-print">
       <li>
-        <a href="/channels" style="font-weight: bold">Channels</a>
-        {{ range .Site.Data.channels }}
-          {{ if eq .featured true }}
-            <ul style="padding: 0; margin: 0">
-              <li style="list-style: none; margin: 0; padding: 0"><a href="/{{ .slug }}/">{{ .name }}</a></li>
-            </ul>
+        <strong><a href="/channels">Channels</a></strong>
+        <ul style="padding: 0;">
+          {{ range .Site.Data.channels }}
+            {{ if eq .featured true }}
+                <li style="list-style: none;">
+                  <a href="/{{ .slug }}/">{{ .name }}</a>
+                </li>
+            {{ end }}
           {{ end }}
-        {{ end }}
+        </ul>
       </li>
-    </ul>
-    
-    <ul class="sidebar-nav hidden-print">
-      {{ range .Site.Menus.resist }}
-        <li><a href="{{.URL}}"> {{ .Name }} </a></li>
-      {{end}}
-    </ul>
-
-    <ul class="sidebar-nav hidden-print">
-      {{ range .Site.Menus.empire }}
-        <li><a href="{{.URL}}"> {{ .Name }} </a></li>
-      {{end}}
     </ul>
 
     <ul class="sidebar-nav hidden-print">
       {{ range .Site.Menus.meta }}
-        <li><a href="{{.URL}}"> {{ .Name }} </a></li>
+        <li>
+          <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
+        </li>
       {{end}}
     </ul>
   </div>
