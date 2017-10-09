@@ -1,0 +1,8 @@
+<div class="panel panel-videos">
+  {{ range .videos }}
+    <h3 class="panel-title"><a href="{{ .url }}">{{ .name }}</a></h3>
+    <div class="panel-body embed-container">
+      <iframe src="{{ .embed }}" allowfullscreen></iframe>
+    </div>
+  {{ end }}
+</div>

@@ -1,8 +1,14 @@
 {{ partial "head.html" . }}
- {{ partial "sidebar.html" . }}
+  {{ partial "sidebar.html" . }}
   <div class="content container">
     {{ with (index .Site.Data.channels (substr $.File.LogicalName 0 -3)) }}
-      {{ partial "channels/block" . }}
+      <h1><a href="{{ .url }}">{{ .name }}</a></h1>
+      <h2>{{ .description }}</h2>
+    {{ end }}
+
+    {{ .Content }}
+    {{ with (index .Site.Data.channels (substr $.File.LogicalName 0 -3)) }}
+      {{ partial "channels/videos" . }}
     {{ end }}
   </div>
 {{ partial "foot.html" . }}
