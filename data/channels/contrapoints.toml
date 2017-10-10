@@ -5,19 +5,19 @@ description = "YouTuber, ex-philosopher, special blossom 🌸"
 featured = true
 
 [[videos]]
+  name = "Decrypting the Alt-Right: How to Recognize a F@scist"
   id = "Sx4BVGPkdzk"
   url = "https://www.youtube.com/watch?v=Sx4BVGPkdzk"
   embed = "https://www.youtube.com/embed/Sx4BVGPkdzk"
-  name = "Decrypting the Alt-Right: How to Recognize a F@scist"
 
 [[videos]]
+  name = "The Left"
   id = "QuN6GfUix7c"
   url = "https://www.youtube.com/watch?v=QuN6GfUix7c"
   embed = "https://www.youtube.com/embed/QuN6GfUix7c"
-  name = "The Left"
 
 [[videos]]
+  name = "What the Alt-Right Fears"
   id = "a3XjRO4-kGk"
   url = "https://www.youtube.com/watch?v=a3XjRO4-kGk"
   embed = "https://www.youtube.com/embed/a3XjRO4-kGk"
-  name = "What the Alt-Right Fears"

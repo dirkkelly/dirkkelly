@@ -34,13 +34,11 @@ I'm their Chief Technology Officer. It's my responsibility to understand how the
 
 ## Fort Collins
 
-As of August I live in Fort Collins, this will be my home for the next year, with visits to Perth and New York whenever I need or am needed.
+Summer 2017 I moved to Fort Collins Colorado and it was one of the best decisions of my life. I love being surrounded by huge mountains, good people, and chill vibes.
 
-## Perth
+In only a month here I've made great friends, been on many bike rides (from [Poudre Trail]() [Tour De Fat](https://www.newbelgium.com/events/tour-de-fat)), 
 
-I was born here, I promise you it's one of the most beautiful places I have been on this Earth.
-
-My family live here, they're a clan of caring, hard-working, intelligent, and opinionated people.
+Working remotely has resulted in huge improvements to my lifestyle, I'm healthier, happier, and more effective here.
 
 ## New York
 
@@ -48,4 +46,10 @@ I moved to New York in 2011 to advance my career in software development at [Piv
 
 Consulting was a fantastic way for me to experience the huge variety of organizations in the world, and relate that experience back to my skill of system analysis, design, and development.
 
-I went on to join InterExchange who's headquarters are in New York, I now work as a full time remote employee.
+I went on to join InterExchange's headquarters are in New York, I work as a full time remote employee.
+
+## Perth
+
+I was born here, I promise you it's one of the most beautiful places I have been on this Earth.
+
+My family live here, they're a clan of caring, hard-working, intelligent, and opinionated people.
