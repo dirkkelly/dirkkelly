@@ -36,7 +36,7 @@ I'm their Chief Technology Officer. It's my responsibility to understand how the
 
 Summer 2017 I moved to Fort Collins Colorado and it was one of the best decisions of my life. I love being surrounded by huge mountains, good people, and chill vibes.
 
-In only a month here I've made great friends, been on many bike rides (from [Poudre Trail]() [Tour De Fat](https://www.newbelgium.com/events/tour-de-fat)), 
+In only a month here I've made great friends, been on many bike rides (from [Poudre Trail](http://www.poudretrail.org/) [Tour De Fat](https://www.newbelgium.com/events/tour-de-fat)), and seem some great live music.
 
 Working remotely has resulted in huge improvements to my lifestyle, I'm healthier, happier, and more effective here.
 
