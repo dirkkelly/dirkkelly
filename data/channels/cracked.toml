@@ -20,3 +20,9 @@ description = "America's Only Humor & Video Site, Since 1958"
   id = "pUanS5OWy_k"
   url = "https://www.youtube.com/watch?v=pUanS5OWy_k"
   embed = "https://www.youtube.com/embed/pUanS5OWy_k"
+
+[[videos]]
+  name = "Honest Ads - Why Credit Cards Are a Scam"
+  id = "v6zgmhsCLnc"
+  url = "https://www.youtube.com/watch?v=v6zgmhsCLnc"
+  embed = "https://www.youtube.com/embed/v6zgmhsCLnc"
