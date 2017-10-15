@@ -10,13 +10,11 @@ featured = true
   url = "https://www.youtube.com/watch?v=hOOuGb_E86Q"
   embed = "https://www.youtube.com/embed/hOOuGb_E86Q"
 
-
 [[videos]]
   name = "Derrick Jensen - Endgame Part Two"
   id = "R2V-zLGxHnw"
   url = "https://www.youtube.com/watch?v=R2V-zLGxHnw"
   embed = "https://www.youtube.com/embed/R2V-zLGxHnw"
-
 
 [[videos]]
   name = "Derrick Jensen Resistance Radio w/ James Howard Kunstler"
