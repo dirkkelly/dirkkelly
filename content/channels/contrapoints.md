@@ -1,5 +1,7 @@
 ---
 title: Contrapoints
+tags: [Contrapoints, America, Resist, Antifa, Alt-Right, Naxism]
+weight: 1
 ---
 
 Are you a leftist trying to find your way in this crazy world of polarized political views?

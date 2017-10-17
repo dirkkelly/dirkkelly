@@ -8,7 +8,7 @@
         <h2>{{ .Param "Subtitle" }}</h2>
       {{ end }}
       <ul id="posts">
-          {{ range .Data.Pages }}
+          {{ range .Data.Pages.ByWeight }}
           <li>
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             {{ if (not .Date.IsZero) }}
