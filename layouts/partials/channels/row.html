@@ -3,8 +3,6 @@
   <p style="margin-bottom: 5px"><small>{{ .description }}</small></p>
 
   {{ range .videos }}
-    <div style="width: 200px; float: left">
-      {{ partial "videos/embed" . }}
-    </div>
+    {{ partial "videos/small" . }}
   {{ end }}
 </div>

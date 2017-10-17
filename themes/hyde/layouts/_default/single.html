@@ -13,14 +13,16 @@
           <a href="{{ .Permalink }}"><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></a>
         {{ end }}
 
+        {{ partial "tags" . }}
+
         {{ if .Param "Image" }}
           <a href='{{ .Site.BaseURL }}images/{{ .Param "Image" }}'>
             <img src='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' alt='{{ .Param "Subtitle" }}' />
           </a>
         {{ end }}
+
         {{ .Content }}
 
-        {{ partial "tags" . }}
       </div>
 
       {{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}
