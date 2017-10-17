@@ -4,6 +4,13 @@ url = "https://youtube.com/cracked/"
 description = "America's Only Humor & Video Site, Since 1958"
 
 [[videos]]
+  name = "Bernie's Medicare-For-All, Ted Cruz's Porno Free-For-All"
+  category = "Some News"
+  id = "EyciB-sMXe4"
+  url = "https://www.youtube.com/watch?v=EyciB-sMXe4"
+  embed = "https://www.youtube.com/embed/EyciB-sMXe4"
+  
+[[videos]]
   name = "Why Weinstein Isn't A Hollywood Problem, It's A Men Problem"
   category = "Some News"
   id = "3DrpmXtpFtw"
