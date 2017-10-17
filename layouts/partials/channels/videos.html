@@ -1,6 +1,6 @@
 <div class="panel panel-videos">
   {{ range .videos }}
-    <h3 class="panel-title"><a href="{{ .url }}">{{ .name }}</a></h3>
+    <h3 class="panel-title"><a href="{{ .url }}">{{ .name }}</a> <small>{{ .category }}</small></h3>  
     {{ partial "videos/embed" . }}
   {{ end }}
 </div>
