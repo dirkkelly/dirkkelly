@@ -1,0 +1,15 @@
+{{ partial "head.html" . }}
+  {{ partial "sidebar.html" . }}
+  <div class="content container">
+    {{ range .Data.Pages }}
+      {{ if .Param "Redirect" }}
+      {{ else }}
+        <h1 style="font-size: 1.2em">
+          <a href="{{ .Permalink }}">
+            {{ .Title }}
+          </a>
+        </h1>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ partial "foot.html" . }}
