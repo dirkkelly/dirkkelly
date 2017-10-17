@@ -8,13 +8,13 @@ featured = true
   name = "Requiem for the American Dream"
   id = "80083790"
   url = "https://www.netflix.com/title/80083790"
-  thumbnail = "/images/channels/netflix/requiemfortheamericandream.webp"
+  thumbnail = "/images/channels/netflix/requiemfortheamericandream.jpg"
 
 [[videos]]
   name = "Betting on Zero"
   id = "80108609"
   url = "https://www.netflix.com/title/80108609"
-  thumbnail = "/images/channels/netflix/bettingonzero.webp"
+  thumbnail = "/images/channels/netflix/bettingonzero.jpg"
 
 [[videos]]
   name = "BoJack Horseman"
