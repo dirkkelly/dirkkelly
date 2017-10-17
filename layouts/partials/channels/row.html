@@ -1,0 +1,10 @@
+<div style="display: block; width: 100%; overflow: hidden">
+  <h2 style="margin-bottom: 0"><a href="{{ .url }}">{{ .name }}</a></h3>
+  <p style="margin-bottom: 5px"><small>{{ .description }}</small></p>
+
+  {{ range .videos }}
+    <div style="width: 200px; float: left">
+      {{ partial "videos/embed" . }}
+    </div>
+  {{ end }}
+</div>

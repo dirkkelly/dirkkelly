@@ -1,0 +1,10 @@
+{{ if .embed }}
+  <div class="panel-body embed-container">
+    <iframe src="{{ .embed }}" allowfullscreen></iframe>
+  </div>
+{{ end }}
+{{ if .thumbnail }}
+  <a href="{{ .url }}" target="_blank">
+    <img src="{{ .thumbnail }}" alt="{{ .name }}" style="margin-bottom: 0" />
+  </a>
+{{ end }}

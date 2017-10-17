@@ -1,0 +1,29 @@
+name = "Netflix"
+slug = "netflix"
+url = "https://netflix.com"
+description = "Watch Netflix movies & TV shows online or stream right to your smart"
+featured = true
+
+[[videos]]
+  name = "Requiem for the American Dream"
+  id = "80083790"
+  url = "https://www.netflix.com/title/80083790"
+  thumbnail = "/images/channels/netflix/requiemfortheamericandream.webp"
+
+[[videos]]
+  name = "Betting on Zero"
+  id = "80108609"
+  url = "https://www.netflix.com/title/80108609"
+  thumbnail = "/images/channels/netflix/bettingonzero.webp"
+
+[[videos]]
+  name = "BoJack Horseman"
+  id = "70300800"
+  url = "https://www.netflix.com/title/70300800"
+  thumbnail = "/images/channels/netflix/bojackhorseman.jpg"
+
+[[videos]]
+  name = "Black Mirror"
+  id = "70264888"
+  url = "https://www.netflix.com/title/70264888"
+  thumbnail = "/images/channels/netflix/blackmirror.jpg"

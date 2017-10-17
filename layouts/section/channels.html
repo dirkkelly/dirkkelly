@@ -3,10 +3,11 @@
   <div class="content container">
     <h1>{{ .Title }}</h1>
 
-    <ul style="list-style: none; padding: 0">
+    {{ partial "head.html" . }}
       {{ range .Site.Data.channels }}
-        {{ partial "channels/li" . }}
+        {{ partial "channels/row" . }}
       {{ end }}
-    </ul>
+    {{ partial "foot.html" . }}
+
   </div>
 {{ partial "foot.html" . }}
