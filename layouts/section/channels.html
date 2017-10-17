@@ -3,11 +3,9 @@
   <div class="content container">
     <h1>{{ .Title }}</h1>
 
-    {{ partial "head.html" . }}
-      {{ range .Site.Data.channels }}
-        {{ partial "channels/row" . }}
-      {{ end }}
-    {{ partial "foot.html" . }}
+    {{ range .Site.Data.channels }}
+      {{ partial "channels/row" . }}
+    {{ end }}
 
   </div>
 {{ partial "foot.html" . }}

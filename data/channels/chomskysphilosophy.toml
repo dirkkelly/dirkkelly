@@ -1,0 +1,29 @@
+name = "Chomsky's Philosophy"
+slug = "chomskysphilosophy"
+url = "https://www.youtube.com/user/chomskysphilosophy"
+description = "A collection of Noam Chomsky's ideas and analyses."
+featured = true
+
+[[videos]]
+  name = "Noam Chomsky - The Alternative to Capitalism"
+  id = "RUzquEya6Lw"
+  url = "https://www.youtube.com/watch?v=RUzquEya6Lw"
+  embed = "https://www.youtube.com/embed/RUzquEya6Lw"
+
+[[videos]]
+  name = "Noam Chomsky - Anarchism I"
+  id = "7_Bv2MKY7uI"
+  url = "https://www.youtube.com/watch?v=7_Bv2MKY7uI"
+  embed = "https://www.youtube.com/embed/7_Bv2MKY7uI"
+
+[[videos]]
+  name = "Noam Chomsky - Anarchism II"
+  id = "PvADXR-JEgM"
+  url = "https://www.youtube.com/watch?v=PvADXR-JEgM"
+  embed = "https://www.youtube.com/embed/PvADXR-JEgM"
+
+[[videos]]
+  name = "Noam Chomsky - Greed"
+  id = "s_4Rmb2wvJ4"
+  url = "https://www.youtube.com/watch?v=s_4Rmb2wvJ4"
+  embed = "https://www.youtube.com/embed/s_4Rmb2wvJ4"
