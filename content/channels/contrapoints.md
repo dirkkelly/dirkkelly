@@ -1,6 +1,6 @@
 ---
 title: Contrapoints
-tags: [Contrapoints, America, Resist, Antifa, Alt-Right, Naxism]
+tags: [Contrapoints, America, Resist, Antifa, Alt-Right, Naxism, Dog Whistling]
 weight: 1
 ---
 
