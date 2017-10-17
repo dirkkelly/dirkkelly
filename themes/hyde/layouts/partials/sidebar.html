@@ -8,21 +8,6 @@
     </div>
 
     <ul class="sidebar-nav hidden-print">
-      <li>
-        <strong><a href="/channels">Channels</a></strong>
-        <ul style="padding: 0;">
-          {{ range .Site.Data.channels }}
-            {{ if eq .featured true }}
-                <li style="list-style: none;">
-                  <a href="/{{ .slug }}/">{{ .name }}</a>
-                </li>
-            {{ end }}
-          {{ end }}
-        </ul>
-      </li>
-    </ul>
-
-    <ul class="sidebar-nav hidden-print">
       {{ range .Site.Menus.meta }}
         <li>
           <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
