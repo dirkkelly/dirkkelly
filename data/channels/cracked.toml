@@ -3,13 +3,14 @@ slug = "cracked"
 url = "https://youtube.com/cracked/"
 description = "America's Only Humor & Video Site, Since 1958"
 
+
 [[videos]]
-  name = "Bernie's Medicare-For-All, Ted Cruz's Porno Free-For-All"
+  name = "The Oceans Are Heating Up, But The President's Hats Are Cool"
   category = "Some News"
-  id = "EyciB-sMXe4"
-  url = "https://www.youtube.com/watch?v=EyciB-sMXe4"
-  embed = "https://www.youtube.com/embed/EyciB-sMXe4"
-  
+  id = "SGiV4Ov2ogU"
+  url = "https://www.youtube.com/watch?v=SGiV4Ov2ogU"
+  embed = "https://www.youtube.com/embed/SGiV4Ov2ogU"
+
 [[videos]]
   name = "Why Weinstein Isn't A Hollywood Problem, It's A Men Problem"
   category = "Some News"
