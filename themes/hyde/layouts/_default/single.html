@@ -23,6 +23,26 @@
 
         {{ .Content }}
 
+        {{ if (and (.Param "Channel") (.Param "Videos")) }}
+          {{ $.Scratch.Set "Channel" (.Param "Channel") }}
+          {{ $.Scratch.Set "Videos" (.Param "Videos") }}
+          {{ range .Site.Data.channels }}
+            {{ .slug }}
+            {{ if (eq .slug ($.Scratch.Get "Channel")) }}
+              <div class="panel panel-videos">
+                {{ range .videos }}
+                  {{ if (in ($.Scratch.Get "Videos") .id) }}
+                    <h3 class="panel-title" style="margin-bottom: 5px"><a href="{{ .url }}">{{ .name }}</a> <small>{{ .category }}</small></h3>
+                    <p style="margin-bottom: 5px">{{ .description }}</p>
+                    {{ partial "videos/embed" . }}
+                  {{ end }}
+                {{ end }}
+              </div>
+
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
       </div>
 
       {{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}
