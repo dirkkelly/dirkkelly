@@ -27,7 +27,6 @@
           {{ $.Scratch.Set "Channel" (.Param "Channel") }}
           {{ $.Scratch.Set "Videos" (.Param "Videos") }}
           {{ range .Site.Data.channels }}
-            {{ .slug }}
             {{ if (eq .slug ($.Scratch.Get "Channel")) }}
               <div class="panel panel-videos">
                 {{ range .videos }}
@@ -38,7 +37,6 @@
                   {{ end }}
                 {{ end }}
               </div>
-
             {{ end }}
           {{ end }}
         {{ end }}
