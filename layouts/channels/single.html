@@ -3,7 +3,9 @@
   <div class="content container">
     {{ with (index .Site.Data.channels (substr $.File.LogicalName 0 -3)) }}
       <h1><a href="{{ .url }}">{{ .name }}</a></h1>
-      <h3 style="margin-bottom: 0">{{ .category }}</h3>
+      {{ if .category }}
+        <h3 style="margin-bottom: 0">{{ .category }}</h3>
+      {{ end }}
     {{ end }}
     {{ partial "tags" . }}
 

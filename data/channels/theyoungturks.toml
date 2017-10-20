@@ -1,0 +1,21 @@
+name = "The Young Turks"
+slug = "theyoungturks"
+url = "https://tytnetwork.com/"
+patreon = "https://www.patreon.com/TYTNation"
+description = "The Largest Online News Show in the World. Hosted by Cenk Uygur & Ana Kasparian. LIVE weekdays 6-8pm ET."
+featured = false
+
+[[videos]]
+  name = "Trump Actually Telling The Truth About Clinton-Russia Uranium Scandal?"
+  description = "It’s possible there is more than one Russia story. Cenk Uygur, host of The Young Turks, breaks it down. "
+  id = "x8HrB93K3Uo"
+  url = "https://www.youtube.com/watch?v=x8HrB93K3Uo"
+  embed = "https://www.youtube.com/embed/x8HrB93K3Uo"
+
+
+[[videos]]
+  name = "Corporate Democrats Purge Bernie Backers From DNC"
+  description = "The DNC is no less corrupt today than it was two years ago. Cenk Uygur, host of The Young Turks, breaks it down."
+  id = "CfFMmBSPT2A"
+  url = "https://www.youtube.com/watch?v=CfFMmBSPT2A"
+  embed = "https://www.youtube.com/embed/CfFMmBSPT2A"

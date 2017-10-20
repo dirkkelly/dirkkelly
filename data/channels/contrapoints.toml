@@ -5,19 +5,29 @@ description = "YouTuber, ex-philosopher, special blossom 🌸"
 featured = true
 
 [[videos]]
+  name = "Degeneracy"
+  description = "A historical-philosophical-pastoral-comical video about the history of the word 'degeneracy' and the right of degenerates to exist."
+  id = "9BlNGZunYM8"
+  url = "https://www.youtube.com/watch?v=9BlNGZunYM8"
+  embed = "https://www.youtube.com/embed/9BlNGZunYM8"
+
+[[videos]]
   name = "Decrypting the Alt-Right: How to Recognize a F@scist"
+  description = "This is a critical and educational video about the deceptive strategies used by the Alt-Right to appeal to centrists. All clips of Alt-Right media are used under fair use for purposes of education, critique, and peaceful resistance."
   id = "Sx4BVGPkdzk"
   url = "https://www.youtube.com/watch?v=Sx4BVGPkdzk"
   embed = "https://www.youtube.com/embed/Sx4BVGPkdzk"
 
 [[videos]]
   name = "The Left"
+  description = "This is a fictional dialogue between characters created for philosophical and artistic purposes. I do not necessarily endorse the viewpoints of any of the characters involved."
   id = "QuN6GfUix7c"
   url = "https://www.youtube.com/watch?v=QuN6GfUix7c"
   embed = "https://www.youtube.com/embed/QuN6GfUix7c"
 
 [[videos]]
   name = "What the Alt-Right Fears"
+  description = "Maximum cuckoldry."
   id = "a3XjRO4-kGk"
   url = "https://www.youtube.com/watch?v=a3XjRO4-kGk"
   embed = "https://www.youtube.com/embed/a3XjRO4-kGk"
