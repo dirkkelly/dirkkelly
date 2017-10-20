@@ -1,7 +1,7 @@
 ---
 date: 2017-05-31
 title: America Needed a Politician
-tags: [America, North Korea, Syria, Election, Chomsky, Trump, Democracy Now]
+tags: [America, North Korea, Syria, Election, Noam Chomsky, Donald Trump, Democracy Now]
 draft: true
 ---
 
@@ -9,7 +9,7 @@ The tension between [North Korea and the United States is becoming increasingly 
 
 What I'm trying to say here is that the common denominator in the increased amounts of conflicts is the United States.
 
-This isn't Trump, this is the [Far Right Military Industrial Complex] waging war on the world in order to justify its ever increasing budget and the massive impact that has on the countries economy. 
+This isn't Trump, this is the [Far Right Military Industrial Complex] waging war on the world in order to justify its ever increasing budget and the massive impact that has on the countries economy.
 
 The only way of dismanateling this machine is to restructure the America government through political reform
 

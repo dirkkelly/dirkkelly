@@ -1,7 +1,7 @@
 ---
 date: 2017-04-01
 title: Reading List
-tags: [America, Trump, Donald Trump, Chomsky, Noam Chomsky, Curtis, Adam Curtis]
+tags: [America, Donald Trump, Noam Chomsky, Curtis, Adam Curtis]
 ---
 
 Currently _work in progress_ This all comes from a [Youtube Playlist](https://www.youtube.com/playlist?list=PLtWyAlh3D1zDspYHgbCeQR2RlERNydGiz), this

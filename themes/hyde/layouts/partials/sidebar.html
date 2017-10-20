@@ -8,6 +8,14 @@
     </div>
 
     <ul class="sidebar-nav hidden-print">
+      {{ range .Site.Menus.tags }}
+        <li>
+          <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
+        </li>
+      {{end}}
+    </ul>
+
+    <ul class="sidebar-nav hidden-print">
       {{ range .Site.Menus.meta }}
         <li>
           <strong><a href="{{.URL}}">{{ .Name }}</a></strong>

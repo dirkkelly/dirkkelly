@@ -1,7 +1,7 @@
 ---
 date: 2017-10-11
 title: Fuck You Trump, by Eminem
-tags: [Eminem, Resist, Trump, Snoop Dogg]
+tags: [Eminem, Resist, Donald Trump, Snoop Dogg]
 ---
 
 Eminem freestyled a fantastic slam against Trump in the opening to the BET Hip Hop Awards last night.
