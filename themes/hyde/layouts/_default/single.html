@@ -23,18 +23,19 @@
 
         {{ .Content }}
 
-        {{ if (and (.Param "Channel") (.Param "Videos")) }}
-          {{ $.Scratch.Set "Channel" (.Param "Channel") }}
-          {{ $.Scratch.Set "Videos" (.Param "Videos") }}
+
+        {{ $channel := .Param "Channel" }}
+        {{ $videos := .Param "Videos" }}
+        {{ if (and $channel $videos) }}
           {{ range .Site.Data.channels }}
-            {{ if (eq .slug ($.Scratch.Get "Channel")) }}
+            {{ if (eq .slug $channel) }}
               <div class="panel panel-videos">
-                {{ range .videos }}
-                  {{ if (in ($.Scratch.Get "Videos") .id) }}
+                {{ range where .videos "id" "in" $videos }}
+
                     <h3 class="panel-title" style="margin-bottom: 5px"><a href="{{ .url }}">{{ .name }}</a> <small>{{ .category }}</small></h3>
                     <p style="margin-bottom: 5px">{{ .description }}</p>
                     {{ partial "videos/embed" . }}
-                  {{ end }}
+
                 {{ end }}
               </div>
             {{ end }}
