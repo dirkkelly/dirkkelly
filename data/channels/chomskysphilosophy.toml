@@ -5,6 +5,12 @@ description = "A collection of Noam Chomsky's ideas and analyses."
 featured = true
 
 [[videos]]
+  name = "Noam Chomsky - Should Neo-Nazis Be Allowed Free Speech?"
+  id = "Ui1vmS9Yz5M"
+  url = "https://www.youtube.com/watch?v=Ui1vmS9Yz5M"
+  embed = "https://www.youtube.com/embed/Ui1vmS9Yz5M"
+
+[[videos]]
   name = "Noam Chomsky - The Alternative to Capitalism"
   id = "RUzquEya6Lw"
   url = "https://www.youtube.com/watch?v=RUzquEya6Lw"
