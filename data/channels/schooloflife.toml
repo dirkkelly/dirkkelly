@@ -1,0 +1,19 @@
+name = "School of Life"
+slug = "schooloflifechannel"
+url = "https://youtube.com/schooloflifechannel"
+description = "The School of Life is both a You Tube channel and a real-life school (for adults) devoted to emotional education and located in 10 campuses around the world. We address the questions we're never taught enough about at regular school or college: How can relationships go well? What is meaningful work? How can love last? How can one find calm? What's gone wrong (and right) with capitalism? "
+featured = true
+
+[[videos]]
+  name = "Why ‘love’ is a useless word – and three alternatives"
+  description = "Many of our relationship problems stem from the emptiness of our vocabulary around our affectionate emotion. We have only the minimal word 'love'. Luckily, the Ancient Greeks had a more nuanced and complicated vocabulary that we can usefully borrow from"
+  id = "dQS9g9JFI08"
+  url = "https://www.youtube.com/watch?v=dQS9g9JFI08"
+  embed = "https://www.youtube.com/embed/dQS9g9JFI08"
+
+[[videos]]
+  name = "Why Polyamory (sadly) can't be for Everyone"
+  description = "Polyamory is an incredibly positive and fulfilling way of life for increasing numbers of people all over the world. At The School of Life, we applaud and celebrate this community. Sadly though, it seems polyamory won't work for everyone; especially those who can't stop being jealous - and naively equate this loving practice with sexual freewheeling."
+  id = "-wUoRKQhBXw"
+  url = "https://www.youtube.com/watch?v=-wUoRKQhBXw"
+  embed = "https://www.youtube.com/embed/-wUoRKQhBXw"
