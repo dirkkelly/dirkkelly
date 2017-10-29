@@ -4,6 +4,13 @@ url = "https://youtube.com/cracked/"
 description = "America's Only Humor & Video Site, Since 1958"
 
 [[videos]]
+  name = "Perhaps President Donald Trump Is Actually A Dumb Liar With A Terrible Memory"
+  category = "Some News"
+  id = "6Wahb_5Dcqw"
+  url = "https://www.youtube.com/watch?v=6Wahb_5Dcqw"
+  embed = "https://www.youtube.com/embed/6Wahb_5Dcqw"
+
+[[videos]]
   name = "The Oceans Are Heating Up, But The President's Hats Are Cool"
   category = "Some News"
   id = "SGiV4Ov2ogU"
