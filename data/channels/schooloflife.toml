@@ -4,6 +4,14 @@ url = "https://youtube.com/schooloflifechannel"
 description = "The School of Life is both a You Tube channel and a real-life school (for adults) devoted to emotional education and located in 10 campuses around the world. We address the questions we're never taught enough about at regular school or college: How can relationships go well? What is meaningful work? How can love last? How can one find calm? What's gone wrong (and right) with capitalism? "
 featured = true
 
+
+[[videos]]
+  name = "How To Be A Good Listener"
+  description = "Listening is something we’re very reluctant to do, not because we’re lazy, but because we have never actually been taught how to do it properly, in a way that can be interesting and rewarding for us."
+  id = "43e51vkffQE"
+  url = "https://www.youtube.com/watch?v=43e51vkffQE"
+  embed = "https://www.youtube.com/embed/43e51vkffQE"
+
 [[videos]]
   name = "What Infidelity Means"
   description = "Being a victim of infidelity is one of the worst things that can befall us in love. One of the ways to come back from the harrowing experience is to ask what the real meaning of the infidelity might be."
