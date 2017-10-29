@@ -5,6 +5,7 @@ theme = "hyde"
 metadataformat = "yaml"
 canonifyurls = true
 googleAnalytics = "UA-38004449-5"
+disqusShortname = "dirkkellycom"
 
 [permalinks]
     channels = "/:filename"

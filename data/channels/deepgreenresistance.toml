@@ -5,10 +5,16 @@ description = "Radical environmental and Social Justice Organization."
 featured = true
 
 [[videos]]
-  name = "Derrick Jensen - Endgame Part One"
-  id = "hOOuGb_E86Q"
-  url = "https://www.youtube.com/watch?v=hOOuGb_E86Q"
-  embed = "https://www.youtube.com/embed/hOOuGb_E86Q"
+  name = "Jensen/ Kunstler - Group Think Increasingly Insane"
+  id = "nVn8KpawbWk"
+  url = "https://www.youtube.com/watch?v=nVn8KpawbWk"
+  embed = "https://www.youtube.com/embed/nVn8KpawbWk"
+
+[[videos]]
+  name = "I've Lost Patience"
+  id = "BKw-vl6dsNA"
+  url = "https://www.youtube.com/watch?v=BKw-vl6dsNA"
+  embed = "https://www.youtube.com/embed/BKw-vl6dsNA"
 
 [[videos]]
   name = "Derrick Jensen - Endgame Part Two"
