@@ -40,6 +40,11 @@ googleAnalytics = "UA-38004449-5"
     weight = 5
 
 [[menu.tags]]
+    name = "Cracked"
+    url = "/tags/cracked/"
+    weight = 1
+
+[[menu.tags]]
     name = "Contrapoints"
     url = "/tags/contrapoints/"
     weight = 1
