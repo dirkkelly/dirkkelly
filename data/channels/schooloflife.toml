@@ -4,6 +4,12 @@ url = "https://youtube.com/schooloflifechannel"
 description = "The School of Life is both a You Tube channel and a real-life school (for adults) devoted to emotional education and located in 10 campuses around the world. We address the questions we're never taught enough about at regular school or college: How can relationships go well? What is meaningful work? How can love last? How can one find calm? What's gone wrong (and right) with capitalism? "
 featured = true
 
+[[videos]]
+  name = "Is There an Alternative to Political Correctness?"
+  description = "Political correctness aims for some very nice results, but its means have a habit of upsetting a lot of people. Might there be an alternative to it? We think there is, and it’s called Politeness."
+  id = "uWM2E9oHlhA"
+  url = "https://www.youtube.com/watch?v=uWM2E9oHlhA"
+  embed = "https://www.youtube.com/embed/uWM2E9oHlhA"
 
 [[videos]]
   name = "How To Be A Good Listener"
