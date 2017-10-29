@@ -50,11 +50,6 @@ googleAnalytics = "UA-38004449-5"
     weight = 1
 
 [[menu.tags]]
-    name = "Donald Trump"
-    url = "/tags/donald-trump/"
-    weight = 2
-
-[[menu.tags]]
     name = "Noam Chomsky"
     url = "/tags/noam-chomsky/"
     weight = 3
