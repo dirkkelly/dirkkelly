@@ -42,7 +42,7 @@ googleAnalytics = "UA-38004449-5"
 [[menu.tags]]
     name = "Culture War"
     url = "/tags/culture-war/"
-    weight = 3
+    weight = 1
 
 [[menu.tags]]
     name = "Contrapoints"
@@ -52,9 +52,9 @@ googleAnalytics = "UA-38004449-5"
 [[menu.tags]]
     name = "Derrick Jensen"
     url = "/tags/derrick-jensen/"
-    weight = 1
+    weight = 3
 
 [[menu.tags]]
     name = "Noam Chomsky"
     url = "/tags/noam-chomsky/"
-    weight = 0
+    weight = 4
