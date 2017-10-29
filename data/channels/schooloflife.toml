@@ -5,6 +5,13 @@ description = "The School of Life is both a You Tube channel and a real-life sch
 featured = true
 
 [[videos]]
+  name = "What is Transference And Why It Matters"
+  description = "Transference is a psychological phenomenon whereby we ‘transfer’ a way of behaving from childhood into adulthood – in situations which don’t really warrant it. It’s a big cause of trouble in relationships."
+  id = "TPMrWGUfkl8"
+  url = "https://www.youtube.com/watch?v=TPMrWGUfkl8"
+  embed = "https://www.youtube.com/watch?v=TPMrWGUfkl8"
+
+[[videos]]
   name = "Why ‘love’ is a useless word – and three alternatives"
   description = "Many of our relationship problems stem from the emptiness of our vocabulary around our affectionate emotion. We have only the minimal word 'love'. Luckily, the Ancient Greeks had a more nuanced and complicated vocabulary that we can usefully borrow from"
   id = "dQS9g9JFI08"
