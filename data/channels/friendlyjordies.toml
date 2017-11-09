@@ -1,0 +1,20 @@
+name = "Friendly Jordies"
+slug = "friendlyjordies"
+url = "https://www.youtube.com/user/friendlyjordies"
+description = "......eh can't be bothered to write anything hahahaha nah actually I'll just sum up what the last person's description I read was "omggg I loooooove coco channel more than my PARENTS!!! What losers!! They didn't create a global fashion icon - worst human beings. I'm ashamed I spent so much time with them in my formative years""
+featured = false
+
+[[videos]]
+  name = "The Truth About Jeremy Corbyn"
+  description = ""More leeches! MOOOOOOORRRRREEEE!!!" Throw Theresa May in the CorBIN!"
+  id = "xpI6Cpv8kUc"
+  url = "https://www.youtube.com/watch?v=xpI6Cpv8kUc"
+  embed = "https://www.youtube.com/embed/xpI6Cpv8kUc"
+
+
+[[videos]]
+  name = "America First, Australia Second/ Australia Welcomes Trump In His Own Words (Official)"
+  description = "thanks for the terriffic idea Young Henry's Brewery, it's truly tremendous, almost as good as your beer, which by the way is the best thing ever, except for maybe Lincoln"
+  id = "F-qP_CIZJus"
+  url = "https://www.youtube.com/watch?v=F-qP_CIZJus"
+  embed = "https://www.youtube.com/embed/F-qP_CIZJus"
