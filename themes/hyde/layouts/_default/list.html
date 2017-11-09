@@ -12,7 +12,7 @@
           <li>
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             {{ if (not .Date.IsZero) }}
-              <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+              <span style="font-weight: bold; font-size: 1.2em">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
             {{ end }}
             {{ partial "tags" . }}
           </li>
