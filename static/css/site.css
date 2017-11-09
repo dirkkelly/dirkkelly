@@ -15,6 +15,8 @@
 
 ul#tags, ul#posts {
   padding: 0;
+  margin: 5px 0 !important;
+  font-weight: normal;
 }
 
 #tags li, #posts li {
@@ -36,7 +38,7 @@ ul#tags, ul#posts {
 }
 
 #posts .post-date {
-  margin-bottom: 0;
+  margin: 5px 0;
 }
 
 h1 {

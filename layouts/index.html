@@ -9,10 +9,11 @@
             {{ .Title }}
           </a>
           {{ if (not .Date.IsZero) }}
-            <small style="font-size: 0.5em">{{ .Date.Format "Mon, Jan 2, 2006" }}</small>
+            <small style="display: block; margin-top: 5px; font-size: 0.5em">{{ .Date.Format "Mon, Jan 2, 2006" }}</small>
           {{ end }}
+          <small style="display: block; font-size: 0.4em">{{ partial "tags" . }}</small>
 
-          <small style="font-size: 0.4em">{{ partial "tags" . }}</small>
+
         </h1>
       {{ end }}
     {{ end }}
