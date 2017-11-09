@@ -1,7 +1,7 @@
 ---
 title: Contrapoints
 tags: [Contrapoints, America, Resist, Antifa, Alt-Right, Naxism, Dog Whistling]
-weight: -1
+weight: 0
 ---
 
 Are you a leftist trying to find your way in this crazy world of polarized political views?

@@ -1,6 +1,6 @@
 ---
 title: Friendly Jordies
-weight: -1
+weight: 0
 ---
 
 Australian Socio Political Commentator
