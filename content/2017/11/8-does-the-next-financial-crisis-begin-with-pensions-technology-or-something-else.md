@@ -1,6 +1,6 @@
 ---
 date: 2017-11-08
-title: Does the Next Financial Crisis Begin With Pensions, Technology, or Cryptocurrency?
+title: Does the Next Financial Crisis Begin With Pensions, Technology, or Something Else?
 tags: [America, Financial Crisis, Technology, Capitalism, Cyptocurrency, IPO, ICO, Etherium, Zero Hedge, Sovereign Man]
 ---
 
