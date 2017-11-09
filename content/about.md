@@ -1,6 +1,6 @@
 ---
 title: About
-tags: [Personal, Fort Collins, Perth, New York]
+tags: [Personal, Australia, America, Socialism, Technology, InterExchange, Pivotal Labs, Fort Collins, Perth, New York]
 ---
 
 ## Australian
