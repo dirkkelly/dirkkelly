@@ -1,0 +1,29 @@
+name = "Independent Man"
+slug = "independentman"
+url = "https://youtube.com/UCjbgKUcTjpxmuW-8U0LR80Q/"
+description = "Australian Socio Political Commentator"
+featured = false
+
+[[videos]]
+  name = "Janet Albrechtsen: Grievance Feminism"
+  id = "bIpYJJzRpEA"
+  url = "https://www.youtube.com/watch?v=bIpYJJzRpEA"
+  embed = "https://www.youtube.com/embed/bIpYJJzRpEA"
+
+[[videos]]
+  name = "The vacuous religion of Intersectionality"
+  id = "yR7x-tUxyvY"
+  url = "https://www.youtube.com/watch?v=yR7x-tUxyvY"
+  embed = "https://www.youtube.com/embed/yR7x-tUxyvY"
+
+[[videos]]
+  name = "Promoting Mediocrity"
+  id = "os2AqadOyIE"
+  url = "https://www.youtube.com/watch?v=os2AqadOyIE"
+  embed = "https://www.youtube.com/embed/os2AqadOyIE"
+
+[[videos]]
+  name = "The Last of Us Part 2 trailer attacked by SJW's"
+  id = "1GAjn2PS4xM"
+  url = "https://www.youtube.com/watch?v=1GAjn2PS4xM"
+  embed = "https://www.youtube.com/embed/1GAjn2PS4xM"
