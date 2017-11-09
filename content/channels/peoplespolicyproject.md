@@ -1,7 +1,7 @@
 ---
 title: People's Policy Project
 tags: [Policy, America, Chapo Trap House]
-weight: 0
+weight: -1
 ---
 
 I heard about Matt Bruenig's work through Chapo Trap House, something I admittedly need to post a lot more of.

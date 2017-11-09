@@ -3,7 +3,7 @@
   <div class="content container">
     {{ range .Data.Pages }}
       {{ if .Param "Redirect" }}
-      {{ else }}
+      {{ else if gt .Weight -1 }}
         <h1 style="font-size: 1.2em">
           <a href="{{ .Permalink }}">
             {{ .Title }}
