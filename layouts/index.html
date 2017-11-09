@@ -8,6 +8,9 @@
           <a href="{{ .Permalink }}">
             {{ .Title }}
           </a>
+          {{ if (not .Date.IsZero) }}
+            <small style="font-size: 0.5em">{{ .Date.Format "Mon, Jan 2, 2006" }}</small>
+          {{ end }}
         </h1>
       {{ end }}
     {{ end }}
