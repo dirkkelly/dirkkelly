@@ -1,16 +1,22 @@
 name = "Friendly Jordies"
 slug = "friendlyjordies"
 url = "https://www.youtube.com/user/friendlyjordies"
-description = "......eh can't be bothered to write anything hahahaha nah actually I'll just sum up what the last person's description I read was "omggg I loooooove coco channel more than my PARENTS!!! What losers!! They didn't create a global fashion icon - worst human beings. I'm ashamed I spent so much time with them in my formative years""
+description = "......eh can't be bothered to write anything hahahaha nah actually I'll just sum up what the last person's description I read was omggg I loooooove coco channel more than my PARENTS!!! What losers!! They didn't create a global fashion icon - worst human beings. I'm ashamed I spent so much time with them in my formative years"
 featured = false
 
 [[videos]]
   name = "The Truth About Jeremy Corbyn"
-  description = ""More leeches! MOOOOOOORRRRREEEE!!!" Throw Theresa May in the CorBIN!"
+  description = "More leeches! MOOOOOOORRRRREEEE!!! Throw Theresa May in the CorBIN!"
   id = "xpI6Cpv8kUc"
   url = "https://www.youtube.com/watch?v=xpI6Cpv8kUc"
   embed = "https://www.youtube.com/embed/xpI6Cpv8kUc"
 
+[[videos]]
+  name = "UK Terrorism, Brexit and Theresa May"
+  description = "A response to my previous video on Jeremy Corbyn. The United Kingdom general election is on June 8."
+  id = "m878oLv78i8"
+  url = "https://www.youtube.com/watch?v=m878oLv78i8"
+  embed = "https://www.youtube.com/embed/m878oLv78i8"
 
 [[videos]]
   name = "America First, Australia Second/ Australia Welcomes Trump In His Own Words (Official)"
