@@ -5,6 +5,12 @@ description = "Radical environmental and Social Justice Organization."
 featured = true
 
 [[videos]]
+  name = "The Deep Green Resistance Strategy"
+  id = "Zni8COO1z2o"
+  url = "https://www.youtube.com/watch?v=Zni8COO1z2o"
+  embed = "https://www.youtube.com/embed/Zni8COO1z2o"
+
+[[videos]]
   name = "Jensen/ Kunstler - Group Think Increasingly Insane"
   id = "nVn8KpawbWk"
   url = "https://www.youtube.com/watch?v=nVn8KpawbWk"

@@ -2,7 +2,7 @@
 date: 2017-06-21
 title: Derrick Jensen
 subtitle: Bringing Down Civilization, The Violence of Capitalism
-tags: [Derrick Jensen, Climate, Extinction, Capitalism, Violence, Resist, America]
+tags: [Deep Green Resistance, Derrick Jensen, Climate, Extinction, Capitalism, Violence, Resist, America]
 ---
 
 The last two days I have been consuming all I can find that covers the thinking of Derrick Jensen.
