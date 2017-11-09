@@ -1,7 +1,7 @@
 ---
 date: 2017-10-04
 title: 3 Great Contrapoints Videos for Lefties
-tags: [Resist, Contrapoints, Antifa, Alt-Right, Nazism]
+tags: [Resist, Contrapoints, Antifa, Alt-Right, Nazism, Culture War]
 channel: contrapoints
 videos: [QuN6GfUix7c, Sx4BVGPkdzk, a3XjRO4-kGk]
 ---

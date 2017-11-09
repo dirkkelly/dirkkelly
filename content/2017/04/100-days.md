@@ -1,6 +1,7 @@
 ---
 title: 100 Days
 date: 2017-04-12
+tags: [Donald Trump, America, Resist, Personal, Reflection, Culture War]
 ---
 
 In the American Media you're hearing a lot right now about Trump's first 100 days, people are (rightfully so) giving this topic a lot of attention. Understanding what this presidency focuses its attention on in its first days gives us an idea of where the administration is pointing our future.
