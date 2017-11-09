@@ -1,6 +1,6 @@
 ---
 title: Andreas M. Antonopoulos
-tags: [Bitcoin]
+tags: [Bitcoin, Cyptocurrency]
 weight: 0
 ---
 
