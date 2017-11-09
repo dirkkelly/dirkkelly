@@ -1,6 +1,6 @@
 ---
 title: Independent Man
-tags: [Mediocrity, Identity Politics]
+tags: [Australia, America, Mediocrity, Identity Politics, Culture War]
 weight: 0
 ---
 

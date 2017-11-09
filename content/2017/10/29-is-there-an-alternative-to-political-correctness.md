@@ -1,7 +1,7 @@
 ---
 date: 2017-10-29
 title: "Is There an Alternative to Political Correctness?"
-tags: [School of Life, Political Correctness, Politeness, Culture War, Philosophy]
+tags: [School of Life, Political Correctness, Politeness, Identity Politics, Culture War, Philosophy]
 channel: schooloflife
 videos: [uWM2E9oHlhA]
 ---
