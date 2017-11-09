@@ -1,5 +1,6 @@
 ---
 title: About
+tags: [Personal, Fort Collins, Perth, New York]
 ---
 
 ## Australian
