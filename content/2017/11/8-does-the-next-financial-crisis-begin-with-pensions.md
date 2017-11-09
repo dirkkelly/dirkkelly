@@ -1,5 +1,5 @@
 ---
-date: 2017-11-09
+date: 2017-11-08
 title: Does the Next Financial Crisis Begin With Pensions, Technology, or Cryptocurrency?
 tags: [America, Financial Crisis, Technology, Capitalism, Cyptocurrency, IPO, ICO, Etherium, Zero Hedge, Sovereign Man]
 ---
