@@ -1,5 +1,6 @@
 ---
 title: Résumé
+tags: [Personal, InterExchange, Pivotal Labs, Murdoch University]
 ---
 
 ## Career

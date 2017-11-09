@@ -1,5 +1,6 @@
 ---
 title: Contact
+tags: [Personal, InterExchange]
 ---
 
 
