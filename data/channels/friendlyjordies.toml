@@ -5,6 +5,13 @@ description = "......eh can't be bothered to write anything hahahaha nah actuall
 featured = false
 
 [[videos]]
+  name = "In the Hall of the Corbyn KING!!"
+  description = "Instead of the landslide victory to the Tories predicted by the media, the UK is facing a hung parliament."
+  id = "BzuKaTuk_lw"
+  url = "https://www.youtube.com/watch?v=BzuKaTuk_lw"
+  embed = "https://www.youtube.com/embed/BzuKaTuk_lw"
+
+[[videos]]
   name = "The Truth About Jeremy Corbyn"
   description = "More leeches! MOOOOOOORRRRREEEE!!! Throw Theresa May in the CorBIN!"
   id = "xpI6Cpv8kUc"
