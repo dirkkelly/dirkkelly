@@ -31,6 +31,6 @@ I watch [YouTube](https://youtube.com/contrapoints), I follow [Reddit](https://r
 
 But I do those things with the purpose of understanding the oppression in our modern world, so that I can eventually work with others to dismantle the systems that serve only the few and replace them with systems that serve everyone, equally, out in the open.
 
-Both of those sides of the fight bringing down, and raising up, require a significant amount of research and planning, otherwise we risk replacing systems of oppression, with more systems of oppression.
+Both of those sides of the fight (bringing down and raising up), require a significant amount of research and planning, otherwise we risk replacing systems of oppression, with more systems of oppression.
 
 Before you rise up, educate yourself to understand what it is you're fighting against and fighting for, [the HipCrime Vocab](http://hipcrimevocab.com) should be a key part of your education.
