@@ -1,6 +1,6 @@
 ---
 title: About
-weight: -1
+weight: 0
 tags: [Personal, Australia, America, Socialism, Technology, InterExchange, Pivotal Labs, Fort Collins, Perth, New York]
 ---
 
