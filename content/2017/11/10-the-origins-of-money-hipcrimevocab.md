@@ -1,7 +1,7 @@
 ---
 date: 2017-11-10
 title: The Origins of Money - the HipCrime Vocab
-tags: [Capitalism, Philosophy, Education, HipCrime Vocab, Resist, FALGSC]
+tags: [Capitalism, Philosophy, HipCrime Vocab, Resist]
 ---
 
 [the HipCrime Vocab](http://hipcrimevocab.com) just completed an insightful and dense series [The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/), and at ten posts, I have to same I'm relieved that's it come to an end :p
