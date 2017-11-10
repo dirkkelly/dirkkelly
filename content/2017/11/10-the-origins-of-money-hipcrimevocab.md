@@ -2,7 +2,7 @@
 date: 2017-11-10
 title: The Origins of Money
 subtitle: the HipCrime Vocab
-tags: [America, Culture War, Identity Politics]
+tags: [Capitalism, Philosophy, Education, HipCrime Vocab]
 ---
 
 [the HipCrime Vocab](http://hipcrimevocab.com) just completed an insightful and dense series [The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/), and I have to same I'm relieved that's it come to an end.
