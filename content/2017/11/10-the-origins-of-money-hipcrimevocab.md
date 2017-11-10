@@ -34,11 +34,3 @@ Both of those sides of the fight require a significant amount of understanding, 
 We now live in an age of corporate tyranny, it's no different really than the feudal days of kingdoms, with their elite few, and masses of serfs.
 
 Before you rise up, educate yourself to understand what it is your fighting against and fighting for, [the HipCrime Vocab](http://hipcrimevocab.com) should be a key part of your education.
-
-<!--
-
-http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/#respond
-
-Thanks for such a wonderfully insightful and dense series, which I haven't finished reading yet. This Key Takeaways post is fantastic, I think it is a great way to introduce someone to the work
-
--->
