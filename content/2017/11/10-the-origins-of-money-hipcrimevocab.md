@@ -1,6 +1,6 @@
 ---
 date: 2017-11-10
-title: The Origins of Money - the HipCrime Vocab
+title: The Origins of Money - HipCrime Vocab
 tags: [Capitalism, Philosophy, HipCrime Vocab, Resist]
 ---
 
