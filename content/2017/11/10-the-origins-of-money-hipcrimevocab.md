@@ -31,15 +31,7 @@ We live in a time of incredible wealth disparity between a very small percentage
 > <br>
 > <small>[The Origins of Money - the HipCrime Vocab](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/)</small>
 
-I live in a small city in Colorado and I am constantly meeting people who are angry at the state of the world, are scared of their future, who want to see change, but see no way to make that change happen.
-
-I understand the rage, misery, and fear that people are feeling, because I feel them myself. However giving in to those feelings is not the way to create change, and if you're truly upset with the state of the world, it's your responsibility to try to be involved in making change.
-
-One of the most important parts of my mental health care regime is education, and I do that in a variety of ways that are no different to what a lot of us do on the Internet.
-
-I watch [YouTube](https://youtube.com/contrapoints), I follow [Reddit](https://reddit.com/latestagecapitalism), and I read [blogs](http://hipcrimevocab.com).
-
-But I do those things with the purpose of understanding the oppression in our modern world, so that I can eventually work with others to dismantle the systems that serve only the few and replace them with systems that serve everyone, equally, out in the open.
+We need to understand oppression in our modern world, so that we can eventually work together to dismantle the systems that serve only the few and replace them with systems that serve everyone, equally, out in the open.
 
 > The Unit of Account and the Means of Exchange need not be the same. In fact, for most of history they weren’t! In the Middle Ages, prices were denominated and taxes assessed in a common unit of account (e.g. livres tournois), but hundreds of different coins churned out by dozens of mints were used to pay them (such as the Piece of Eight or Louis d’Or).
 > <br>
