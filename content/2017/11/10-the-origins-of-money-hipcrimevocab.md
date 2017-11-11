@@ -13,7 +13,9 @@ Thankfully there's a recap post of the [key takeaways of these essays](http://hi
 > <small>[The Origins of Money - the HipCrime Vocab](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/)</small>
 
 Before getting into that though, I think we need to answer the question.
-**What's a hipCrime?** Well you committed one when you opened this blog. Keep it up, it's our only hope!
+
+> **What's a hipCrime?**<br/>
+> Well you committed one when you opened this blog. Keep it up, it's our only hope!
 
 Seriously though, this blog contains in-depth analysis of our society, where power came from, how it is distributed, and the ways in which the systems enforce control.
 
