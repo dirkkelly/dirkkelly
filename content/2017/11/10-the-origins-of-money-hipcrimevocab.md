@@ -6,18 +6,16 @@ tags: [Capitalism, Philosophy, HipCrime Vocab, Resist]
 
 [the HipCrime Vocab](http://hipcrimevocab.com) just completed an insightful and dense series [The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/), and at ten posts, I have to same I'm relieved that's it come to an end :p
 
-Thankfully there's a recap post of the [key takeaways of these essays](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/).
-
-> Money emerges when one class is able to impose obligations on the rest of society.
-> <br>
-> <small>[The Origins of Money - the HipCrime Vocab](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/)</small>
-
-Before getting into that though, I think we need to answer the question.
+[the HipCrime Vocab](http://hipcrimevocab.com) blog contains in-depth analysis of our society, where power came from, how it is distributed, and the ways in which the systems enforce control.
 
 > **What's a hipCrime?**<br/>
 > Well you committed one when you opened this blog. Keep it up, it's our only hope!
 
-[the HipCrime Vocab](http://hipcrimevocab.com) blog contains in-depth analysis of our society, where power came from, how it is distributed, and the ways in which the systems enforce control.
+This latest post is a recap of [key takeaways of The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/).
+
+> Money emerges when one class is able to impose obligations on the rest of society.
+> <br>
+> <small>[The Origins of Money - the HipCrime Vocab](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/)</small>
 
 Money is a very tangible example of power in everybody's lives, and as this article goes on to explain that's the only purpose for money, to funnel power and control.
 
