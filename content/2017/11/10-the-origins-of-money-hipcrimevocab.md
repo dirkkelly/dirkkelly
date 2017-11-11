@@ -23,7 +23,7 @@ Money is a very tangible example of power in everybody's lives, and as this arti
 > <br>
 > <small>[The Origins of Money - the HipCrime Vocab](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/)</small>
 
-We live in a time of incredible wealth disparity between a very small percentage of the population and the rest of the world. Increasingly the life of an average human is getting worse, while those in the dominating classes amass so much wealth and power they have been able to drive the policies of governments all over the world, notably the richest one, the USA.
+We live in a time of incredible wealth disparity between a very small percentage of the population and the rest of the world. Increasingly the life of an average human is getting worse, while those in the dominating classes amass so much wealth and power they have been able to drive the policies of governments all over the world.
 
 > ...the rise of class society and inequality took place alongside the emergence of money, whereby money played a key role in establishing, maintaining and exacerbating inequality and class division in societies.
 > <br>
