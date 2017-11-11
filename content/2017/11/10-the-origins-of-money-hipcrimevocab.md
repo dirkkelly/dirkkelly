@@ -17,7 +17,7 @@ This latest post is a recap of [key takeaways of The Origins of Money](http://hi
 > <br>
 > <small>[The Origins of Money - the HipCrime Vocab](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/)</small>
 
-Money is a very tangible example of power in everybody's lives, and as this article goes on to explain that's the only purpose for money, to funnel power and control.
+Money is a very tangible example of power in everybody's lives, and as this article goes on to explain that's the original purpose for money, power and control.
 
 > Money has no value in and of itself. It is not the thing that matters, but the ability of one section of the population to impose its standard on the majority, and the institutions through which that majority accepts the will of the minority. Money, then as a unit of account, represents the class relations that developed in Egypt (and elsewhere), and class relations are social relations.
 > <br>
