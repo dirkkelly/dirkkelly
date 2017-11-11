@@ -4,12 +4,12 @@ title: The Origins of Money - HipCrime Vocab
 tags: [Capitalism, Philosophy, HipCrime Vocab, Resist]
 ---
 
-[the HipCrime Vocab](http://hipcrimevocab.com) just completed an insightful and dense series [The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/), and at ten posts, I have to same I'm relieved that's it come to an end :p
-
-[the HipCrime Vocab](http://hipcrimevocab.com) blog contains in-depth analysis of our society, where power came from, how it is distributed, and the ways in which the systems enforce control.
+[the HipCrime Vocab](http://hipcrimevocab.com) is a source of many in-depth essays analyzing power in our society, where it came from, how it is distributed, and the ways in which the systems enforce control.
 
 > **What's a hipCrime?**<br/>
 > Well you committed one when you opened this blog. Keep it up, it's our only hope!
+
+The author just completed an insightful and dense series [The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/), and at ten posts, I have to same I'm relieved that's it come to an end :p
 
 This latest post is a recap of [key takeaways of The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/).
 
