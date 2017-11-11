@@ -17,7 +17,7 @@ Before getting into that though, I think we need to answer the question.
 > **What's a hipCrime?**<br/>
 > Well you committed one when you opened this blog. Keep it up, it's our only hope!
 
-Seriously though, this blog contains in-depth analysis of our society, where power came from, how it is distributed, and the ways in which the systems enforce control.
+[the HipCrime Vocab](http://hipcrimevocab.com) blog contains in-depth analysis of our society, where power came from, how it is distributed, and the ways in which the systems enforce control.
 
 Money is a very tangible example in everybody's lives of power, and as this article goes on to explain that's the only purpose for money, to funnel power and control.
 
