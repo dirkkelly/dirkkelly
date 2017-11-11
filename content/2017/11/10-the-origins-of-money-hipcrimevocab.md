@@ -9,7 +9,7 @@ tags: [Capitalism, Philosophy, HipCrime Vocab, Resist]
 > **What's a hipCrime?**<br/>
 > Well you committed one when you opened this blog. Keep it up, it's our only hope!
 
-The author just completed an insightful and dense series [The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/), and at ten posts, I have to same I'm relieved that's it come to an end :p
+The author just completed an insightful and dense series [The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/), and at ten posts, I have to say I'm relieved that's it come to an end :p
 
 This latest post is a recap of [key takeaways of The Origins of Money](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/).
 
