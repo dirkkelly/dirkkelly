@@ -4,15 +4,15 @@ title: Does the Next Financial Crisis Begin With Pensions, Technology, or Someth
 tags: [America, Financial Crisis, Technology, Capitalism, Cyptocurrency, IPO, ICO, Etherium, Zero Hedge, Sovereign Man]
 ---
 
-> Democratic Senator Sherrod Brown from Ohio plans to introduce legislation that would allow struggling multiemployer pension funds to borrow from the U.S. Treasury to remain solvent.
+So does the next financial crisis begin with pensions? ... Maybe.
 
 [It Begins: Pension Bailout Bill To Be Introduced This Week](http://www.zerohedge.com/news/2017-11-08/it-begins-democratic-senator-introduce-bill-taxpayer-funded-pension-bailouts)
 
-So does the next financial crisis begin with pensions? ... Maybe.
-
-There's so many bubbles, could it be that tech brings things down?
+> Democratic Senator Sherrod Brown from Ohio plans to introduce legislation that would allow struggling multiemployer pension funds to borrow from the U.S. Treasury to remain solvent.
 
 [![When Total Economic Collapse is just "Business Cycles"](/images/2017/11/collapse-business-cycles.jpg)](https://www.reddit.com/r/FULLCOMMUNISM/comments/7c49s5/stock_markets_irl/)
+
+There's so many bubbles, could it be that tech brings things down?
 
 [Investors now value a $20 billion company based on its “energy and spirituality”](http://www.zerohedge.com/news/2017-11-08/investors-now-value-20-billion-company-based-its-energy-spirituality)
 
