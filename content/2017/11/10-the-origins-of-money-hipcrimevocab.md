@@ -19,7 +19,7 @@ Before getting into that though, I think we need to answer the question.
 
 [the HipCrime Vocab](http://hipcrimevocab.com) blog contains in-depth analysis of our society, where power came from, how it is distributed, and the ways in which the systems enforce control.
 
-Money is a very tangible example in everybody's lives of power, and as this article goes on to explain that's the only purpose for money, to funnel power and control.
+Money is a very tangible example of power in everybody's lives, and as this article goes on to explain that's the only purpose for money, to funnel power and control.
 
 > Money has no value in and of itself. It is not the thing that matters, but the ability of one section of the population to impose its standard on the majority, and the institutions through which that majority accepts the will of the minority. Money, then as a unit of account, represents the class relations that developed in Egypt (and elsewhere), and class relations are social relations.
 > <br>
