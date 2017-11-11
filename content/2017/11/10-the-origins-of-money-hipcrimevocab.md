@@ -45,8 +45,12 @@ But I do those things with the purpose of understanding the oppression in our mo
 
 Both of those sides of the fight (bringing down and raising up), require a significant amount of research and planning, otherwise we risk replacing systems of oppression, with more systems of oppression.
 
+> Debt servitude appears to be the earliest form of mass slavery. While slaves were often captured prisoners of war in primitive cultures, their numbers were necessarily limited because having too many hostile foreigners living among your society and doing its essential chores would be dangerous (if not outright suicidal).
+> <br>
+> <small>[The Origins of Money - the HipCrime Vocab](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/)</small>
+
 Before you rise up, educate yourself to understand what it is you're fighting against and fighting for, [the HipCrime Vocab](http://hipcrimevocab.com) should be a key part of your education.
 
-> Debt servitude appears to be the earliest form of mass slavery. While slaves were often captured prisoners of war in primitive cultures, their numbers were necessarily limited because having too many hostile foreigners living among your society and doing its essential chores would be dangerous (if not outright suicidal).
+> In our society, money has multiple uses: means of exchange, store of value, unit of account, and settlement of debts. That these things are all embodied in a single item we call “money” is not a natural phenomenon but a feature of capitalist credit money which allows this system to function as it does. That invention took a long time and it’s probably not over yet.
 > <br>
 > <small>[The Origins of Money - the HipCrime Vocab](http://hipcrimevocab.com/2017/11/10/the-origin-of-money-key-takeaways/)</small>
