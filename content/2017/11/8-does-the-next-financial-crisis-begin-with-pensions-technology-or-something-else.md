@@ -14,7 +14,7 @@ So does the next financial crisis begin with pensions? ... Maybe.
 
 There's so many bubbles, could it be that tech brings things down?
 
-[Investors now value a $20 billion company based on its “energy and spirituality”](http://www.zerohedge.com/news/2017-11-08/investors-now-value-20-billion-company-based-its-energy-spirituality)
+[Investors now value a $20 billion company based on its “energy and spirituality”](https://www.sovereignman.com/trends/investors-now-value-a-20-billion-company-based-on-its-energy-and-spirituality-22591/)
 
 I was in Nashville the other day and I saw a huge WeWork office, a few weeks before that I was in Denver and saw a huge one, in my New York office there is one across the road.
 
