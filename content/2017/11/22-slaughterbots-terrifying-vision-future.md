@@ -18,4 +18,4 @@ Realizing the potentially catastrophic impact of smart machines with the ability
 > <br/>
 > **[Ban Lethal Autonomous Weapons](http://autonomousweapons.org/)**
 
-This video is a fictional representation of what our world could look like if we continue down the unregulated, unlimited path of creating machines the kill.
+This video is a fictional representation of what our world could look like if we continue down the unregulated, unlimited path of creating machines that kill.
