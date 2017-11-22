@@ -1,7 +1,7 @@
 ---
 date: 2017-04-06
 title: America Attacks Syria
-tags: [Donald Trump, America, Syria, Russia, Nuclear War, Climate Change]
+tags: [Donald Trump, America, Syria, Russia, Nuclear War, War, Climate Change]
 ---
 
 ## My Reaction
