@@ -1,6 +1,6 @@
 ---
 date: 2017-11-22
-title: Slaughterbots, A Terrifying Vision of the Future
+title: Slaughterbots, A Terrifying Vision of the Future if Bots are Allowed to Kill.
 tags: [America, War, Cyber War, Automation, Artificial Intelligence]
 channel: stopautonomousweapons
 videos: [9CO6M2HsoIA]
@@ -12,7 +12,7 @@ All technological innovations of the past 50 years have been driven primarily by
 
 As these different technologies become more mature their shared capabilities are becoming increasingly powerful, so much so that humans are no longer as capable as machines in [many](https://www.polygon.com/2017/8/12/16138942/dota-2-bot-vs-human-international-2017) [different](https://www.theverge.com/2017/1/25/14358246/ai-poker-tournament-cmu-libratus-vs-human-losing) [fields](http://time.com/4960778/computers-smarter-than-humans/).
 
-Realizing the potentially catastrophic impact of smart machines with the ability to kill at their own discretion, Experts across all these industries have teamed up to educate the public of the importance of regulating and limiting the capabilities of these tools.
+Realizing the potentially catastrophic impact of smart machines with the ability to kill at their own discretion, experts across all these industries have teamed up to educate the public of the importance of regulating and limiting the capabilities of these tools.
 
 > Many of the world's leading AI researchers and humanitarian organizations are concerned about the potentially catastrophic consequences of allowing lethal autonomous weapons to be developed. Encourage your country’s leaders to support an international treaty limiting lethal autonomous weapons:
 > <br/>
