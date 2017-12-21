@@ -41,9 +41,14 @@ disqusShortname = "dirkkellycom"
     weight = 5
 
 [[menu.tags]]
+    name = "Noam Chomsky"
+    url = "/tags/noam-chomsky/"
+    weight = 1
+
+[[menu.tags]]
     name = "Contrapoints"
     url = "/tags/contrapoints/"
-    weight = 3
+    weight = 2
 
 [[menu.tags]]
     name = "Friendly Jordies"
@@ -54,8 +59,3 @@ disqusShortname = "dirkkellycom"
     name = "Super Deluxe"
     url = "/tags/super-deluxe/"
     weight = 4
-
-[[menu.tags]]
-    name = "Noam Chomsky"
-    url = "/tags/noam-chomsky/"
-    weight = 5
