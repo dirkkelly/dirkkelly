@@ -17,9 +17,9 @@ Having successfully built a quality engineering team, I am working on an organiz
 
 #### [InterExchange](http://interexchange.org) <small>2013 - 2015</small>
 
-InterExchange provides work and travel opportunities to young people, I built and maintain their online service application.
+InterExchange provides work and travel opportunities to young people, I built and maintained their online service application.
 
-After many years consulting on various projects, I am now taking the time to fully understand a single organization.
+After many years consulting on various projects, I was taking the time to fully understand a single organization.
 
 ### Lead Software Developer (Anchor)
 
