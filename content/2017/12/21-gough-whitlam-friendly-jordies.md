@@ -2,7 +2,7 @@
 date: 2017-12-21
 title: Gough Whitlam - Friendly Jordies
 subtitle: Setting the Record Straight
-tags: [America, Vic Berger, Super Deluxe, Donald Trump, Culture War]
+tags: [Australia, Friendly Jordies, Gough Whitlam, News Corporation,]
 ---
 
 > I wanted to make a video purely honoring the life and achievements of Edward Gough Whitlam
