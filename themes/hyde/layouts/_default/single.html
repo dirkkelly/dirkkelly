@@ -25,21 +25,17 @@
           {{ .Content }}
         </div>
 
-        {{ $channel := .Param "Channel" }}
         {{ $videos := .Param "Videos" }}
-        {{ if (and $channel $videos) }}
+        {{ if $videos }}
           {{ range .Site.Data.channels }}
-            {{ if (eq .slug $channel) }}
-              <div class="panel panel-videos">
-                {{ range where .videos "id" "in" $videos }}
+            <div class="panel panel-videos">
+              {{ range where .videos "id" "in" $videos }}
+                <h3 class="panel-title" style="margin-bottom: 5px"><a href="{{ .url }}">{{ .name }}</a> <small>{{ .category }}</small></h3>
 
-                    <h3 class="panel-title" style="margin-bottom: 5px"><a href="{{ .url }}">{{ .name }}</a> <small>{{ .category }}</small></h3>
-                    <p style="margin-bottom: 5px">{{ .description }}</p>
-                    {{ partial "videos/embed" . }}
-
-                {{ end }}
-              </div>
-            {{ end }}
+                <p style="margin-bottom: 5px">{{ .description }}</p>
+                {{ partial "videos/embed" . }}
+              {{ end }}
+            </div>
           {{ end }}
         {{ end }}
 

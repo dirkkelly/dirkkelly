@@ -5,6 +5,13 @@ description = "YouTuber, ex-philosopher, special blossom 🌸"
 featured = true
 
 [[videos]]
+  name = "Violence"
+  description = "A fictional dialogue between some voices in my head on the philosophy of violence. No dolls or mannequins were harmed in the making of this film."
+  id = "lmsoVFCUN3Q"
+  url = "https://www.youtube.com/watch?v=lmsoVFCUN3Q"
+  embed = "https://www.youtube.com/embed/lmsoVFCUN3Q"
+
+[[videos]]
   name = "Degeneracy"
   description = "A historical-philosophical-pastoral-comical video about the history of the word 'degeneracy' and the right of degenerates to exist."
   id = "9BlNGZunYM8"

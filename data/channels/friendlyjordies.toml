@@ -5,6 +5,20 @@ description = "......eh can't be bothered to write anything hahahaha nah actuall
 featured = false
 
 [[videos]]
+  name = "People who vote Liberal"
+  description = "The Aspirational Class liberal voters, who are too busy not thinking about thinking, to think about improving anything."
+  id = "SNwgjVzkT-I"
+  url = "https://www.youtube.com/watch?v=SNwgjVzkT-I"
+  embed = "https://www.youtube.com/embed/SNwgjVzkT-I"
+
+[[videos]]
+  name = "WHY I HATE THE PLEBISCITE"
+  description = "We take a look at the media's reaction to the plebiscite - and everything that surrounds it."
+  id = "BzuKaTuk_lw"
+  url = "https://www.youtube.com/watch?v=BzuKaTuk_lw"
+  embed = "https://www.youtube.com/embed/BzuKaTuk_lw"
+
+[[videos]]
   name = "In the Hall of the Corbyn KING!!"
   description = "Instead of the landslide victory to the Tories predicted by the media, the UK is facing a hung parliament."
   id = "BzuKaTuk_lw"

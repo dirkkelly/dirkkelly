@@ -1,0 +1,11 @@
+name = "Stevie Cutts"
+slug = "steviecutts"
+url = "https://youtube.com/steviecutts"
+description = "A freelance animator & illustrator based in London."
+
+[[videos]]
+  name = "Happiness"
+  description = "The story of a rodent's unrelenting quest for happiness and fulfillment. "
+  id = "e9dZQelULDk"
+  url = "https://www.youtube.com/watch?v=e9dZQelULDk"
+  embed = "https://www.youtube.com/embed/e9dZQelULDk"
