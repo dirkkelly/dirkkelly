@@ -33,7 +33,7 @@ I started to get to learn more about businesses and use my improved software dev
 
 #### [Pivotal Labs](http://pivotallabs.com/) <small>2011 - 2012</small>
 
-Pivots are an amalgamation of engineers and consultants, I build apps for clients and teach them an agile development process.
+Pivots are an amalgamation of engineers and consultants, I built apps for clients and teach them an agile development process.
 
 Being away from the top of the business allowed me to focus on learning the craft behind building software.
 
