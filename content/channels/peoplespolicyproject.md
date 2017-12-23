@@ -1,6 +1,6 @@
 ---
 title: People's Policy Project
-tags: [Policy, America, Chapo Trap House]
+tags: [Policy, America, Matt Bruenig, Peoples Policy Project, Chapo Trap House]
 weight: 0
 ---
 
