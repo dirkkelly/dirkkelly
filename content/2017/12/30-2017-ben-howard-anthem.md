@@ -7,7 +7,7 @@ tags: [Personal, Music, Ben Howard, Resist]
 
 2017 hasn't been a good year, let's face it, 2018 won't be better.
 
-After suffering internally for decades, seeking help, working hard, and greiving immensely, **I'm still here**.
+After suffering internally for decades, seeking help, working hard, and greiving immensely, I'm still here.
 
 I'm still here as a lot of other people in my life come to understand the position that we're in as a species, to realize the challenges that threaten our survival.
 
@@ -63,10 +63,14 @@ None of us can do this alone, it's only through collective action that we can ta
 
 ## Keep On Going
 
-The road ahead of each of us is something not of us are privy to, but it's only through action, and as such only through ensuring the survival of yourself, and the result of your actions, that we can make change.
+The road ahead of each of us is something none of us are privy to, but it's only through action, and as such only through ensuring the survival of yourself, and the result of your actions, that we can make change.
+
+<!--
 
 ### [Lifeline Australia](https://www.lifeline.org.au/)
 
 ### [USA Suicide Hotlines](http://www.suicide.org/suicide-hotlines.html)
 
 ### [International Suicide Hotlines](http://www.suicide.org/international-suicide-hotlines.html)
+
+-->
