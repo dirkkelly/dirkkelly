@@ -1,6 +1,6 @@
 ---
 date: 2018-01-02
-title: The World Doesn't Owe You Anything!
+title: The World Doesn't Owe You Anything! - Jordan Shanks
 subtitle: Jordan Shanks helping you, help your mindset.
 tag: [Personal, Friendly Jordies, Jordan Shanks]
 ---

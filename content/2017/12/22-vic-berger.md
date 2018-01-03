@@ -1,7 +1,7 @@
 ---
 date: 2017-12-21
-title: Vic Berger - Video Political Satire
-subtitle:
+title: Vic Berger
+subtitle: Sassy Smart Video Political Satire
 tags: [America, Vic Berger, Super Deluxe, Donald Trump, Culture War]
 ---
 
