@@ -19,12 +19,8 @@ Before heading out tonight to ring in the new year with family I have been readi
 
 > There is a quiet but massive shift going on in American agriculture today, toward diverse farms of dozens of acres instead of thousands, from which chemicals and Diesel fuel and plows have been banished, where soil and diversity are treasured, whose products are sold locally instead of globally. These farms are not only operated by, but loved by, young people. Happy, centered, ethically developed young people.
 
-## Returning to Perth
-
-## Building the Farm
+### Some Inspiration
 
 ![Main](/images/2017/12/realestate-125182358-main.jpg)
 
 ![Image 19](/images/2017/12/realestate-125182358-image19.jpg)
-
-## Growing with the Community
