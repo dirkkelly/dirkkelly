@@ -5,7 +5,6 @@ theme = "hyde"
 metadataformat = "yaml"
 canonifyurls = true
 googleAnalytics = "UA-38004449-5"
-disqusShortname = "dirkkellycom"
 
 [permalinks]
     channels = "/:filename"
@@ -16,6 +15,7 @@ disqusShortname = "dirkkellycom"
 [params]
     author = "dirkkelly"
     description = "Australian writing during the collapse of Capitalism and humanity's struggle to survive the Holocene extinction."
+    disqusShortname = "dirkkellycom"
 
     themeColor = "theme-base-au"
 
