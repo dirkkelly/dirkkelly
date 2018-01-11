@@ -59,6 +59,7 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -73,6 +74,16 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+}
+
+.sidebar img {
+  display: none;
+}
+
+@media (min-width: 48em) {
+  .sidebar img {
+    display: block;
+  }
 }
 
 /* About section */
