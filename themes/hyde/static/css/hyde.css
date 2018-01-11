@@ -260,12 +260,12 @@ a.sidebar-nav-item:focus {
 }
 
 /* Australian */
-.theme-base-au .sidebar {
-  background-color: #336699;
+.theme-base-dk .sidebar {
+  background-color: #326799;
 }
-.theme-base-au .content a,
-.theme-base-au .related-posts li a:hover {
-  color: #336699;
+.theme-base-dk .content a,
+.theme-base-dk .related-posts li a:hover {
+  color: #326799;
 }
 
 
