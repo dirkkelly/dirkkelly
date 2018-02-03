@@ -2,7 +2,7 @@
 date: 2018-01-09
 title: Capitalism is Killing Itself - Richard Wolff
 subtitle: These recurring problems of Capitalism, Maxism says are built into the system.
-tag: [Capialism, Marxism, Richard Wolff, Empire Files]
+tag: [Capitalism, Marxism, Richard Wolff, Empire Files]
 ---
 
 When I arrived to the United States in 2011 my friend told me he had been at the Occupy Wallstreet demonstrations the previous week, I thought he was crazy.
