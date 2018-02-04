@@ -2,7 +2,7 @@
 date: 2018-02-02
 title: America Will Collapse, Earth Will Boil, and Humanity Will Perish
 subtitle: Understanding this will help you plan for your future.
-tag: [America, Climate Change, Holocene]
+tags: [America, Climate Change, Extinction]
 ---
 
 ## America Will Collapse
