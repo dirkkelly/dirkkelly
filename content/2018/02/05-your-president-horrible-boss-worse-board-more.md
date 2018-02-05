@@ -23,11 +23,11 @@ In this capitalist system the workers do not have any say how the profits of org
 
 Rather than organizing to rally against a broken political system, the workers should be rallying against broken corporate systems. They should be fighting to have a say in how their corporation uses its profits, and how it earns those profits.
 
+{{<youtube 4Va1tXNGEAE>}}
+
 That power lies in the board, a small group of people who ultimately decide on how the organization behaves, where it focuses its efforts, and how it distributes it’s profits.
 
 Dr. Richard Wolff continues to do a lot of research and produce many great videos on how worker owned cooperatives can shift the balance of power away from the the few and give it to the many people in the organization.
-
-{{<youtube 4Va1tXNGEAE>}}
 
 {{<youtube jmu3vtF0n8Q>}}
 
