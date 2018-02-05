@@ -2,7 +2,7 @@
 date: 2018-02-05
 title: Your President is Horrible, Your Boss is Worse, and Your Board Even More So
 subtitle: Trump is doing horrible things, because horrible people have all the money and power.
-tags: [America, Work, Union]
+tags: [America, Capitalism, Marxism, Richard Wolff]
 ---
 
 The day after he won the election, people in our New York office were crying, devistated that such a horrible person had taken control of one of the most evil imperialist nations to exist.
@@ -24,3 +24,11 @@ In this capitalist system the workers do not have any say how the profits of org
 Rather than organizing to rally against a broken political system, the workers should be rallying against broken corporate systems. They should be fighting to have a say in how their corporation uses its profits, and how it earns those profits.
 
 That power lies in the board, a small group of people who ultimately decide on how the organization behaves, where it focuses its efforts, and how it distributes it’s profits.
+
+Dr. Richard Wolff continues to do a lot of research and produce many great videos on how worker owned cooperatives can shift the balance of power away from the the few and give it to the many people in the organization.
+
+{{<youtube 4Va1tXNGEAE>}}
+
+{{<youtube jmu3vtF0n8Q>}}
+
+Are you interested in having more control over your organization, have you taken control and would like to share your story? Let us know in the comments below.
