@@ -25,10 +25,16 @@ Rather than organizing to rally against a broken political system, the workers s
 
 {{<youtube 4Va1tXNGEAE>}}
 
+> **Economic Update: Success of NY Worker Coops [CLIP]**
+> https://youtu.be/4Va1tXNGEAE
+
 That power lies in the board, a small group of people who ultimately decide on how the organization behaves, where it focuses its efforts, and how it distributes it’s profits.
 
 Dr. Richard Wolff continues to do a lot of research and produce many great videos on how worker owned cooperatives can shift the balance of power away from the the few and give it to the many people in the organization.
 
 {{<youtube jmu3vtF0n8Q>}}
+
+> **Economic Update: Worker Coops As Our Economic Future**
+> https://youtu.be/jmu3vtF0n8Q
 
 Are you interested in having more control over your organization, have you taken control and would like to share your story? Let us know in the comments below.
