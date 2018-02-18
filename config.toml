@@ -1,7 +1,7 @@
 baseurl = "https://dirkkelly.com/"
 languageCode = "en-us"
 title = "Dirk Kelly"
-theme = "hyde"
+theme = "dirkkelly"
 metadataformat = "yaml"
 canonifyurls = true
 googleAnalytics = "UA-38004449-5"
