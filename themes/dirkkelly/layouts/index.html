@@ -8,8 +8,7 @@
 
       <div class="content col-12 col-md-9 col-lg-6">
         {{ range .Data.Pages }}
-          {{ if .Param "Redirect" }}
-          {{ else }}
+          {{ if (not .Date.IsZero) }}
             <h1 class="h2"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
 
             {{ if .Param "Subtitle" }}
