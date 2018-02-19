@@ -2,15 +2,25 @@
 
   <div class="container-fluid">
     <div class="row">
-      <div class="col-12 col-md-3">
+      <div class="sidebar col-12 col-md-3">
         {{ partial "sidebar.html" . }}
       </div>
 
-      <div class="col-12 col-md-9">
+      <div class="content col-12 col-md-9">
         {{ range .Data.Pages }}
           {{ if .Param "Redirect" }}
           {{ else }}
             <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+
+            {{ if .Param "Subtitle" }}
+              <h2>{{ .Param "Subtitle" }}</h2>
+            {{ end }}
+
+            {{ if (not .Date.IsZero) }}
+              <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</a>
+            {{ end }}
+
+            {{ partial "tags" . }}
           {{ end }}
         {{ end }}
       </div>

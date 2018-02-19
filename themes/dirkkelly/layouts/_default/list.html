@@ -2,11 +2,11 @@
 
   <div class="container-fluid">
     <div class="row">
-      <div class="col-12 col-md-3">
+      <div class="sidebar col-12 col-md-3">
         {{ partial "sidebar.html" . }}
       </div>
 
-      <div class="col-12 col-md-9">
+      <div class="content col-12 col-md-9">
         <h1><a>{{ .Title }}</a></h1>
 
         {{ range .Data.Pages.ByWeight }}
