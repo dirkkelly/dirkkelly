@@ -1,5 +1,5 @@
 <a href="/" title="{{ .Site.Title }}">
-  <img class="d-none d-sm-block img-fluid" src="/images/logo.png" alt="{{ .Site.Title }}" />
+  <img class="d-none d-md-block img-fluid" src="/images/logo.png" alt="{{ .Site.Title }}" />
 </a>
 
 <div class="sidebar-about text-center text-md-left">
@@ -11,7 +11,7 @@
 
 <ul class="sidebar-nav text-center text-md-left list-unstyled">
   {{ range .Site.Menus.tags }}
-    <li class="d-inline d-sm-block">
+    <li class="d-inline d-md-block">
       <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
     </li>
   {{end}}
@@ -19,7 +19,7 @@
 
 <ul class="sidebar-nav text-center text-md-left list-unstyled">
   {{ range .Site.Menus.meta }}
-    <li class="d-inline d-sm-block">
+    <li class="d-inline d-md-block">
       <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
     </li>
   {{end}}
