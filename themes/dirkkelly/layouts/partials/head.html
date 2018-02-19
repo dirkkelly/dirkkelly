@@ -22,13 +22,23 @@
 
     <style type="text/css">
       body { font-family: sans-serif; }
+
+      .text-center { text-align: center; }
+      .d-inline { display: inline; }
+      .list-unstyled { list-style: none; }
+      .list-inline-item { display: inline; }
+
       .sidebar { float: left; width: 20%; padding: 10px; background: #326799; color: #FFFFFF; }
       .sidebar img { width: 100%; }
       .sidebar a { color: #FFFFFF; text-decoration: none }
+
       .content { float: left; width: 70%; }
       .content a { color: #326799; text-decoration: none }
-      .content .list-unstyled { list-style: none; }
-      .content .list-inline-item { display: inline; }
+
+      @media only screen and (max-width: 768px) {
+        .sidebar { width: 100%; }
+        .d-none { display: none; }
+      }
     </style>
   </head>
 
