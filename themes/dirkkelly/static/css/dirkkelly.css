@@ -2,8 +2,7 @@ body {
   overflow-y: scroll;
 }
 
-.sidebar {
-  background: #326799;
+.sidebar a {
   color: #FFFFFF;
 }
 
@@ -16,12 +15,7 @@ body {
   font-size: 0.9em;
 }
 
-.sidebar a {
-  color: #FFFFFF;
-}
-
 .content {
   height: 100vh;
   padding: 20px;
-  background: #FFFFFF;
 }
