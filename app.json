@@ -1,0 +1,20 @@
+{
+  "name": "dirkkelly",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/interexchange/heroku-buildpack-hugo.git"
+    }
+  ]
+}
