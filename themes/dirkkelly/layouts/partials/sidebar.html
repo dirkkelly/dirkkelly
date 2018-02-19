@@ -1,0 +1,26 @@
+<a href="/">
+  <img class="d-none d-sm-block img-fluid" src="/images/logo.png" alt="{{ .Site.Title }}" />
+</a>
+
+<div class="sidebar-about text-center text-md-left">
+  <a href="/"><h1>{{ .Site.Title }}</h1></a>
+  <p class="lead hidden-print" style="font-size: 0.9em">
+    {{ .Site.Params.description }}
+  </p>
+</div>
+
+<ul class="sidebar-nav text-center text-md-left list-unstyled">
+  {{ range .Site.Menus.tags }}
+    <li class="d-inline d-sm-block">
+      <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
+    </li>
+  {{end}}
+</ul>
+
+<ul class="sidebar-nav text-center text-md-left list-unstyled">
+  {{ range .Site.Menus.meta }}
+    <li class="d-inline d-sm-block">
+      <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
+    </li>
+  {{end}}
+</ul>

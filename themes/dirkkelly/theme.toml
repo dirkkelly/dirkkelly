@@ -1,0 +1,17 @@
+name = "Dirk Kelly"
+license = "MIT"
+licenselink = "https://github.com/dirkkelly/dirkkelly/tree/master/themes/dirkkelly/LICENSE.md"
+description = "My Theme"
+tags = ["blog", personal"]
+features = ["blog", "themes", "disqus"]
+min_version = 0.31
+
+[author]
+    name = "Dirk Kelly"
+    homepage = "http://dirkkelly.com"
+
+# If Porting existing theme
+[original]
+    author = ["spf13", "mdo"]
+    homepage = ["http://spf13.com", "http://markdotto.com/"]
+    repo = ["https://github.com/spf13/hyde", "https://www.github.com/mdo/hyde"]

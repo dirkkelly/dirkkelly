@@ -1,0 +1,19 @@
+{{ partial "head.html" . }}
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="sidebar col-12 col-md-3">
+        {{ partial "sidebar.html" . }}
+      </div>
+
+      <div class="content col-12 col-md-9 col-xl-6">
+        <h1><a>{{ .Title }}</a></h1>
+
+        {{ range .Data.Pages.ByWeight }}
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+{{ partial "foot.html" . }}
