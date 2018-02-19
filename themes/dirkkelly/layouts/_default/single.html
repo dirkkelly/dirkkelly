@@ -6,44 +6,43 @@
         {{ partial "sidebar.html" . }}
       </div>
 
-      <div class="content col-12 col-md-9">
-        <div class="content">
-          <h1>{{ .Title }}</h1>
+      <div class="content col-12 col-md-9 col-lg-6">
+        <h1>{{ .Title }}</h1>
+        <h2>{{ .Param "Subtitle" }}</h2>
 
-          {{ if (not .Date.IsZero) }}
-            <a href="{{ .Permalink }}"><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></a>
-          {{ end }}
+        {{ if (not .Date.IsZero) }}
+          <a href="{{ .Permalink }}"><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></a>
+        {{ end }}
 
-          {{ partial "tags" . }}
+        {{ partial "tags" . }}
 
-          {{ if .Param "Image" }}
-            <a href='{{ .Site.BaseURL }}images/{{ .Param "Image" }}'>
-              <img src='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' alt='{{ .Param "Subtitle" }}' />
-            </a>
-          {{ end }}
+        {{ if .Param "Image" }}
+          <a href='{{ .Site.BaseURL }}images/{{ .Param "Image" }}'>
+            <img src='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' alt='{{ .Param "Subtitle" }}' />
+          </a>
+        {{ end }}
 
-          <div class="post-content">
-            {{ .Content }}
-          </div>
-
-          {{ $videos := .Param "Videos" }}
-          {{ if $videos }}
-            {{ range .Site.Data.channels }}
-              <div class="panel panel-videos">
-                {{ range where .videos "id" "in" $videos }}
-                  <h3 class="panel-title" style="margin-bottom: 5px"><a href="{{ .url }}">{{ .name }}</a> <small>{{ .category }}</small></h3>
-
-                  <p style="margin-bottom: 5px">{{ .description }}</p>
-                  {{ partial "videos/embed" . }}
-                {{ end }}
-              </div>
-            {{ end }}
-          {{ end }}
-
-          {{ if (ne .Site.Params.disqusShortname "") }}
-            {{ partial "disqus" . }}
-          {{ end }}
+        <div class="post-content">
+          {{ .Content }}
         </div>
+
+        {{ $videos := .Param "Videos" }}
+        {{ if $videos }}
+          {{ range .Site.Data.channels }}
+            <div class="panel panel-videos">
+              {{ range where .videos "id" "in" $videos }}
+                <h3 class="panel-title" style="margin-bottom: 5px"><a href="{{ .url }}">{{ .name }}</a> <small>{{ .category }}</small></h3>
+
+                <p style="margin-bottom: 5px">{{ .description }}</p>
+                {{ partial "videos/embed" . }}
+              {{ end }}
+            </div>
+          {{ end }}
+        {{ end }}
+
+        {{ if (ne .Site.Params.disqusShortname "") }}
+          {{ partial "disqus" . }}
+        {{ end }}
       </div>
     </div>
   </div>
