@@ -9,12 +9,13 @@
       <meta property="og:title" content='{{ .Title }} &middot; {{ .Site.Title }}'>
     {{ end }}
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
     {{ if .Param "Subtitle" }}
       <meta name="description" content='{{ .Param "Subtitle" }}' />
-      <meta property="og:image" content='{{ .Param "Subtitle" }}' />
     {{ else }}
       <meta name="description" content="{{ .Site.Params.Description }}" />
     {{ end }}
+
     {{ if .Param "Image" }}
       <meta property="og:image" content='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' />
     {{ end }}
