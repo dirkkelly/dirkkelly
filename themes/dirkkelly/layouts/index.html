@@ -6,7 +6,7 @@
         {{ partial "sidebar.html" . }}
       </div>
 
-      <div class="content col-12 col-md-9 col-xl-6">
+      <div class="content col-12 col-md-7 col-lg-6 col-xl-5">
         {{ range .Data.Pages }}
           {{ if (not .Date.IsZero) }}
             <h1 class="h2"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
