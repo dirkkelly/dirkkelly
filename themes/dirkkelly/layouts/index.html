@@ -16,7 +16,7 @@
             {{ end }}
 
             {{ if (not .Date.IsZero) }}
-              <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</a>
+              <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Jan 2, 2006. Monday" }}</a>
             {{ end }}
 
             {{ partial "tags" . }}
