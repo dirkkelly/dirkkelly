@@ -9,7 +9,7 @@
       <div class="content col-12 col-md-7 col-lg-6 col-xl-5">
         {{ range .Data.Pages }}
           {{ if (not .Date.IsZero) }}
-            <h1 class="h2"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <h1 class="h2"><a href="{{ .Permalink }}"><strong>{{ .Title }}</strong></a></h1>
 
             {{ if .Param "Subtitle" }}
               <h2 class="h6">{{ .Param "Subtitle" }}</h2>

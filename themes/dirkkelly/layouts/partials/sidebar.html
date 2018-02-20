@@ -3,7 +3,7 @@
 </a>
 
 <div class="sidebar-about text-center text-md-left">
-  <a href="/"><h1>{{ .Site.Title }}</h1></a>
+  <h1><a href="/"><strong>{{ .Site.Title }}</strong></a></h1>
   <p class="lead hidden-print" style="font-size: 0.9em">
     {{ .Site.Params.description }}
   </p>
@@ -12,7 +12,7 @@
 <ul class="sidebar-nav text-center text-md-left list-unstyled">
   {{ range .Site.Menus.tags }}
     <li class="d-inline d-md-block">
-      <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
+      <a href="{{.URL}}"><strong>{{ .Name }}</strong></a>
     </li>
   {{end}}
 </ul>
@@ -20,7 +20,7 @@
 <ul class="sidebar-nav text-center text-md-left list-unstyled">
   {{ range .Site.Menus.meta }}
     <li class="d-inline d-md-block">
-      <strong><a href="{{.URL}}">{{ .Name }}</a></strong>
+      <a href="{{.URL}}"><strong>{{ .Name }}</strong></a>
     </li>
   {{end}}
 </ul>
