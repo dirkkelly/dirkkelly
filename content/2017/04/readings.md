@@ -1,9 +1,17 @@
 ---
-date: 2017-04-01
+date: 2017-04-01 00:00:00 +0000
 title: Reading List
-tags: [America, Donald Trump, Noam Chomsky, Curtis, Adam Curtis, Nuclear War, War]
----
+tags:
+- America
+- Donald Trump
+- Noam Chomsky
+- Curtis
+- Adam Curtis
+- Nuclear War
+- War
+type: 2017
 
+---
 Currently _work in progress_ This all comes from a [Youtube Playlist](https://www.youtube.com/playlist?list=PLtWyAlh3D1zDspYHgbCeQR2RlERNydGiz), this
 month I'm focussing on documentaries regarding climate change and nuclear war.
 

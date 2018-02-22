@@ -1,11 +1,13 @@
 ---
 title: 10 Years of Macbook Pro's and OS X
 subtitle: How I Got Here, Where I'm Looking Next
-tags: [Mac OS]
-date: 2018-02-18
-draft: true 
----
+tags:
+- Mac OS
+date: 2018-02-18 00:00:00 +0000
+type: 2018
+draft: true
 
+---
 ## In the before time
 
 I've been a gamer since childhood, starting out on friend's Nintendo Entertainment Systems and eventually getting a Super Nintendo, set me down a path of using computers every day since then, maybe I've had some days off here and there, maybe.

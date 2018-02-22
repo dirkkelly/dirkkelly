@@ -1,29 +1,25 @@
+description = "Watch Netflix movies & TV shows online or stream right to your smart"
+featured = true
 name = "Netflix"
 slug = "netflix"
 url = "https://netflix.com"
-description = "Watch Netflix movies & TV shows online or stream right to your smart"
-featured = true
-
 [[videos]]
-  name = "Requiem for the American Dream"
-  id = "80083790"
-  url = "https://www.netflix.com/title/80083790"
-  thumbnail = "/images/channels/netflix/requiemfortheamericandream.jpg"
-
+id = 80083790
+name = "Requiem for the American Dream"
+thumbnail = "/images/channels/netflix/requiemfortheamericandream.jpg"
+url = "https://www.netflix.com/title/80083790"
 [[videos]]
-  name = "Betting on Zero"
-  id = "80108609"
-  url = "https://www.netflix.com/title/80108609"
-  thumbnail = "/images/channels/netflix/bettingonzero.jpg"
-
+id = 80108609
+name = "Betting on Zero"
+thumbnail = "/images/channels/netflix/bettingonzero.jpg"
+url = "https://www.netflix.com/title/80108609"
 [[videos]]
-  name = "BoJack Horseman"
-  id = "70300800"
-  url = "https://www.netflix.com/title/70300800"
-  thumbnail = "/images/channels/netflix/bojackhorseman.jpg"
-
+id = 70300800
+name = "BoJack Horseman"
+thumbnail = "/images/channels/netflix/bojackhorseman.jpg"
+url = "https://www.netflix.com/title/70300800"
 [[videos]]
-  name = "Black Mirror"
-  id = "70264888"
-  url = "https://www.netflix.com/title/70264888"
-  thumbnail = "/images/channels/netflix/blackmirror.jpg"
+id = 70264888
+name = "Black Mirror"
+thumbnail = "/images/channels/netflix/blackmirror.jpg"
+url = "https://www.netflix.com/title/70264888"

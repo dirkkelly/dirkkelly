@@ -1,10 +1,17 @@
 ---
-date: 2017-12-22
+date: 2017-12-22 00:00:00 +0000
 title: David Pakman interviews Scott Adams on Donald Trump's "Report Card"
 subtitle: This is Exactly How To Engage with "Other Side"
-tags: [America, David Pakman, Scott Adams, Donald Trump, Contrapoints, reddit]
----
+tags:
+- America
+- David Pakman
+- Scott Adams
+- Donald Trump
+- Contrapoints
+- reddit
+type: 2017
 
+---
 > David Pakman's interview with Scott Adams is Exactly How To Engage with "Other Side" [r/contrapoints](https://www.reddit.com/r/ContraPoints/comments/7l6y10/david_pakmans_interview_with_scott_adams_is/)
 
 This is the first time I've seen an interview of David Pakman's, I'm really glad that it was with Scott Adams about [President Trump’s 2017 Report Card (first draft)](http://blog.dilbert.com/2017/11/13/president-trumps-2017-report-card-first-draft/).

@@ -1,10 +1,16 @@
 ---
-date: 2018-02-05
+date: 2018-02-05 00:00:00 +0000
 title: Your President is Horrible, Your Boss is Worse, and Your Board Even More So
-subtitle: Trump is doing horrible things, because horrible people have all the money and power.
-tags: [America, Capitalism, Marxism, Richard Wolff]
----
+subtitle: Trump is doing horrible things, because horrible people have all the money
+  and power.
+tags:
+- America
+- Capitalism
+- Marxism
+- Richard Wolff
+type: 2018
 
+---
 The day after he won the election, people in our New York office were crying, devistated that such a horrible person had taken control of one of the most evil imperialist nations to exist.
 
 They’re some of the lucky ones in America, though not truly that lucky in the scheme of things. The company they work for is, comparitively much more generous than other American organizations.

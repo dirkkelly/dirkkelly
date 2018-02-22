@@ -1,10 +1,13 @@
 ---
-date: 2017-12-31
+date: 2017-12-31 00:00:00 +0000
 title: Next Year Perth, Following Year Farm
 subtitle: My exit from the USA and eventual exit from the global economy.
-tags: [Personal, Farm]
----
+tags:
+- Personal
+- Farm
+type: 2017
 
+---
 ## Goodbye America
 
 It's no secret I have no desire to return to the United States in 2 days, however as I reflect on the year I see 365 days of achieving the goals I set for myself, and the actions needed to get myself closer to where I'm going.

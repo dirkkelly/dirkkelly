@@ -1,11 +1,10 @@
+description = "Many of the world's leading AI researchers and humanitarian organizations are concerned about the potentially catastrophic consequences of allowing lethal autonomous weapons to be developed. Join their fight to prevent the development of these weapons"
+featured = true
 name = "Stop Autonomous Weapons"
 slug = "stopautonomousweapons"
 url = "https://autonomousweapons.org/"
-description = "Many of the world's leading AI researchers and humanitarian organizations are concerned about the potentially catastrophic consequences of allowing lethal autonomous weapons to be developed. Join their fight to prevent the development of these weapons"
-featured = true
-
 [[videos]]
-  name = "Slaughterbots"
-  id = "9CO6M2HsoIA"
-  url = "https://www.youtube.com/watch?v=9CO6M2HsoIA"
-  embed = "https://www.youtube.com/embed/9CO6M2HsoIA"
+embed = "https://www.youtube.com/embed/9CO6M2HsoIA"
+id = "9CO6M2HsoIA"
+name = "Slaughterbots"
+url = "https://www.youtube.com/watch?v=9CO6M2HsoIA"

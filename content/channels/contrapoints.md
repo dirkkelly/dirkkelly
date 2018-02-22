@@ -1,9 +1,19 @@
 ---
 title: Contrapoints
-tags: [Contrapoints, America, Philosophy, Resist, Antifa, Alt-Right, Naxism, Dog Whistling, Identity Politics, Culture War]
+tags:
+- Contrapoints
+- America
+- Philosophy
+- Resist
+- Antifa
+- Alt-Right
+- Naxism
+- Dog Whistling
+- Identity Politics
+- Culture War
 weight: 0
----
 
+---
 Are you a leftist trying to find your way in this crazy world of polarized political views?
 
 [Contrapoints][Contrapoints] is a YouTube Philosopher who is working extremely hard to produce informative and enjoyable videos about modern life, the struggles of the left, and the importance of discourse to promote a progressive agenda.

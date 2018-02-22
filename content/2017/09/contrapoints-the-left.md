@@ -1,10 +1,19 @@
 ---
 title: Contrapoints The Left
-tags: [Contrapoints, Resist, DSA, Antifa, Alt Right, ISIS, USMIC, World War Internet]
-date: 2017-09-27
+tags:
+- Contrapoints
+- Resist
+- DSA
+- Antifa
+- Alt Right
+- ISIS
+- USMIC
+- World War Internet
+date: 2017-09-27 00:00:00 +0000
+type: 2017
 draft: true
----
 
+---
 It's crazy how real this stuff is becoming, the World War of The Internet is now on the streets of America. The dominant culture which has exploited the Earth to build a fantasy world of stability and certainty for the few, is starting to see the walls crumble as the exploited rise up on the left and right.
 
 Today we're going to talk about the left, the side I fight on, today we're going to look into why they're not as effective as the right such as the US Military, ISIS, Alt Right are with recruiting.

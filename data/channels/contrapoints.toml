@@ -1,40 +1,35 @@
+description = "YouTuber, ex-philosopher, special blossom 🌸"
+featured = true
 name = "Contrapoints"
 slug = "contrapoints"
 url = "https://youtube.com/contrapoints"
-description = "YouTuber, ex-philosopher, special blossom 🌸"
-featured = true
-
 [[videos]]
-  name = "Violence"
-  description = "A fictional dialogue between some voices in my head on the philosophy of violence. No dolls or mannequins were harmed in the making of this film."
-  id = "lmsoVFCUN3Q"
-  url = "https://www.youtube.com/watch?v=lmsoVFCUN3Q"
-  embed = "https://www.youtube.com/embed/lmsoVFCUN3Q"
-
+description = "A fictional dialogue between some voices in my head on the philosophy of violence. No dolls or mannequins were harmed in the making of this film."
+embed = "https://www.youtube.com/embed/lmsoVFCUN3Q"
+id = "lmsoVFCUN3Q"
+name = "Violence"
+url = "https://www.youtube.com/watch?v=lmsoVFCUN3Q"
 [[videos]]
-  name = "Degeneracy"
-  description = "A historical-philosophical-pastoral-comical video about the history of the word 'degeneracy' and the right of degenerates to exist."
-  id = "9BlNGZunYM8"
-  url = "https://www.youtube.com/watch?v=9BlNGZunYM8"
-  embed = "https://www.youtube.com/embed/9BlNGZunYM8"
-
+description = "A historical-philosophical-pastoral-comical video about the history of the word 'degeneracy' and the right of degenerates to exist."
+embed = "https://www.youtube.com/embed/9BlNGZunYM8"
+id = "9BlNGZunYM8"
+name = "Degeneracy"
+url = "https://www.youtube.com/watch?v=9BlNGZunYM8"
 [[videos]]
-  name = "Decrypting the Alt-Right: How to Recognize a F@scist"
-  description = "This is a critical and educational video about the deceptive strategies used by the Alt-Right to appeal to centrists. All clips of Alt-Right media are used under fair use for purposes of education, critique, and peaceful resistance."
-  id = "Sx4BVGPkdzk"
-  url = "https://www.youtube.com/watch?v=Sx4BVGPkdzk"
-  embed = "https://www.youtube.com/embed/Sx4BVGPkdzk"
-
+description = "This is a critical and educational video about the deceptive strategies used by the Alt-Right to appeal to centrists. All clips of Alt-Right media are used under fair use for purposes of education, critique, and peaceful resistance."
+embed = "https://www.youtube.com/embed/Sx4BVGPkdzk"
+id = "Sx4BVGPkdzk"
+name = "Decrypting the Alt-Right: How to Recognize a F@scist"
+url = "https://www.youtube.com/watch?v=Sx4BVGPkdzk"
 [[videos]]
-  name = "The Left"
-  description = "This is a fictional dialogue between characters created for philosophical and artistic purposes. I do not necessarily endorse the viewpoints of any of the characters involved."
-  id = "QuN6GfUix7c"
-  url = "https://www.youtube.com/watch?v=QuN6GfUix7c"
-  embed = "https://www.youtube.com/embed/QuN6GfUix7c"
-
+description = "This is a fictional dialogue between characters created for philosophical and artistic purposes. I do not necessarily endorse the viewpoints of any of the characters involved."
+embed = "https://www.youtube.com/embed/QuN6GfUix7c"
+id = "QuN6GfUix7c"
+name = "The Left"
+url = "https://www.youtube.com/watch?v=QuN6GfUix7c"
 [[videos]]
-  name = "What the Alt-Right Fears"
-  description = "Maximum cuckoldry."
-  id = "a3XjRO4-kGk"
-  url = "https://www.youtube.com/watch?v=a3XjRO4-kGk"
-  embed = "https://www.youtube.com/embed/a3XjRO4-kGk"
+description = "Maximum cuckoldry."
+embed = "https://www.youtube.com/embed/a3XjRO4-kGk"
+id = "a3XjRO4-kGk"
+name = "What the Alt-Right Fears"
+url = "https://www.youtube.com/watch?v=a3XjRO4-kGk"

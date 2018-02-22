@@ -1,4 +1,6 @@
 ---
 title: Basics
-redirect: /about/
+redirect: "/about/"
+type: page
+
 ---

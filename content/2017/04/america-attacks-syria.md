@@ -1,9 +1,17 @@
 ---
-date: 2017-04-06
+date: 2017-04-06 00:00:00 +0000
 title: America Attacks Syria
-tags: [Donald Trump, America, Syria, Russia, Nuclear War, War, Climate Change]
----
+tags:
+- Donald Trump
+- America
+- Syria
+- Russia
+- Nuclear War
+- War
+- Climate Change
+type: 2017
 
+---
 ## My Reaction
 
 I lost myself to anger after I learned that America had fired 59 missiles from the Mediterranean Sea into a Syrian Airbase.

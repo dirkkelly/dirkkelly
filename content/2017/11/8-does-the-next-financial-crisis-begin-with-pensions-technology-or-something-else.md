@@ -1,9 +1,21 @@
 ---
-date: 2017-11-08
-title: Does the Next Financial Crisis Begin With Pensions, Technology, or Something Else?
-tags: [America, Financial Crisis, Technology, Capitalism, Cyptocurrency, IPO, ICO, Etherium, Zero Hedge, Sovereign Man]
----
+date: 2017-11-08 00:00:00 +0000
+title: Does the Next Financial Crisis Begin With Pensions, Technology, or Something
+  Else?
+tags:
+- America
+- Financial Crisis
+- Technology
+- Capitalism
+- Cyptocurrency
+- IPO
+- ICO
+- Etherium
+- Zero Hedge
+- Sovereign Man
+type: 2017
 
+---
 So does the next financial crisis begin with pensions? ... Maybe.
 
 [It Begins: Pension Bailout Bill To Be Introduced This Week](http://www.zerohedge.com/news/2017-11-08/it-begins-democratic-senator-introduce-bill-taxpayer-funded-pension-bailouts)

@@ -1,9 +1,20 @@
 ---
 title: About
 weight: 0
-tags: [Personal, Australia, America, Socialism, Technology, InterExchange, Pivotal Labs, Fort Collins, Perth, New York]
----
+tags:
+- Personal
+- Australia
+- America
+- Socialism
+- Technology
+- InterExchange
+- Pivotal Labs
+- Fort Collins
+- Perth
+- New York
+type: page
 
+---
 ## Australian
 
 This has come to mean so much to me, I have so much love for a country that supported me into becoming who I am.

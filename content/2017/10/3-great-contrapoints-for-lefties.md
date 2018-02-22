@@ -1,11 +1,23 @@
 ---
-date: 2017-10-04
+date: 2017-10-04 00:00:00 +0000
 title: 3 Great Contrapoints Videos for Lefties
-tags: [Resist, Contrapoints, Philosophy, Antifa, Alt-Right, Nazism, Identity Politics, Culture War]
+tags:
+- Resist
+- Contrapoints
+- Philosophy
+- Antifa
+- Alt-Right
+- Nazism
+- Identity Politics
+- Culture War
 channel: contrapoints
-videos: [QuN6GfUix7c, Sx4BVGPkdzk, a3XjRO4-kGk]
----
+videos:
+- QuN6GfUix7c
+- Sx4BVGPkdzk
+- a3XjRO4-kGk
+type: 2017
 
+---
 Are you a leftist trying to find your way in this crazy world of polarized political views?
 
 [Contrapoints][Contrapoints] is a YouTube Philosopher who is working extremely hard to produce informative and enjoyable videos about modern life, the struggles of the left, and the importance of discourse to promote a progressive agenda.

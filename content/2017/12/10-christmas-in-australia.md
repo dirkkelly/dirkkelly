@@ -1,11 +1,15 @@
 ---
-date: 2017-12-10
+date: 2017-12-10 00:00:00 +0000
 title: How is Australia Going?
 subtitle: Let's check in with FriendlyJordies on Australia
-tag: [Australia, Personal, Friendly Jordies]
+tag:
+- Australia
+- Personal
+- Friendly Jordies
+type: 2017
 draft: true
----
 
+---
 Being back in Australia for Christmas has been the best perk of the 5 years I've spent working at [InterExchange](https://www.interexchange.org/), re-immersing myself in my Australian identity has been an important aspect of my mental health recovery.
 
 What is it to be Australian? Why am I trying to recover that identity? Why did I run away from it?

@@ -1,24 +1,20 @@
+description = "Videos about Bitcoin, Ethereum and other Open Blockchain topics"
+featured = true
 name = "Andreas M. Antonopoulos"
 slug = "aantonop"
 url = "https://youtube.com/user/aantonop"
-description = "Videos about Bitcoin, Ethereum and other Open Blockchain topics"
-featured = true
-
 [[videos]]
-  name = "Investing in Education Instead of Speculation"
-  id = "6uXAbJQoZlE"
-  url = "https://www.youtube.com/watch?v=6uXAbJQoZlE"
-  embed = "https://www.youtube.com/embed/6uXAbJQoZlE"
-
-
+embed = "https://www.youtube.com/embed/6uXAbJQoZlE"
+id = "6uXAbJQoZlE"
+name = "Investing in Education Instead of Speculation"
+url = "https://www.youtube.com/watch?v=6uXAbJQoZlE"
 [[videos]]
-  name = "The Stories We Tell About Money"
-  id = "ONvg9SbauMg"
-  url = "https://www.youtube.com/watch?v=ONvg9SbauMg"
-  embed = "https://www.youtube.com/embed/ONvg9SbauMg"
-
+embed = "https://www.youtube.com/embed/ONvg9SbauMg"
+id = "ONvg9SbauMg"
+name = "The Stories We Tell About Money"
+url = "https://www.youtube.com/watch?v=ONvg9SbauMg"
 [[videos]]
-  name = "Money as a System of Control"
-  id = "FyK4P7ZdOK8"
-  url = "https://www.youtube.com/watch?v=FyK4P7ZdOK8"
-  embed = "https://www.youtube.com/embed/FyK4P7ZdOK8"
+embed = "https://www.youtube.com/embed/FyK4P7ZdOK8"
+id = "FyK4P7ZdOK8"
+name = "Money as a System of Control"
+url = "https://www.youtube.com/watch?v=FyK4P7ZdOK8"

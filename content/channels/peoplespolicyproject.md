@@ -1,9 +1,14 @@
 ---
 title: People's Policy Project
-tags: [Policy, America, Matt Bruenig, Peoples Policy Project, Chapo Trap House]
+tags:
+- Policy
+- America
+- Matt Bruenig
+- Peoples Policy Project
+- Chapo Trap House
 weight: 0
----
 
+---
 I heard about Matt Bruenig's work through Chapo Trap House, something I admittedly need to post a lot more of.
 
 > People’s Policy Project (3P) is a think tank founded in 2017. The primary mission of 3P is to publish ideas and analysis that assist in the development of an economic system that serves the many, not the few.

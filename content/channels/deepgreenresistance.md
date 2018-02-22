@@ -1,9 +1,14 @@
 ---
 title: Deep Green Resistance
-tags: [Derrick Jensen, Climate, Extinction, Violence, Resist]
+tags:
+- Derrick Jensen
+- Climate
+- Extinction
+- Violence
+- Resist
 weight: 0
----
 
+---
 I've written previously about the work of [Derrick Jensen](/tags/derrick-jensen/) this is the channel of the [Deep Green Resistance](https://deepgreenresistance.org/) group, containing work of Derrick's and others.
 
 [Support The Deep Green Resistance](https://deepgreenresistance.org/en/support-us/donate-to-deep-green-resistance)

@@ -1,11 +1,21 @@
 ---
-date: 2017-11-08
+date: 2017-11-08 00:00:00 +0000
 title: The Deep Green Resistance Strategy
-tags: [Deep Green Resistance, Derrick Jensen, Climate, Extinction, Capitalism, Violence, Resist, America]
+tags:
+- Deep Green Resistance
+- Derrick Jensen
+- Climate
+- Extinction
+- Capitalism
+- Violence
+- Resist
+- America
 channel: deepgreenresistance
-videos: [Zni8COO1z2o]
----
+videos:
+- Zni8COO1z2o
+type: 2017
 
+---
 Well the Deep Green Resistance strategy has two main goals
 
 I think it's very important in political movements to actually have a goal

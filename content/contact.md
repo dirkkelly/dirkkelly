@@ -1,9 +1,11 @@
 ---
 title: Contact
-tags: [Personal, InterExchange]
+tags:
+- Personal
+- InterExchange
+type: page
+
 ---
-
-
 ## Personal
 
 A lot of people know my actual email, however anything works on my domain.

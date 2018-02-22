@@ -1,10 +1,15 @@
 ---
-date: 2017-12-21
+date: 2017-12-21 00:00:00 +0000
 title: Gough Whitlam - Friendly Jordies
 subtitle: Setting the Record Straight
-tags: [Australia, Friendly Jordies, Gough Whitlam, News Corporation,]
----
+tags:
+- Australia
+- Friendly Jordies
+- Gough Whitlam
+- News Corporation
+type: 2017
 
+---
 > I wanted to make a video purely honoring the life and achievements of Edward Gough Whitlam
 
 {{< youtube OBmIkeYvhXQ >}}

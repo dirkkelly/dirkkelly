@@ -1,10 +1,14 @@
 ---
-date: 2017-10-15
+date: 2017-10-15 00:00:00 +0000
 title: Of Course You're Angry
+tags:
+- Trump
+- America
+- Resist
+type: 2017
 draft: true
-tags: [Trump, America, Resist]
----
 
+---
 People are blowing up at each other all through this country, mad at one another for their opposing perspectives on the world, on their ideas of solutions to the problems they see.
 
 While the perspectives on solutions vary across the political spectrum, the problems are not unique to one group. The fear of immigration forcing one to lose their identity and privileges is very similar to the fear of discrimination and deportation.

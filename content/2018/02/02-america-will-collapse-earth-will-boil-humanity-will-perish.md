@@ -1,10 +1,14 @@
 ---
-date: 2018-02-02
+date: 2018-02-02 00:00:00 +0000
 title: America Will Collapse, Earth Will Boil, and Humanity Will Perish
 subtitle: Understanding this will help you plan for your future.
-tags: [America, Climate Change, Extinction]
----
+tags:
+- America
+- Climate Change
+- Extinction
+type: 2018
 
+---
 ## America Will Collapse
 
 As an Australian who spent the last 5 years in the hyper-capitalism center of the world (New York City) I've had to [improve my coping mechanisms immensely](/2018/01/02-the-world-doesnt-owe-you-anything/) as the harsh reality of massive inequality was shoved in my face.

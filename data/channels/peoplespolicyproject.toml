@@ -1,12 +1,11 @@
-name = "People's Policy Project"
-slug = "peoplespolicyproject"
-url = "https://peoplespolicyproject.org/"
-patreon = "https://www.patreon.com/peoplespolicyproject"
 description = "The primary mission of People's Policy Project is to publish ideas and analysis that assist in the development of an economic system that serves the many, not the few."
 featured = true
-
+name = "People's Policy Project"
+patreon = "https://www.patreon.com/peoplespolicyproject"
+slug = "peoplespolicyproject"
+url = "https://peoplespolicyproject.org/"
 [[videos]]
-  name = "The Problem of Capital Income"
-  id = "GbSn6o3ZMtw"
-  url = "https://www.youtube.com/watch?v=GbSn6o3ZMtw"
-  embed = "https://www.youtube.com/embed/GbSn6o3ZMtw"
+embed = "https://www.youtube.com/embed/GbSn6o3ZMtw"
+id = "GbSn6o3ZMtw"
+name = "The Problem of Capital Income"
+url = "https://www.youtube.com/watch?v=GbSn6o3ZMtw"

@@ -1,10 +1,15 @@
 ---
-date: 2017-12-30
+date: 2017-12-30 00:00:00 +0000
 title: 2017 Ben Howard Anthem
-subtitle:
-tags: [Personal, Music, Ben Howard, Resist]
----
+subtitle: ''
+tags:
+- Personal
+- Music
+- Ben Howard
+- Resist
+type: 2017
 
+---
 2017 hasn't been a good year, let's face it, 2018 won't be better.
 
 After suffering internally for decades, seeking help, working hard, and greiving immensely, I'm still here.

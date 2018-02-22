@@ -1,4 +1,5 @@
 ---
 title: Donald Trump
-redirect: /tags/donald-trump/
+redirect: "/tags/donald-trump/"
+
 ---

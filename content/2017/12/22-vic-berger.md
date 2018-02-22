@@ -1,10 +1,16 @@
 ---
-date: 2017-12-21
+date: 2017-12-21 00:00:00 +0000
 title: Vic Berger
 subtitle: Sassy Smart Video Political Satire
-tags: [America, Vic Berger, Super Deluxe, Donald Trump, Culture War]
----
+tags:
+- America
+- Vic Berger
+- Super Deluxe
+- Donald Trump
+- Culture War
+type: 2017
 
+---
 {{< youtube Pqhgj_5-7BI >}}
 
 > I was blown away when I found out that I have a lot of Trump supporters that are fans of my work that didn't know I was making fun of Trump.

@@ -1,20 +1,17 @@
+description = "Vic Berger IV's YouTube channel."
+featured = false
 name = "Vic Berger"
 slug = "victheiv"
 url = "https://youtube.com/victheiv/"
-description = "Vic Berger IV's YouTube channel."
-featured = false
-
 [[videos]]
-  name = "Laura Ingraham on church shootings & nasty, godless celebrities"
-  description = "Fox News propagandist Laura Ingraham on the most evil aspect of the Sutherland Springs, Texas church shooting: nasty, godless celebrities!"
-  id = "dgzSE990Vr8"
-  url = "https://www.youtube.com/watch?v=dgzSE990Vr8"
-  embed = "https://www.youtube.com/embed/dgzSE990Vr8"
-
-
+description = "Fox News propagandist Laura Ingraham on the most evil aspect of the Sutherland Springs, Texas church shooting: nasty, godless celebrities!"
+embed = "https://www.youtube.com/embed/dgzSE990Vr8"
+id = "dgzSE990Vr8"
+name = "Laura Ingraham on church shootings & nasty, godless celebrities"
+url = "https://www.youtube.com/watch?v=dgzSE990Vr8"
 [[videos]]
-  name = "President Trump Forgets To Sign Executive Order"
-  description = "President Trump forgets to sign executive order, walks out of ceremony. Pence remembers, grabs executive order from desk."
-  id = "SKJv_LNIE1A"
-  url = "https://www.youtube.com/watch?v=SKJv_LNIE1A"
-  embed = "https://www.youtube.com/embed/SKJv_LNIE1A"
+description = "President Trump forgets to sign executive order, walks out of ceremony. Pence remembers, grabs executive order from desk."
+embed = "https://www.youtube.com/embed/SKJv_LNIE1A"
+id = "SKJv_LNIE1A"
+name = "President Trump Forgets To Sign Executive Order"
+url = "https://www.youtube.com/watch?v=SKJv_LNIE1A"

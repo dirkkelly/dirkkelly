@@ -1,10 +1,14 @@
 ---
-date: 2018-01-02
+date: 2018-01-02 00:00:00 +0000
 title: The World Doesn't Owe You Anything!
 subtitle: Jordan Shanks helping you, help your mindset.
-tags: [Personal, Friendly Jordies, Jordan Shanks]
----
+tags:
+- Personal
+- Friendly Jordies
+- Jordan Shanks
+type: 2018
 
+---
 <!-- Welcome to the comments -->
 
 [Jordan Shanks](https://www.youtube.com/channel/UCaoxFlhy4oGz3EvkTGhWvkA/feed) isn't the only wise and humble influence in my life, but he is the one who posts his thoughts to YouTube, however I only just stumbled on his Personal YouTube after being a subscriber to [Friendly Jordies](http://youtube.com/friendlyjordies) for about a year.

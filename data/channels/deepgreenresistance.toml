@@ -1,36 +1,31 @@
+description = "Radical environmental and Social Justice Organization."
+featured = true
 name = "Deep Green Resistance"
 slug = "deepgreenresistance"
 url = "https://youtube.com/DeepGreenResistance/"
-description = "Radical environmental and Social Justice Organization."
-featured = true
-
 [[videos]]
-  name = "The Deep Green Resistance Strategy"
-  id = "Zni8COO1z2o"
-  url = "https://www.youtube.com/watch?v=Zni8COO1z2o"
-  embed = "https://www.youtube.com/embed/Zni8COO1z2o"
-
+embed = "https://www.youtube.com/embed/Zni8COO1z2o"
+id = "Zni8COO1z2o"
+name = "The Deep Green Resistance Strategy"
+url = "https://www.youtube.com/watch?v=Zni8COO1z2o"
 [[videos]]
-  name = "Jensen/ Kunstler - Group Think Increasingly Insane"
-  id = "nVn8KpawbWk"
-  url = "https://www.youtube.com/watch?v=nVn8KpawbWk"
-  embed = "https://www.youtube.com/embed/nVn8KpawbWk"
-
+embed = "https://www.youtube.com/embed/nVn8KpawbWk"
+id = "nVn8KpawbWk"
+name = "Jensen/ Kunstler - Group Think Increasingly Insane"
+url = "https://www.youtube.com/watch?v=nVn8KpawbWk"
 [[videos]]
-  name = "I've Lost Patience"
-  id = "BKw-vl6dsNA"
-  url = "https://www.youtube.com/watch?v=BKw-vl6dsNA"
-  embed = "https://www.youtube.com/embed/BKw-vl6dsNA"
-
+embed = "https://www.youtube.com/embed/BKw-vl6dsNA"
+id = "BKw-vl6dsNA"
+name = "I've Lost Patience"
+url = "https://www.youtube.com/watch?v=BKw-vl6dsNA"
 [[videos]]
-  name = "Derrick Jensen - Endgame Part Two"
-  id = "R2V-zLGxHnw"
-  url = "https://www.youtube.com/watch?v=R2V-zLGxHnw"
-  embed = "https://www.youtube.com/embed/R2V-zLGxHnw"
-
+embed = "https://www.youtube.com/embed/R2V-zLGxHnw"
+id = "R2V-zLGxHnw"
+name = "Derrick Jensen - Endgame Part Two"
+url = "https://www.youtube.com/watch?v=R2V-zLGxHnw"
 [[videos]]
-  name = "Derrick Jensen Resistance Radio w/ James Howard Kunstler"
-  id = "cx56AvMGrAA"
-  url = "https://www.youtube.com/watch?v=cx56AvMGrAA"
-  embed = "https://www.youtube.com/embed/cx56AvMGrAA"
-  date = "2017-09-03"
+date = "2017-09-03T00:00:00+00:00"
+embed = "https://www.youtube.com/embed/cx56AvMGrAA"
+id = "cx56AvMGrAA"
+name = "Derrick Jensen Resistance Radio w/ James Howard Kunstler"
+url = "https://www.youtube.com/watch?v=cx56AvMGrAA"

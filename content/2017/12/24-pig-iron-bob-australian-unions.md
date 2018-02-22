@@ -1,10 +1,18 @@
 ---
-date: 2017-12-24
+date: 2017-12-24 00:00:00 +0000
 title: Pig Iron Bob and Australian Unions
 subtitle: Maritime Union of Australia and Robert Menzies
-tags: [Union, Capitalism, Communism, Communist Party Australia, Maritime Union of Australia, Resist, Pig Iron Bob]
----
+tags:
+- Union
+- Capitalism
+- Communism
+- Communist Party Australia
+- Maritime Union of Australia
+- Resist
+- Pig Iron Bob
+type: 2017
 
+---
 I found a Youtube video of [Australian Communist Music](https://www.youtube.com/watch?v=w-WGjqOCxDI), which lead me to learning about Robert "Pig Iron Menzies" Menzies and his fight with Australian Union Workers over the shipping of iron to Japan during World War II.
 
 > We wouldn't load pig-iron for the fascists of Japan<br/>
