@@ -1,5 +1,5 @@
 ---
 title: Noam Chomsky
-redirect: "/tags/donald-trump/"
+redirect: "/tags/noam-chomsky/"
 
 ---
