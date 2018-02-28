@@ -1,7 +1,7 @@
 ---
 title: foresty.io For Writing Blog Posts on Hugo
 date: 2018-02-27 17:26:18 +0000
-subtitle: foresty removes a huge cognative barrier-of-entry to my posting.
+subtitle: foresty removes the cognitive barrier-of-entry to my posting.
 tags:
 - Personal
 - Blogging
@@ -36,4 +36,4 @@ Oh wow! Editing from my phone, uploading a photo from my phone! We’ve made it,
 
 Years ago I knew that static websites would be the future of website development, and the "death of content management systems". I've done a lot to push that agenda in my own sphere, I think Forestry has brought the future to now.
 
-Want [forestry.io](https://forestry.io "forestry.io") as your interface for creating content (I do)? Encourage your organization to migrate to Hugo as their static site generator, I know I am!
+Want [forestry.io](https://forestry.io "forestry.io") as your interface for creating content? (I do) Encourage your organization to migrate to Hugo as their static site generator, know I am!
