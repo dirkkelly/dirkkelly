@@ -14,11 +14,13 @@ fields:
   label: Title
   config:
     required: true
-- type: text
+- type: textarea
   name: subtitle
   label: Subtitle
   config:
-    required: true
+    wysiwyg: false
+    required: false
+  hidden: false
 - type: tag_list
   name: tags
   label: Tags
