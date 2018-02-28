@@ -27,3 +27,5 @@ fields:
 - type: boolean
   name: draft
   label: Draft
+  hidden: false
+  default: true
