@@ -17,7 +17,7 @@ Wait but how do I add a picture? Oh, like that.
 
 [Forestry.io](https://forestry.io "Forestry.io"), give it a go if you're running a static website, but looking for a beautiful interface to sit on top of it.
 
-Okay, I just discovered the preview button, this is going to change people's lives.
+Okay, I just discovered the [preview mode](http://ksqus-uroa767a.preview.forestry.io/2018/02/foresty-for-writing-blog-posts-on-hugo/ "Forestry Preview"), I'm not sure how long this will stay around, but this instant preview of a snapshotted version, this is going to change people's lives!
 
 ![Forestry, Preview](/uploads/2018/02/28/forestry-preview.png "Forestry, Preview")
 
