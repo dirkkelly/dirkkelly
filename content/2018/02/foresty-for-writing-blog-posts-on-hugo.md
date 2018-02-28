@@ -29,6 +29,8 @@ And finally, the thing every CTO wants, a full audit log of all changes, on an i
 
 Years ago I knew that static websites would be the future of website development, and the "death of content management systems". I've done a lot to push that agenda in my own sphere, I think Forestry has brought the future to now.
 
-HOLY SHIT. Holy shit. ![](/uploads/2018/02/28/35B96409-EE8A-47AF-B819-DEEBCB223373.png)
+HOLY SHIT. Holy shit, editing on my phone, uploading a photo from my phone! We’ve made it, the future.
+
+![](/uploads/2018/02/28/35B96409-EE8A-47AF-B819-DEEBCB223373.png)
 
 Want [forestry.io](https://forestry.io "forestry.io") as your interface for creating content (I do)? Encourage your organization to migrate to Hugo as their static site generator, I know I am!
