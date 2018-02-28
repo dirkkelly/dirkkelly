@@ -14,12 +14,10 @@ I think I've found the solution to this problem, and hopefully this super easy t
 
 Wait but how do I add a picture? Oh, like that.
 
-![](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.36.25 PM.png)
-
-![](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.28.38 PM.png)
+![Foresty is amazing!](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.36.25 PM.png "Forestry, Add Image")
 
 [Forestry.io](https://forestry.io "Forestry.io"), give it a go if you're running a static website, but looking for a beautiful interface to sit on top of it.
 
 Okay, I just discovered the preview button, this is going to change people's lives.
 
-![](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.35.58 PM.png)
+![Forest has preview mode!](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.35.58 PM.png "Forestry, Preview")
