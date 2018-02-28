@@ -1,7 +1,7 @@
 ---
-title: foresty.io For Writing Blog Posts on Hugo
+title: Foresty.io For Writing Blog Posts on Hugo
 date: 2018-02-27 17:26:18 +0000
-subtitle: foresty removes the cognitive barrier-of-entry to my posting.
+subtitle: 'Removing the cognitive barrier-of-entry to my posting on a static site. '
 tags:
 - Personal
 - Blogging
@@ -18,7 +18,7 @@ Wait but how do I add a picture? Oh, like that.
 
 ![Forestry, Add Image](/uploads/2018/02/28/forestry-image.png "Forestry, Add Image")
 
-Okay, I just discovered the [preview mode](http://ksqus-uroa767a.preview.forestry.io/2018/02/foresty-for-writing-blog-posts-on-hugo/ "Forestry Preview"), I'm not sure how long this will stay around, but this instant preview of a snapshotted version, this is going to change people's lives!
+Okay, I just discovered the [preview mode](http://ksqus-uroa767a.preview.forestry.io/2018/02/foresty-for-writing-blog-posts-on-hugo/ "Forestry Preview"), I'm not sure how long the preview environment will stay around, but this instant preview of a snapshotted version, this is going to change people's lives!
 
 ![Forestry, Preview](/uploads/2018/02/28/forestry-preview.png "Forestry, Preview")
 
@@ -34,6 +34,6 @@ Oh wow! Editing from my phone, uploading a photo from my phone! We’ve made it,
 
 ![](/uploads/2018/02/28/35B96409-EE8A-47AF-B819-DEEBCB223373.png)
 
-Years ago I knew that static websites would be the future of website development, and the "death of content management systems". I've done a lot to push that agenda in my own sphere, I think Forestry has brought the future to now.
+Years ago I knew that static websites would be the future of website development, and the "death of content management systems". I've done a lot to push that agenda in my own sphere, forcing people to follow developer practices (using GitHub) I think Forestry.io has closed the gap to make this consumer ready.
 
-Want [forestry.io](https://forestry.io "forestry.io") as your interface for creating content? (I do) Encourage your organization to migrate to Hugo as their static site generator, know I am!
+Want [Forestry.io](https://forestry.io "forestry.io") as your interface for creating content? (I do) Encourage your organization to migrate to Hugo as their static site generator, know I am!
