@@ -12,6 +12,14 @@ But I stopped posting, I started again recently, but the barrier of entry was al
 
 I think I've found the solution to this problem, and hopefully this super easy to write blog post is the beginning of more, it is my website after all, I should _feel_ like I can contribute to it more, instead of feeling like I'm writing code that I'll need to put through a PR.
 
+Wait but how do I add a picture? Oh, like that.
+
+![](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.36.25 PM.png)
+
 ![](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.28.38 PM.png)
 
 [Forestry.io](https://forestry.io "Forestry.io"), give it a go if you're running a static website, but looking for a beautiful interface to sit on top of it.
+
+Okay, I just discovered the preview button, this is going to change people's lives.
+
+![](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.35.58 PM.png)
