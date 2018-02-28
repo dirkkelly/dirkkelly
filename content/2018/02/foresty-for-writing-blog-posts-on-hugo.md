@@ -5,7 +5,7 @@ subtitle: Foresty removes a huge cognative barrier of entry from my posting.
 tags: []
 
 ---
-I'm just writing a blog post, like I would have done in Wordpress years ago, before I made the decision to move to a statically hosted site for the huge development and security improvements that it brings.
+I'm just writing a blog post, like I would have done in Wordpress years ago, before I made the decision to move to a statically generated site for the huge development and security improvements that it brings.
 
 But I stopped posting, I started again recently, but the barrier of entry was always there. Pull up vim and stare at a completely blank piece screen ... and type, or don't, because it's so intimidating.
 
