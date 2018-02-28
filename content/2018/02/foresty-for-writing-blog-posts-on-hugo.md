@@ -19,4 +19,4 @@ Wait but how do I add a picture? Oh, like that.
 
 Okay, I just discovered the preview button, this is going to change people's lives.
 
-![Forest has preview mode!](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.35.58 PM.png "Forestry, Preview")
+![Forest has a preview mode!](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.39.40 PM.png "Forestry, Preview")
