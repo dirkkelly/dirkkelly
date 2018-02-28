@@ -15,8 +15,6 @@ Wait but how do I add a picture? Oh, like that.
 
 ![Forestry, Add Image](/uploads/2018/02/28/forestry-image.png "Forestry, Add Image")
 
-[Forestry.io](https://forestry.io "Forestry.io"), give it a go if you're running a static website, but looking for a beautiful interface to sit on top of it.
-
 Okay, I just discovered the [preview mode](http://ksqus-uroa767a.preview.forestry.io/2018/02/foresty-for-writing-blog-posts-on-hugo/ "Forestry Preview"), I'm not sure how long this will stay around, but this instant preview of a snapshotted version, this is going to change people's lives!
 
 ![Forestry, Preview](/uploads/2018/02/28/forestry-preview.png "Forestry, Preview")
@@ -31,4 +29,4 @@ And finally, the thing every CTO wants, a full audit log of all changes, on an i
 
 Years ago I knew that static websites would be the future of website development, and the "death of content management systems". I've done a lot to push that agenda in my own sphere, I think Forestry has brought the future to now.
 
-Want Forestry.io as your interface for creating content? Encourage your organization to migrate to Hugo as their static site generator, I know I am!
+Want [forestry.io](https://forestry.io "forestry.io") as your interface for creating content (I do)? Encourage your organization to migrate to Hugo as their static site generator, I know I am!
