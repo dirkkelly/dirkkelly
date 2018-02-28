@@ -7,7 +7,7 @@ tags: []
 ---
 I'm just writing a blog post, like I would have done in Wordpress years ago, before I made the decision to move to a statically generated site for the huge development and security improvements that it brings.
 
-But I stopped posting, I started again recently, but the barrier of entry was always there. Pull up vim and stare at a completely blank piece screen ... and type, or don't, because it's so intimidating.
+But I stopped posting, I mean I started again recently, but the barrier of entry is still there. Pull up vim and stare at a completely blank screen and ... don’t type, because it's so intimidating.
 
 I think I've found the solution to this problem, and hopefully this super easy to write blog post is the beginning of more, it is my website after all, I should _feel_ like I can contribute to it more, instead of feeling like I'm writing code that I'll need to put through a PR.
 
