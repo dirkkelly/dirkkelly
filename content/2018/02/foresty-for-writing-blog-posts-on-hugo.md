@@ -1,5 +1,5 @@
 ---
-title: Foresty For Writing Blog Posts on Hugo
+title: foresty.io For Writing on Hugo
 date: 2018-02-27 17:26:18 +0000
 subtitle: Foresty removes a huge cognative barrier of entry from my posting.
 tags: []
@@ -13,10 +13,22 @@ I think I've found the solution to this problem, and hopefully this super easy t
 
 Wait but how do I add a picture? Oh, like that.
 
-![Foresty is amazing!](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.36.25 PM.png "Forestry, Add Image")
+![Forestry, Add Image](/uploads/2018/02/28/forestry-image.png "Forestry, Add Image")
 
 [Forestry.io](https://forestry.io "Forestry.io"), give it a go if you're running a static website, but looking for a beautiful interface to sit on top of it.
 
 Okay, I just discovered the preview button, this is going to change people's lives.
 
-![Forest has a preview mode!](/uploads/2018/02/28/Screen Shot 2018-02-27 at 5.39.40 PM.png "Forestry, Preview")
+![Forestry, Preview](/uploads/2018/02/28/forestry-preview.png "Forestry, Preview")
+
+"What's going on with my deploy?" Well at the moment one problem we're dealing with at work is how incredibly slow Middleman is, Hugo is a lot faster, but this status is going to be amazing!
+
+![Forestry, status](/uploads/2018/02/28/forestry-status.png "Forestry, status")
+
+And finally, the thing every CTO wants, a full audit log of all changes, on an immutable and distributed "blockchain"
+
+![Forestry, Github](/uploads/2018/02/28/forestry-github.png "Forestry, Github")
+
+Years ago I knew that static websites would be the future of website development, and the "death of content management systems". I've done a lot to push that agenda in my own sphere, I think Forestry has brought the future to now.
+
+Want Forestry.io as your interface for creating content? Encourage your organization to migrate to Hugo as their static site generator, I know I am!
