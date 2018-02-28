@@ -9,6 +9,7 @@ tags:
 - Marxism
 - Richard Wolff
 type: 2018
+draft: true
 
 ---
 The day after he won the election, people in our New York office were crying, devistated that such a horrible person had taken control of one of the most evil imperialist nations to exist.
