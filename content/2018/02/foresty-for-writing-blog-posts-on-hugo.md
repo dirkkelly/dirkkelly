@@ -1,8 +1,11 @@
 ---
 title: foresty.io For Writing Blog Posts on Hugo
 date: 2018-02-27 17:26:18 +0000
-subtitle: Foresty removes a huge cognative barrier of entry from my posting.
-tags: []
+subtitle: foresty removes a huge cognative barrier-of-entry to my posting.
+tags:
+- Personal
+- Blogging
+- Hugo
 
 ---
 I'm just writing a blog post, like I would have done in Wordpress years ago, before I made the decision to move to a statically generated site for the huge development and security improvements that it brings.
