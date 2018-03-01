@@ -51,7 +51,7 @@ AMERICA, CAPITALISM IS KILLING YOU.
 
 KILL CAPITALISM.
 
-Do that buy not contributing to their system, do that by engaging in your local community, help those in need, replace times when you would consume (such as going to the mall, which you don't do anymore, so I guess, sitting on your phone arguing about how shit things are) and go out into your community and help those.
+Do that by not contributing to their system, do that by engaging in your local community, help those in need, replace times when you would consume (such as going to the mall, which you don't do anymore, so I guess, sitting on your phone arguing about how shit things are) and go out into your community and help those.
 
 Anyway, here's the video.
 
