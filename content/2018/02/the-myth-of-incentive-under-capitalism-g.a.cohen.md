@@ -15,7 +15,7 @@ subtitle: 'Capitalist firms survive, only if they make money, and they make mone
 >
 > BUT, the argument also says that capitalism satisfies people, and I'm going to claim that the way the system uses technical progress generates widespread frustration, not satisfaction.
 
-You are not wrong, but, let's just replace a few words in what you're saying, and see how things are going in 2018... I almost wrote 2019, because it's almost, 2020, in the fucking future, here's where capitalism's competition, has gotten us.
+G.A. Cohen is absolutely correct, but we've moved forward in time, and now it's 2018... I almost wrote 2019, because it's almost, 2020, it's basically future, and here's where capitalism's destructive and aggressive competition has gotten us.
 
 > > The capitalist firm doesn't aim to satisfy, but the firms can't get at what they're at, which is PROFIT, and they can't get what they want without EXPLOITING the CONSUMER or EMPLOYEE.
 >
