@@ -7,7 +7,6 @@ tags:
 - survival
 subtitle: 'Capitalist firms survive, only if they make money, and they make money
   only if they prevail in competition against other capitalist firms. '
-draft: true
 
 ---
 > > The capitalist firm doesn't aim to satisfy, but the firms can't get at what they're at, which is money, and they can't get what they want without satisfying the customer.
