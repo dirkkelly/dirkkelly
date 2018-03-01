@@ -17,7 +17,7 @@ subtitle: 'Capitalist firms survive, only if they make money, and they make mone
 
 G.A. Cohen is absolutely correct, but we've moved forward in time, and now it's 2018... I almost wrote 2019, because it's almost, 2020, it's basically future, and here's where capitalism's destructive and aggressive competition has gotten us.
 
-> > The capitalist firm doesn't aim to satisfy, but the firms can't get at what they're at, which is PROFIT, and they can't get what they want without EXPLOITING the CONSUMER or EMPLOYEE.
+> > The capitalist firm doesn't aim to satisfy, but the firms can't get at what they're at, which is PROFIT, and they can't get what they want without EXPLOITING the CONSUMER (or EMPLOYEE, usually both, but that's another post).
 >
 > I'm going to claim the the way the system uses TECHNOLOGICAL progress generates widespread EXTINCTION not SURVIVAL.
 
