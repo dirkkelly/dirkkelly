@@ -35,7 +35,7 @@ In order to combat the destructive impact of capitalism, we must turn towards ea
 
 This is done, through enforcing power upon systems of control (levers), those systems of control very between communities, so recognize them, hopefully they look like public positions with voting, maybe they're as arcane as requiring a bunch of people to turn up in a room and stand in the corner of the PERSON WHO REALLY WOULD HAVE WON OMG BERNIE and probably get denied of that because they RAN OUT OF SPACE FOR DEMOCRACY HAHAH SERIOUSLY?
 
-[America come on, you're not a democracy, at best you're a flawed democracy, and you're not even the first at that anymore,](https://en.wikipedia.org/wiki/Democracy_Index#Democracy_Index_by_country_(2017) "America is a Flawed Democracy") literally South Korea just overtook you, and they literally worked with you to democratically overthrow the localized organizing parties, fighting the split of their country by outside forces (America).
+[America come on, you're not a democracy, at best you're a flawed democracy, and you're not even the first at that anymore,](https://en.wikipedia.org/wiki/Democracy_Index#Democracy_Index_by_country_(2017) "America is a Flawed Democracy") literally South Korea just overtook you, and they literally worked with you to overthrow the localized organizing parties of the land, fighting the split of their country by outside forces (America).
 
 ![](/uploads/2018/03/01/Screen Shot 2018-02-28 at 10.04.17 PM.png)
 
