@@ -22,7 +22,7 @@ You are not wrong, but, let's just replace a few words in what you're saying, an
 >
 > I'm going to claim the the way the system uses TECHNOLOGICAL progress generates widespread EXTINCTION not SURVIVAL.
 
-Yeah that's right, CAPITALISM KILLS it kills not only the workers who are hyper-exploited in developing nations (some of them get caught in the nets) it kills the chances of our species to behave in such a way that it garunetees and improves the qualitfy of life that comes after it.
+Yeah that's right, CAPITALISM KILLS it kills not only the workers who are hyper-exploited in developing nations (some of them get caught in the nets when they jump from their slave factory) it kills the chances of our species to behave in such a way that it guarantees and improves the quality of life that comes after it.
 
 In its quest for continuous growth, it consumes everything.
 
@@ -44,7 +44,7 @@ But you have been, and you can be a democratic country again, but in order to do
 
 Every one of you needs to go out into your community and meet the people around you\*, literally the problem in your country is that CAPITALISM and your CULTURE's literal fucking religious obsession with it and the idea that killing everything is awesome as long as the number goes up, has realized that the best way to pump as much out of you as it can, is to make you scared, make you hate each other, make you buy guns, and go to movies, and spend all your fucking free time arguing on the internet while looking at ads.
 
-CAPITALISM IS KILLING AMERICA and by that I mean that it's killing you, the people, the economy is already fucked, but it is everywhere in the world, the next thing that is fucked is your quality of life, just like it has been, for so many of you, for so long. 
+CAPITALISM IS KILLING AMERICA and by that I mean that it's killing you, the people, the economy is already fucked, but it is everywhere in the world, the next thing that is fucked is your quality of life, just like it has been, for so many of you, for so long.
 
 Life in America will continue to get worse for the poorer, and while it can and is getting relatively better in the rest of the world, the wealth distribution is not coming equally from america, it is being drained out of the poorest, while the richest hoard their wealth at the expense of their country men.
 
@@ -57,6 +57,5 @@ Do that buy not contributing to their system, do that by engaging in your local 
 Anyway, here's the video.
 
 {{< youtube YKRBgCmgm-c >}}
-
 
 _\*there are already those of you out there doing it, and I know I'm shouting into a vacuum._
