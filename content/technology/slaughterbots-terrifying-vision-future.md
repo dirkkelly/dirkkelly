@@ -7,12 +7,12 @@ tags:
 - Cyber War
 - Automation
 - Artificial Intelligence
-channel: stopautonomousweapons
-videos:
-- 9CO6M2HsoIA
-type: 2017
-
+aliases:
+- /2017/11/22-22-slaughterbots-terrifying-vision-future/
 ---
+
+{{< youtube 9CO6M2HsoIA >}}
+
 The rate of technological evolution is increasing exponentially, devices which we couldn't imagine existing 20 years ago are now a mainstream part of life. Consumer product development is only one area of advancement though, and it's hardly the cutting edge.
 
 All technological innovations of the past 50 years have been driven primarily by military need, this includes but is not limited to the [Internet](https://en.wikipedia.org/wiki/History_of_the_Internet), [Encryption](https://en.wikipedia.org/wiki/History_of_cryptography), [Drones](https://en.wikipedia.org/wiki/History_of_unmanned_aerial_vehicles), [Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence), and most obviously [Weapons](https://en.wikipedia.org/wiki/History_of_weapons).

@@ -8,12 +8,11 @@ tags:
 - Identity Politics
 - Culture War
 - Philosophy
-channel: schooloflife
-videos:
-- uWM2E9oHlhA
-type: 2017
-
+aliases: [/2017/10/29-is-there-an-alternative-to-political-correctness/]
 ---
+
+{{< youtube uWM2E9oHlhA >}}
+
 What an amazing video for such a controversial topic right now, Political Correctness is a term so grating in our society that it forces an immediate division into each side of the [Culture War](/tags/culture-war).
 
 [Politeness](/tags/politeness) a more holistic approach to the problems that political correctness tries to solve, instead of focusing empathy towards a select group of under-represented people, it distributes empathy towards all members of society.

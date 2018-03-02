@@ -7,13 +7,14 @@ tags:
 - Donald Trump
 - Snoop Dogg
 type: 2017
+aliases:
+- /url/2017/10/11-fuck-you-trump-by-eminem/
 ---
 
 Eminem freestyled a fantastic slam against Trump in the opening to the BET Hip Hop Awards last night.
 
-<div class="embed-container">
-  <iframe src="https://www.youtube.com/embed/cKN5bMTHyMM" allowfullscreen></iframe>
-</div>
+
+{{< youtube cKN5bMTHyMM >}}
 
 I've not been able to find an uncensored version yet, but the [full lyrics are available on Genius](https://genius.com/Eminem-the-storm-2017-bet-hip-hop-awards-cypher-verse-lyrics).
 
