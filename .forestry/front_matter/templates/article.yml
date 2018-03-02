@@ -32,9 +32,7 @@ fields:
   label: Draft
   hidden: false
   default: true
-- type: field_group
-  name: aliases
-  label: Aliases
+- type: field_group_list
   fields:
   - type: text
     name: alias
