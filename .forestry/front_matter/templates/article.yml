@@ -31,10 +31,6 @@ fields:
   label: Draft
   hidden: false
   default: true
-- type: field_group_list
+- type: tag_list
   name: aliases
   label: Aliases
-  fields:
-  - type: text
-    name: ''
-    label: ''
