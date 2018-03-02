@@ -32,3 +32,6 @@ fields:
   label: Draft
   hidden: false
   default: true
+- type: field_group_list
+  label: Aliases
+  name: aliases
