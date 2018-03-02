@@ -1,16 +1,10 @@
 ---
 date: 2017-04-08 00:00:00 +0000
 title: Noam Chomsky on Trump's First 75 Days
-tags:
-- America
-- Election
-- Noam Chomsky
-- Donald Trump
-- Democracy Now
-- Resist
-type: 2017
-
+tags: [America, Election, Noam Chomsky, Donald Trump, Democracy Now, Resist]
+aliases: [/2017/04/chomsky-trumps-first-75]
 ---
+
 Recently [Democracy Now interviewed Noam Chomsky on Trump's first 75 Days as President][1], here's some key points I took away from it.
 
 On the alleged interference of the election by Russia, Chomsky points out that America is constantly interfering with world politics and overthrowing governments. If Russia and Trump were to have a more positive relationship this would not be a negative thing at all, especially considering we're at a really dangerous time.
