@@ -11,22 +11,22 @@ tags:
 - World War Internet
 date: 2017-09-27 00:00:00 +0000
 type: 2017
-draft: true
-
+aliases: [/2017/09/contrapoints-the-left/]
 ---
+
 It's crazy how real this stuff is becoming, the World War of The Internet is now on the streets of America. The dominant culture which has exploited the Earth to build a fantasy world of stability and certainty for the few, is starting to see the walls crumble as the exploited rise up on the left and right.
 
 Today we're going to talk about the left, the side I fight on, today we're going to look into why they're not as effective as the right such as the US Military, ISIS, Alt Right are with recruiting.
 
 To do that we're going to listen to Contrapoints, an excellent thinker, commentator and producer of modern philosophy.
 
+{{< youtube QuN6GfUix7c >}}
+
 ## The Right
 
 ### Ladies and Gentlemen, A Facist.
 
 My fellow Americans a war is about to be waged between everything you love and everything you hate.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QuN6GfUix7c?start=0&end=88" frameborder="0" allowfullscreen></iframe>
 
 #### Make America Great Again, Hail Victory
 
@@ -40,8 +40,6 @@ This is why they're in power.
 ## The Left
 
 ### Ladies and Gentlemen, A leftist
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QuN6GfUix7c?start=880&end=147" frameborder="0" allowfullscreen></iframe>
 
 #### Oh Fuck you! You Fucking Racists, Death to Capitalism, Hail Satan.
 

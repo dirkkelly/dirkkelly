@@ -7,8 +7,8 @@ tags:
 - Donald Trump
 - Snoop Dogg
 type: 2017
-
 ---
+
 Eminem freestyled a fantastic slam against Trump in the opening to the BET Hip Hop Awards last night.
 
 <div class="embed-container">
