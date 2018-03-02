@@ -10,12 +10,12 @@ tags:
 - Violence
 - Resist
 - America
-channel: deepgreenresistance
-videos:
-- Zni8COO1z2o
-type: 2017
-
+aliases:
+- /2017/11/8-deep-green-resistance-strategy/
 ---
+
+{{< youtube Zni8COO1z2o >}}
+
 Well the Deep Green Resistance strategy has two main goals
 
 I think it's very important in political movements to actually have a goal
