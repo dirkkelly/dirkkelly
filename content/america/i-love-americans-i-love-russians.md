@@ -44,7 +44,7 @@ It is laughable, it's insane how ridiculous the narrative is, but not on the str
 
 {{< youtube hn1VxaMEjRU >}}
 
-The American Government/Military/Corporations are the bad guys, they are the enemy to all life on Earth, risking Global Nuclear War while ignoring the threat of Climate Change. The destructive evil of the American Empires threatens the survival of all life on Earth.
+The American Government/Military/Corporations are the bad guys, they are the enemy to all life on Earth, risking Global Nuclear War while ignoring the threat of Climate Change. The destructive evil of the American Empire threatens the survival of all life on Earth.
 
 The reason this once well oiled machine is acting so destructively, being run by such an obviously horribly unfit Trump who beat another obviously unfit Clinton, after an election that could be at best described as rather entertaining, but nothing like a democratic one, is because it is falling apart.
 
