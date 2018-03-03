@@ -66,7 +66,7 @@ What does this mean for the American people that we love? It means that it is up
 
 I spent tonight at [Fort Collins Mennonite Fellowship](mennonite church)  helping locals who are sleeping rough eat a meal, have a shower, and get some peace on their Friday evening. I joined fellow [Fort Collins Democratic Socialists of America](https://www.facebook.com/DSAFortCollins/) as well as [Colorado State University Students](https://www.colostate.edu/) to spend the night giving help to our fellow people who are suffering under the regime of evil.
 
-Tomorrow the DSA will meet to discuss our current focusses of canvasing for [Medicare For All](https://medicareforall.dsausa.org/organizing-guide/medicare-for-all-faq), applying pressure to candidates of Colorado Governor during question sessions, and doing the same to local [Chief of Police candidates](https://www.coloradoan.com/story/news/2018/03/01/meet-5-candidates-vying-become-fort-collins-next-police-chief/382208002/).
+Tomorrow the DSA will meet to discuss our current focusses of canvasing for [Medicare For All](https://medicareforall.dsausa.org/organizing-guide/medicare-for-all-faq), applying pressure to candidates of Colorado Governor candidates during question sessions, and doing the same to local [Chief of Police candidates](https://www.coloradoan.com/story/news/2018/03/01/meet-5-candidates-vying-become-fort-collins-next-police-chief/382208002/).
 
 This is what Americans need to be doing, they need to be reaching into their community, and sharing love with one another, uniting together to fight their government which is killing them, so that it can maintain its power killing everyone else.
 
