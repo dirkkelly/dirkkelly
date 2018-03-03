@@ -5,6 +5,7 @@ subtitle: '"America itself could be described as one gigantic ongoing psyop" - C
   Johnstone'
 tags:
 - america
+- russia
 - community
 - socialism
 - volunteering
