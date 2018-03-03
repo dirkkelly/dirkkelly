@@ -22,7 +22,7 @@ I love Russians, I am the son and brother of Russians, they are good-hearted hum
 
 I've never lived in Russia, I've never experienced their day-to-day life, their culture first hand, their language surrounding me, their food for breakfast, lunch and dinner, their entertainment and advertising filling my waking moments.
 
-But I've done all those things in America, I've been doing it since 2011, for the most part in New York City, and during this chapter of my US adventures, in Fort Collins Colorado.
+But I've done all those things in America, I've been doing it since 2011, for the most part in New York City, these days in Fort Collins Colorado.
 
 I've experienced a large spectrum of American life for long enough now that I attribute a lot of my hopes, fears, and weird ways of saying things to being a true blooded Ameristralian.
 
