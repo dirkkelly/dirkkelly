@@ -4,15 +4,16 @@ date: 2018-03-02 22:41:42 +0000
 subtitle: '"America itself could be described as one gigantic ongoing psyop" - Caitlin
   Johnstone'
 tags:
-- collapse
-- capitalism
-- caitlin johnstone
-- julian assange
+- america
 - community
 - socialism
 - volunteering
+- capitalism
+- collapse
 - nuclear war
 - climate change
+- caitlin johnstone
+- julian assange
 aliases: []
 
 ---
