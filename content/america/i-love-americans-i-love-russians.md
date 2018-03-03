@@ -70,7 +70,7 @@ Tomorrow the DSA will meet to discuss our current focusses of canvasing for [Med
 
 This is what Americans need to be doing, they need to be reaching into their community, and sharing love with one another, uniting together to fight their government which is killing them.
 
-Americans! Stand up for each other, love one another, and use your tangible democratic systems of control to unseat unjust power at all levels of your society, from your employer's board. parent/teachers committee, Sheriffs, Chief of Police, Mayors, Governors, Senators, and then worry about your president.
+Americans! Stand up for each other, love one another, and use your tangible democratic systems of control to unseat unjust power at all levels of your society, from your employer's board, parent/teachers committee, Sheriffs, Chief of Police, Mayors, Governors, Senators, and then worry about your president.
 
 Without groundswell support for real change to your society. From one that takes and hordes wealth for the few, to one that spreads love to each other, and subsequently the world. We have no hope of changing our path of destruction.
 
