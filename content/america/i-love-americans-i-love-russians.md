@@ -7,8 +7,8 @@ tags:
 - america
 - russia
 - community
-- socialism
 - volunteering
+- socialism
 - capitalism
 - collapse
 - nuclear war
