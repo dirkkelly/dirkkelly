@@ -8,6 +8,11 @@ tags:
 - capitalism
 - caitlin johnstone
 - julian assange
+- community
+- socialism
+- volunteering
+- nuclear war
+- climate change
 aliases: []
 draft: true
 
@@ -35,3 +40,5 @@ So does the rest of the world, so does [Caitlin Johnstone](https://caitlinjohnst
 It is laughable, it's insane how ridiculous the narrative is, but not on the streets, not with "most people". Not because most people think that they definitely is collusion, most people are just confused, they can't keep up with it, is Syria the bad guys? Are Russia helping the bad guys? Because they don't get it, and their mind can't make that shift.
 
 {{< youtube hn1VxaMEjRU >}}
+
+The American Government/Military/Corporations are the bad guys, they are the enemy to all life on Earth, risking global nuclear war while ignoring the threat of Climate Change, this evil threatens the survival of the human species.
