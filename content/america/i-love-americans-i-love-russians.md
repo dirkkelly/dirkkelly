@@ -8,8 +8,8 @@ tags:
 - capitalism
 - caitlin johnstone
 - julian assange
-draft: true
 aliases: []
+draft: true
 
 ---
 I love Americans, I've even been _in love_ with a few of them, they are good-hearted human beings, for the most part, like all people, for the most part.
@@ -20,11 +20,13 @@ I've never lived in Russia, I've never experienced their day-to-day life, their 
 
 But I've done all those things in America, I've been doing it since 2011, for the most part in New York City, the native's self-subscribed "capital of the world". I've experienced a large spectrum of American life for long enough now that I attribute a lot of my hopes, fears, and weird way of saying things to being a quasi American for so long.
 
-I love Americans, but I feel very sorry for them, I feel very sad and hurt for them, I've felt their systems of oppression crush me, from medical bills, electrical bills (that weren't mine), debt collectors (for debts that weren't mine), media stations that lie, fear monger, and spread hate, and election systems that ignore the wish of the people, and protect power.
+I love Americans, but I feel very sorry for them, I feel very sad and hurt for them, I've felt their systems of oppression crush me, like it crushes them, from medical bills, electrical bills (that weren't mine), debt collectors (for debts that weren't mine), media stations that lie, fear monger, and spread hate, and election systems that ignore the wish of the people, and protect power. I've felt it all so bad that I just wanted to shut down, shut it all off, end it even, [like so many of them do so much these days](https://www.theguardian.com/us-news/2017/oct/25/americas-opioid-crisis-how-prescription-drugs-sparked-a-national-trauma).
 
-I have experienced the [learned-helplessness](https://en.wikipedia.org/wiki/Learned_helplessness), the [dysphoria of realizing that you're living in a hypernormalised reality](https://dirkkelly.com/hypernormalisation/adam-curtis-chapo-traphouse-donald-trump/), and the despair at the chance of the world getting any better.
+I have experienced the [learned-helplessness](https://en.wikipedia.org/wiki/Learned_helplessness), the [dysphoria of realizing that you're living in a hypernormalised reality](https://dirkkelly.com/hypernormalisation/adam-curtis-chapo-traphouse-donald-trump/), and the despair at the realization that if "things" continue the way they're going, we're all going to die.
 
-But when it comes to this Russia narrative, I will not side with them, I am not one with them, I am not susceptible to the propaganda like so many of them are, and when I see things like [Hillary Clinton pushing for even more violence against Russia](https://steemit.com/hillaryclinton/@caitlinjohnstone/hillary-demands-even-more-russia-escalations-from-trump-administration), I get furious, and scared, and so does the rest of the world, like Caitlin Johnstone, who once again is calling this bullshit and pointing out that [the US Empire is acting like a desperate, cornered animal, because that's what it is](https://caitlinjohnstone.com/2018/03/02/the-us-empire-is-acting-like-a-desperate-cornered-animal-because-thats-what-it-is/).
+But when it comes to this Russia narrative, I'm not brainwashed by their propaganda like so many of of them are. and when I see things like [Hillary Clinton pushing for even more violence against Russia](https://steemit.com/hillaryclinton/@caitlinjohnstone/hillary-demands-even-more-russia-escalations-from-trump-administration), I get furious, and scared.
+
+So does the rest of the world, so does [Caitlin Johnstone](https://caitlinjohnstone.com), who once again is calling out this bullshit in her article [The US Empire is acting like a desperate, cornered animal, because that's what it is](https://caitlinjohnstone.com/2018/03/02/the-us-empire-is-acting-like-a-desperate-cornered-animal-because-thats-what-it-is/).
 
 ![](/uploads/2018/03/03/wtf-clinton.png)
 
