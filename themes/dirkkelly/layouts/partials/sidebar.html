@@ -10,14 +10,6 @@
 </div>
 
 <ul class="sidebar-nav text-center text-md-left list-unstyled">
-  {{ range .Site.Menus.tags }}
-    <li class="d-inline d-md-block">
-      <a href="{{.URL}}"><strong>{{ .Name }}</strong></a>
-    </li>
-  {{end}}
-</ul>
-
-<ul class="sidebar-nav text-center text-md-left list-unstyled">
   {{ range .Site.Menus.meta }}
     <li class="d-inline d-md-block">
       <a href="{{.URL}}"><strong>{{ .Name }}</strong></a>

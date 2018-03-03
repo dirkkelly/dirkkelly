@@ -1,13 +1,15 @@
 ---
-title: Résumé
+title: Career
 tags:
 - Personal
 - InterExchange
 - Pivotal Labs
 - Murdoch University
 type: page
-
+aliases:
+- /resume/
 ---
+
 ## Career
 
 ### Chief Technology Officer
