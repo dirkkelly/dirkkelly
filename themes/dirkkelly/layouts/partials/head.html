@@ -24,9 +24,12 @@
 
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+
     <style type="text/css">
-      body { margin: 0; font-family: sans-serif; overflow-y: scroll; }
+      body { margin: 0; font-family: 'Roboto Slab', serif; overflow-y: scroll; }
 
       .text-center { text-align: center; }
       .d-inline { display: inline; }
@@ -44,6 +47,7 @@
       .content iframe { padding-bottom: 10px; }
       .content img { max-width: 100%; }
       .content h1, .content h3, .content h4, .content h5 { font-weight: bold; }
+      .content { font-size: 1.1em; }
 
       @media only screen and (max-width: 768px) {
         .sidebar { width: 100%; }
@@ -55,6 +59,7 @@
       .sidebar a, .sidebar a:hover { color: #FFFFFF; }
       .content a { color: #326799; }
     </style>
+
   </head>
 
   <body class="{{ .Site.Params.themeColor }}">

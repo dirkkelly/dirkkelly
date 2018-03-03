@@ -6,7 +6,8 @@ tags:
 - Australia
 - Personal
 - Friendly Jordies
-type: 2017
+aliases:
+- /2017/12/10-christmas-in-australia/
 ---
 
 Being back in Australia for Christmas has been the best perk of the 5 years I've spent working at [InterExchange](https://www.interexchange.org/), re-immersing myself in my Australian identity has been an important aspect of my mental health recovery.
