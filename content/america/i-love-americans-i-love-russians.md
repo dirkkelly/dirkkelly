@@ -63,4 +63,10 @@ Don't believe me, think this is hyperbole? [US Army Strategic Studies Institutes
 
 What does this mean for the American people that we love? It means that it is up to them, to seize control of their government, to change the direction of their nation so that its vast wealth and power can be used to help the people of America, instead of killing the people of the world.
 
-I spent tonight at the local Mennanite
+I spent tonight at [Fort Collins Mennonite Fellowship](mennonite church)  helping locals who are sleeping rough enjoy a meal, shower, and some peace on their Friday evening. I joined by fellow [Fort Collins Democratic Socialists of America](https://www.facebook.com/DSAFortCollins/) as well as [Colorado State University Students](https://www.colostate.edu/) to spend the night giving love to local Americans who are suffering under the regime of evil.
+
+Tomorrow the DSA will meet to discuss our current focusses of canvasing for [Medicare For All](https://medicareforall.dsausa.org/organizing-guide/medicare-for-all-faq), applying pressure to candidates of Colorado Governor during question sessions, and doing the same to local [Chief of Police candidates](https://www.coloradoan.com/story/news/2018/03/01/meet-5-candidates-vying-become-fort-collins-next-police-chief/382208002/).
+
+This is what Americans need to be doing, they need to be reaching into their community, and sharing love with one another, uniting together to fight their government which is killing them, so that it can maintain its power killing everyone else.
+
+Stand up for each other Americans, love one another, and use your tangible democractic systems of control to unseat unjust power at all levels of your society, from your employer's board. parent/teachers committee, Sheriffs, Chief of Police, Mayors, Governors, Senators, and then  
