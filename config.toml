@@ -31,30 +31,10 @@ title = "Dirk Kelly"
   url = "/about/"
   weight = 2
 
-[[menu.meta]]
-  name = "Channels"
-  url = "/channels/"
-  weight = 1
-
-[[menu.tags]]
-  name = "Super Deluxe"
-  url = "/tags/super-deluxe/"
-  weight = 4
-
-[[menu.tags]]
-  name = "Friendly Jordies"
-  url = "/tags/friendly-jordies/"
-  weight = 3
-
-[[menu.tags]]
-  name = "Contrapoints"
-  url = "/tags/contrapoints/"
-  weight = 1
-
-[[menu.tags]]
-  name = "Noam Chomsky"
-  url = "/tags/noam-chomsky/"
-  weight = 2
+#[[menu.tags]]
+#  name = "Noam Chomsky"
+#  url = "/tags/noam-chomsky/"
+#  weight = 1
 
 [permalinks]
   channels = "/:filename"
