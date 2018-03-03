@@ -22,13 +22,15 @@ I love Russians, I am the son and brother of Russians, they are good-hearted hum
 
 I've never lived in Russia, I've never experienced their day-to-day life, their culture first hand, their language surrounding me, their food for breakfast, lunch and dinner, their entertainment and advertising filling my waking moments.
 
-But I've done all those things in America, I've been doing it since 2011, for the most part in New York City, the native's self-subscribed "capital of the world". I've experienced a large spectrum of American life for long enough now that I attribute a lot of my hopes, fears, and weird way of saying things to being a quasi American for so long.
+But I've done all those things in America, I've been doing it since 2011, for the most part in New York City, and during this chapter of my US adventures, in Fort Collins Colorado.
+
+I've experienced a large spectrum of American life for long enough now that I attribute a lot of my hopes, fears, and weird ways of saying things to being a true blooded Ameristralian.
 
 I love Americans, but I feel very sorry for them, I feel very sad and hurt for them, I've felt their systems of oppression crush me, like it crushes them, from medical bills, electrical bills (that weren't mine), debt collectors (for debts that weren't mine), media stations that lie, fear monger, and spread hate, and election systems that ignore the wish of the people, and protect undeserving and corrupt power. I've felt it all so bad that I just wanted to shut down, shut it all off, end it even, [like so many of them do so often these days](https://www.theguardian.com/us-news/2017/oct/25/americas-opioid-crisis-how-prescription-drugs-sparked-a-national-trauma).
 
 I have experienced the [learned-helplessness](https://en.wikipedia.org/wiki/Learned_helplessness), the [dysphoria of realizing that you're living in a hypernormalised reality](https://dirkkelly.com/hypernormalisation/adam-curtis-chapo-traphouse-donald-trump/), and the despair at the realization that if "things" continue the way they're going, we're all going to die.
 
-But when it comes to this Russia narrative, I'm not brainwashed by their propaganda like so many of of them are and when I see things like [Hillary Clinton pushing for even more violence against Russia](https://steemit.com/hillaryclinton/@caitlinjohnstone/hillary-demands-even-more-russia-escalations-from-trump-administration), I get furious, and scared.
+But when it comes to this Russia narrative, I'm not brainwashed by their propaganda like so many of them are and when I see things like [Hillary Clinton pushing for even more violence against Russia](https://steemit.com/hillaryclinton/@caitlinjohnstone/hillary-demands-even-more-russia-escalations-from-trump-administration), I get furious, and scared.
 
 So does the rest of the world, so does [Caitlin Johnstone](https://caitlinjohnstone.com), who once again is calling out this bullshit in her article [The US Empire is acting like a desperate, cornered animal, because that's what it is](https://caitlinjohnstone.com/2018/03/02/the-us-empire-is-acting-like-a-desperate-cornered-animal-because-thats-what-it-is/).
 
@@ -62,7 +64,7 @@ Don't believe me, think this is hyperbole? [US Army Strategic Studies Institutes
 
 What does this mean for the American people that we love? It means that it is up to them, to seize control of their government, to change the direction of their nation so that its vast wealth and power can be used to help the people of America, instead of killing the people of the world.
 
-I spent tonight at [Fort Collins Mennonite Fellowship](mennonite church)  helping locals who are sleeping rough enjoy a meal, shower, and some peace on their Friday evening. I joined by fellow [Fort Collins Democratic Socialists of America](https://www.facebook.com/DSAFortCollins/) as well as [Colorado State University Students](https://www.colostate.edu/) to spend the night giving love to local Americans who are suffering under the regime of evil.
+I spent tonight at [Fort Collins Mennonite Fellowship](mennonite church)  helping locals who are sleeping rough enjoy a meal, shower, and some peace on their Friday evening. I joined fellow [Fort Collins Democratic Socialists of America](https://www.facebook.com/DSAFortCollins/) as well as [Colorado State University Students](https://www.colostate.edu/) to spend the night giving help to our fellow people who are suffering under the regime of evil.
 
 Tomorrow the DSA will meet to discuss our current focusses of canvasing for [Medicare For All](https://medicareforall.dsausa.org/organizing-guide/medicare-for-all-faq), applying pressure to candidates of Colorado Governor during question sessions, and doing the same to local [Chief of Police candidates](https://www.coloradoan.com/story/news/2018/03/01/meet-5-candidates-vying-become-fort-collins-next-police-chief/382208002/).
 
