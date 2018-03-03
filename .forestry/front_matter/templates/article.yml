@@ -1,6 +1,6 @@
 ---
 pages:
-- 2018/02/test.md
+- america/i-love-americans--i-love-russians.md
 - 2018/02/the-myth-of-incentive-under-capitalism-g.a.cohen.md
 - 2018/02/socializing-is-work-social-media-is-exploitation.md
 - 2018/02/foresty-for-writing-blog-posts-on-hugo.md
@@ -32,3 +32,10 @@ fields:
   label: Draft
   hidden: false
   default: true
+- type: list
+  label: Aliases
+  name: aliases
+  config:
+    use_select: false
+    source:
+      type: datafiles
