@@ -36,6 +36,8 @@ So does the rest of the world, so does [Caitlin Johnstone](https://caitlinjohnst
 ![](/uploads/2018/03/03/wtf-clinton.png)
 
 > The notion that the “collusion” between Trump and the Russian government is manifesting as consistently mounting aggressiveness directly against one another’s interests is laughable.
+>
+> [Caitlin Johnstone](https://caitlinjohnstone.com/2018/03/02/the-us-empire-is-acting-like-a-desperate-cornered-animal-because-thats-what-it-is/)
 
 It is laughable, it's insane how ridiculous the narrative is, but not on the streets of America, not with "most Americans". Not because most people think that there is collusion between Trump & Russia, most Americans are just confused, they can't keep up with it, is Syria the bad guys? Are Russia helping the bad guys? Because Americans don't get it, their mind can't make that shift.
 
@@ -47,6 +49,18 @@ The reason this once well oiled machine is acting so destructively, being run by
 
 Like Rome, which they modeled themselves off, their country is falling apart; depleted of all its resources, and devoid of any of manufacturing industry, it relies on financial trickery and strong-arming of threat of violence to hold on to control of the world economy, and it's losing it's grip.
 
-Don't believe me, think this is hyperbole? US Army Strategic Studies Institutes is going to disagree with you.
+Don't believe me, think this is hyperbole? [US Army Strategic Studies Institutes](https://ssi.armywarcollege.edu/pdffiles/PUB1358.pdf) is going to disagree with you.
 
 ![](/uploads/2018/03/03/assange-america-collapsing.png)![](/uploads/2018/03/03/us-strategic-extract.png)![](/uploads/2018/03/03/us-strategic-extract-2.png)
+
+> Many, many powerful people have built their kingdoms upon this vast empire, and now that empire is approaching post-primacy. Staying on top of the world and preventing the rise of any rival superpower has been a mainstream tenet of the US-centralized establishment [for a long time now](https://medium.com/@caityjohnstone/obama-urged-trump-to-continue-neoconservative-foreign-policy-417e1a1f66d2), and that [appears to be the goal](https://steemit.com/trump/@caitlinjohnstone/russiagate-isn-t-about-trump-and-it-isn-t-even-ultimately-about-russia) behind all the moves that they are taking to disrupt the Russia-China tandem as well. But they are fighting backed into a corner, and they are getting desperate, and they are overextending themselves. Which is why they look so ridiculous and obvious to anyone who is paying attention.
+>
+> This is both good news and potentially very bad news. The good news is that once America is no longer the seat of a depraved dominant plutocracy that is trying to rule the world, there will no longer be a vested interest in keeping Americans poor, impotent, and blinded by propaganda in order to ensure that the populace of their home base doesn’t rise up and seize political power. All the resources that now go toward endless war and global domination could then be used by the American people, for the American people, while still maintaining a military to protect the nation’s easily-defended shores. A real economy that isn’t propped up with the barrel of a gun could emerge, and the good qualities of a decent citizenry could enable them to thrive like a real, normal nation.
+>
+> The bad news is that cornered animals are dangerous, and desperate times call for desperate measures. There is indeed the very real possibility that America’s oligarchs will plunge the nation and its allies into a humanity-threatening world war rather than acquiesce to the emergence of a multipolar world and lose their empire. The more of our fellow humans we can awaken to what is going on, the greater the likelihood of the former future rather than the latter. I really hope we win.
+>
+> [Caitlin Johnstone](https://caitlinjohnstone.com/2018/03/02/the-us-empire-is-acting-like-a-desperate-cornered-animal-because-thats-what-it-is/)
+
+What does this mean for the American people that we love? It means that it is up to them, to seize control of their government, to change the direction of their nation so that its vast wealth and power can be used to help the people of America, instead of killing the people of the world.
+
+I spent tonight at the local Mennanite
