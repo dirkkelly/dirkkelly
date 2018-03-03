@@ -30,7 +30,7 @@ I love Americans, but I feel very sorry for them, I feel very sad and hurt for t
 
 I have experienced the [learned-helplessness](https://en.wikipedia.org/wiki/Learned_helplessness), the [dysphoria of realizing that you're living in a hypernormalised reality](https://dirkkelly.com/hypernormalisation/adam-curtis-chapo-traphouse-donald-trump/), and the despair at the realization that if "things" continue the way they're going, we're all going to die.
 
-But when it comes to this Russia narrative, I'm not brainwashed by their propaganda like so Americans are, and when I see things like [Hillary Clinton pushing for even more violence against Russia](https://steemit.com/hillaryclinton/@caitlinjohnstone/hillary-demands-even-more-russia-escalations-from-trump-administration), I get furious, and scared.
+But when it comes to this Russia narrative, I'm not brainwashed by their propaganda like so many Americans are, and when I see things like [Hillary Clinton pushing for even more violence against Russia](https://steemit.com/hillaryclinton/@caitlinjohnstone/hillary-demands-even-more-russia-escalations-from-trump-administration), I get furious, and scared.
 
 So does the rest of the world, so does [Caitlin Johnstone](https://caitlinjohnstone.com), who once again is calling out this bullshit in her article [The US Empire is acting like a desperate, cornered animal, because that's what it is](https://caitlinjohnstone.com/2018/03/02/the-us-empire-is-acting-like-a-desperate-cornered-animal-because-thats-what-it-is/).
 
