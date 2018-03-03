@@ -41,4 +41,4 @@ It is laughable, it's insane how ridiculous the narrative is, but not on the str
 
 {{< youtube hn1VxaMEjRU >}}
 
-The American Government/Military/Corporations are the bad guys, they are the enemy to all life on Earth, risking global nuclear war while ignoring the threat of Climate Change, this evil threatens the survival of the human species.
+The American Government/Military/Corporations are the bad guys, they are the enemy to all life on Earth, risking global nuclear war while ignoring the threat of Climate Change, the destructive evil of the American Empires threatens the survival of all life on Earth.
