@@ -32,7 +32,7 @@ I have experienced the [learned-helplessness](https://en.wikipedia.org/wiki/Lear
 
 But when it comes to this Russia narrative, I'm not brainwashed by their propaganda like so many Americans are, and when I see things like [Hillary Clinton pushing for even more violence against Russia](https://steemit.com/hillaryclinton/@caitlinjohnstone/hillary-demands-even-more-russia-escalations-from-trump-administration), I get furious, and scared.
 
-So does the rest of the world, so does [Caitlin Johnstone](https://caitlinjohnstone.com), who once again is calling out this bullshit in her article [The US Empire is acting like a desperate, cornered animal, because that's what it is](https://caitlinjohnstone.com/2018/03/02/the-us-empire-is-acting-like-a-desperate-cornered-animal-because-thats-what-it-is/).
+So does the rest of the world, so does [Caitlin Johnstone](https://caitlinjohnstone.com), who once again is calling out this psychological exploitation of the American people in her article [The US Empire is acting like a desperate, cornered animal, because that's what it is](https://caitlinjohnstone.com/2018/03/02/the-us-empire-is-acting-like-a-desperate-cornered-animal-because-thats-what-it-is/).
 
 ![](/uploads/2018/03/03/wtf-clinton.png)
 
