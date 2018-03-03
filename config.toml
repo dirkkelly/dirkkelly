@@ -10,7 +10,6 @@ title = "Dirk Kelly"
   author = "dirkkelly"
   description = "Australian writing during the collapse of Capitalism and humanity's struggle to survive the Holocene extinction."
   disqusshortname = "dirkkellycom"
-  themecolor = "theme-base-dk"
 
 [[menu.meta]]
   name = "RSS"
@@ -59,6 +58,6 @@ title = "Dirk Kelly"
 
 [permalinks]
   channels = "/:filename"
-  
+
 [taxonomies]
   tag = "tags"
