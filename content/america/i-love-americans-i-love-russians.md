@@ -14,7 +14,6 @@ tags:
 - nuclear war
 - climate change
 aliases: []
-draft: true
 
 ---
 I love Americans, I've even been _in love_ with a few of them, they are good-hearted human beings, for the most part, like all people, for the most part.
