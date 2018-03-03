@@ -46,7 +46,7 @@ The American Government/Military/Corporations are the bad guys, they are the ene
 
 The reason this once well oiled machine is acting so destructively, being run by such an obviously horribly unfit Trump who beat another obviously unfit Clinton, after an election that could be at best described as rather entertaining, but nothing like a democratic one, is because it is falling apart.
 
-Like Rome, which they modeled themselves off, their country is falling apart; depleted of all its resources, and devoid of any of manufacturing industry. America relies on financial trickery and strong-arming of threat of violence to hold on to control of the world economy, and it's losing grip.
+Like Rome, which they modeled themselves off, their country is falling apart; depleted of all its resources, its manufacturing industry exported abroad, its education system gutted, and its healthcare system failing to provide. America relies on financial trickery, intimidation and violence to hold on to control of the world economy, and it's losing grip.
 
 Don't believe me, think this is hyperbole? [US Army Strategic Studies Institutes](https://ssi.armywarcollege.edu/pdffiles/PUB1358.pdf) is going to disagree with you.
 
