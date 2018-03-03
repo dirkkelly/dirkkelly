@@ -72,6 +72,6 @@ This is what Americans need to be doing, they need to be reaching into their com
 
 Stand up for each other Americans, love one another, and use your tangible democratic systems of control to unseat unjust power at all levels of your society, from your workplaces board, to parent/teacher committees, Sheriffs, Chiefs of Police, Mayors, Governors, Senators, and then worry about your president.
 
-Without groundswell support for real change to your society. From one that takes and hordes wealth for the few, to one that spreads love to each other, and subsequently the world. We have no hope of changing our path of destruction.
+Without groundswell support for real change to your society; from one that takes and hordes wealth for the few, to one that spreads love to each other, and subsequently the world. We have no hope of changing our path of destruction.
 
 I really hope we win.
