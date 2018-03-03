@@ -37,7 +37,7 @@ So does the rest of the world, so does [Caitlin Johnstone](https://caitlinjohnst
 
 > The notion that the “collusion” between Trump and the Russian government is manifesting as consistently mounting aggressiveness directly against one another’s interests is laughable.
 
-It is laughable, it's insane how ridiculous the narrative is, but not on the streets of America, not with "most Americans". Not because most people think that they definitely is collusion, most people are just confused, they can't keep up with it, is Syria the bad guys? Are Russia helping the bad guys? Because Americans don't get it, their mind can't make that shift.
+It is laughable, it's insane how ridiculous the narrative is, but not on the streets of America, not with "most Americans". Not because most people think that there is collusion between Trump & Russia, most Americans are just confused, they can't keep up with it, is Syria the bad guys? Are Russia helping the bad guys? Because Americans don't get it, their mind can't make that shift.
 
 {{< youtube hn1VxaMEjRU >}}
 
