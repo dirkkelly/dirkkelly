@@ -56,7 +56,7 @@ Don't believe me, think this is hyperbole? [US Army Strategic Studies Institutes
 
 ![](/uploads/2018/03/03/assange-america-collapsing.png)![](/uploads/2018/03/03/us-strategic-extract.png)![](/uploads/2018/03/03/us-strategic-extract-2.png)
 
-That’s the American military admitting that the US global hedgeonomy is failing, and that  this change from the US dominating the Earth will fundamentally changed life in America.
+That’s the American military admitting that the US global hedgeonomy is failing, and that  this change from the US dominating the Earth will fundamentally change life in America for Americans, both rich and poor.
 
 > Many, many powerful people have built their kingdoms upon this vast empire, and now that empire is approaching post-primacy. Staying on top of the world and preventing the rise of any rival superpower has been a mainstream tenet of the US-centralized establishment [for a long time now](https://medium.com/@caityjohnstone/obama-urged-trump-to-continue-neoconservative-foreign-policy-417e1a1f66d2), and that [appears to be the goal](https://steemit.com/trump/@caitlinjohnstone/russiagate-isn-t-about-trump-and-it-isn-t-even-ultimately-about-russia) behind all the moves that they are taking to disrupt the Russia-China tandem as well. But they are fighting backed into a corner, and they are getting desperate, and they are overextending themselves. Which is why they look so ridiculous and obvious to anyone who is paying attention.
 >
