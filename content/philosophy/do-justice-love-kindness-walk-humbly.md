@@ -23,7 +23,7 @@ Let's go over an example of how you can do this.
 
 Say you want to live in a community that ensures everyone is fed regardless of wealth, you can volunteer your energy to helping feed the homeless, very likely the groups in your community who you can help are based in religion, be them Jewish, Christian, Muslim and the uncountable variations of these theologies. By feeding the homeless in your community you are directly solving a problem for people, this is a great start to making change, but it's not the end.
 
-Through volunteering in your community you're going to start getting a sense of the current issues that they are facing, real policy based issues where the local government needs to make change. Through meeting fellow community members living rough you're going to start to build an emotional connection to real people, and better understand how things need to change to help them. 
+Through meeting fellow community members living rough you're going to start to build an emotional connection to real people, and better understand how things need to change to help them. You're going to start getting a sense of the current policy issues that they are facing, where the government and its institutions of enforcement need to make change. 
 
 The passion and drive this produces should be used to get involved in the political operations of your local government. Not only voting, but engaging with more of the levers of power, attending community meetings to press on policy points, to question authority, to make those who rule over you and your brothers & sisters accountable.
 
