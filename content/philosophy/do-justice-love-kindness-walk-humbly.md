@@ -8,7 +8,6 @@ tags:
 - equality
 - democracy
 - capitalism
-draft: true
 aliases: []
 
 ---
