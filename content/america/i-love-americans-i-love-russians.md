@@ -18,7 +18,7 @@ tags:
 aliases: []
 
 ---
-I love Americans, I've even been _in love_ with a few of them, they are good-hearted human beings, for the most part, like all people, for the most part.
+I love Americans, I've even been _in love_ with a few of them, they are good-hearted human beings, for the most part, like most people, for the most part.
 
 I love Russians, I am the son and brother of Russians, they are good-hearted human beings, like most other people.
 
