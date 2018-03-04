@@ -35,4 +35,4 @@ The only way that we will change the status-quo is by making those politicians a
 
 You cannot have a democracy if you don't engage in your community, you cannot claim to operate under christian values if you don't value policy and politicians who create a society based on those values.
 
-If we all change our world locally, then the world will change globally.
+If we work to change our society and culture locally, then the world will change in turn.
