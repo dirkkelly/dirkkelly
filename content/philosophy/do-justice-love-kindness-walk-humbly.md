@@ -29,9 +29,9 @@ The passion and drive this produces should be used to get involved in the politi
 
 Of course if you were living in a democracy the relationship wouldn't be that these people were ruling over you, it would be that they were serving you, serving your communities needs, solving problems faced by members of the community at all levels in society. 
 
-Right now at all levels of our governments politicians serve the wealthy elite, the banks and corporations with the majority of wealth. The policies they enact and enforce as prioritized not based on the good of the people, but on the desires of the powerful who pay politicians so they can run in elections, or provide loans to governments under austerity agreements that see the funds funneled back to the rich, at the cost of community services that benefit the poor. 
+Right now at all levels of our governments politicians serve the wealthy elite, the banks and corporations with the majority of wealth. The policies they enact and enforce ar prioritized not based on the good of the people, but on the desires of the powerful who pay politicians so they can run in elections, or provide loans to governments under austerity agreements that see the funds funneled back to the rich, at the cost of community services that benefit the poor. 
 
-The only way that we will change the status-quo is by making those politicians accountable to us, dependent on voters who care about policies, and are engaged and present.
+The only way that we will change the status-quo is by making those politicians accountable to us, making them dependent on voters who care about policies, are engaged with their community, and want to see real change.
 
 You cannot have a democracy if you don't engage in your community, you cannot claim to operate under christian values if you don't value policy and politicians who create a society based on those values.
 
