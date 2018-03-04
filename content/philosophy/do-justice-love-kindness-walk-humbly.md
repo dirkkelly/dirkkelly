@@ -29,3 +29,11 @@ Through volunteering in your community you're going to start getting a sense of 
 The passion and drive this produces should be used to get involved in the political operations of your local government. Not only voting, but engaging with more of the levers of power, attending community meetings to press on policy points, to question authority, to make those who rule over you and your brothers & sisters accountable.
 
 Of course if you were living in a democracy the relationship wouldn't be that these people were ruling over you, it would be that they were serving you, serving your communities needs, solving problems faced by members of the community at all levels in society. 
+
+Right now at all levels of our governments politicians serve the wealthy elite, the banks and corporations with the majority of wealth. The policies they enact and enforce as prioritized not based on the good of the people, but on the desires of the powerful who pay politicians so they can run in elections, or provide loans to governments under austerity agreements that see the funds funneled back to the rich, at the cost of community services that benefit the poor. 
+
+The only way that we will change the status-quo is by making those politicians accountable to us, dependent on voters who care about policies, and are engaged and present.
+
+You cannot have a democracy if you don't engage in your community, you cannot claim to operate under christian values if you don't value policy and politicians who create a society based on those values.
+
+If we all change our world locally, then the world will change globally.
