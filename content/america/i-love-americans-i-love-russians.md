@@ -18,7 +18,7 @@ tags:
 aliases: []
 
 ---
-I love Americans, I've even been _in love_ with a few of them, they are good-hearted human beings, for the most part, like all people, for the most part.
+I love Americans, I've even been _in love_ with a few of them, they are good-hearted human beings, for the most part, like most people, for the most part.
 
 I love Russians, I am the son and brother of Russians, they are good-hearted human beings, like most other people.
 
@@ -28,7 +28,9 @@ But I've done all those things in America, I've been doing it since 2011, for th
 
 I've experienced a large spectrum of American life for long enough now that I attribute a lot of my hopes, fears, and weird ways of saying things to being a true blooded Ameristralian.
 
-I love Americans, but I feel very sorry for them, I feel very sad and hurt for them, I've felt their systems of oppression crush me, like it crushes them; unbelievably high medical bills (even when I had top-tier insurance), unwarranted electrical bills (that weren't mine), ruthless debt collectors (again for debts that weren't mine), the constant background noise of overwhelming media stations that lie, fear-monger, and spread hate, and election systems that ignore the wish of the people, and protect undeserving and corrupt power. I've felt it all so bad that I just wanted to shut down, shut it all off, end it even, [like so many distraught Americans do, so often these days](https://www.theguardian.com/us-news/2017/oct/25/americas-opioid-crisis-how-prescription-drugs-sparked-a-national-trauma).
+I love Americans, but I feel very sorry for them, I feel very sad and hurt for them, I've felt their systems of oppression crush me, like it crushes them; unbelievably high medical bills (even when I had top-tier insurance), unwarranted electrical bills (that weren't mine), ruthless debt collectors (again for debts that weren't mine), the constant background noise of overwhelming media stations that lie, fear-monger, and spread hate, and election systems that ignore the wish of the people to protect undeserving and corrupt power.
+
+I've felt it all so bad that I just wanted to shut down, shut it all off, end it even, [like so many distraught Americans do, so often these days](https://www.theguardian.com/us-news/2017/oct/25/americas-opioid-crisis-how-prescription-drugs-sparked-a-national-trauma).
 
 I have experienced the [learned-helplessness](https://en.wikipedia.org/wiki/Learned_helplessness), the [dysphoria of realizing that you're living in a hypernormalised reality](https://dirkkelly.com/hypernormalisation/adam-curtis-chapo-traphouse-donald-trump/), and the despair at the realization that if "things" continue the way they're going, we're all going to die.
 
@@ -56,6 +58,8 @@ Don't believe me, think this is hyperbole? [US Army Strategic Studies Institutes
 
 ![](/uploads/2018/03/03/assange-america-collapsing.png)![](/uploads/2018/03/03/us-strategic-extract.png)![](/uploads/2018/03/03/us-strategic-extract-2.png)
 
+Yeah that is the American military admitting that the US global hedgeonomy is failing, and that this change from the US dominating the Earth will fundamentally change life in America for Americans, both rich and poor.
+
 > Many, many powerful people have built their kingdoms upon this vast empire, and now that empire is approaching post-primacy. Staying on top of the world and preventing the rise of any rival superpower has been a mainstream tenet of the US-centralized establishment [for a long time now](https://medium.com/@caityjohnstone/obama-urged-trump-to-continue-neoconservative-foreign-policy-417e1a1f66d2), and that [appears to be the goal](https://steemit.com/trump/@caitlinjohnstone/russiagate-isn-t-about-trump-and-it-isn-t-even-ultimately-about-russia) behind all the moves that they are taking to disrupt the Russia-China tandem as well. But they are fighting backed into a corner, and they are getting desperate, and they are overextending themselves. Which is why they look so ridiculous and obvious to anyone who is paying attention.
 >
 > This is both good news and potentially very bad news. The good news is that once America is no longer the seat of a depraved dominant plutocracy that is trying to rule the world, there will no longer be a vested interest in keeping Americans poor, impotent, and blinded by propaganda in order to ensure that the populace of their home base doesn’t rise up and seize political power. All the resources that now go toward endless war and global domination could then be used by the American people, for the American people, while still maintaining a military to protect the nation’s easily-defended shores. A real economy that isn’t propped up with the barrel of a gun could emerge, and the good qualities of a decent citizenry could enable them to thrive like a real, normal nation.
@@ -68,7 +72,7 @@ What does this mean for the American people that we love? It means that it is up
 
 I spent tonight at [Fort Collins Mennonite Fellowship](mennonite church)  helping locals who are sleeping rough enjoy a meal, shower, and some peace on their Friday evening. I joined fellow [Fort Collins Democratic Socialists of America](https://www.facebook.com/DSAFortCollins/) as well as [Colorado State University Students](https://www.colostate.edu/) to spend the night giving help to our fellow people who are suffering under the regime of evil.
 
-Tomorrow the DSA will meet to discuss our current focusses of canvasing for [Medicare For All](https://medicareforall.dsausa.org/organizing-guide/medicare-for-all-faq), applying pressure to candidates of Colorado Governor during question sessions, and doing the same to local [Chief of Police candidates](https://www.coloradoan.com/story/news/2018/03/01/meet-5-candidates-vying-become-fort-collins-next-police-chief/382208002/).
+Tomorrow our DSA chapter will meet to discuss our current focusses of canvasing for [Medicare For All](https://medicareforall.dsausa.org/organizing-guide/medicare-for-all-faq), applying pressure to candidates of Colorado Governor during question sessions, doing the same to local [Chief of Police candidates](https://www.coloradoan.com/story/news/2018/03/01/meet-5-candidates-vying-become-fort-collins-next-police-chief/382208002/), and creating a culture that invites people into thinking about their position in American society, and subsequently how they’ve can improve their lives by changing the structure and controlling interests of their society.
 
 This is what Americans need to be doing, they need to be reaching into their community, and sharing love with one another, uniting together to fight the government which oppresses them to maintain its power oppressing everyone else.
 
