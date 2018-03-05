@@ -15,7 +15,7 @@ This society which praises capitalism for its efficiency in driving progress, ju
 
 Democracy and Christianity are frameworks for creating equality amongst all people, in theory. In practice the dominant forms of Democracy and Christianity have been co-opted by the powerful to serve as tools that concentrate wealth and power to reward themselves and punish everyone else.
 
-It's easy to despair that the result of this dominant culture optimizing their implementation of these frameworks has lead to so much death and destruction around the world. As members of society it is important to hold these atrocities with appropriate weigh, the suffering of us all is a shared experience. However to allow that despair to consume you robs you of the energy you need to be effective change in the world around you.
+It's easy to despair that the result of this dominant culture optimizing their implementation of these frameworks has lead to so much death and destruction around the world. As members of society it is important to hold these atrocities with appropriate weight, the suffering of us all is a shared experience. However to allow that despair to consume you robs you of the energy you need to be effective change in the world around you.
 
 As mentioned earlier, Democracy and Christianity are tools, learning and using them in your community is how you can bring about change to your society.
 
