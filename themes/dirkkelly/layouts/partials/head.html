@@ -38,7 +38,7 @@
       .tags li { white-space: nowrap; }
       .tags li:not(:last-child) a::after { content: ","; }
 
-      .content { box-sizing: border-box; float: left; width: 70%; height: 100vh; padding: 10px; }
+      .content { box-sizing: border-box; float: left; width: 70%; min-height: 100vh; padding: 10px; }
       .content blockquote { padding-left: 5px; border-left: 3px solid #DEDEDE; }
       .content iframe { padding-bottom: 10px; }
       .content img { max-width: 100%; }
@@ -66,7 +66,7 @@
 
       @media only screen and (min-width: 767px) {
         .content .post-content { font-size: 1.5em; }
-        .sidebar { position: fixed; height: 100vh;}
+        .sidebar { position: fixed; height: 100%;}
       }
 
     </style>
