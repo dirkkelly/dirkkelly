@@ -30,11 +30,6 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-- type: boolean
-  name: draft
-  label: Draft
-  hidden: false
-  default: true
 - type: list
   label: Aliases
   name: aliases
