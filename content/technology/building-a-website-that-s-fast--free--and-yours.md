@@ -2,7 +2,7 @@
 title: Building a Website That's Free, Fast, and Yours
 date: 2018-03-08 15:54:53 +0000
 subtitle: Free? Well free as in cheap beer, more so free as in freedom. It will be
-  fast though, and most importantly it will be yours.
+  fast, and it will be yours.
 tags:
 - hugo
 - website
