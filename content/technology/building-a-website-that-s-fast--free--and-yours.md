@@ -16,11 +16,11 @@ aliases: []
 ---
 You're here because you know you need a website to publish your beautiful work, you may even already have one, but you know that you're not quite sure about **_the best_** way of going about building one.
 
-I remember being a 13 year old sitting in my social studies class, we were each assigned a report on the Arctic and with the twist that we could present our report in any medium, I chose to make a website.
+I remember being a 13 year old sitting in my social studies class, we were each assigned a report, mine was on the Arctic, the twist was that we could present our report in any medium, I chose to make a website.
 
 I had no idea how to make a website, so really my project ended up being: how to make a website with a bunch of penguins on the page. I don't have any screenshots of my first website, so I figure I can do that project all over again, and you can follow along, making something about cats, or paperclips, or your lovely self.
 
-Making a website is a process, not a destination. In my entire career I've never finished creating a website; sure I've finished working on websites and I've worked on websites for groups or ideas that finished existing, but never had a website where I could say "yup this is done, and will never change again". 
+Making a website is a process, not a destination. In my entire career I've never finished creating a website; sure I've finished working on websites and I've worked on websites for groups or ideas that finished existing. But I've never created a website where I could say "yup this is done, is serving its purpose, and will never change again". 
 
 That's not to say that [the perfect complete website](https://www.warnerbros.com/archive/spacejam/movie/jam.htm "Space Jam Website") doesn't exist, just that a website is an ongoing project for its owners, once they release it, the act of keeping it alive requires continuously putting time and energy into it, making it a reliable and engaging source for whatever the topic is.
 
@@ -30,7 +30,7 @@ So we're going to approach this never ending project of creating a website in st
 
 We are going to get our hands dirty, we are going to learn about the very simple language of HTML, and its even simpler companion Markdown, with these languages we're going to learn how to write the code that powers webpages. 
 
-**Storing that code in a safe place**
+**Storing code in a safe place**
 
 This code we write is going to be valuable to us, so valuable that we're going to store it in a safe place, and we're going to save our work. It's going to take some time, but we're going to know so much more about our website as a result, and we're not going to be dependent on other people to maintain it.
 
