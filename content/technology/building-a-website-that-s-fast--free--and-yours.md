@@ -15,7 +15,7 @@ aliases: []
 ---
 You're here because you know you need a website to publish your beautiful work, you may even already have one, but you know that you're not quite sure about **_the best_** way of going about building one.
 
-I remember being 13 years old, sitting in my social studies class, we were each assigned a report, mine was on the Arctic, the twist was that we could present our report in any medium, I chose to make a website.
+I remember being 13 years old, sitting in my social studies class, we were each assigned a report and mine was on the Arctic. The twist was that we could present our report in any medium, I chose to make a website.
 
 **I had no idea how to make a website**, so really my project ended up being: how to make a website with a bunch of penguins on the page. I don't have any screenshots of my first website, so I figure I can do that project all over again, and you can follow along, making something about cats, or paperclips, or your lovely self.
 
