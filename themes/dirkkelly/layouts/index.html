@@ -11,17 +11,19 @@
       <div class="content col-12 col-md-8 col-lg-7 col-xl-5">
         {{ range .Data.Pages }}
           {{ if (not .Date.IsZero) }}
-            <h1 class="h2"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <div class="post-summary">
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 
-            {{ with .Param "subtitle" }}
-              <h2 class="h6">{{ . }}</h2>
-            {{ end }}
+              {{ with .Param "subtitle" }}
+                <h3>{{ . }}</h3>
+              {{ end }}
 
-            {{ if (not .Date.IsZero) }}
-              <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Jan 2, 2006. Monday" }}</a>
-            {{ end }}
+              {{ if (not .Date.IsZero) }}
+                <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Jan 2, 2006. Monday" }}</a>
+              {{ end }}
 
-            {{ partial "tags" . }}
+              {{ partial "tags" . }}
+            </div>
           {{ end }}
         {{ end }}
       </div>

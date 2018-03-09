@@ -30,51 +30,6 @@
     {{ with .Param "redirect" }}<meta http-equiv="refresh" content="0;URL='{{ . }}'" />{{ end }}
 
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="/css/fonts.css" />
-
-    <style type="text/css">
-      body { margin: 0; font-family: 'Roboto Slab', serif; overflow-y: scroll; }
-      .text-center { text-align: center; }
-      .d-inline { display: inline; }
-      .list-unstyled { list-style: none; }
-      .list-inline-item { display: inline; }
-
-      .tags li { white-space: nowrap; }
-      .tags li:not(:last-child) a::after { content: ","; }
-
-      .content { box-sizing: border-box; float: left; font-size:1.2em; width: 70%; min-height: 100vh; padding: 10px; }
-      .content blockquote { padding-left: 5px; border-left: 3px solid #DEDEDE; }
-      .content iframe { padding-bottom: 10px; }
-      .content img { max-width: 100%; }
-      .content h1, .content h3, .content h4, .content h5 { font-weight: bold; }
-      .content a { font-weight: bold; color: #326799; }
-
-      .content .post-content p { text-align: justify; }
-      .content .post-content blockquote p { text-align: left; }
-      .content .post-content img { width: 100%; margin: 10px 0; }
-
-      .sidebar-wrapper { position: relative; background: #326799; padding-left: 0; }
-
-      .sidebar { box-sizing: border-box; float: left; max-width: 25%; padding: 10px; color: #FFFFFF; }
-      .sidebar img { width: 100%; }
-      .sidebar h1, .sidebar ul, .sidebar p { padding: 5px 0; margin: 0; }
-      .sidebar h1 { font-weight: bold; }
-      .sidebar li { margin-right: 10px; }
-      .sidebar a, .sidebar a:hover { color: #FFFFFF; }
-
-      @media only screen and (max-width: 768px) {
-        .sidebar { max-width: 100%; position: relative; }
-        .content { width: 100%; padding: 20px; }
-        .d-none { display: none; }
-      }
-
-      @media only screen and (min-width: 767px) {
-        .content .post-content { font-size: 1em; }
-        .sidebar { position: fixed; height: 100%;}
-      }
-
-      #disqus_thread { margin-top: 40px; }
-    </style>
+    <link rel="stylesheet" href="/css/site.css" />
   </head>
   <body>
