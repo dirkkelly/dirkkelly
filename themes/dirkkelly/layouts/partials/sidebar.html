@@ -2,14 +2,14 @@
   <img class="d-none d-md-block img-fluid" src="/images/logo.png" alt="{{ .Site.Title }}" />
 </a>
 
-<div class="sidebar-about text-center text-md-left">
+<div class="sidebar-about">
   <h1><a href="/">{{ .Site.Title }}</a></h1>
   <p class="lead hidden-print">
     {{ .Site.Params.description }}
   </p>
 </div>
 
-<ul class="sidebar-nav text-center text-md-left list-unstyled">
+<ul class="sidebar-nav">
   {{ range .Site.Menus.meta }}
     <li class="d-inline d-md-block">
       <a href="{{.URL}}"><strong>{{ .Name }}</strong></a>
