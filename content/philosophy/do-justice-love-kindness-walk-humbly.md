@@ -11,7 +11,7 @@ tags:
 aliases: []
 
 ---
-This society which praises capitalism for its efficiency in driving progress, justifies the necessary destruction of life under the claim that it is doing so with the permission of both the people and God. These justifications are not only unacceptable, they're also lies. The dominant culture is driven by neither Democratic or Christian values which it pays so much lip service to.
+This society which praises capitalism for its efficiency in driving progress, justifies the resulting destruction of life with the claim that it is doing so with the permission of both the people and God. These justifications for the negative costs of capitalism are not only unacceptable, they're also lies. The dominant culture is driven by neither Democratic or Christian values which it pays so much lip service to.
 
 Democracy and Christianity are frameworks for creating equality among people, in theory. In practice the dominant forms of Democracy and Christianity have been co-opted by the powerful to serve as tools that concentrate wealth and power to reward themselves and punish everyone else.
 
