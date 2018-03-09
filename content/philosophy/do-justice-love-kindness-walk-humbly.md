@@ -9,11 +9,12 @@ tags:
 - democracy
 - capitalism
 aliases: []
+image: "/uploads/2018/03/09/tumblr_ng9bexfv4Z1t50zepo1_500-rose.jpg"
 
 ---
-This society which praises capitalism for its efficiency in driving progress, justifies the necessary destruction of life under the claim that it is doing so with the permission of both the people and God. These justifications are not only unacceptable, they're also lies. The dominant culture is driven by neither Democratic or Christian values which it pays so much lip service to.
+This society which praises capitalism for its efficiency in driving progress, justifies the resulting destruction of life under the claim that it is doing so with the permission of both the people and God. These justifications are not only unacceptable, they're also lies. The dominant culture is driven by neither Democratic or Christian values which it pays so much lip service to.
 
-Democracy and Christianity are frameworks for creating equality amongst all people, in theory. In practice the dominant forms of Democracy and Christianity have been co-opted by the powerful to serve as tools that concentrate wealth and power to reward themselves and punish everyone else.
+Democracy and Christianity are frameworks for creating equality among people, in theory. In practice the dominant forms of Democracy and Christianity have been co-opted by the powerful to serve as tools that concentrate wealth and power to reward themselves and punish everyone else.
 
 It's easy to despair that the result of this dominant culture optimizing their implementation of these frameworks has lead to so much death and destruction around the world. As members of society it is important to hold these atrocities with appropriate weight, the suffering of us all is a shared experience. However to allow that despair to consume you robs you of the energy you need to be effective change in the world around you.
 
@@ -29,7 +30,7 @@ The passion and drive this produces should be used to get involved in the politi
 
 Of course if you were living in a democracy the relationship wouldn't be that these people were ruling over you, it would be that they were serving you, serving your communities needs, solving problems faced by members of the community at all levels in society.
 
-Right now at all levels of our governments politicians serve the wealthy elite, the banks and corporations with the majority of wealth. The policies they enact and enforce ar prioritized not based on the good of the people, but on the desires of the powerful who pay politicians so they can run in elections, or provide loans to governments under austerity agreements that see the funds funneled back to the rich, at the cost of community services that benefit the poor.
+Right now at all levels of government, the corrupt politicians serve the wealthy elite, the banks and corporations with the majority of wealth. The policies they propose, support, and enforce are prioritized not based on the good of the people, but on the desires of the rich and powerful. These people have subverted democracy by making elections cost millions to participate in and forcing politicians into their pockets to ensure election, or by forcing loans to underfunded governments and use austerity agreements to ensure that funds are funneled back to the rich, at the cost of the community services that benefit the poor.
 
 The only way that we will change the status-quo is by making those politicians accountable to us, making them dependent on voters who care about policies, are engaged with their community, and want to see real change.
 

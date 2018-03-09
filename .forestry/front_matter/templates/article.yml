@@ -1,7 +1,7 @@
 ---
 pages:
 - economicupdate/economic-update-a-system-rigged-against-us.md
-- technology/getting-a-hugo-site-up-quickly.md
+- technology/building-a-website-that-s-fast--free--and-yours.md
 - philosophy/do-justice-love-kindness-walk-humbly.md
 - america/why-caitlin-johnstone-engages-alex-jones--and-you-should-engage-trump-voters.md
 - 2018/02/the-myth-of-incentive-under-capitalism-g.a.cohen.md
@@ -30,11 +30,6 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-- type: boolean
-  name: draft
-  label: Draft
-  hidden: false
-  default: true
 - type: list
   label: Aliases
   name: aliases
@@ -42,3 +37,6 @@ fields:
     use_select: false
     source:
       type: datafiles
+- type: file
+  name: image
+  label: Image
