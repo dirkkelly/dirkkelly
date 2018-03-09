@@ -40,7 +40,8 @@ a { text-decoration: none; }
 .sidebar a, .sidebar a:hover { color: #FFFFFF; }
 
 @media only screen and (max-width: 768px) {
-  .sidebar { max-width: 100%; position: relative; text-align: center; }
+  .sidebar-wrapper { padding: 0 10px; }
+  .sidebar { max-width: 100%; float: none; position: relative; text-align: center; }
   .content { width: 100%; padding: 20px; }
   .d-none { display: none; }
 }
