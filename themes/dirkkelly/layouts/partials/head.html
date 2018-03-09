@@ -4,11 +4,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml"{{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}"{{end}}>
   <head>
     {{ if .IsHome }}
-      <title>{{ .Site.Title }}</title>
-      <meta property="og:title" content='{{ .Site.Title }}'>
+    <title>{{ .Site.Title }}</title>
+    <meta property="og:title" content='{{ .Site.Title }}'>
     {{ else }}
-      <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
-      <meta property="og:title" content='{{ .Title }} &middot; {{ .Site.Title }}'>
+    <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+    <meta property="og:title" content='{{ .Title }} &middot; {{ .Site.Title }}'>
     {{ end }}
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -22,19 +22,12 @@
     <meta name="theme-color" content="#ffffff">
 
     <!-- The Bastards called it [OpenGraph](http://ogp.me/), this is the standard now, until the next one https://xkcd.com/927/ -->
-    {{ with .Param "description" }}
-      <meta property="og:description" content="{{ . }}">
-    {{ end }}
-    {{ with .Param "image" }}
-      <meta property="og:image" content="{{ . }}">
-    {{ end }}
-    {{ with .Param "redirect" }}
-      <meta http-equiv="refresh" content="0;URL='{{ . }}'" />
-    {{ end }}
+    {{ with .Param "description" }}<meta property="og:description" content="{{ . }}">{{ end }}
+    {{ with .Param "image" }}<meta property="og:image" content="{{ . }}">{{ end }}
+    {{ with .Param "redirect" }}<meta http-equiv="refresh" content="0;URL='{{ . }}'" />{{ end }}
 
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous" />
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
 
     <style type="text/css">
       body { margin: 0; font-family: 'Roboto Slab', serif; overflow-y: scroll; }
@@ -78,6 +71,34 @@
       }
 
       #disqus_thread { margin-top: 40px; }
+
+      /* roboto-slab-regular - latin */
+      @font-face {
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/fonts/roboto-slab-v7-latin-regular.eot'); /* IE9 Compat Modes */
+        src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'),
+             url('/fonts/roboto-slab-v7-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+             url('/fonts/roboto-slab-v7-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+             url('/fonts/roboto-slab-v7-latin-regular.woff') format('woff'), /* Modern Browsers */
+             url('/fonts/roboto-slab-v7-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+             url('/fonts/roboto-slab-v7-latin-regular.svg#RobotoSlab') format('svg'); /* Legacy iOS */
+      }
+
+      /* roboto-slab-700 - latin */
+      @font-face {
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        src: url('/fonts/roboto-slab-v7-latin-700.eot'); /* IE9 Compat Modes */
+        src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'),
+             url('/fonts/roboto-slab-v7-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+             url('/fonts/roboto-slab-v7-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+             url('/fonts/roboto-slab-v7-latin-700.woff') format('woff'), /* Modern Browsers */
+             url('/fonts/roboto-slab-v7-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+             url('/fonts/roboto-slab-v7-latin-700.svg#RobotoSlab') format('svg'); /* Legacy iOS */
+      }
     </style>
   </head>
   <body>
