@@ -1,5 +1,6 @@
-{{ partial "head.html" . }}
+{{ $title := .Title }}
 
+{{ partial "head.html" . }}
   <div class="container-fluid">
     <div class="row">
       <div class="sidebar-wrapper col-12 col-md-3">
@@ -9,7 +10,7 @@
       </div>
 
       <div class="content col-12 col-md-8 col-lg-7 col-xl-5">
-        <h1>{{ .Title }}</h1>
+        <h1>{{ $title }}</h1>
         <h2>{{ .Param "subtitle" }}</h2>
 
         {{ if (not .Date.IsZero) }}
@@ -18,14 +19,12 @@
 
         {{ partial "tags" . }}
 
-        {{ if .Param "Image" }}
-          <a href='{{ .Site.BaseURL }}images/{{ .Param "Image" }}'>
-            <img src='{{ .Site.BaseURL }}images/{{ .Param "Image" }}' alt='{{ .Param "Subtitle" }}' />
-          </a>
-        {{ end }}
-
         <div class="post-content">
           {{ .Content }}
+
+          {{ with .Param "image" }}
+            <img src="{{ . }}" alt="{{ $title }}" class="img-responsive img-thumbnail" />
+          {{ end }}
         </div>
 
         {{ if (ne .Site.Params.disqusshortname "") }}
@@ -34,5 +33,4 @@
       </div>
     </div>
   </div>
-
 {{ partial "foot.html" . }}

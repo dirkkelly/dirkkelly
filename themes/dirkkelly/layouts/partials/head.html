@@ -22,13 +22,13 @@
     <meta name="theme-color" content="#ffffff">
 
     <!-- The Bastards called it [OpenGraph](http://ogp.me/), this is the standard now, until the next one https://xkcd.com/927/ -->
-    {{ with .Param "Description" }}
+    {{ with .Param "description" }}
       <meta property="og:description" content="{{ . }}">
     {{ end }}
-    {{ with .Param "Image" }}
+    {{ with .Param "image" }}
       <meta property="og:image" content="{{ . }}">
     {{ end }}
-    {{ with .Param "Redirect" }}
+    {{ with .Param "redirect" }}
       <meta http-equiv="refresh" content="0;URL='{{ . }}'" />
     {{ end }}
 
@@ -76,6 +76,8 @@
         .content .post-content { font-size: 1em; }
         .sidebar { position: fixed; height: 100%;}
       }
+
+      #disqus_thread { margin-top: 40px; }
     </style>
   </head>
   <body>
