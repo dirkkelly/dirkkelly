@@ -1,11 +1,14 @@
 ---
 title: Foresty.io For Writing Blog Posts on Hugo
 date: 2018-02-27 17:26:18 +0000
-subtitle: 'Removing the cognitive barrier-of-entry to my posting on a static site. '
+subtitle: 'Removing the cognitive barrier-of-entry to posting on my static site. '
 tags:
 - Personal
 - Blogging
 - Hugo
+type: 2018
+aliases: []
+image: ''
 
 ---
 I'm just writing a blog post, like I would have done in Wordpress years ago, before I made the decision to move to a statically generated site for the huge development and security improvements that it brings.
