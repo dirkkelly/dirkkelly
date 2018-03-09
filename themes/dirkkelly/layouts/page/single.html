@@ -11,19 +11,10 @@
 
       <div class="content col-12 col-md-8 col-lg-7 col-xl-5">
         <h1>{{ $title }}</h1>
-        <h2>{{ .Param "subtitle" }}</h2>
 
         <div class="post-content">
           {{ .Content }}
-
-          {{ with .Param "image" }}
-            <img src="{{ . }}" alt="{{ $title }}" class="img-responsive img-thumbnail" />
-          {{ end }}
         </div>
-
-        {{ if (ne .Site.Params.disqusshortname "") }}
-          {{ partial "disqus" . }}
-        {{ end }}
       </div>
     </div>
   </div>
