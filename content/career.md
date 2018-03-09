@@ -10,7 +10,7 @@ aliases:
 - /resume/
 ---
 
-## Career
+## Work
 
 ### Chief Technology Officer
 
