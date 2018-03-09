@@ -37,3 +37,6 @@ fields:
     use_select: false
     source:
       type: datafiles
+- type: file
+  name: image
+  label: Image
