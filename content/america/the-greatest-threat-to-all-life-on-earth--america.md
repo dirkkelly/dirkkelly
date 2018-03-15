@@ -1,10 +1,11 @@
 ---
 title: The Greatest Threat To All Life on Earth, America
 date: 2018-03-15 00:04:32 +0000
-subtitle: 'Acknowledge that the American people are not their government, and that
-  their government will kill everyone... if they decide they need to. '
+subtitle: Acknowledge that the American people are not their government, and that
+  their government will kill everyone... if that’s a profitable solution.
 tags:
 - America
+- Capitalism
 - Nuclear War
 - Extinction
 aliases: []
