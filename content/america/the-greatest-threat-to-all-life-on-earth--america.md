@@ -20,7 +20,7 @@ Climate change is already killing people daily.
 
 The American government will kill everyone if it can’t maintain its control over everything.
 
-War with Russia is not a solution.
+War with Russia is not an acceptable goal.
 
 America has no right to wave a moral finger at any nation in the world.
 
@@ -30,20 +30,24 @@ America is a corporate plutocracy.
 
 America is a dying nation.
 
-Why?
+**Why?**
 
 Because all of it’s people are dying.
 
-Why?
+**Why?**
 
 Because they’re no longer valuable to the capitalist system.
 
-Why?
+**Why?**
 
-Because capitalism values profits over all other things. 
+Because capitalism values profits over all other things.
 
-Under capitalism humans are transformed from creative problem solving beings that exist within nature, into consumers who reject nature for the benefit of comfort, of not being uncomfortable, of not hurting, of being numb.
+**Capitalism Kills**
 
-America will launch the first nuke, or at least, American intervention in the world’s security will launch the first nuke.
+Under capitalism humans are transformed from creative problem solving beings that exist within nature, into perpetually competing workers who sell their labor to a boss, in order to afford survival as well as comfort from the painful live they live. 
+
+America defines itself as a capitalist nation, it measures progress through profits earned from exploiting labor and selling survival. America does not care about life, it does not value the health or wellbeing of its own citizens, let alone the rest of the world’s.
+
+America will launch the first nuke, or at the very least American intervention in the world’s securitya and stability will cause the launch of the first nuke, followed by the launch of every other one  
 
 Thanks America, for probably killing us all.
