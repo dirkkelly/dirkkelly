@@ -11,9 +11,9 @@ image: ''
 ---
 Under the oppression of tyranny we learn helplessness.
 
-Under constant division we stand alone.
+Under the constant division we stand alone.
 
-Under the threat of violence we do not fight for freedom.
+Under the fear of violence we do not fight for freedom.
 
 Together we can get our fair share.
 
