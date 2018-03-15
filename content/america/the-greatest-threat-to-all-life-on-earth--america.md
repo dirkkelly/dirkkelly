@@ -40,7 +40,9 @@ Because they’re no longer valuable to the capitalist system.
 
 Why?
 
-Because capitalism values profits over all other things. Humans are transformed from problem solving beings that exist in nature, into consumers who reject nature for the benefit of comfort, of not being uncomfortable, of not hurting, of being numb.
+Because capitalism values profits over all other things. 
+
+Under capitalism humans are transformed from creative problem solving beings that exist within nature, into consumers who reject nature for the benefit of comfort, of not being uncomfortable, of not hurting, of being numb.
 
 America will launch the first nuke, or at least, American intervention in the world’s security will launch the first nuke.
 
