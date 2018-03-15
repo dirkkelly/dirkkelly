@@ -5,7 +5,7 @@ subtitle: If We Stand Undivided
 tags:
 - unionize
 - democracy
-aliases: []
+aliases: [/philosophy/you-wont-be-fired/]
 image: ''
 
 ---
