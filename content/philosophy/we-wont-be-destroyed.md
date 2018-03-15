@@ -1,11 +1,13 @@
 ---
-title: We Won't Be Destroyed
-date: 2018-03-14 21:52:46 +0000
-subtitle: If We Stand Undivided
+title: We Will Be Destroyed
+date: 2018-03-14 15:52:46 -0600
+subtitle: If We Remain Divided
 tags:
-- unionize
-- democracy
-aliases: [/philosophy/you-wont-be-fired/]
+- Community
+- Democracy
+- Resist
+aliases:
+- "/philosophy/you-wont-be-fired/"
 image: ''
 
 ---
