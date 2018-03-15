@@ -1,5 +1,5 @@
 ---
-title: You Won't be Fired
+title: We Won't Be Destroyed
 date: 2018-03-14 21:52:46 +0000
 subtitle: If We Stand Undivided
 tags:
@@ -23,4 +23,4 @@ Together we can serve our mission.
 
 Together we are able to shape our future in our vision.
 
-#### **Stand Together**
+#### **Stand Together, so together we stand**
