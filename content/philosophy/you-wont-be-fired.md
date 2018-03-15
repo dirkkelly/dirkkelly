@@ -17,7 +17,7 @@ Under the threat of violence we do not fight for freedom.
 
 Together we can challenge unjust authority.
 
-Together we can receive our fair share.
+Together we can get our fair share.
 
 Together we can serve our purpose.
 
