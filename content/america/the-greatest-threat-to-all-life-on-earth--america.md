@@ -9,7 +9,6 @@ tags:
 - Extinction
 aliases: []
 image: ''
-draft: true
 
 ---
 Russia is not going to launch a nuke. 
