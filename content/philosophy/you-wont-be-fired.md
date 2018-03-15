@@ -17,10 +17,10 @@ Under the threat of violence we do not fight for freedom.
 
 Together we can challenge unjust authority.
 
-Together we can receive our fair value.
+Together we can receive our fair share.
 
-Together we can serve our mission.
+Together we can serve our purpose.
 
-Together we are able to shape our future in our vision.
+Together we can change the future.
 
-#### **Stand Together, so together we stand.**
+#### **Stand Together & Together We Stand.**
