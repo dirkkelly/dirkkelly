@@ -23,4 +23,4 @@ Together we can serve our mission.
 
 Together we are able to shape our future in our vision.
 
-#### **Stand Together, so together we stand**
+#### **Stand Together, so together we stand.**
