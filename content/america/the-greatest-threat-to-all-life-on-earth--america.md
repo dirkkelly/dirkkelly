@@ -20,7 +20,7 @@ Climate change is already killing people daily.
 
 The American government will kill everyone if it can’t maintain its control over everything.
 
-War with Russia is not an acceptable goal.
+War with Russia is not acceptable.
 
 America has no right to wave a moral finger at any nation in the world.
 
