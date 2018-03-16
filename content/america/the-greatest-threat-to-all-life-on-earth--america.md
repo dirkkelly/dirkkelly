@@ -44,10 +44,10 @@ Because capitalism values profits over all other things.
 
 **Capitalism Kills**
 
-Under capitalism humans are transformed from creative problem solving beings that exist within nature, into perpetually competing workers who sell their labor to a boss, in order to afford survival as well as comfort from the painful live they live. 
+Under capitalism humans are transformed from creative problem-solving beings that exist within nature, into perpetually competing workers who sell their labor to a boss, in order to afford survival through food and shelter, as well as purchasing comfort and distraction from their miserable existance.
 
 America defines itself as a capitalist nation, it measures progress through profits earned from exploiting labor and selling survival. America does not care about life, it does not value the health or wellbeing of its own citizens, let alone the rest of the world’s.
 
-America will launch the first nuke, or at the very least American intervention in the world’s securitya and stability will cause the launch of the first nuke, followed by the launch of every other one  
+America will launch the first nuke, or at the very least American intervention in the world’s security and stability will cause the launch of the first nuke, followed by the launch of every other one.
 
 Thanks America, for probably killing us all.
