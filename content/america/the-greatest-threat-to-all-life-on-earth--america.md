@@ -32,21 +32,17 @@ America is a dying nation.
 
 **Why?**
 
-Because all of it’s people are dying.
+Because its people are dying of oppression, depression, or abandonment inflicted by their governing forces, a few wealthy   Individuals who own all the industries  
 
 **Why?**
 
-Because they’re no longer valuable to the capitalist system.
+Because the people of America are being abandoned because they’re no longer valuable to the capitalist system. They’re too expensive to hire compared to the rest of the world, and they’re too poor to afford anything the capitalists are producing. 
 
 **Why?**
 
-Because capitalism values profits over all other things.
+Because capitalism values profits over all other things. Under capitalism humans are transformed from creative problem-solving beings that exist within nature, into perpetually competing workers who sell their labor to a boss. The people are dependent on a ruling class to provide jobs so they can purchase food and shelter, as well as comfort and distraction from their miserable existence.
 
-**Capitalism Kills**
-
-Under capitalism humans are transformed from creative problem-solving beings that exist within nature, into perpetually competing workers who sell their labor to a boss, in order to afford survival through food and shelter, as well as purchasing comfort and distraction from their miserable existance.
-
-America defines itself as a capitalist nation, it measures progress through profits earned from exploiting labor and selling survival. America does not care about life, it does not value the health or wellbeing of its own citizens, let alone the rest of the world’s.
+America defines itself as a capitalist nation, it measures progress through profits earned from exploiting labor and selling survival. America does not care about life, it does not value the health or wellbeing of its own citizens, let alone the rest of life on Earth.
 
 America will launch the first nuke, or at the very least American intervention in the world’s security and stability will cause the launch of the first nuke, followed by the launch of every other one.
 
