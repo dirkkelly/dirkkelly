@@ -35,14 +35,14 @@ If “we the people” have an equal opportunity to participate in directing the
 
 If the collection of humanity  has control of their organization they can press on goverments to behave in a way that improves the quality of life for everyone.
 
-Right now companies are owned by a very small percentage of people, these people get increasingly more wealthy as they horde the majority of value earnt by the company of people, they use this wealth to push governments to behave in a way that only benefits the wealthy few at the expense of everyone else.
+Right now companies are owned by a very small percentage of people, these people get increasingly more wealthy as they horde the majority of value earnt by the workers labor, they use this wealth to push governments to behave in a way that only benefits the wealthy few at the expense of everyone else.
 
 Climate change is the result of corporations ignoring science in order to make more profits.
 
 War is the result of corporations using the military to progress their economic interests abroad.
 
-Mass inneqality is the result of companies funelling the value produced by everyonein the company up to a very few individuals, a the expense of all the other workers.
+Mass inneqality is the result of companies funelling the value produced by everyone in the company up to a very few individuals, a the expense of all the other workers.
 
 Unite with your colleagues to take control of your organization, unite with your neighbor organizations to point the power of your organizations at solving the problems we all face.
 
-We can save the world, if we work together to focus on the problems threatening its end. 
+We can save the world, if we work together, and own our workplace together. 
