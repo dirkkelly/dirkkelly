@@ -5,6 +5,7 @@ languageCode = "en-us"
 metadataformat = "yaml"
 title = "Dirk Kelly"
 disqusshortname = "dirkkellycom"
+pluralizelisttitles = false
 
 [params]
   author = "dirkkelly"
