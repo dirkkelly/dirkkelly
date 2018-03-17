@@ -36,9 +36,9 @@ First step of fighting this fight is to keep fighting it every day, no matter ho
 
 ## The Fear
 
-I have lived a life of fear, from a father that ensured I was not safe at home, a school system that was designed to discourage the same questions I would ask, and most recently in a country under the control of a system designed to exploit the most it can out of its citizens, before abandoning their destroyed bodies.
+I have lived a life of fear, from a father that ensured I was not safe at home, a school system that was designed to discourage the questions I would ask, and most recently in a country under the control of a system designed to exploit the most it can out of its citizens, before abandoning their destroyed bodies.
 
-The fear you and I feel every day, cannot determine how we behave, cannot be allowed to limit our reasoning or questioning. If we are trapped by our fears, we're a victim to the system.
+The fear you and I feel every day, must not dictate how we behave, cannot be allowed to limit our reasoning or questioning. If we are trapped by our fears, we'll never take down the system that induces them.
 
 {{< youtube dnxCxHLAqn8 >}}
 
