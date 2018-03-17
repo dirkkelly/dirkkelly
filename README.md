@@ -26,30 +26,28 @@ I want to learn Hugo better so I am creating my own theme using the Bootstrap 4 
 
 ## Development
 
+```
+brew install hugo direnv
+git clone git@github.com:dirkkelly/dirkkelly.git
+cd dirkkelly
+direnv allow
+start
+```
+
 ## Deployment
 
-## Disqus
-
-You can optionally enable a comment system powered by Disqus for the posts. Simply add the variable `disqusShortname` to the `params` in your config file.
-
-**TOML**
-```toml
-[params]
-  disqusShortname = "dirkkellycom"
+```
+git push origin master:master
 ```
 
-**YAML**
-```yaml
-params:
-  disqusShortname: "dirkkellycom"
-```
+## Theme
 
-## Author
+### Author
 **Mark Otto**
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
 
-## Ported By
+### Ported By
 **Steve Francia**
 - <https://github.com/spf13>
 - <https://twitter.com/spf13>
