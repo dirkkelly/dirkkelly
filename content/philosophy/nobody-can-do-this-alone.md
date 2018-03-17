@@ -13,7 +13,7 @@ aliases: []
 image: ''
 
 ---
-For me the biggest relief I’ve learnt over these years is that I’m not solely responsible for saving our species from extinction.
+For me the biggest relief over these years is learning that I’m not solely responsible for saving our species from extinction.
 
 The hardest thing to come to terms with is that most of the species is ignorant of the dangers we face, or responsible in their own small way for pushing us closer to the edge.
 
