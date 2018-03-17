@@ -1,13 +1,13 @@
 ---
-title: We Will Be Destroyed
+title: We Will Be Destroyed, If We Remain Divided
 date: 2018-03-14 15:52:46 -0600
-subtitle: If We Remain Divided
 tags:
 - Community
 - Democracy
 - Resist
 aliases:
 - "/philosophy/you-wont-be-fired/"
+- "/philosophy/we-wont-be-destroyed/"
 image: ''
 
 ---
