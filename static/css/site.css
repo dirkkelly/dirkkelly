@@ -15,18 +15,19 @@ a { text-decoration: none; }
 .tags li { white-space: nowrap; }
 .tags li:not(:last-child) a::after { content: ","; }
 
-.content { box-sizing: border-box; float: left; font-size: 1.2em; width: 100%; min-height: 100vh; }
+.content { box-sizing: border-box; float: left; width: 100%; min-height: 100vh; }
 .content blockquote { padding-left: 5px; border-left: 3px solid #DEDEDE; }
 .content iframe { padding-bottom: 10px; }
 .content img { max-width: 100%; }
-.content h1, .content h3, .content h4, .content h5 { font-weight: bold; }
+.content h1, .content h2, .content h3, .content h4, .content h5 { font-weight: bold; }
+.content h2.h3 { font-size: 1.1em; }
 .content a { font-weight: bold; color: #326799; }
 
 .content .post-summary { margin-bottom: 30px; }
 .content .post-summary h3 { font-size: 1em; color: #464c52; }
 .content .post-summary .post-date { display: block; margin-bottom: 5px }
 
-.content .post-content h2 { font-size: 1em; color: #464c52; }
+.content .post-content { font-size: 1.2em; text-align: justify; }
 .content .post-content p { text-align: justify; }
 .content .post-content blockquote p { text-align: left; }
 .content .post-content img { width: 100%; margin: 10px 0; }
