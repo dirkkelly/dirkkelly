@@ -6,6 +6,7 @@ metadataformat = "yaml"
 title = "Dirk Kelly"
 disqusshortname = "dirkkellycom"
 pluralizelisttitles = false
+SectionPagesMenu = "topbar"
 
 [params]
   author = "dirkkelly"
@@ -19,27 +20,38 @@ pluralizelisttitles = false
 [[menu.topbar]]
   name = "Philosophy"
   url = "/philosophy/"
+  identifier = "philosophy"
   weight = 1
 
 [[menu.topbar]]
   name = "Politics"
   url = "/politics/"
+  identifier = "politics"
   weight = 2
 
 [[menu.topbar]]
   name = "Economics"
   url = "/economics/"
+  identifier = "economics"
   weight = 3
 
 [[menu.topbar]]
   name = "Technology"
   url = "/technology/"
+  identifier = "technology"
   weight = 4
 
 [[menu.topbar]]
   name = "Collapse"
   url = "/collapse/"
+  identifier = "collapse"
   weight = 5
+
+[[menu.topbar]]
+  identifier = "channels"
+
+[[menu.topbar]]
+  identifier = "redirects"
 
 [permalinks]
   channels = "/:filename"

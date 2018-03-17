@@ -8,7 +8,7 @@ tags:
 - Capitalism
 - Nuclear War
 - Extinction
-aliases: []
+aliases: [/america/the-greatest-threat-to-all-life-on-earth--america/]
 image: ''
 
 ---
