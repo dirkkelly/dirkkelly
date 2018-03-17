@@ -32,9 +32,7 @@
             {{ end }}
           </div>
 
-          {{ if (ne .Site.Params.disqusshortname "") }}
-            {{ partial "disqus" . }}
-          {{ end }}
+          {{ partial "disqus" . }}
         </div>
       </div>
     </div>
