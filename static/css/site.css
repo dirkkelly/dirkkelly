@@ -54,7 +54,7 @@ a { text-decoration: none; }
   .sidebar { max-width: 100%; float: none; position: relative; text-align: center; font-size: 0.8em }
   .sidebar img { width: 30px; margin-top: -14px }
   .topbar { margin-top: 10px; text-align: center }
-  .topbar li { float: none; display: inline-block; font-size: 0.8em; }
+  .topbar li { float: none; display: inline-block; font-size: 0.8em; margin-right: 5px }
   .d-none { display: none; }
 }
 
