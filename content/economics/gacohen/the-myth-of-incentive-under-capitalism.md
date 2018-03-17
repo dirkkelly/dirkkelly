@@ -8,6 +8,7 @@ tags:
 subtitle: 'Capitalist firms survive, only if they make money, and they make money
   only if they prevail in competition against other capitalist firms. '
 type: 2018
+aliases: /2018/02/the-myth-of-incentive-under-capitalism-g.a.cohen/]
 
 ---
 > > The capitalist firm doesn't aim to satisfy, but the firms can't get at what they're at, which is money, and they can't get what they want without satisfying the customer.
@@ -46,7 +47,7 @@ But you have been, and you can be a democratic country again, but in order to do
 
 The capitalists who divide you realized that the best way to pump as much out of you as it can, is to make you scared, make you hate each other, make you buy guns, make you consume, and go to movies, and spend all your free time arguing on the internet while looking at ads.
 
-The problem in your country is **capitalism** and your **culture's** obsession with supporting a system that is fine with killing everything as long as the power of a few elites get more powerful. 
+The problem in your country is **capitalism** and your **culture's** obsession with supporting a system that is fine with killing everything as long as the power of a few elites get more powerful.
 
 **CAPITALISM IS KILLING AMERICA** and by that I mean that it's killing you, the people, the economy is already fucked, but it is everywhere in the world, the next thing that is fucked is your quality of life, just like it has been, for so many of you, for so long.
 

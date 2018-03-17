@@ -6,6 +6,7 @@ tag:
 - America
 type: 2017
 draft: true
-
+aliases: [/2017/12/17-america-is-crazy/]
 ---
+
 {{< youtube XirnEfkdQJM >}}

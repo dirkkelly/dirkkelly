@@ -7,6 +7,7 @@ tags:
 - Climate Change
 - Extinction
 type: 2018
+aliases: [/2018/02/02-america-will-collapse-earth-will-boil-humanity-will-perish/]
 
 ---
 ## America Will Collapse

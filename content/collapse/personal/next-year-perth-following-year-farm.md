@@ -6,8 +6,9 @@ tags:
 - Personal
 - Farm
 type: 2017
-
+aliases: [/2017/12/31-next-year-perth-following-year-farm/]
 ---
+
 ## Goodbye America
 
 It's no secret I have no desire to return to the United States in 2 days, however as I reflect on the year I see 365 days of achieving the goals I set for myself, and the actions needed to get myself closer to where I'm going.

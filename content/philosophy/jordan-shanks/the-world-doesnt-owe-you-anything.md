@@ -7,7 +7,7 @@ tags:
 - Friendly Jordies
 - Jordan Shanks
 type: 2018
-
+aliases: [/2018/01/02-the-world-doesnt-owe-you-anything/]
 ---
 <!-- Welcome to the comments -->
 

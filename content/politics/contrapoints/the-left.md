@@ -11,7 +11,7 @@ tags:
 - World War Internet
 date: 2017-09-27 00:00:00 +0000
 type: 2017
-aliases: [/2017/09/contrapoints-the-left/]
+aliases: [/2017/09/contrapoints-the-left/, /contrapoints/the-left/]
 ---
 
 It's crazy how real this stuff is becoming, the World War of The Internet is now on the streets of America. The dominant culture which has exploited the Earth to build a fantasy world of stability and certainty for the few, is starting to see the walls crumble as the exploited rise up on the left and right.

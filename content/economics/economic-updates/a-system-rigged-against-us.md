@@ -5,6 +5,5 @@ subtitle: It really doesn't matter which of the two parties get in, they're beho
   to the same donors, which is why the law hurts the people and protects corporations.
 tags: []
 draft: true
-aliases: []
-
+aliases: [/economicupdates/economic-update-a-system-rigged-against-us.md]
 ---
