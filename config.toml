@@ -11,7 +11,6 @@ SectionPagesMenu = "topbar"
 [params]
   author = "dirkkelly"
   description = "Ameristralian writing throughout the collapse of Capitalism and humanity's struggle to survive the Holocene extinction."
-  logo = "/images/dirkkelly.png"
 
 [[menu.sidebar]]
   name = "Subscribe"
