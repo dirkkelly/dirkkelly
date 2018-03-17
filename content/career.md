@@ -42,14 +42,16 @@ A group of friends building a native iOS dating app released throughout Australi
 
 Potential investors, App Store approval, a language none of us knew, needless to say we learned a lot by doing.
 
-### [Frontier Group](http://www.thefrontiergroup.com.au/)
+### [The Frontier Group](http://www.thefrontiergroup.com.au/)
 
 **Business Development Manager** <small>(2011)</small><br/>
 **Software Developer** <small>(2010)</small>
 
-Working for a larger firm showed me just how little I knew about business and how vital process is for them to succeed.
+Closed my consulting firm to work for a "more established" consulting firm in Perth. I worked with some incredible people, who were building fantastic systems, from developers and designers to clients and meetups, the community was fantastic.
 
-Closed my consulting firm to work to join a more established consulting firm in Perth.
+Working for a larger firm showed me just how little I knew about business and how vital process is for them to succeed, I struggled under a system that was not honest with its workers, but we perservered to make great things.
+
+I'll always be grateful for what I learnt and who I met, at TFG.
 
 ### [Square Talent](https://github.com/squaretalent)
 
