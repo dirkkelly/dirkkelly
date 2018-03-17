@@ -18,11 +18,23 @@ I want to learn Hugo better so I am creating my own theme using the Bootstrap 4 
 
 ## TODO
 
+### Engineering
+
 - [ ] Video library using the archetypes feature
 - [x] Expose categories like America, Philosophy to navigation
-- [ ] Create a better description of the website
+- [x] Set up dynamic navigation
 - [ ] Get rid of the channels concept
 - [ ] Expose sub categories, or is that just tags?
+- [ ] Featured articles
+- [ ] rewrite layout to not use head/foot pattern
+- [ ] better home page
+- [ ] some sort of content-summary panel?
+- [ ] update to new logo
+  - [ ] new new logo
+
+### Marketing
+
+- [ ] Create a better description of the website
 
 ## Development
 
