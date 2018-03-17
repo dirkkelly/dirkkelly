@@ -15,7 +15,7 @@ a { text-decoration: none; }
 .tags li { white-space: nowrap; }
 .tags li:not(:last-child) a::after { content: ","; }
 
-.content { box-sizing: border-box; float: left; font-size: 1.2em; width: 70%; min-height: 100vh; padding: 10px; }
+.content { box-sizing: border-box; float: left; font-size: 1.2em; width: 100%; min-height: 100vh; }
 .content blockquote { padding-left: 5px; border-left: 3px solid #DEDEDE; }
 .content iframe { padding-bottom: 10px; }
 .content img { max-width: 100%; }
@@ -26,6 +26,7 @@ a { text-decoration: none; }
 .content .post-summary h3 { font-size: 1em; color: #464c52; }
 .content .post-summary .post-date { display: block; margin-bottom: 5px }
 
+.content .post-content h2 { font-size: 1em; color: #464c52; }
 .content .post-content p { text-align: justify; }
 .content .post-content blockquote p { text-align: left; }
 .content .post-content img { width: 100%; margin: 10px 0; }
@@ -39,10 +40,16 @@ a { text-decoration: none; }
 .sidebar li { margin-right: 10px; }
 .sidebar a, .sidebar a:hover { color: #FFFFFF; }
 
+.topbar { margin-top: 20px }
+.topbar ul { padding-left: 0; overflow: hidden }
+.topbar li { float: left; margin-right: 10px; list-style: none }
+.topbar a { font-weight: bold; color: #326799; }
+
 @media only screen and (max-width: 768px) {
   .sidebar-wrapper { padding: 0 10px; }
   .sidebar { max-width: 100%; float: none; position: relative; text-align: center; }
-  .content { width: 100%; padding: 20px; }
+  .topbar { margin-top: 10px; text-align: center }
+  .topbar li { float: none; display: inline-block; font-size: 0.8em; }
   .d-none { display: none; }
 }
 

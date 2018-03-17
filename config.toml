@@ -11,30 +11,45 @@ title = "Dirk Kelly"
   description = "Ameristralian writing throughout the collapse of Capitalism and humanity's struggle to survive the Holocene extinction."
   disqusshortname = "dirkkellycom"
 
-[[menu.meta]]
+[[menu.sidebar]]
   name = "About"
   url = "/about/"
   weight = 1
 
-[[menu.meta]]
+[[menu.sidebar]]
   name = "Career"
   url = "/career/"
   weight = 2
 
-[[menu.meta]]
+[[menu.sidebar]]
   name = "Contact"
   url = "/contact/"
   weight = 3
 
-[[menu.meta]]
+[[menu.sidebar]]
   name = "Subscribe"
   url = "/index.xml"
   weight = 4
 
-#[[menu.tags]]
-#  name = "Noam Chomsky"
-#  url = "/tags/noam-chomsky/"
-#  weight = 1
+[[menu.topbar]]
+  name = "Philosophy"
+  url = "/philosophy/"
+  weight = 1
+
+[[menu.topbar]]
+  name = "Politics"
+  url = "/politics/"
+  weight = 2
+
+[[menu.topbar]]
+  name = "Collapse"
+  url = "/collapse/"
+  weight = 3
+
+[[menu.topbar]]
+  name = "Technology"
+  url = "/technology/"
+  weight = 4
 
 [permalinks]
   channels = "/:filename"

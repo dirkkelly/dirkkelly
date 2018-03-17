@@ -8,24 +8,18 @@
         </div>
       </div>
 
-      <div class="content col-12 col-md-8 col-lg-7 col-xl-5">
-        {{ range .Data.Pages }}
-          {{ if (not .Date.IsZero) }}
-            <div class="post-summary">
-              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <div class="col-12 col-md-8 col-lg-7 col-xl-5">
+        <div class="topbar">
+          {{ partial "topbar.html" . }}
+        </div>
 
-              {{ with .Param "subtitle" }}
-                <h3>{{ . }}</h3>
-              {{ end }}
-
-              {{ if (not .Date.IsZero) }}
-                <a href="{{ .Permalink }}" class="post-date">{{ .Date.Format "Jan 2, 2006. Monday" }}</a>
-              {{ end }}
-
-              {{ partial "tags" . }}
-            </div>
+        <div class="content">
+          {{ range .Data.Pages }}
+            {{ if (not .Date.IsZero) }}
+              {{ partial "summary.html" . }}
+            {{ end }}
           {{ end }}
-        {{ end }}
+        </div>
       </div>
     </div>
   </div>

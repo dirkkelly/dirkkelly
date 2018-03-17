@@ -1,0 +1,7 @@
+<ul class="list-inline">
+  {{ range .Site.Menus.topbar }}
+    <li>
+      <a href="{{.URL}}"><strong>{{ .Name }}</strong></a>
+    </li>
+  {{end}}
+</ul>
