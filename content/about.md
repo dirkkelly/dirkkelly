@@ -13,6 +13,8 @@ tags:
 - Perth
 - New York
 type: page
+menu:
+  sidebar: about
 
 ---
 ## Australian

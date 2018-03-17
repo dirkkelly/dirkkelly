@@ -1,7 +1,9 @@
+{{ $currentPage := . }}
+
 <ul class="list-inline">
   {{ range .Site.Menus.topbar }}
-    <li>
-      <a href="{{.URL}}"><strong>{{ .Name }}</strong></a>
-    </li>
+  <li {{if or ($currentPage.IsMenuCurrent "topbar" .) ($currentPage.HasMenuCurrent "topbar" .) }}class="active"{{end}}>
+    <a href="{{.URL}}">{{ .Name }}</a>
+  </li>
   {{end}}
 </ul>

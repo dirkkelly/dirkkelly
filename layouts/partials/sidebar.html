@@ -1,3 +1,5 @@
+{{ $currentPage := . }}
+
 <div class="sidebar-about">
   <h1>
     <a href="/">
@@ -12,8 +14,8 @@
 
 <ul class="sidebar-nav">
   {{ range .Site.Menus.sidebar }}
-  <li class="d-inline d-md-block">
-    <a href="{{.URL}}"><strong>{{ .Name }}</strong></a>
+  <li {{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) }}class="active"{{end}}>
+    <a href="{{.URL}}">{{ .Name }}</a>
   </li>
   {{end}}
 </ul>

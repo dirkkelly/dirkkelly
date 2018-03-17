@@ -4,6 +4,8 @@ tags:
 - Personal
 - InterExchange
 type: page
+menu:
+  sidebar: contact
 
 ---
 ## Secure

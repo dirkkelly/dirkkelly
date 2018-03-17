@@ -7,6 +7,9 @@ tags:
 type: page
 aliases:
 - "/resume/"
+menu:
+  sidebar: career
+
 ---
 
 ### [InterExchange](http://interexchange.org)
