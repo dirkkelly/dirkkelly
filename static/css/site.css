@@ -34,20 +34,24 @@ a { text-decoration: none; }
 .sidebar-wrapper { position: relative; background: #326799; padding-left: 0; }
 
 .sidebar { box-sizing: border-box; float: left; max-width: 25%; padding: 10px; color: #FFFFFF; }
-.sidebar img { width: 100%; }
+.sidebar img { width: 100%; border-radius: 4px }
 .sidebar h1, .sidebar ul, .sidebar p { padding: 5px 0; margin: 0; }
 .sidebar h1 { font-weight: bold; }
+.sidebar h1 a:hover { text-decoration: none }
 .sidebar li { margin-right: 10px; }
+.sidebar li:last-child { margin-right: 0; }
 .sidebar a, .sidebar a:hover { color: #FFFFFF; }
 
 .topbar { margin-top: 20px }
 .topbar ul { padding-left: 0; overflow: hidden }
 .topbar li { float: left; margin-right: 10px; list-style: none }
+.topbar li:last-child { margin-right: 0; }
 .topbar a { font-weight: bold; color: #326799; }
 
 @media only screen and (max-width: 768px) {
   .sidebar-wrapper { padding: 0 10px; }
-  .sidebar { max-width: 100%; float: none; position: relative; text-align: center; }
+  .sidebar { max-width: 100%; float: none; position: relative; text-align: center; font-size: 0.8em }
+  .sidebar img { width: 30px; margin-top: -14px }
   .topbar { margin-top: 10px; text-align: center }
   .topbar li { float: none; display: inline-block; font-size: 0.8em; }
   .d-none { display: none; }
