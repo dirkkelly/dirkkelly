@@ -19,7 +19,7 @@ The hardest thing to come to terms with is that most of the species is ignorant 
 
 Alone you cannot save us from the impact climate change will have on our ability to produce enough food for our survival.
 
-Alone you cannot save us from the devastation which would be caused by nuclear war, nor can you stop governments from firing them, let alone push for the dismantlement.
+Alone you cannot save us from the devastation which would be caused by nuclear war, nor can you stop governments from firing the missiles, let alone push for the dismantlement.
 
 Alone you cannot convince our society to abandon the quest for unlimited financial gains at the expense of life, for governments to value all life and create a world which fosters new life.
 
@@ -45,4 +45,4 @@ Mass inneqality is the result of companies funelling the value produced by every
 
 Unite with your colleagues to take control of your organization, unite with your neighbor organizations to point the power of your organizations at solving the problems we all face.
 
-We can save the world, if we work together, and own our workplace together. 
+We can save the world, if we work together, and own our workplace together.
