@@ -1,5 +1,7 @@
 # dirkkelly.com
 
+![Screenshot](/static/images/screenshots/2018-03-17-18-40-00.png)
+
 ## Goals
 
 I want to learn Hugo better so I am creating my own theme using the Bootstrap 4 framework
