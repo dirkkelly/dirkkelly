@@ -14,21 +14,21 @@ menu:
 
 ### [InterExchange](http://interexchange.org)
 
-**Chief Technology Officer** <small>(2015 - now)</small>
+**Chief Technology Officer** <small>(2015 - now)</small><br/>
 **Lead Software Engineer** <small>(2013 - 2015)</small>
 
 InterExchange provides work and travel opportunities to young people, I manage their use of technology to achieve organization goals.
 
-Having successfully built a quality engineering team, I am working on an organizational level to improve jobs, simplify processes, develop systems.
+Having successfully built a quality engineering team, I am working on an organizational level to improve jobs, simplify processes, and develop systems.
 
 After many years software consulting across many different industries, I decided to take the time to fully understand a single organization.
 
 ### [Pivotal Labs](http://pivotallabs.com/)
 
-**Lead Software Developer** <small>(2012 - 2013)</small>
+**Lead Software Developer** <small>(2012 - 2013)</small><br/>
 **Software Developer** <small>(2011 - 2012)</small>
 
-Pivotal Labs is an agile software consulting firm that trains organizations around the globe improve their process for building software through hands-on collaboration on software projects.
+Pivotal Labs are agile software consultants who train teams to improve their process of building software through hands-on collaboration on software projects.
 
 This was one of the greatest learning experiences in my life, I was trained by very experienced engineers and product managers, I was able to experience a wide variety of projects during my time there.
 
@@ -36,16 +36,16 @@ Being away from the top of the business allowed me to focus on learning the craf
 
 ### [Mostly Disco](http://web.archive.org/web/20110403040021/http://www.mostlydisco.com/)
 
-**Co Founder** <small>(2011 - 2011)</small>
+**Co Founder** <small>(2011)</small>
 
 A group of friends building a native iOS dating app released throughout Australia.
 
-Potential Investors, App Store Approval, A language none of us knew, we learned a lot by doing.
+Potential investors, App Store approval, a language none of us knew, needless to say we learned a lot by doing.
 
 ### [Frontier Group](http://www.thefrontiergroup.com.au/)
 
-**Business Development Manager** <small>(2010 - 2011)</small>
-**Software Developer** <small>(2010 - 2010)</small>
+**Business Development Manager** <small>(2011)</small><br/>
+**Software Developer** <small>(2010)</small>
 
 Working for a larger firm showed me just how little I knew about business and how vital process is for them to succeed.
 
@@ -73,7 +73,8 @@ Learned how to respond to business needs promptly, helped build an agile working
 
 ### [Murdoch University](http://www.murdoch.edu.au/)
 
-**Internet Software Development** <small>Bachelor of Science (2009 - 2012)</small>
+**Internet Software Development**<br/>
+<small>Bachelor of Science (2009 - 2012)</small>
 
 Gaining an undergraduate taught me to efficiently recognize and research solutions to problems.
 
