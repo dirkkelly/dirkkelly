@@ -31,7 +31,7 @@ We can do these things by approaching all problems head on, by not only acceptin
 
 The incredible thing is just how close to the mechanisms for change we all are, in fact we are surrounded by them each day that we go to work.
 
-If “we the people” have an equal opportunity to participate in directing the efforts of our organizations we can solve climate change, we can proliferate nuclear disarmament, we can get our fair share of the value we produce, and we can pull ourselves and everyone around us out of the poverty we are being forced into.
+If “we the people” have an equal opportunity to participate in directing the efforts of our organizations we can solve climate change, we can proliferate nuclear disarmament, we can get our fair share of the value we produce, and we can point out collective ship in a direction that wont lead to our deaths.
 
 If the collection of humanity  has control of their organization they can press on goverments to behave in a way that improves the quality of life for everyone.
 
