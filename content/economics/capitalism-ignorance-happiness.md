@@ -1,6 +1,6 @@
 ---
 date: 2017-11-26 00:00:00 +0000
-title: Happiness in Capitalism. Stevie Cutts
+title: Ignorance and Happiness in Capitalism.
 tags:
 - Philosophy
 - Capitalism
@@ -9,6 +9,7 @@ tags:
 - Friendly Jordies
 aliases:
 - /2017/11/26-happiness/
+- /collapse/happiness-stevie-cutts/
 ---
 
 {{< youtube SNwgjVzkT-I >}}
