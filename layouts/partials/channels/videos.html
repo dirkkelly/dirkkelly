@@ -1,7 +1,0 @@
-<div class="panel panel-videos">
-  {{ range .videos }}
-    <h3 class="panel-title" style="margin-bottom: 5px"><a href="{{ .url }}">{{ .name }}</a> <small>{{ .category }}</small></h3>
-    <p style="margin-bottom: 5px">{{ .description }}</p>
-    {{ partial "videos/embed" . }}
-  {{ end }}
-</div>
