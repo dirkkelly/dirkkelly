@@ -35,7 +35,7 @@ I want to learn Hugo better so I am creating my own theme using the Bootstrap 4 
 
 ### Marketing
 
-- [ ] Create a better description of the website
+- [x] Create a better description of the website
 
 ## Development
 
