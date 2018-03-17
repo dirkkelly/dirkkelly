@@ -5,8 +5,8 @@ tags:
 - InterExchange
 type: page
 menu:
-  sidebar: contact
-
+  sidebar:
+    weight: 3
 ---
 ## Secure
 

@@ -14,8 +14,8 @@ tags:
 - New York
 type: page
 menu:
-  sidebar: about
-
+  sidebar:
+    weight: 1
 ---
 ## Australian
 
