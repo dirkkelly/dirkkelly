@@ -36,16 +36,22 @@ SectionPagesMenu = "topbar"
   weight = 3
 
 [[menu.topbar]]
-  name = "Collapse"
-  url = "/collapse/"
-  identifier = "collapse"
-  weight = 4
-
-[[menu.topbar]]
   name = "Philosophy"
   url = "/philosophy/"
   identifier = "philosophy"
+  weight = 4
+
+[[menu.topbar]]
+  name = "Survive"
+  url = "/survive/"
+  identifier = "survive"
   weight = 5
+
+[[menu.topbar]]
+  name = "Collapse"
+  url = "/collapse/"
+  identifier = "collapse"
+  weight = 6
 
 [[menu.topbar]]
   identifier = "channels"
