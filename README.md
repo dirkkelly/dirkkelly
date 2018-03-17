@@ -31,6 +31,7 @@ I want to learn Hugo better so I am creating my own theme using the Bootstrap 4 
 - [ ] some sort of content-summary panel?
 - [ ] update to new logo
   - [ ] new new logo
+- [ ] side scrolling responsive navigation, needs ui
 
 ### Marketing
 
