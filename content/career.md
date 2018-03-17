@@ -71,33 +71,33 @@ Learned how to respond to business needs promptly, helped build an agile working
 
 ### Chimera Technologies
 
-**Partner / Website Developer**
+Partner / Website Developer
 
 ### Westnet
 
-**Phone Support Agent**
+Phone Support Agent
 
 ### Dick Smiths
 
-**Retail Assistant**
+Retail Assistant
 
 ### Sunnywest
 
-**Milk Produce Mover**
+Milk Produce Mover
 
 ### Hungry Jacks
 
-**Counter Crew**<br/>
-**Cleanup Crew**<br/>
-**Kitchen Crew**<br/>
-**Open Crew**<br/>
-**Close Crew**
+Counter Crew<br/>
+Cleanup Crew<br/>
+Kitchen Crew<br/>
+Open Crew<br/>
+Close Crew
 
 ### McDonalds
 
-**Kitchen Crew**<br/>
-**Counter Crew**<br/>
-**Open Crew**
+Kitchen Crew<br/>
+Counter Crew<br/>
+Open Crew
 
 ---
 
