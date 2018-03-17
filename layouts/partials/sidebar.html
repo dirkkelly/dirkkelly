@@ -14,8 +14,10 @@
 
 <ul class="sidebar-nav">
   {{ range .Site.Menus.sidebar }}
-  <li {{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) }}class="active"{{end}}>
-    <a href="{{.URL}}">{{ .Name }}</a>
-  </li>
+  {{if .URL }}
+    <li {{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) }}class="active"{{end}}>
+      <a href="{{.URL}}">{{ .Name }}</a>
+    </li>
+  {{end}}
   {{end}}
 </ul>
