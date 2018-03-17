@@ -2,10 +2,14 @@
 title: Nobody Can Do This Alone
 date: 2018-03-17 04:21:45 +0000
 subtitle: 'Our revolution is the responsibility of everyone, if you can’t lead, follow. '
-tags: []
+tags:
+- Democracy
+- Socialism
+- Resist
+- Climate Change
+- Nuclear War
 aliases: []
 image: ''
-draft: true
 
 ---
 For me the biggest relief I’ve learnt over these years is that I’m not solely responsible for saving our species from extinction. 
