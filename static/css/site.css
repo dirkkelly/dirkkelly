@@ -23,7 +23,7 @@ a { text-decoration: none; }
 .content .post-summary h3 { font-size: 1em; color: #464c52; }
 .content .post-summary .post-date { display: block; margin-bottom: 5px }
 
-.content .post-content { font-size: 1.2em; text-align: justify; }
+.content .post-content { font-size: 1.2em; }
 .content .post-content p { text-align: justify; }
 .content .post-content blockquote p { text-align: left; }
 .content .post-content img { width: 100%; margin: 10px 0; }
@@ -35,7 +35,7 @@ a { text-decoration: none; }
 .sidebar h1, .sidebar ul, .sidebar p { padding: 5px 0; margin: 0; }
 .sidebar h1 { font-weight: bold; }
 .sidebar h1 a:hover { text-decoration: none; border-bottom: 0; }
-.sidebar li { list-style: none; font-weight: bold; margin-right: 5px; }
+.sidebar li { list-style: none; font-weight: bold; margin: 5px 5px 5px 0; }
 .sidebar li.active a, .sidebar a:hover { border-bottom: 2px solid #FFF }
 .sidebar li:last-child { margin-right: 0; }
 .sidebar a, .sidebar a:hover { text-decoration: none; color: #FFFFFF; }
@@ -52,10 +52,10 @@ a { text-decoration: none; }
 @media only screen and (max-width: 768px) {
   .sidebar-wrapper { padding: 0 10px; }
   .sidebar { max-width: 100%; float: none; position: relative; text-align: center; }
-  .sidebar li { float: none; display: inline-block; margin: 0 5px; padding: 2px; margin-bottom: 0; }
+  .sidebar li { float: none; display: inline-block; margin: 0 5px; padding: 2px; margin-bottom: 0; font-size: 0.9em }
   .sidebar img { width: 30px; margin-top: -5px }
   .topbar { margin-top: 10px; text-align: center }
-  .topbar li { float: none; display: inline-block; margin: 5px; padding: 2px; }
+  .topbar li { float: none; display: inline-block; margin: 3px 5px; padding: 2px; }
   .d-none { display: none; }
 }
 

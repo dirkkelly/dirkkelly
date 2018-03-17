@@ -69,6 +69,36 @@ Predominantly built PHP single purpose apps within the student services division
 
 Learned how to respond to business needs promptly, helped build an agile working environment within a less-agile business.
 
+### Chimera Technologies
+
+**Partner / Website Developer**
+
+### Westnet
+
+**Phone Support Agent**
+
+### Dick Smiths
+
+**Retail Assistant**
+
+### Sunnywest
+
+**Milk Produce Mover**
+
+### Hungry Jacks
+
+**Counter Crew**<br/>
+**Cleanup Crew**<br/>
+**Kitchen Crew**<br/>
+**Open Crew**<br/>
+**Close Crew**
+
+### McDonalds
+
+**Kitchen Crew**<br/>
+**Counter Crew**<br/>
+**Open Crew**
+
 ---
 
 ## Education
@@ -82,6 +112,10 @@ Gaining an undergraduate taught me to efficiently recognize and research solutio
 
 The degree I hold can be used to in accordance with an E3 visa, I can work within the U.S tech industry.
 
+### [Leeming Senior High School](http://www.leeming.wa.edu.au/)
+
+### [Banksia Park Primary School](http://www.banksiapark.wa.edu.au/)
+
 ---
 
 ## Skills
@@ -90,17 +124,17 @@ The degree I hold can be used to in accordance with an E3 visa, I can work withi
 
 My development career has given me exposure and expertise across all aspects of web development.
 
-- Databases (PostgreSQL, MySQL, OracleDB)
-- Application (Ruby, PHP, Java)
-- Interaction (ES6, ReactJS, EmberJS)
-- Interface (HTML, CSS)
+- Databases<br/><small>(PostgreSQL, MySQL, OracleDB)</small>
+- Application<br/><small>(Ruby, PHP, Java)</small>
+- Interaction<br/><small>(ES6, ReactJS, EmberJS)</small>
+- Interface<br/><small>(HTML, CSS)</small>
 
 #### Test Driver
 
 I use test driven guide me through creating features that are reliable and well documented.
 
-- Integration (Cucumber, Behat)
-- Unit (Rspec, PHPUnit, JUnit)
+- Integration<br/><small>(Cucumber, Behat)</small>
+- Unit <br/><small>(Rspec, PHPUnit, JUnit)</small>
 
 #### User Focussed
 
