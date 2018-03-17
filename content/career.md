@@ -101,6 +101,34 @@ Open Crew
 
 ---
 
+## Volunteer
+
+### [Fort Collins Democratic Socialists of America](https://dsafc.org/)<br/><small>(2018 - Present)</small>
+
+### [BetaNYC](https://beta.nyc/)<br/><small>(2016 - 2017)</small>
+
+### [Bullcreek Leeming Scout Group](https://www.blscouts.org.au/)<br/><small>(1998 - 2010)</small>
+
+**Cub Scout Leader** 19½ - 21
+
+After taking a break from scouting I came back to volunteer, before leaving for America.
+
+**Venturer Scouts** 14½ - 17½
+
+As venturer scouts we ran our pack collaboratively with leaders providing advice (and transportation), working together we would plan and execute events we wanted to, whether it was a LAN party with dozens of people, a 5 day hike through Albany.
+
+**[Scouts](https://www.blscouts.org.au/scouts/)** 10½ - 14½
+
+As a scout I progressed through the ranks to assistant six leader, I served alongside a great crew and we had some amazing adventures together.
+
+**[Cub Scouts](https://www.blscouts.org.au/cubs/)** 9½ - 10½
+
+Joined cub scouts towards the end age bracket, I was introduced to an amazing pack of kind and helpful people, I learnt a lot about camping, volunteering, and community service.
+
+Cub Scouts Do Your Best
+
+---
+
 ## Education
 
 ### [Murdoch University](http://www.murdoch.edu.au/)
