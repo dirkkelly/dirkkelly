@@ -53,7 +53,7 @@ a { text-decoration: none; }
   .sidebar-wrapper { padding: 0 10px; }
   .sidebar { max-width: 100%; float: none; position: relative; text-align: center; }
   .sidebar li { float: none; display: inline-block; margin-right: 5px; margin-bottom: 0; font-size: 0.8em }
-  .sidebar img { width: 30px; margin-top: -14px }
+  .sidebar img { width: 30px; margin-top: -5px }
   .topbar { margin-top: 10px; text-align: center }
   .topbar li { float: none; display: inline-block; margin-right: 5px; font-size: 0.8em }
   .d-none { display: none; }
