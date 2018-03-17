@@ -42,14 +42,19 @@ title = "Dirk Kelly"
   weight = 2
 
 [[menu.topbar]]
-  name = "Collapse"
-  url = "/collapse/"
+  name = "Economics"
+  url = "/economics/"
   weight = 3
 
 [[menu.topbar]]
   name = "Technology"
   url = "/technology/"
   weight = 4
+
+[[menu.topbar]]
+  name = "Collapse"
+  url = "/collapse/"
+  weight = 5
 
 [permalinks]
   channels = "/:filename"
