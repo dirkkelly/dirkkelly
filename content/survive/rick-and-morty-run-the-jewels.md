@@ -1,5 +1,5 @@
 ---
-title: Rick and Morty &amp; Run The Jewels
+title: "Rick and Morty & Run The Jewels"
 date: 2018-03-18 00:00:58 -0400
 tags:
 - Run The Jewels
@@ -8,7 +8,7 @@ tags:
 - New York
 
 ---
-A new collaboration dropped between Rick and Morty &amp; Run The Jewels, Oh Mama wasn't on my radar until this film clip, wonder if I'd ever get my own mother to watch this?
+A new collaboration dropped between Rick and Morty & Run The Jewels, Oh Mama wasn't on my radar until this film clip, wonder if I'd ever get my own mother to watch this?
 
 {{< youtube EBYsx1QWF9A >}}
 

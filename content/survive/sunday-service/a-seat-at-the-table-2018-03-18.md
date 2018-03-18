@@ -25,7 +25,7 @@ Her story is of course deep and vast, and we only heard from her for a half hour
 
 > Her service was meant to be for a summer, after finishing at Lafayette college, an elite private school, this would be an opportunity for her to experience another culture before whatever was next, she proceeded to stay 32 years.
 
-> Inclusion in the association required relocation into the inner city they were serving, this ensured that the problems of the community were the problems of those assisting, leveling the power dynamic between the service giver and receive
+> Inclusion in the association required relocation into the inner city they were serving, this ensured that the problems of the community were the problems of those assisting, leveling the power dynamic between the service giver and receiver.
 
 > There was a clear division between the members who had been raised and educated under [John Perkins](https://en.wikipedia.org/wiki/John_M._Perkins) and the students from all over the country who were coming to observe and assist.
 
