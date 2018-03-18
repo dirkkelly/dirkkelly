@@ -15,7 +15,7 @@ aliases: [/2018/02/02-america-will-collapse-earth-will-boil-humanity-will-perish
 ---
 ## America Will Collapse
 
-As an Australian who spent the last 5 years in the hyper-capitalism center of the world (New York City) I've had to [improve my coping mechanisms immensely](/2018/01/02-the-world-doesnt-owe-you-anything/) as the harsh reality of massive inequality was shoved in my face.
+As an Australian who spent 6 years in the hyper-capitalism center of the world (New York City) I've had to [improve my coping mechanisms immensely](/2018/01/02-the-world-doesnt-owe-you-anything/) as the harsh reality of massive inequality was shoved in my face.
 
 Last year I moved to a [small town in Colorado](/about/#fort-collins) to run-out-the-clock as I [shift my career back to Perth](/2017/12/31-next-year-perth-following-year-farm/) to get away from [a nation that's tearing itself apart](https://eand.co/why-were-underestimating-american-collapse-be04d9e55235).
 
