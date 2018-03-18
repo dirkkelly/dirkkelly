@@ -21,9 +21,9 @@ Again this Sunday, after attending the [Fort Collins Mennonite Fellowship](http:
 
 Today's service included an inspiring story of a white congregation member who spent 30+ years serving the [Voice of Calvary](http://vocm.org/) in Mississipi, an African American Christian Community Development Association that provided youth, housing and health services, and also ran a coocoop thrift store.
 
-Her story is of course deep and vast, and we only heard from her for a half hour or so, but there were some key points she raised which deserve reflection when engaging with any community service.
+The service was meant to be for a summer; after finishing at Lafayette college (an elite private school) this would be an opportunity for her to experience another culture before whatever was next. Instead she proceeded to stay for 32 years.
 
-> Her service was meant to be for a summer, after finishing at Lafayette college, an elite private school, this would be an opportunity for her to experience another culture before whatever was next, she proceeded to stay 32 years.
+Her full story is of course deep and vast, we only heard half hour or it, but there were some key points she raised which deserve reflection when engaging with any community service.
 
 > Inclusion in the association required relocation into the inner city they were serving, this ensured that the problems of the community were the problems of those assisting, leveling the power dynamic between the service giver and receiver.
 
@@ -31,7 +31,7 @@ Her story is of course deep and vast, and we only heard from her for a half hour
 
 > Often young white alpha males would gravitate to positions of authority at the expence of African American members of the group, the new leader of the chapter was African American, but not indiginous to Missisipi, causing still tensions.
 
-> These deep seeded issues of power and cooperation lasted decades, they only shifted as new generations came into power with ideas of more generalized power.
+> These deep seeded issues of power and cooperation lasted decades, they only shifted as new generations came into power that talk of distributing it happened.
 
 > The group was rooted in conservative christian values, with the singular exception of black empowerment, gender based power models still existed, disempowering the women who worked in the association, but were unable to build leadership positions.
 
