@@ -4,9 +4,12 @@ date: 2018-03-04 12:07:45 +0000
 subtitle: A society founded on the values of justice, kindness, and equality, would
   be radically different to our dominant capitalist culture.
 tags:
+- service
 - justice
 - equality
 - democracy
+- community
+- resist
 - capitalism
 aliases: []
 image: "/uploads/2018/03/09/tumblr_ng9bexfv4Z1t50zepo1_500-rose.jpg"
