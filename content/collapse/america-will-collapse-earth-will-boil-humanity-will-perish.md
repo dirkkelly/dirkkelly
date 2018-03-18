@@ -3,9 +3,12 @@ date: 2018-02-02 00:00:00 +0000
 title: America Will Collapse, Earth Will Boil, and Humanity Will Perish
 subtitle: Understanding this will help you plan for your future.
 tags:
-- America
 - Climate Change
 - Extinction
+- Community
+- America
+- New York
+- Fort Collins
 type: 2018
 aliases: [/2018/02/02-america-will-collapse-earth-will-boil-humanity-will-perish/]
 
