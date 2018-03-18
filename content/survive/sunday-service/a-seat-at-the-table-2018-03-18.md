@@ -43,6 +43,8 @@ During the open comments section after, there were some great quotes by other me
 
 > Power is never useful when it is horded at the top, it denies the society the potential of all its members.
 
+> Every relationship has a power dimension that we don't generally recognize, especially in the moment.
+
 > Often when white groups come into a community to fix things, they find the leaders in that community and give them a seat at the table, they then teach them to dominate their community with power, propagating this culture of oppression through concentration of wealth and power.
 
 Ultimately it was great to sit and listen to a group of people who understand that the path forward for our species is to recognize the power in everyone, to help them realize that power in themselves, and to jointly work together to direct that energy at creating positive change.
