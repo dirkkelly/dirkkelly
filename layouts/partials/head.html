@@ -31,7 +31,11 @@
     <meta name="theme-color" content="#ffffff">
 
     <!-- The Bastards called it [OpenGraph](http://ogp.me/), this is the standard now, until the next one https://xkcd.com/927/ -->
-    {{ with .Param "image" }}<meta property="og:image" content="{{ . }}">{{ end }}
+    {{ with .Param "image" }}
+      <meta property="og:image" content="{{ . }}">
+    {{ else }}
+      <meta property="og:image" content="/images/dirkkelly.png">
+    {{ end }}
     {{ with .Param "redirect" }}<meta http-equiv="refresh" content="0;URL='{{ . }}'" />{{ end }}
 
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
