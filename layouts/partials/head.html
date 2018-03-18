@@ -4,20 +4,26 @@
 <html xmlns="http://www.w3.org/1999/xhtml"{{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}"{{end}}>
   <head>
     {{ if .IsHome }}
-    <title>{{ .Site.Title }}</title>
-    <meta property="og:title" content='{{ .Site.Title }}'>
+      <title>{{ .Site.Title }}</title>
+      <meta property="og:title" content='{{ .Site.Title }}'>
     {{ else }}
-    <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
-    <meta property="og:title" content='{{ .Title }} &middot; {{ .Site.Title }}'>
+      <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+      <meta property="og:title" content='{{ .Title }} &middot; {{ .Site.Title }}'>
     {{ end }}
-    {{ with .Summary }}
-    <meta name="description" content="{{ . }}">
-    <meta property="og:description" content="{{ . }}">
+
+    {{ with .Param "subtitle" }}
+      <meta name="description" content="{{ . }}">
+      <meta property="og:description" content="{{ . }}">
     {{ else }}
-    {{ with .Param "description" }}
-    <meta name="description" content="{{ . }}">
-    <meta property="og:description" content="{{ . }}">
-    {{ end }}
+      {{ with .Summary }}
+        <meta name="description" content="{{ . }}">
+        <meta property="og:description" content="{{ . }}">
+      {{ else }}
+        {{ with .Param "description" }}
+          <meta name="description" content="{{ . }}">
+          <meta property="og:description" content="{{ . }}">
+        {{ end }}
+      {{ end }}
     {{ end }}
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -30,12 +36,12 @@
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="theme-color" content="#ffffff">
 
-    <!-- The Bastards called it [OpenGraph](http://ogp.me/), this is the standard now, until the next one https://xkcd.com/927/ -->
     {{ with .Param "image" }}
       <meta property="og:image" content="{{ . }}">
     {{ else }}
       <meta property="og:image" content="/images/dirkkelly.png">
     {{ end }}
+
     {{ with .Param "redirect" }}<meta http-equiv="refresh" content="0;URL='{{ . }}'" />{{ end }}
 
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
