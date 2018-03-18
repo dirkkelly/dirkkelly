@@ -21,7 +21,7 @@ Again this Sunday, after attending the [Fort Collins Mennonite Fellowship](http:
 
 Today's service included an inspiring story of a white congregation member who spent 30+ years serving the [Voice of Calvary](http://vocm.org/) in Mississipi, an African American Christian Community Development Association that provided youth, housing and health services, and also ran a coop thrift store.
 
-The service was meant to be for a summer; after finishing at Lafayette college (an elite private school) this would be an opportunity for her to experience another culture before whatever was next. Instead she proceeded to stay for 32 years.
+She meant to be volunteer there just for the summer; after finishing at Lafayette college (an elite private school) this would be an opportunity for her to experience another culture before whatever was next. Instead she proceeded to stay for 32 years.
 
 Her full story is of course deep and vast, we only heard half hour or it, but there were some key points she raised which deserve reflection when engaging with any community service.
 
