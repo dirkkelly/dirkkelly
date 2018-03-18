@@ -10,7 +10,7 @@ SectionPagesMenu = "topbar"
 
 [params]
   author = "dirkkelly"
-  description = "Ameristralian writing about the intersections of politics, economics, and technology during the people's struggle to survive the collapse of capitalism."
+  description = "Ameristralian thinking about politics, economics, and technology during the people's struggle to survive the collapse of capitalism."
 
 [[menu.sidebar]]
   name = "Subscribe"
