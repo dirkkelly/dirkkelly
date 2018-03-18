@@ -1,13 +1,13 @@
 ---
-title: "Run the Jewels x Rick and Morty"
-date: 2018-03-18T00:00:58-04:00
+title: Run the Jewels x Rick and Morty
+date: 2018-03-18 00:00:58 -0400
 tags:
 - Run The Jewels
 - Rick and Morty
 - Resist
 - New York
----
 
+---
 A new collaboration dropped between Run The Jewels and Rick and Morty, Oh Mama wasn't on my radar until this film clip, wonder if I'd ever get my own mother to watch this?
 
 {{< youtube EBYsx1QWF9A >}}
@@ -49,7 +49,7 @@ I was already on a serious Run The Jewels binge, especially with my week back in
 > You say you on the side of the righteous (right) I say I'm gonna hang with the wrong<br/>
 > There's truth where the filth is, there's lies in the law<br/>
 
-Team that up with this favorite I've been hitting up since my holidays back in Perth and you've got enough encouragement to walk through the Lion's den for a week, and to keep-your-fucking-power-dry while you do it.
+Team that up with this favorite I've been hitting up since my holidays back in Perth and you've got enough encouragement to walk through the Devil’s Lair (JP Morgan, Chase, DB, et al) for a week, and to keep-your-fucking-power-dry and head down while you do it.
 
 {{< youtube OQ5rI461KNE >}}
 

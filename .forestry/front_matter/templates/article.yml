@@ -1,17 +1,8 @@
 ---
 pages:
-- economicupdate/economic-update-a-system-rigged-against-us.md
 - technology/building-a-website-that-s-fast--free--and-yours.md
-- philosophy/nobody-can-do-this-alone.md
 - philosophy/the-value-of-death.md
 - philosophy/do-justice-love-kindness-walk-humbly.md
-- america/the-greatest-threat-to-all-life-on-earth--america.md
-- america/american-mass-media-is-propoganda.md
-- america/how-to-kill-yourself-in-america.md
-- america/why-caitlin-johnstone-engages-alex-jones--and-you-should-engage-trump-voters.md
-- 2018/02/the-myth-of-incentive-under-capitalism-g.a.cohen.md
-- 2018/02/socializing-is-work-social-media-is-exploitation.md
-- 2018/02/foresty-for-writing-blog-posts-on-hugo.md
 hide_body: false
 fields:
 - type: datetime
