@@ -1,6 +1,6 @@
 ---
 title: "Run the Jewels x Rick and Morty"
-date: 2018-03-17T23:57:58-04:00
+date: 2018-03-18T00:00:58-04:00
 tags:
 - Run The Jewels
 - Rick and Morty
