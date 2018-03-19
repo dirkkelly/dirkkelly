@@ -9,9 +9,10 @@ tags:
 - Donald Trump
 - Culture War
 type: 2017
-aliases: [/2017/12/22-vic-berger/]
----
+aliases:
+- "/2017/12/22-vic-berger/"
 
+---
 {{< youtube Pqhgj_5-7BI >}}
 
 > I was blown away when I found out that I have a lot of Trump supporters that are fans of my work that didn't know I was making fun of Trump.

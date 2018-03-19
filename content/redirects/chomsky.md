@@ -1,5 +1,6 @@
 ---
 title: Noam Chomsky
-url: /tags/chomsky/
-redirect: /tags/noam-chomsky/
+url: "/tags/chomsky/"
+redirect: "/tags/noam-chomsky/"
+
 ---

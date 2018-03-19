@@ -8,9 +8,10 @@ tags:
 - Ben Howard
 - Resist
 type: 2017
-aliases: [/2017/12/30-2017-ben-howard-anthem/]
----
+aliases:
+- "/2017/12/30-2017-ben-howard-anthem/"
 
+---
 2017 hasn't been a good year, let's face it, 2018 won't be better.
 
 After suffering internally for decades, seeking help, working hard, and greiving immensely, I'm still here.

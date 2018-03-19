@@ -1,5 +1,5 @@
 ---
-title: "Rick and Morty & Run The Jewels"
+title: Rick and Morty & Run The Jewels
 date: 2018-03-18 00:00:58 -0400
 tags:
 - Run The Jewels

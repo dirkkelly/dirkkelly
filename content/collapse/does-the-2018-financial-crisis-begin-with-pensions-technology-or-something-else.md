@@ -14,9 +14,9 @@ tags:
 - Zero Hedge
 - Sovereign Man
 aliases:
-- /2017/11/8-does-the-next-financial-crisis-begin-with-pensions-technology-or-something-else/
----
+- "/2017/11/8-does-the-next-financial-crisis-begin-with-pensions-technology-or-something-else/"
 
+---
 So does the next financial crisis begin with pensions? ... Maybe.
 
 [It Begins: Pension Bailout Bill To Be Introduced This Week](http://www.zerohedge.com/news/2017-11-08/it-begins-democratic-senator-introduce-bill-taxpayer-funded-pension-bailouts)

@@ -1,11 +1,16 @@
 ---
-date: 2017-12-21
+date: 2017-12-21 00:00:00 +0000
 title: Gough Whitlam, Australia's greatest Prime Minister
 subtitle: Friendly Jordies setting the record straight
-tags: [Australia, Gough Whitlam, Friendly Jordies, News Corporation]
-aliases: [/2017/12/21/gough-whitlam-friendly-jordies/]
----
+tags:
+- Australia
+- Gough Whitlam
+- Friendly Jordies
+- News Corporation
+aliases:
+- "/2017/12/21/gough-whitlam-friendly-jordies/"
 
+---
 > I wanted to make a video purely honoring the life and achievements of Edward Gough Whitlam
 
 {{< youtube OBmIkeYvhXQ >}}

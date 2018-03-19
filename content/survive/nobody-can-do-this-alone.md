@@ -9,7 +9,8 @@ tags:
 - Resist
 - Climate Change
 - Nuclear War
-aliases: [/philosophy/nobody-can-do-this-alone/]
+aliases:
+- "/philosophy/nobody-can-do-this-alone/"
 image: ''
 
 ---

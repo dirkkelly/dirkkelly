@@ -1,7 +1,8 @@
 ---
-title: "Sunday Service - A Seat at the Table"
-subtitle: "In our current society we give others a seat at the table, and then teach them to concentrate power and dominate their group."
-date: 2018-03-18T14:45:15-04:00
+title: Sunday Service - A Seat at the Table
+subtitle: In our current society we give others a seat at the table, and then teach
+  them to concentrate power and dominate their group.
+date: 2018-03-18 14:45:15 -0400
 tags:
 - service
 - justice
@@ -10,8 +11,8 @@ tags:
 - community
 - resist
 - capitalism
----
 
+---
 > You don't really seem like a Church person Dirk <br/>
 > - Anyone I've met.
 

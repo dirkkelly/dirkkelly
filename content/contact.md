@@ -7,6 +7,7 @@ type: page
 menu:
   sidebar:
     weight: 3
+
 ---
 ## Secure
 

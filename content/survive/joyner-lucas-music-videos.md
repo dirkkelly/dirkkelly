@@ -7,9 +7,10 @@ tags:
 - Racism
 - Depression
 type: 2017
-aliases: [/2017/12/23-joyner-lucas-music-videos/]
----
+aliases:
+- "/2017/12/23-joyner-lucas-music-videos/"
 
+---
 ## I'm Not Racist
 
 {{< youtube 43gm3CJePn0 >}}

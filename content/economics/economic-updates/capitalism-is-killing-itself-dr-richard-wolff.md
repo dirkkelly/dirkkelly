@@ -8,7 +8,9 @@ tags:
 - Richard Wolff
 - Empire Files
 type: 2018
-aliases: [/2018/01/09-capitalism-is-killing-itself-dr-richard-wolff/]
+aliases:
+- "/2018/01/09-capitalism-is-killing-itself-dr-richard-wolff/"
+
 ---
 When I arrived to the United States in 2011 my friend told me he had been at the Occupy Wallstreet demonstrations the previous week, I thought he was crazy.
 

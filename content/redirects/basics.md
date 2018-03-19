@@ -1,5 +1,6 @@
 ---
 title: About
-url: /basics/
-redirect: /about/
+url: "/basics/"
+redirect: "/about/"
+
 ---

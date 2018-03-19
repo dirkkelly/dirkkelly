@@ -3,8 +3,8 @@ title: Why Caitlin JOhnstone Engages Alex Jones, and you should engage trump vot
 date: 2018-03-05 21:25:34 +0000
 subtitle: ''
 tags: []
-draft: true
 aliases: []
+draft: true
 
 ---
 The left talks about the he problem of the left punching left a lore more than the problem of the left punching rift.

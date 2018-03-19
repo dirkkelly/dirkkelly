@@ -10,8 +10,8 @@ aliases:
 menu:
   sidebar:
     weight: 2
----
 
+---
 ### [InterExchange](http://interexchange.org)
 
 **Chief Technology Officer** <small>(2015 - now)</small><br/>

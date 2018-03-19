@@ -1,10 +1,19 @@
 ---
-date: 2017-05-31
+date: 2017-05-31 00:00:00 +0000
 title: America Needed Bernie Sanders, a Politician
-tags: [America, Bernie Sanders, Noam Chomsky, Donald Trump, North Korea, Syria, Election, Democracy Now]
-aliases: [/2017/04/america-needed-a-politician/]
----
+tags:
+- America
+- Bernie Sanders
+- Noam Chomsky
+- Donald Trump
+- North Korea
+- Syria
+- Election
+- Democracy Now
+aliases:
+- "/2017/04/america-needed-a-politician/"
 
+---
 The tension between [North Korea and the United States is becoming increasingly tense][1] which is causing further tensions with Russia, Syria, and China. If there are a bunch of kids in a group having problems with one particular child, who would you proclaim to be the protaganist? As always your perspective is going to be contextual on your relationship to the situation, are you the parent of the bully? You empathize with the child and know that its behavior is a result of further issues.
 
 What I'm trying to say here is that the common denominator in the increased amounts of conflicts is the United States.

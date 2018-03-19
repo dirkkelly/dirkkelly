@@ -1,10 +1,18 @@
 ---
 date: 2017-04-06 00:00:00 +0000
 title: Donald Trump's America Attacks Syria
-tags: [Donald Trump, America, Syria, Russia, Nuclear War, War, Climate Change]
-aliases: [/2017/04/donald-trumpp-america-attacks-syria]
----
+tags:
+- Donald Trump
+- America
+- Syria
+- Russia
+- Nuclear War
+- War
+- Climate Change
+aliases:
+- "/2017/04/donald-trumpp-america-attacks-syria"
 
+---
 ## My Response
 
 I am disappointment in Trump, to clarify I have no faith in him, I've never supported him, I don't respect him. However I do know that before he became the president he was not part of the central powers that are intent on destroying the world in pursuit of more power.

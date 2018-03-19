@@ -10,7 +10,9 @@ tags:
 - Contrapoints
 - reddit
 type: 2017
-aliases: [/2017/12/22-david-pakman-scott-adams/]
+aliases:
+- "/2017/12/22-david-pakman-scott-adams/"
+
 ---
 > David Pakman's interview with Scott Adams is Exactly How To Engage with "Other Side" [r/contrapoints](https://www.reddit.com/r/ContraPoints/comments/7l6y10/david_pakmans_interview_with_scott_adams_is/)
 

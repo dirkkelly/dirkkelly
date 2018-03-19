@@ -1,10 +1,19 @@
 ---
-date: 2017-04-01
+date: 2017-04-01 00:00:00 +0000
 title: HyperNormalisation 2016, Adam Curtis on Chapo Trap House
-tags: [Hypernormalisation, Adam Curtis, Chapo Trap House, Capitalism, America, Donald Trump, Nuclear War]
-aliases: [/2017/04/readings/, /hypernormalisation/adam-curtis-chapo-traphouse-donald-trump/]
----
+tags:
+- Hypernormalisation
+- Adam Curtis
+- Chapo Trap House
+- Capitalism
+- America
+- Donald Trump
+- Nuclear War
+aliases:
+- "/2017/04/readings/"
+- "/hypernormalisation/adam-curtis-chapo-traphouse-donald-trump/"
 
+---
 > The World we're living in now is one where the line between fantasy and reality, politics and entertainment has been erased, and we're living in a semi-synthetic reality.
 > <br/>**Will**
 

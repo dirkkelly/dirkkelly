@@ -11,9 +11,11 @@ tags:
 - Identity Politics
 - Culture War
 type: 2017
-aliases: [/2017/10/3-great-contrapoints-for-lefties/, /contrapoints/3-great-contrapoints-for-lefties/]
----
+aliases:
+- "/2017/10/3-great-contrapoints-for-lefties/"
+- "/contrapoints/3-great-contrapoints-for-lefties/"
 
+---
 {{< youtube QuN6GfUix7c >}}
 
 Are you a leftist trying to find your way in this crazy world of polarized political views?

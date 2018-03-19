@@ -1,5 +1,6 @@
 ---
 title: Pledges
-url: /pledges/
+url: "/pledges/"
 redirect: https://www.patreon.com/dirkkelly/creators
+
 ---

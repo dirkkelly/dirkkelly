@@ -1,66 +1,50 @@
+SectionPagesMenu = "topbar"
 baseUrl = "https://dirkkelly.com/"
 canonifyurls = true
+disqusshortname = "dirkkellycom"
 googleAnalytics = "UA-38004449-5"
 languageCode = "en-us"
 metadataformat = "yaml"
-title = "Dirk Kelly"
-disqusshortname = "dirkkellycom"
 pluralizelisttitles = false
-SectionPagesMenu = "topbar"
-
-[params]
-  author = "dirkkelly"
-  description = "Austramerican thinking about politics, economics, and technology during the people's struggle to survive the collapse of capitalism."
-
+title = "Dirk Kelly"
 [[menu.sidebar]]
-  name = "Subscribe"
-  url = "/index.xml"
-  weight = 4
-
+name = "Subscribe"
+url = "/index.xml"
+weight = 4
 [[menu.topbar]]
-  name = "Politics"
-  url = "/politics/"
-  identifier = "politics"
-  weight = 1
-
+identifier = "collapse"
+name = "Collapse"
+url = "/collapse/"
+weight = 6
 [[menu.topbar]]
-  name = "Economics"
-  url = "/economics/"
-  identifier = "economics"
-  weight = 2
-
+identifier = "survive"
+name = "Survive"
+url = "/survive/"
+weight = 5
 [[menu.topbar]]
-  name = "Technology"
-  url = "/technology/"
-  identifier = "technology"
-  weight = 3
-
+identifier = "philosophy"
+name = "Philosophy"
+url = "/philosophy/"
+weight = 4
 [[menu.topbar]]
-  name = "Philosophy"
-  url = "/philosophy/"
-  identifier = "philosophy"
-  weight = 4
-
+identifier = "technology"
+name = "Technology"
+url = "/technology/"
+weight = 3
 [[menu.topbar]]
-  name = "Survive"
-  url = "/survive/"
-  identifier = "survive"
-  weight = 5
-
+identifier = "economics"
+name = "Economics"
+url = "/economics/"
+weight = 2
 [[menu.topbar]]
-  name = "Collapse"
-  url = "/collapse/"
-  identifier = "collapse"
-  weight = 6
-
-[[menu.topbar]]
-  identifier = "channels"
-
-[[menu.topbar]]
-  identifier = "redirects"
-
+identifier = "politics"
+name = "Politics"
+url = "/politics/"
+weight = 1
+[params]
+author = "dirkkelly"
+description = "Austramerican thinking about politics, economics, and technology during the people's struggle to survive the collapse of capitalism."
 [permalinks]
-  channels = "/:filename"
-
+channels = "/:filename"
 [taxonomies]
-  tag = "tags"
+tag = "tags"

@@ -8,9 +8,10 @@ tags:
 - Identity Politics
 - Culture War
 - Philosophy
-aliases: [/2017/10/29-is-there-an-alternative-to-political-correctness/]
----
+aliases:
+- "/2017/10/29-is-there-an-alternative-to-political-correctness/"
 
+---
 {{< youtube uWM2E9oHlhA >}}
 
 What an amazing video for such a controversial topic right now, Political Correctness is a term so grating in our society that it forces an immediate division into each side of the [Culture War](/tags/culture-war).

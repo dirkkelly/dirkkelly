@@ -1,10 +1,14 @@
 ---
 date: 2017-04-05 00:00:00 +0000
 title: America, Resist Donald Trump
-tags: [America, Resist, Donald Trump]
-aliases: [/2017/04/resist/]
----
+tags:
+- America
+- Resist
+- Donald Trump
+aliases:
+- "/2017/04/resist/"
 
+---
 I will begin to resist by writing more.
 
 Trump is proving to be the perfect distraction for the Republican party, he creates

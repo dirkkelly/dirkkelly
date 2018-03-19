@@ -8,9 +8,9 @@ tags:
 - Snoop Dogg
 type: 2017
 aliases:
-- /url/2017/10/11-fuck-you-trump-by-eminem/
----
+- "/url/2017/10/11-fuck-you-trump-by-eminem/"
 
+---
 Eminem freestyled a fantastic slam against Trump in the opening to the BET Hip Hop Awards last night.
 
 

@@ -11,7 +11,9 @@ tags:
 - Resist
 - Pig Iron Bob
 type: 2017
-aliases: [/2017/12/24-pig-iron-bob-australian-unions/]
+aliases:
+- "/2017/12/24-pig-iron-bob-australian-unions/"
+
 ---
 I found a Youtube video of [Australian Communist Music](https://www.youtube.com/watch?v=w-WGjqOCxDI), which lead me to learning about Robert "Pig Iron Menzies" Menzies and his fight with Australian Union Workers over the shipping of iron to Japan during World War II.
 
