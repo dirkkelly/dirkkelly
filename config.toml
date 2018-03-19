@@ -40,6 +40,10 @@ weight = 2
 identifier = "politics"
 name = "Politics"
 url = "/politics/"
+[[menu.topbar]]
+identifier = "channels"
+[[menu.topbar]]
+identifier = "redirects"
 weight = 1
 [params]
 author = "dirkkelly"
