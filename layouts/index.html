@@ -1,27 +1,9 @@
-{{ partial "head.html" . }}
-
-  <div class="container-fluid">
-    <div class="row">
-      <div class="sidebar-wrapper col-12 col-md-3">
-        <div class="sidebar">
-          {{ partial  "sidebar.html" . }}
-        </div>
-      </div>
-
-      <div class="col-12 col-md-8 col-lg-7 col-xl-6">
-        <div class="topbar">
-          {{ partial "topbar.html" . }}
-        </div>
-
-        <div class="content">
-          {{ range .Data.Pages }}
-            {{ if (not .Date.IsZero) }}
-              {{ partial "summary.html" . }}
-            {{ end }}
-          {{ end }}
-        </div>
-      </div>
-    </div>
+{{ define "main" }}
+  <div class="content">
+    {{ range .Data.Pages }}
+      {{ if (not .Date.IsZero) }}
+        {{ partial "summary.html" . }}
+      {{ end }}
+    {{ end }}
   </div>
-
-{{ partial "foot.html" . }}
+{{ end }}

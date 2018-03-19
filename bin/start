@@ -1,1 +1,1 @@
-hugo serve --buildDrafts --buildFuture --disableFastRender & open http://localhost:1313
+hugo serve --ignoreCache --buildDrafts --buildFuture --disableFastRender

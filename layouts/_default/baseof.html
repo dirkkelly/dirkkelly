@@ -1,5 +1,3 @@
-<!-- But muh comments -->
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"{{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}"{{end}}>
   <head>
@@ -48,3 +46,26 @@
     <link rel="stylesheet" href="/css/site.css" />
   </head>
   <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="sidebar-wrapper col-12 col-md-3">
+          <div class="sidebar">
+            {{ partial  "sidebar.html" . }}
+          </div>
+        </div>
+
+        <div class="col-12 col-md-8 col-lg-7 col-xl-6">
+          <div class="topbar">
+            {{ partial "topbar.html" . }}
+          </div>
+
+          {{ block "main" . }}
+          {{ end }}
+
+          {{ template "_internal/google_analytics.html" . }}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
