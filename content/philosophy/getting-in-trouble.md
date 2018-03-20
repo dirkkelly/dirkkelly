@@ -10,7 +10,7 @@ tags:
 - capitalism
 - collapse
 aliases: []
-image: ''
+image: "/uploads/2018/03/20/humansarefree.com-american-empire-kills.png"
 
 ---
 I hadn't been using my blog because I was afraid to, afraid of what would happen if I wrote about what I was thinking, like I used to write about on this thing. When I was 20 it was tattoos and money for getting tattoos that meant enough to me to end up written down.
