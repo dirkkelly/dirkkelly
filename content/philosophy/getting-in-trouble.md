@@ -44,7 +44,7 @@ Most importantly you can interact with your local government, engage in voting, 
 
 But you have to speak up, you have to say that enough is enough, this machine which the American people are no longer in control of is threatening the futures of their children, and children in other countries. The American Empire needs to be stopped, it needs to become the American People's Government, before it kills all people.
 
-Speak up, speak truth to power; most importantly love, protect, and help one another.
+Speak up, speak truth to power, get in trouble; but more importantly love, protect, and help each other.
 
 {{< youtube w8HdOHrc3OQ >}}
 
