@@ -1,5 +1,5 @@
 comments:
-  allowedFields: ["name", "email", "body"]
+  allowedFields: ["name", "email", "message"]
   allowedOrigins: ["localhost", "dirkkelly.com"]
   branch: "master"
   generatedFields:
@@ -10,6 +10,6 @@ comments:
   name: "Dirk Kelly"
   path: "data/comments/{options.entryId}"
   filename: "{@id}"
-  requiredFields: ["name", "body"]
+  requiredFields: ["name", "message"]
   transforms:
     email: md5
