@@ -13,7 +13,7 @@ aliases: []
 image: ''
 
 ---
-I hadn't been using my blog because I was afraid to, afraid of what would happen if I wrote about what I was thinking, like I used to write about on this thing. When I was 20 it was tattoos and money for getting tattoos that meant enough to me to end up written down. 
+I hadn't been using my blog because I was afraid to, afraid of what would happen if I wrote about what I was thinking, like I used to write about on this thing. When I was 20 it was tattoos and money for getting tattoos that meant enough to me to end up written down.
 
 These days I write about the atrocities committed locally and globally by the American Empire, a system so corrupted by power that its current course is set on destroying all life as we know it.
 
@@ -34,9 +34,9 @@ So I'm going to keep speaking up, I'm going to keep telling people that the only
 
 You have a choice, as a member of this species, whether you're a citizen of America or one of its ally countries, you have a choice about how you respond to this power. You can continue to consume daily, distracting yourself from the pain and suffering this system fills you with, or you can speak up.
 
-You don't have to speak up in a public sphere, you can keep your comments and raise your concerns about an unjust society to people in your community, help others who are helping people in your local world to make things better around you. 
+You don't have to speak up in a public sphere, you can keep your comments local and raise your concerns about an unjust society to people in your community, help others who are helping people in your local world to make things better around you.
 
-If you're feeling up to it, you can talk to your local members of power, business owners, mayors, counselors, even governors. 
+If you're feeling up to it, you can talk to your local members of power, business owners, mayors, counselors, even governors.
 
 Most importantly you can interact with your local government, engage in voting, take time to understand candidates and share that information with your friends, help others understand the issues and work for change.
 
