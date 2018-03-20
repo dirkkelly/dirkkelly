@@ -41,7 +41,7 @@ You don't have to speak up in a public sphere, you can keep your comments local 
 
 If you're feeling up to it, you can talk to your local members of power, business owners, mayors, counselors, even governors.
 
-Most importantly you can interact with your local government, engage in voting, take time to understand candidates and share that information with your friends, help others understand the issues and work for change.
+Most importantly you can interact with your government, engage in voting, take time to understand candidates and share that information with your friends, help others understand the issues and work for change.
 
 But you have to speak up, you have to say that enough is enough, this machine which the American people are no longer in control of is threatening the futures of their children, and children in other countries. The American Empire needs to be stopped, it needs to become the American People's Government, before it kills all people.
 
