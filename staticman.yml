@@ -13,4 +13,4 @@ comments:
   filename: "{@id}"
   requiredFields: ["name", "body"]
   transforms:
-    email: md5
+    email: md5 # The email field will be MD5-hashed
