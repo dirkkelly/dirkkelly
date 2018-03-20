@@ -6,6 +6,7 @@ comments:
     date:
       type: date
   format: "json"
+  commitMessage: "Staticman Comment"
   moderation: true
   name: "Dirk Kelly"
   path: "data/comments/{options.entryId}"
