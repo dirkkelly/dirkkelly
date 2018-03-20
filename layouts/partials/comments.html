@@ -21,7 +21,7 @@
 {{ end }}
 
 {{ if eq ($.Scratch.Get "hasComments") 0 }}
-<p>Hi there! You could be the first person who comments on this rant, am I being crazy, or is it the world that's crazy?</p>
+<p><em>Hi there! You could be the first person who comments on this rant, am I being crazy, or is it the world that's crazy?</em></p>
 {{ end }}
 
 <form method="POST" action="https://api.staticman.net/v2/entry/dirkkelly/dirkkelly/master/comments" style="margin-bottom: 40px">
@@ -34,7 +34,7 @@
     <input name="fields[name]" type="text" style="width: 100%; padding: 5px; border: 1px solid #cecece; border-radius: 2px;">
   </label>
   <label style="width: 100%">
-    <strong>E-mail</strong><br/>
+    <strong>E-mail</strong> <small>(optional)</small><br/>
     <input name="fields[email]" type="email" style="width: 100%; padding: 5px; border: 1px solid #cecece; border-radius: 2px;">
   </label>
   <label style="width: 100%">
