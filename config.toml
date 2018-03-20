@@ -4,7 +4,7 @@ googleAnalytics = "UA-38004449-5"
 languageCode = "en-us"
 metadataformat = "yaml"
 title = "Dirk Kelly"
-disqusshortname = "dirkkellycom"
+# disqusshortname = "dirkkellycom"
 pluralizelisttitles = false
 SectionPagesMenu = "topbar"
 
