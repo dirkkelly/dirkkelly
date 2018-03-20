@@ -2,6 +2,8 @@
 title: We Will Be Destroyed, If We Remain Divided
 date: 2018-03-14 15:52:46 -0600
 tags:
+- Unite
+- Resist
 - Community
 - Democracy
 - Resist

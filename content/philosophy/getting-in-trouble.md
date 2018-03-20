@@ -6,6 +6,8 @@ subtitle: All my life I've been getting in trouble, I've also spent a lot of it 
   really need your help.
 tags:
 - democracy
+- unite
+- community
 - resist
 - capitalism
 - america
