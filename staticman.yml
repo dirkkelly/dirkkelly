@@ -1,0 +1,15 @@
+comments:
+  allowedFields: ["name", "email", "body"]
+  allowedOrigins: ["localhost", "dirkkelly.com"]
+  branch: "master"
+  generatedFields:
+    date:
+      type: date
+  format: "json"
+  moderation: true
+  name: "Dirk Kelly"
+  path: "data/comments/{options.entryId}"
+  filename: "{@id}"
+  requiredFields: ["name", "body"]
+  transforms:
+    email: md5
