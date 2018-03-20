@@ -20,7 +20,7 @@ These days I write about the atrocities committed locally and globally by the Am
 
 I could get in trouble for this. Theoretically of course I shouldn't, theoretically this is a "free society", but as I sit here at my laptop in my studio apartment, I can't help but feel a kindred spirit towards Winston Smith, in the corner of his apartment, writing in his diary.
 
-Well my diary is public, on a constant chain of commits which get published to the world and sent through all sorts of signal processing systems, big brother has been watching for decades, the differences is that now we all know, and we're terrified by it.
+Well my diary is public, on a constant chain of commits which are published to the world and sent through all sorts of signal processing systems, big brother has been watching for decades, the differences is that now we all know, and we're terrified by it.
 
 But what's the worst that could happen to me? Well a lot of things really, as the US government no longer seems to follow any human rights laws and has completely undermined my rights to a trial as a non-citizen, a lot of horrible things could happen to me.
 
