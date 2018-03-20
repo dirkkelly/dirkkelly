@@ -15,9 +15,9 @@ aliases: []
 image: "/uploads/2018/03/20/humansarefree.com-american-empire-kills.png"
 
 ---
-I hadn't been using my blog because I was afraid to, afraid of what would happen if I wrote about what I was thinking, like I used to write about on this thing. When I was 18 I was writing about tattoos and making money to get tattoos.
+I hadn't been using my blog because I was afraid to, afraid of what would happen if I wrote about what I was thinking, like I used to write about on this thing. 
 
-These days I write about the atrocities committed by the American Empire both locally and globally, I write in protest to a system so corrupted by power that its current course is set on destroying all life as we know it.
+When I was 18 I wrote about gettiong tattoos and making money to get tattoos. These days I write about the atrocities committed by the American Empire both locally and globally, I write in protest to a system so corrupted by power that its current course is set on destroying all life as we know it.
 
 I could get in trouble for this. Theoretically of course I shouldn't, theoretically this is a "free society", but as I sit here at my laptop in my studio apartment, I can't help but feel a kindred spirit towards Winston Smith, in the corner of his apartment, writing in his diary.
 
