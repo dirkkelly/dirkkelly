@@ -19,7 +19,7 @@ I hadn't been using my blog because I was afraid to, afraid of what would happen
 
 These days I write about the atrocities committed by the American Empire both locally and globally, I write in protest to a system so corrupted by power that its current course is set on destroying all life as we know it.
 
-I could get in trouble for this. Theoretically of course I shouldn't, theoretically this is a "free society", but as I sit here at my laptop in my studio apartment, I can't help but feel a kindred spirit towards Winston Smith, in the corner of apartment, writing in his diary.
+I could get in trouble for this. Theoretically of course I shouldn't, theoretically this is a "free society", but as I sit here at my laptop in my studio apartment, I can't help but feel a kindred spirit towards Winston Smith, in the corner of his apartment, writing in his diary.
 
 Well my diary is public, on a constant chain of commits which are published to the world and sent through all sorts of signal processing systems. Big Brother has been watching for decades, the differences is that now we all know, and we're terrified by it.
 
