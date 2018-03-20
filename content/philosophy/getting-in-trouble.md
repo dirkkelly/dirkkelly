@@ -14,7 +14,7 @@ aliases: []
 image: "/uploads/2018/03/20/humansarefree.com-american-empire-kills.png"
 
 ---
-I hadn't been using my blog because I was afraid to, afraid of what would happen if I wrote about what I was thinking, like I used to write about on this thing. When I was 20 it was tattoos and money for getting tattoos that meant enough to me to end up written down.
+I hadn't been using my blog because I was afraid to, afraid of what would happen if I wrote about what I was thinking, like I used to write about on this thing. When I was 18 it was tattoos and money for getting tattoos that meant enough to me to end up written down.
 
 These days I write about the atrocities committed locally and globally by the American Empire, a system so corrupted by power that its current course is set on destroying all life as we know it.
 
@@ -43,6 +43,4 @@ Most importantly you can interact with your local government, engage in voting, 
 
 But you have to speak up, you have to say that enough is enough, this machine which the American people are no longer in control of is threatening the futures of their children, and children in other countries. The American Empire needs to be stopped, it needs to become the American People's Government, before it kills all people.
 
-Speak up, speak truth to power, and love, protect, and help each other.
-
-{{< youtube w8HdOHrc3OQ >}}
+Speak up, speak truth to power.
