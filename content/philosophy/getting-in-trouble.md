@@ -28,7 +28,7 @@ But I've had a really good life, even if I have gotten in trouble a lot. I've ne
 
 So I'm going to keep speaking up, I'm going to keep telling people that the only way this changes is if they get engaged in their community, is if they press on their government to change. People need to get out into the streets, as they're doing more and more, they need to demand change, they need to walk out of their jobs, they need to block the streets of government, they need to stop the machine, in the words of Mario Savio.
 
-{{< youtube Yew51uYHYV4 >}}
+{{< youtube KJKbDz4EZio >}}
 
 > There comes a time when the operation of the machine becomes so odious, makes you so sick at heart, that you can't take part; you can't even passively take part, and you've got to put your bodies upon the gears and upon the wheels, upon the levers, upon all the apparatus, and you've got to make it stop. And you've got to indicate to the people who run it, to the people who own it, that unless you're free, the machine will be prevented from working at all!<br/>
 
