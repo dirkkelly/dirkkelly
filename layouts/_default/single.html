@@ -11,11 +11,11 @@
     {{ partial "tags" . }}
 
     <div class="post-content">
-      {{ .Content }}
-
       {{ with .Param "image" }}
         <img src="{{ . }}" alt="{{ $title }}" class="img-responsive img-thumbnail" />
       {{ end }}
+
+      {{ .Content }}
     </div>
 
     {{ partial "disqus" . }}
