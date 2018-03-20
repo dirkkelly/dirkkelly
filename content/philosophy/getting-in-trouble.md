@@ -27,7 +27,7 @@ But what's the worst that could happen to me? Well a lot of things really, as th
 
 But I've had a really good life, even if I have gotten in trouble a lot. I've never lived a life of someone in a country like Iraq, Libya, Syria, Afghanistan, Yemen, Somalia, or Pakistan. I'll never have to go through the torture of raising two children who are scared of the blue skies because they know that's when the Americans send the drones, to drop bombs on them, to save them from terror, to bring them democracy, to give them freedom.
 
-So I'm going to keep speaking up, I'm going to keep telling people that the only way this changes is if they get engaged in their community, is if they press on their government to change. People need to get out into the streets, as they're doing more and more, they need to demand change, they need to walk out of their jobs, they need to block the streets of government, they need to stop the machine, in the words of Mario Savio.
+So I'm going to keep speaking up, I'm going to keep telling people that the only way this changes is if they get engaged in their community, is if they press on their government to change. People need to get out into the streets, as they're doing more and more, they need to demand change, they need to walk out of their jobs, they need to scare their government, they need to stop the machine, in the words of Mario Savio.
 
 {{< youtube KJKbDz4EZio >}}
 
