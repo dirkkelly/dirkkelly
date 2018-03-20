@@ -1,54 +1,66 @@
-SectionPagesMenu = "topbar"
 baseUrl = "https://dirkkelly.com/"
 canonifyurls = true
-disqusshortname = "dirkkellycom"
 googleAnalytics = "UA-38004449-5"
 languageCode = "en-us"
 metadataformat = "yaml"
-pluralizelisttitles = false
 title = "Dirk Kelly"
-[[menu.sidebar]]
-name = "Subscribe"
-url = "/index.xml"
-weight = 4
-[[menu.topbar]]
-identifier = "collapse"
-name = "Collapse"
-url = "/collapse/"
-weight = 6
-[[menu.topbar]]
-identifier = "survive"
-name = "Survive"
-url = "/survive/"
-weight = 5
-[[menu.topbar]]
-identifier = "philosophy"
-name = "Philosophy"
-url = "/philosophy/"
-weight = 4
-[[menu.topbar]]
-identifier = "technology"
-name = "Technology"
-url = "/technology/"
-weight = 3
-[[menu.topbar]]
-identifier = "economics"
-name = "Economics"
-url = "/economics/"
-weight = 2
-[[menu.topbar]]
-identifier = "politics"
-name = "Politics"
-url = "/politics/"
-[[menu.topbar]]
-identifier = "channels"
-[[menu.topbar]]
-identifier = "redirects"
-weight = 1
+disqusshortname = "dirkkellycom"
+pluralizelisttitles = false
+SectionPagesMenu = "topbar"
+
 [params]
-author = "dirkkelly"
-description = "Austramerican thinking about politics, economics, and technology during the people's struggle to survive the collapse of capitalism."
+  author = "dirkkelly"
+  description = "Austramerican thinking about politics, economics, and technology during the people's struggle to survive the collapse of capitalism."
+
+[[menu.sidebar]]
+  name = "Subscribe"
+  url = "/index.xml"
+  weight = 4
+
+[[menu.topbar]]
+  name = "Politics"
+  url = "/politics/"
+  identifier = "politics"
+  weight = 1
+
+[[menu.topbar]]
+  name = "Economics"
+  url = "/economics/"
+  identifier = "economics"
+  weight = 2
+
+[[menu.topbar]]
+  name = "Technology"
+  url = "/technology/"
+  identifier = "technology"
+  weight = 3
+
+[[menu.topbar]]
+  name = "Philosophy"
+  url = "/philosophy/"
+  identifier = "philosophy"
+  weight = 4
+
+[[menu.topbar]]
+  name = "Survive"
+  url = "/survive/"
+  identifier = "survive"
+  weight = 5
+
+[[menu.topbar]]
+  name = "Collapse"
+  url = "/collapse/"
+  identifier = "collapse"
+  weight = 6
+
+[[menu.topbar]]
+  identifier = "channels"
+
+[[menu.topbar]]
+  identifier = "redirects"
+
 [permalinks]
-channels = "/:filename"
+  channels = "/:filename"
+
 [taxonomies]
-tag = "tags"
+  tag = "tags"
