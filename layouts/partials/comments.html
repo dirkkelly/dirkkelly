@@ -1,5 +1,29 @@
 <h3 id="comments">Comments?</h3>
 
+{{ $comments := readDir "data/comments" }}
+{{ $.Scratch.Add "hasComments" 0 }}
+{{ $entryId := .UniqueID }}
+
+{{ range $comments }}
+  {{ if eq .Name $entryId }}
+    {{ $.Scratch.Add "hasComments" 1 }}
+    {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
+      <div style="overflow: hidden">
+        <img src="https://www.gravatar.com/avatar/{{ .email }}?s=100" style="float: left; width: 30px; border-radius: 15px; margin: 2px 5px 0 0">
+        <div style="float: left">
+          <strong>{{ .name }}</strong>
+          <small><em>{{ dateFormat "Jan 2, 2006" .date }}</em></small><br/>
+          <p>{{ .body | markdownify }}</p>
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if eq ($.Scratch.Get "hasComments") 0 }}
+<p>Hey, be the first who comment this article.</p>
+{{ end }}
+
 <form method="POST" action="https://api.staticman.net/v2/entry/dirkkelly/dirkkelly/master/comments" style="margin-bottom: 40px">
   <input name="options[redirect]" type="hidden" value="{{ .Permalink }}#comments">
   <input name="options[slug]" type="hidden" value="{{ .Permalink }}">
@@ -20,26 +44,3 @@
 
   <button type="submit" style="padding: 8px 12px; border: none; border-radius: 4px; background: #326799; color: white;">Post!</button>
 </form>
-
-{{ $comments := readDir "data/comments" }}
-{{ $.Scratch.Add "hasComments" 0 }}
-{{ $entryId := .UniqueID }}
-
-{{ range $comments }}
-  {{ if eq .Name $entryId }}
-    {{ $.Scratch.Add "hasComments" 1 }}
-    {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
-      <blockquote>
-        <p>{{ .body | markdownify }}</p>
-        <cite>
-          <img src="https://www.gravatar.com/avatar/{{ .email }}?s=100">
-          <strong>{{ .name }}</strong><br>{{ dateFormat "Jan 2, 2006. Monday" .date }}
-        </cite>
-      </blockquote>
-    {{ end }}
-  {{ end }}
-{{ end }}
-
-{{ if eq ($.Scratch.Get "hasComments") 0 }}
-<p>Hey, be the first who comment this article.</p>
-{{ end }}
