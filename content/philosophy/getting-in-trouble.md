@@ -2,7 +2,7 @@
 title: Getting in Trouble
 date: 2018-03-19 17:42:20 +0000
 subtitle: All my life I've been getting in trouble, I've also spent a lot of it afraid
-  of getting in trouble, I'm not afraid anymore, you can't be afraid either, we need
+  of getting in trouble. I'm not afraid anymore, you can't be afraid either, we need
   your help.
 tags:
 - democracy
