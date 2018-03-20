@@ -18,26 +18,22 @@ draft: true
 ---
 {{< youtube qeyLq2o9ctg >}}
 
-> Part of the problem is that death is not a part of our daily lives, we have a very curious escapist attitude about death and have managed to distant it through a bizarre form of institutionalization.
+> Part of the problem is that death is not a part of our daily lives, we have a very curious escapist attitude about death and have managed to distance it through a bizarre form of institutionalization.
 
 > What is required is a change of heart, in order to change our hearts we need to see things differently, neither romanticizing or denying death is honest or useful, it's more useful to being accepting death as part of the grit of daily life.
 
 After a decade of watching his resistance fail to corporations
 
-> This work is killing me, it's breaking my heart
->
+> This work is killing me, it's breaking my heart.  
 > _Yeah, it'll do that._
 
 > The dominant culture hates everything doesn't it?
->
 > _Yeah it does._
 
 > Unless it's stopped it's going to kill everything on the planet isn't it?
->
 > _Yes, unless it's stopped._
 
-> We're not going to make it some great new glorious tomorrow are we?
->
+> We're not going to make it some great new glorious tomorrow are w
 > _I've been waiting for you to say that._
 
 Like Jensen I used to find myself sobbing on a daily basis, the horrors inflicted on the natural world were too much for me to handle. Coming from a country that surrounded me with nature and made me constantly aware of my part of it, I came to the future, the the metal and concrete world of America.
