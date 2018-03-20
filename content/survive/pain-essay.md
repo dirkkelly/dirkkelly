@@ -8,7 +8,9 @@ tags:
 - capitalism
 - resist
 - derrick jensen
-subtitle: ''
+subtitle: Yeah this culture is killing the planet and I could spend a lot of energy
+  pretending it isn't or I can accept this is reality and do whatever needs to be
+  done.
 aliases: []
 image: ''
 draft: true
