@@ -11,7 +11,7 @@ SectionPagesMenu = "topbar"
 
 [params]
   author = "dirkkelly"
-  description = "Austramerican thinking about politics, economics, and technology during the people's struggle to survive the collapse of capitalism."
+  description = "Austramerican thinking about politics, economics, and technology during humanity's struggle to survive the collapse of capitalism and holocene extinction."
 
 [[menu.sidebar]]
   name = "Subscribe"
