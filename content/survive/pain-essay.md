@@ -1,9 +1,8 @@
 ---
 title: Pain Essay
-date: 2018-03-19 20:08:26 +0000
+date: 2018-03-20 14:08:26 -0600
 tags:
 - collapse
-- depression
 - violence
 - capitalism
 - resist
