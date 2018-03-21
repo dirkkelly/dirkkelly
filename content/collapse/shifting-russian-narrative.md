@@ -2,7 +2,7 @@
 title: The shifting Russian Narrative
 date: 2018-03-21 16:27:22 +0000
 subtitle: Have you been keeping up since Russia cheated in the olympics, hacked the
-  election, gassed Syria, and now failed to very publicly kill a spy.
+  election, gassed Syria, and now failed to very publicly kill a spy?
 tags:
 - America
 - collapse
