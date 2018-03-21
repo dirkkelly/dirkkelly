@@ -12,7 +12,6 @@ subtitle: Yeah this culture is killing the planet and I could spend a lot of ene
   done.
 aliases: []
 image: ''
-draft: true
 
 ---
 {{< youtube qeyLq2o9ctg >}}
