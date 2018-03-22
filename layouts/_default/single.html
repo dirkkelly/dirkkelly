@@ -11,6 +11,10 @@
     {{ partial "tags" . }}
 
     <div class="post-content">
+      {{ with .Param "source" }}
+        <a href="{{ .url }}">{{ .author }} ({{ .publisher }})</a>
+      {{ end }}
+
       {{ with .Param "image" }}
         <img src="{{ . }}" alt="{{ $title }}" class="img-responsive img-thumbnail" />
       {{ end }}
