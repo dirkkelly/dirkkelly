@@ -1,7 +1,6 @@
 ---
 date: 2017-11-08 00:00:00 +0000
-title: Does the 2018 Financial Crisis Begin With Pensions, Technology, or Something
-  Else?
+title: Does the 2018 Financial Crisis Begin With Pensions, Technology, or Something Else?
 tags:
 - America
 - Financial Crisis
