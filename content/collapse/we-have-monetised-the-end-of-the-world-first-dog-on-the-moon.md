@@ -8,5 +8,11 @@ source:
   url: https://www.theguardian.com/commentisfree/2018/mar/21/we-have-monetised-the-end-of-the-world
   author: First Dog on the Moon
   publisher: The Guardian
+tags:
+  resist
+  capitalism
+  extinction
+  violence
+  collapse
 ---
 
