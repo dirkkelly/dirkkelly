@@ -28,6 +28,9 @@ a { text-decoration: none; }
 .content .post-content blockquote p { text-align: left; }
 .content .post-content img { width: 100%; margin: 10px 0; }
 
+.comments .comment { overflow: hidden }
+.comments .comment img { float: left; width: 30px; border-radius: 15px; margin: 2px 5px 0 0 }
+.comments .comment .comment-body { float: left; }
 .comments label { width: 100% }
 .comments input { width: 100%; padding: 5px; border: 1px solid #cecece; border-radius: 2px; }
 .comments textarea { width: 100%; padding: 5px; border: 1px solid #cecece; border-radius: 2px; }

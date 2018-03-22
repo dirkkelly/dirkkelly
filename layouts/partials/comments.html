@@ -1,48 +1,50 @@
-<h3 id="comments">Comments?</h3>
+<div class="comments">
+  <h3 id="comments">Comments?</h3>
 
-{{ $comments := readDir "data/comments" }}
-{{ $.Scratch.Add "hasComments" 0 }}
-{{ $entryId := .UniqueID }}
+  {{ $comments := readDir "data/comments" }}
+  {{ $.Scratch.Add "hasComments" 0 }}
+  {{ $entryId := .UniqueID }}
 
-{{ range $comments }}
-  {{ if eq .Name $entryId }}
-    {{ $.Scratch.Add "hasComments" 1 }}
-    {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
-      <div style="overflow: hidden">
-        <img src="https://www.gravatar.com/avatar/{{ .email }}?s=100" style="float: left; width: 30px; border-radius: 15px; margin: 2px 5px 0 0">
-        <div style="float: left">
-          <strong>{{ .name }}</strong>
-          <small><em>{{ dateFormat "Jan 2, 2006" .date }}</em></small><br/>
-          <p>{{ .body | markdownify }}</p>
+  {{ range $comments }}
+    {{ if eq .Name $entryId }}
+      {{ $.Scratch.Add "hasComments" 1 }}
+      {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
+        <div class="comment">
+          <img class="comment-image" src="https://www.gravatar.com/avatar/{{ .email }}?s=100">
+          <div class="comment-body">
+            <strong>{{ .name }}</strong>
+            <small><em>{{ dateFormat "Jan 2, 2006" .date }}</em></small><br/>
+            <p>{{ .body | markdownify }}</p>
+          </div>
         </div>
-      </div>
+      {{ end }}
     {{ end }}
   {{ end }}
-{{ end }}
 
-{{ if eq ($.Scratch.Get "hasComments") 0 }}
-<p>
-  Hi there! You could be the first person who comments on this thing.
-</p>
-{{ end }}
+  {{ if eq ($.Scratch.Get "hasComments") 0 }}
+  <p>
+    Hi there! You could be the first person who comments on this thing.
+  </p>
+  {{ end }}
 
-<form method="POST" class="comments" action="https://api.staticman.net/v2/entry/dirkkelly/dirkkelly/master/comments" style="margin-bottom: 40px">
-  <input name="options[redirect]" type="hidden" value="{{ .Permalink }}#comments">
-  <input name="options[slug]" type="hidden" value="{{ .Permalink }}">
-  <input name="options[entryId]" type="hidden" value="{{ .UniqueID }}">
+  <form method="POST" action="https://api.staticman.net/v2/entry/dirkkelly/dirkkelly/master/comments" style="margin-bottom: 40px">
+    <input name="options[redirect]" type="hidden" value="{{ .Permalink }}#comments">
+    <input name="options[slug]" type="hidden" value="{{ .Permalink }}">
+    <input name="options[entryId]" type="hidden" value="{{ .UniqueID }}">
 
-  <label>
-    <strong>Name</strong><br/>
-    <input name="fields[name]" type="text">
-  </label>
-  <label>
-    <strong>E-mail</strong> <small>(optional and <a href="https://github.com/dirkkelly/dirkkelly/blob/master/staticman.yml#L16" target="_blank">hashed</a>)</small><br/>
-    <input name="fields[email]" type="email">
-  </label>
-  <label>
-    <strong>Message</strong><br/>
-    <textarea name="fields[body]"></textarea>
-  </label>
+    <label>
+      <strong>Name</strong><br/>
+      <input name="fields[name]" type="text">
+    </label>
+    <label>
+      <strong>E-mail</strong> <small>(optional and <a href="https://github.com/dirkkelly/dirkkelly/blob/master/staticman.yml#L16" target="_blank">hashed</a>)</small><br/>
+      <input name="fields[email]" type="email">
+    </label>
+    <label>
+      <strong>Message</strong><br/>
+      <textarea name="fields[body]"></textarea>
+    </label>
 
-  <button type="submit">Post!</button>
-</form>
+    <button type="submit">Post!</button>
+  </form>
+</div>
