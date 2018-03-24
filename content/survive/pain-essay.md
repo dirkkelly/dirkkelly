@@ -34,7 +34,7 @@ After a decade of watching his resistance fail to corporations
 > We're not going to make it some great new glorious tomorrow are we?<br/>
 > _I've been waiting for you to say that._
 
-Like Jensen I used to find myself sobbing on a daily basis, the horrors inflicted on the natural world were too much for me to handle. Coming from a country that surrounded me with nature and made me constantly aware of my part of it, I came to the future, the the metal and concrete world of America.
+Like Jensen I used to find myself sobbing on a daily basis, the horrors inflicted on the natural world were too much for me to handle. Coming from a country that surrounded me with nature and made me constantly aware of my part of it, I came to "the future", the the metal and concrete world of America, and was sorely dissapointed in what we as a species were aspiring towards.
 
 It was a dead place, a wasteland, sure with some parks, but they were the exception rather than the rule. The people toiled and suffered in this world of metal and concrete, I suffered alongside them.
 
