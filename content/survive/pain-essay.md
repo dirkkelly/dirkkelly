@@ -42,7 +42,7 @@ It was a dead place, a wasteland, sure with some parks, but they were the except
 
 > If we're not going to resist and stop the murdering of the planet what is worth resisting and fighting?
 
-We need to normalize the despair, it is an appropriate response to a desperate situation. The appropriate not to spend time pretending it's not desperate, 
+We need to normalize the despair, it is an appropriate response to a desperate situation.
 
 > Sorrow is just sorrow, pain is just pain, and it's not so much the sorrow or the pain that hurts, it's my resistance to it.  
 
