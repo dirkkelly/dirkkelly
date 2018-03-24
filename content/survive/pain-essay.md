@@ -36,7 +36,7 @@ After a decade of watching his resistance fail to corporations
 
 Like Jensen I used to find myself sobbing on a daily basis, the horrors inflicted on the natural world were too much for me to handle. Coming from a country that surrounded me with nature and made me constantly aware of my part of it, I came to the future, the the metal and concrete world of America.
 
-It was a dead place, a wasteland, sure with some parks, but they were the exception rather than the rule, and the people toiled and suffered in this world of metal and concrete, and I suffered with them.
+It was a dead place, a wasteland, sure with some parks, but they were the exception rather than the rule. The people toiled and suffered in this world of metal and concrete, I suffered alongside them.
 
 > If we're not going to cry about the murder of the planet what's worth crying about?
 
