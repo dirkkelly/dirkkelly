@@ -46,7 +46,7 @@ We need to normalize the despair, it is an appropriate response to a desperate s
 
 > Sorrow is just sorrow, pain is just pain, and it's not so much the sorrow or the pain that hurts, it's my resistance to it.  
 
-> There's this idea that if you acknowledge how bad things are you have to go around being miserable all the time, so we waste energy trying to avoid the reality we find ourselves embedded, instead of acknowledging our situation and figuring out what to do about it.
+> There's this idea that if you acknowledge how bad things are you have to go around being miserable all the time, so we waste energy trying to avoid the reality we find ourselves embedded in, instead of acknowledging our situation and figuring out what to do about it.
 
 > Yeah this culture is killing the planet and I could spend a lot of energy pretending it isn't or I can accept this is reality and do whatever needs to be done.
 
