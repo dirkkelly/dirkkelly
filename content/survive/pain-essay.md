@@ -18,7 +18,7 @@ image: ''
 
 > Part of the problem is that death is not a part of our daily lives, we have a very curious escapist attitude about death and have managed to distance it through a bizarre form of institutionalization.
 
-> What is required is a change of heart, in order to change our hearts we need to see things differently, neither romanticizing or denying death is honest or useful, it's more useful to be accepting death as part of the grit of daily life.
+> What is required is a change of heart, in order to change our hearts we need to see things differently, neither romanticizing or denying death is honest or useful, it's more useful to be accepting of death as part of the grit of daily life.
 
 After a decade of watching his resistance fail to corporations
 
