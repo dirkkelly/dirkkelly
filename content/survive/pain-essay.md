@@ -22,16 +22,16 @@ image: ''
 
 After a decade of watching his resistance fail to corporations
 
-> This work is killing me, it's breaking my heart.  
+> This work is killing me, it's breaking my heart.<br/>
 > _Yeah, it'll do that._
 
-> The dominant culture hates everything doesn't it?
+> The dominant culture hates everything doesn't it?<br/>
 > _Yeah it does._
 
-> Unless it's stopped it's going to kill everything on the planet isn't it?
+> Unless it's stopped it's going to kill everything on the planet isn't it?<br/>
 > _Yes, unless it's stopped._
 
-> We're not going to make it some great new glorious tomorrow are w
+> We're not going to make it some great new glorious tomorrow are we?<br/>
 > _I've been waiting for you to say that._
 
 Like Jensen I used to find myself sobbing on a daily basis, the horrors inflicted on the natural world were too much for me to handle. Coming from a country that surrounded me with nature and made me constantly aware of my part of it, I came to the future, the the metal and concrete world of America.
