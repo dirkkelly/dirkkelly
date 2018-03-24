@@ -17,15 +17,21 @@ I feel so much love in this place, living a part of this community in Colorado I
 
 But any time I start reading up on the latest happenings in "the world" I am bombarded with just how horrible, cruel, and desperate the US government has become.
 
-Today we had Ann Coulter come at Trump hard for signing the $1.3 trillion omnibus spending package, so did Drudge!? So I guess now everyone wants this Dickhead out?
+Today we had Ann Coulter come at Trump hard for signing the $1.3 trillion omnibus spending package
 
 ![](/uploads/2018/03/24/twitter-coulter-trump-impeach.png)
 
+So did Drudge!? 
+
+![](/uploads/2018/03/24/drudge-trump-fake-veto.png)
+
+### **So I guess now everyone wants this Dickhead out?**
+
 We wouldn't have been this lucky if Clinton had won, I stand by my position that I'm very glad she lost, even if it meant that President Dickhead had to come in and piss on everything for a bit.
 
-The American people are awakening, they see now more than ever that their government does not answer to them, it answers to the oligarchs that decide how the money is spent.
+> **_Sidenote_** _There are some great things in this omnibus spending package, I'm very happy it was passed for my reasons, and obviously there's a tonne of bullshit in there also. Who cares? We had no say in it anyway really, and that's the problem._
 
-> **_Sidenote_** _There are great things in this omnibus spending package, I'm very happy it was passed for numerous reasons, and obviously there's probably a tonne of bullshit also. Who cares? We had no say in it anyway really, and that's the problem._
+The American people are awakening, they see now more than ever that their government does not answer to them, it answers to the oligarchs that decide how the money is spent.
 
 What I'm more happy about is that Republicans are seeing more and more that this Dickhead can do nothing to make their lives better.
 
