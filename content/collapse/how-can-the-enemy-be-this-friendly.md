@@ -17,7 +17,7 @@ I feel so much love in this place, living a part of this community in Colorado I
 
 But any time I start reading up on the latest happenings in "the world" I am bombarded with just how horrible, cruel, and desperate the US government has become.
 
-Today we had Ann Coulter come at Trump hard for signing the $1.3 trillion omnibus spending package, so now everyone wants this Dickhead out?
+Today we had Ann Coulter come at Trump hard for signing the $1.3 trillion omnibus spending package, so did Drudge!? So I guess now everyone wants this Dickhead out?
 
 ![](/uploads/2018/03/24/twitter-coulter-trump-impeach.png)
 
