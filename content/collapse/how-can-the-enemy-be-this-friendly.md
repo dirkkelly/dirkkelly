@@ -13,7 +13,7 @@ image: "/uploads/2018/03/24/us-flag-cover-shame-killing-innocent.png"
 aliases: []
 
 ---
-I feel so much love in this place, living a part of this community in Colorado I am surrounded by amazing people who are doing all they can to make the world better.
+I feel so much love in this place, this community in Colorado where I am surrounded by amazing people who are doing all they can to make the world better.
 
 But any time I start reading up on the latest happenings in "the world" I am bombarded with just how horrible, cruel, and desperate the US government has become.
 
@@ -21,7 +21,7 @@ Today we had Ann Coulter come at Trump hard for signing the $1.3 trillion omnibu
 
 ![](/uploads/2018/03/24/twitter-coulter-trump-impeach.png)
 
-So did Drudge!? 
+So did Drudge!?
 
 ![](/uploads/2018/03/24/drudge-trump-fake-veto.png)
 
