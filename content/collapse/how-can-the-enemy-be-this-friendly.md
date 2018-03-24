@@ -33,7 +33,7 @@ We wouldn't have been this lucky if Clinton had won, I stand by my position that
 
 The American people are awakening, they see now more than ever that their government does not answer to them, it answers to the oligarchs that decide how the money is spent.
 
-What I'm more happy about is that Republicans are seeing more and more that this Dickhead can do nothing to make their lives better.
+I'd be happy to see more Republicans realize that this Dickhead can do nothing to make their lives better, that really his class is the source of their problems, not immigrants.
 
 What I want more of is Democrats seeing that their pathetic leadership are primarily also puppets for the same oligarchs, I want them to throw away their false Idols in the likes of Clinton, Obama, and Clinton.
 
