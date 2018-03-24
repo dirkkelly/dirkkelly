@@ -9,7 +9,6 @@ tags:
 - collapse
 aliases: []
 image: ''
-draft: true
 
 ---
 "The Collapse" sounds like a thing that happens in front of your eyes right? It sounds like an event, a catastrophe that dominates everybody's attention, like an explosion, or a market crash, or a war.
