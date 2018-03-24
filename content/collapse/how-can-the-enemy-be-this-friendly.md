@@ -25,13 +25,13 @@ We wouldn't have been this lucky if Clinton had won, I stand by my position that
 
 The American people are awakening, they see now more than ever that their government does not answer to them, it answers to the oligarchs that decide how the money is spent.
 
-There are great things in this omnibus spending package, I'm very happy it was passed for numerous reasons. 
+> **_Sidenote_** _There are great things in this omnibus spending package, I'm very happy it was passed for numerous reasons, and obviously there's probably a tonne of bullshit also. Who cares? We had no say in it anyway really, and that's the problem._
 
-What I'm more happy about is that Republicans are seeing more and more that this Dickhead can do nothing to make their lives better. 
+What I'm more happy about is that Republicans are seeing more and more that this Dickhead can do nothing to make their lives better.
 
 What I want more of is Democrats seeing that their pathetic leadership are primarily also puppets for the same oligarchs, I want them to throw away their false Idols in the likes of Clinton, Obama, and Clinton.
 
-I want all Americans to realize that real progress will only come from representatives that actually represent their lives, and predominantly the American life is one of misery and servitude, with the pain covered up with sex, drugs, and of course rock and roll.
+I want all Americans to realize that real progress will only come from representatives that actually represent their lives, and predominantly the American life is one of misery and servitude, with the pain covered up with sex, drugs, and of course rock & roll.
 
 As the American people continue to lose their rights, wealth, and dignity they must turn towards their communities, create progress at a local level, and use coordination at these foundational levels to change the power structures that dominate them.
 
