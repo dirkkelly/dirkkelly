@@ -5,8 +5,11 @@ subtitle: 'Our biosphere is dying and so is all life on Earth. Hope in “a solu
   is the drug we use to avoid the truth that it’s too late to change that, and our
   culture is responsible and cannot help us.  '
 tags:
-- Collapse
+- Extinction
+- collapse
 - capitalism
+- resist
+- community
 aliases: []
 image: ''
 
