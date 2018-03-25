@@ -14,9 +14,9 @@ aliases: []
 image: ''
 
 ---
-I have to admit that I haven’t been fully honest, in a lot of my writing I’ve implied that it’s important to get engaged in our community in order to avoid extinction our species.
+I have to admit that I haven’t been fully honest, in a lot of my writing I’ve implied that it’s important to get engaged in community in order to change policy to avoid extinction.
 
-The truth is that we cannot change the outcome for our species, the time for action has come and gone, people still alive today made decisions decades ago to ignore science and drive our culture down the path of ignoring the problem. The symptoms of biosphere decay have been showing for a while, but now the damage is irreversible.
+The truth is that the time for action has come and gone, greedy people made decisions decades ago to force us down the path of ignoring the problem while we had any chance of solving it.
 
 The truth is you should focus on community and doing what you can take make the lives of those around you better.
 
@@ -24,11 +24,13 @@ The truth is you should take control of your emloyer organization and create a d
 
 The truth is nothing you do will stop the Earth from continuing altering so much so that it’s no longer habitable by us.
 
-People don’t like to hear this because it makes them feel hopeless, which is exactly how they should feel. Hope is a worthless feeling, in fact it’s counter productive, hope is the desire for things to change without the willingness to change it.
+People don’t like to hear this because it makes them feel hopeless, which is exactly how they should feel. Hope is a worthless feeling, it’s counter productive, hope is the desire for things to change without the willingness to change it. 
 
-So if there is no way that we can stop the death of our species, hoping for it is only useful for allowing us to ignore the inevitably, which is exactly the strategy that got us to this point.
+Hope doesn’t fix anything, it just makes you feel good.
 
-So instead of hoping that things change, what you need focus do is change things. You can’t change climate change from happening, what you can change is the level at which people around you suffer.
+If there is no way that we can stop the death of our species, hoping to avoid it is only useful for allowing us to ignore the inevitably, which is exactly the strategy that got us to this point.
+
+So instead of hoping that things change, what you need focus on is changing things. You can’t change climate change from happening, what you can change is the level at which people around you suffer.
 
 We weren’t all a profiting part of dominant culture, but we were all exploited by it in some form or another, and at the end of the day we’re all in the collapse of our civilization together.
 
