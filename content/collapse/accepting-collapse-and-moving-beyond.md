@@ -1,5 +1,5 @@
 ---
-title: Accepting Collapse and Moving Beyond
+title: Accepting Collapse and Moving Beyond Hope
 date: 2018-03-25 16:22:29 +0000
 subtitle: 'Our biosphere is dying and so is all life on Earth. Hope in “a solution”
   is the drug we use to avoid the truth that our culture is responsible. '
@@ -8,7 +8,6 @@ tags:
 - capitalism
 aliases: []
 image: ''
-draft: true
 
 ---
 I have to admit that I haven’t been fully honest, in a lot of my writing I’ve implied that it’s important to get engaged in our community in order to change the outcome for our species. 
