@@ -40,4 +40,4 @@ It is imperative that we take on the responsibilities of managing these needs in
 
 The physical responsibilities are maintaining our health and producing our own food. The mental are coming to acceptance with collapse and learning to engage with your human spirit to offer a response of loving kindness as our world dies.
 
-Our dominant culture has killed us, we must reject its principles and turn to love, surround ourselves with loving kindness so we can spend our last days reducing the suffering we all share.
+Our dominant culture has killed us, we must reject its principles and turn to love, surround ourselves with radical loving kindness so we can spend our last days reducing the suffering we all share.
