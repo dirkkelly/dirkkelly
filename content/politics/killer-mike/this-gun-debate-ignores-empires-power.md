@@ -22,11 +22,11 @@ Of course people are jumping on [Killer Mike because he appeared on NRA TV](http
 > I have worked as a tireless advocate on the behalf of children and disenfranchised women in society, I've also worked with gun groups like Georgians' Against Gun Violence, so I say if there's a table to be sat at, a gun owner needs to be there. You have to see a problem from the whole perspective.  
 > **Killer Mike**
 
-Killer Mike focusses his piece on the importance of retaining gun rights of the individual, however at the very beginning their is a mention of the systemic problems which result in this gun violence. Of course due to NRAs bias this is not going to be expanded upon, but its an absolutely vital part of the conversation, why is is that people are shooting each other, and even if somehow, all the guns were removed from people's houses, taking away an extremely convenient and powerful tool for killing, will the killing stop?
+Killer Mike focusses his piece on the importance of retaining gun rights of the individual, however at the very beginning their is a mention of the systemic problems which result in this gun violence. Of course due to NRAs bias this is not going to be expanded upon, but its an absolutely vital part of the conversation, why is is that people are shooting each other? And even if somehow, all the guns were removed from people's houses, taking away an extremely convenient and powerful tool for killing, will the killing stop?
 
 ![](/uploads/2018/03/26/1B786D31-0B39-4BD9-B8E1-1D32E721E80E-e1521928873872.jpeg)
 
-I don't believe so, I don't think kid's are shooting their classmates simply because they have access to guns, they're killing classmates because they're they're devastated and distraught because their world is terrifying and horrible. Just like older Americans who may chose to kill themselves with opiates, alcohol, and guns, there is mass despair in America and it's causing people to behave in irrational and violent ways.
+I don't believe so, I don't think kid's are shooting their classmates simply because they have access to guns, they're killing classmates because they're devastated and distraught because their world is terrifying and horrible. Just like older Americans who may chose to kill themselves with opiates, alcohol, and guns, there is mass despair in America and it's causing people to behave in irrational and violent ways.
 
 Think about it, you're a 15 year old kid, you know that your planet is dying, you know that the economy has collapsed, that there is no hope for a good career for you, and that in pursuit of that career you will have to rack up hundreds of thousands of debt for the privilege of having nothing to look forward to.
 
@@ -78,9 +78,9 @@ If the left and right don't work together to reclaim their government, if they a
 
 **Killer Mike's Further Clarification**
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I hope this clears some stuff up. Love and Respect to all.  Part 1 <a href="https://t.co/pq977HEG7A">pic.twitter.com/pq977HEG7A</a></p>&mdash; Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978053530689847296?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I hope this clears some stuff up. Love and Respect to all.  Part 1 <a href="https://t.co/pq977HEG7A">pic.twitter.com/pq977HEG7A</a></p>— Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978053530689847296?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">P2 <a href="https://t.co/FigGacJeYM">pic.twitter.com/FigGacJeYM</a></p>&mdash; Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978054153984385024?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">P2 <a href="https://t.co/FigGacJeYM">pic.twitter.com/FigGacJeYM</a></p>— Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978054153984385024?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
