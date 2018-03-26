@@ -41,7 +41,7 @@ You know that there is nobody in power doing anything about it, the politicians 
 
 We absolutely need to improve gun legislation in America, we also have to fix prescription legislation, healthcare legislation, we need to increase investment in education and infrastructure, we need to address the issues of both physical and mental health care, we need to address the problems of a dying planet and move our investments into efforts that fight to improve the world.
 
-Shouting at the NRA is a distraction, the real problem is corruption of government from legalized bribary in the form of unlimited corporate donation spending.
+Shouting at the NRA is a distraction, the real problem is corruption of government in the form of unlimited corporate bribes.
 
 ![](/uploads/2018/03/26/2018-03-25_9-00-13_0.jpg)
 
