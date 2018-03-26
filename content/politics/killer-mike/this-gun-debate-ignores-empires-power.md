@@ -92,7 +92,7 @@ Yes we need better gun legislation in America, no this march does not help that,
 
 I am advocating for the left and right uniting to take back control of their government and introduce rational rules about gun control, that fix such things as 3% of the population having more than 50% of the guns...
 
-If the left and right don't work together their fight against each other will be a distraction against changing the influence of money in US power and opening up channels to improve everything in the nation, it could even lead to a civil war which will further destroy the nation.
+The left and right fighting against each other is a distraction from changing the influence of money in US power and opening up channels to improve all aspects of the nation.
 
 ![](/uploads/2018/03/26/Screen Shot 2018-03-26 at 12.13.22 AM.png)
 
