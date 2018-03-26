@@ -61,7 +61,7 @@ You know how people on the right of this argument fight to keep their guns to pr
 
 ![](/uploads/2018/03/26/2018-03-25_9-05-18.jpg)
 
-And this is the most crucial point of this ideological debate, neither side has a moral leg to stand on. Those fighting to ban guns can not do so while ignoring the use of weapons to kill people all over the world. Those fighting the keep their guns can not do so while ignoring the destructive tyrannic government they're living under.
+The most crucial point of this ideological debate is that neither side has a moral leg to stand on. Those fighting to ban guns can not do so while ignoring the use of weapons to kill people all over the world. Those fighting the keep their guns can not do so while ignoring the destructive tyrannic government they're living under.
 
 Killer Mike going on NRA TV was an opportunity for the left and right to unite on the issue of a tyrannical government that needs to be dismantled by the people.
 
