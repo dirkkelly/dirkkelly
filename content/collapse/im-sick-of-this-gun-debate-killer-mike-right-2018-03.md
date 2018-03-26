@@ -67,17 +67,18 @@ Instead, as usual, it was an opportunity for the left to attack one of their mos
 
 ![](/uploads/2018/03/26/2018-03-25_9-02-00.jpg)
 
-Yes America needs better gun legislation, that will never happen while corporations are able to spend unlimited amounts of money on pushing policy points. The NRA has one goal, defend the second amendment, trying to fight their unlimited funds is a misguided and pointless action, you need to focus on cutting off their access to bribing Government.
-
-Yes America needs to maintain the second amendment, the people need to be able to defend themselves against a tyrannical government, but your personal arms are nothing compared to an increasingly militarized police force which is funded by the military industrial complex which lobbies your government to engage in wars abroad, and engage in war on their own citizens by taking away their social services.
-
 > You're going to progress us into slavery, people say there's no way slavery can exist, slavery does exist now, slavery exists according to the thirteenth amendment. The same people telling you we need to abolish the second amendment, they ain't there for the documented thirteenth, they ain't there for the march to end that.
 >
 > **Killer Mike**
 
+Yes America needs better gun legislation, that will never happen while corporations are able to spend unlimited amounts of money on pushing policy points. The NRA has one goal, defend the second amendment, trying to fight their unlimited funds is a misguided and pointless action, you need to focus on cutting off their access to bribing Government.
+
+Yes America needs to maintain the second amendment, the people need to be able to defend themselves against a tyrannical government, but your personal arms are nothing compared to an increasingly militarized police force which is funded by the military industrial complex which lobbies your government to engage in wars abroad, and engage in war on their own citizens by taking away their social services.
+
 If the left and right don't work together to reclaim their government, if they allow themselves to get distracted with these pointless ideological marches, then the corporations that rule their life will continue to strip away the wealth and power of the people, creating a world where going to school to shoot up 15 kids seems like a reasonable response in the broken mind of a teenager caught in a hopeless condition.
 
-> What is an ally? An ally isn't necessarily a friend, it's not fam, you know we have a mutual interest in something that progresses our causes, why are your allies not fighting your other fights with the same vigor you're fighting for theirs?
+> What is an ally? An ally isn't necessarily a friend, it's not fam, you know we have a mutual interest in something that progresses our causes, why are your allies not fighting your other fights with the same vigor you're fighting for theirs?  
+> **Killer Mike**
 
 ![](/uploads/2018/03/26/2018-03-25_9-04-49.jpg)
 
