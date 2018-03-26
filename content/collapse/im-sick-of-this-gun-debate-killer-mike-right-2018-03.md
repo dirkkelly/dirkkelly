@@ -27,7 +27,7 @@ Kid's aren't shooting their classmates simply because they have access to guns, 
 
 Think about it, you're a 15 year old kid, you know that your planet is dying, you know that the economy has collapsed, that there is no hope for a good career for you, and that in pursuit of that career you will have to rack up hundreds of thousands of debt for the privilege of having nothing to look forward to.
 
-This isn't an hypothesis, this is the state of people's minds, this is why the memes are so fucking weird, this is why kids are eating tide pods for the lolz, because, seriously, what's the fucking point of living?
+This isn't a hypothesis, this is the state of people's minds, this is why the memes are so fucking weird, this is why kids are eating tide pods for the lolz, because, seriously, what's the fucking point of living?
 
 ![](/uploads/2018/03/26/2018-03-25_8-59-38.jpg)
 
