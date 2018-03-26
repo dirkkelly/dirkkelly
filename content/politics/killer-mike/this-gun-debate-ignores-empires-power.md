@@ -1,5 +1,5 @@
 ---
-title: "This Gun Debate Ignores Empire's Power, Killer Mike"
+title: This Gun Debate Ignores Empire's Power, Killer Mike
 subtitle: It's not even a debate, it's just another idealogy laced fight between the
   lower classes, a distraction from the real threat of Empire.
 date: 2018-03-25 19:52:17 -0600
@@ -13,6 +13,7 @@ aliases:
 - "/collapse/im-sick-of-this-gun-debate-2018-03/"
 - "/collapse/im-sick-of-this-gun-debate-killer-mike-right-2018-03/"
 image: "/uploads/2018/03/26/killer-mike-nratv.jpg"
+
 ---
 Of course people are jumping on [Killer Mike because he appeared on NRA TV](https://www.youtube.com/watch?v=ZXtpUE1b2NY) ([who recently has been attacked by Jon Oliver](https://www.youtube.com/watch?v=LEcbagW4O-s)) to denounce the march this weekend, his position being that taking away people's guns will not solve the issues America is facing.
 
@@ -40,7 +41,7 @@ Life is fucking shit, maybe not for you, maybe you're a 30ish year old white sof
 > The tears of white mothers are like ratings... it's true, black people know it's true.  
 > **Killer Mike**
 
-But for a lot of the world, especially for the poorest of people (children, young people, non-westerners) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and power.
+But for a lot of the world, especially for the poorest of people (children, not-whites, non-westerners, young people, elderly people) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and power.
 
 **So what's my fucking point?**
 
