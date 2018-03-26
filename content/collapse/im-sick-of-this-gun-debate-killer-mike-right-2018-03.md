@@ -49,7 +49,7 @@ The US government is a corrupt powerhouse where corporations can use their unlim
 
 Where is the fight against Citizen's United? Where is the march against an omnibus spending package that increases military power, or new legislation supported by Democrats and Republicans that increases the power of the President to spy on the American people.
 
-You know how the right fight to keep their guns to protect them from a criminal government? I totally support that, but I don't get why they're not using them to fight their criminal government?
+You know how people on the right of this argument fight to keep their guns to protect them from a criminal government? I totally support that, but I don't get why they're not using them to fight their criminal government?
 
 ![](/uploads/2018/03/26/2018-03-25_9-05-18.jpg)
 
