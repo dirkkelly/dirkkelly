@@ -73,7 +73,7 @@ Yes America needs better gun legislation, that will never happen while corporati
 
 Yes America needs to maintain the second amendment, the people need to be able to defend themselves against a tyrannical government, but your personal arms are nothing compared to an increasingly militarized police force which is funded by the military industrial complex which lobbies your government to engage in wars abroad, and engage in war on their own citizens by taking away their social services.
 
-If the left and right don't work together to reclaim their government, if they allow themselves to get distracted with these pointless ideological marches, then the corporations that rule their life will continue to strip away the wealth and power of the people, creating a world where going to school to shoot up 15 kids seems like a reasonable response in the broken mind of a teenager caught in a hopeless condition.
+If the left and right don't work together to reclaim their government, if they allow themselves to get distracted with ideological marches instead of legislative marches, then the corporations that rule their life will continue to strip away the wealth and power of the people, creating a world where going to school to shoot up 15 kids seems like a reasonable response in the broken mind of a teenager caught in a hopeless condition.
 
 ![](/uploads/2018/03/26/2018-03-25_9-04-49.jpg)
 
