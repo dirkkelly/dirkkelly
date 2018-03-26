@@ -32,20 +32,20 @@ Kid's aren't shooting their classmates simply because they have access to guns, 
 
 Think about it, you're a 15 year old kid, you know that your planet is dying, you know that the economy has collapsed, that there is no hope for a good career for you, and that in pursuit of that career you will have to rack up hundreds of thousands of debt for the privilege of having nothing to look forward to.
 
-This isn't a hypothesis, this is the state of people's minds, this is why the memes are so fucking weird, this is why kids are eating tide pods for the lolz, because, seriously, what's the fucking point of living?
+This isn't a hypothesis, this is the state of people's minds, this is why the memes are so weird, this is why kids are eating tide pods for the lolz, because, seriously, what's the point of living?
 
 ![](/uploads/2018/03/26/2018-03-25_8-59-38.jpg)
 
-Life is fucking shit, maybe not for you, maybe you're a 30ish year old white software engineer making over $120,000 and using your money to pay away the problems of your life, or maybe you're 45+ and you have a couple of investment properties and whilst the market is tight, you know that people just need to buck up and work hard like you did to get where you are.
+Life is shit, maybe not for you, maybe you're a 30ish year old white software engineer making over $120,000 and using your money to pay away the problems of your life, or maybe you're 45+ and you have a couple of investment properties and whilst the market is tight, you know that people just need to buck up and work hard like you did to get where you are.
+
+But for a lot of the world, especially for the poorest of people (children, not-whites, non-westerners, young people, elderly people) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and power.
 
 > The tears of white mothers are like ratings... it's true, black people know it's true.  
 > **Killer Mike**
 
-But for a lot of the world, especially for the poorest of people (children, not-whites, non-westerners, young people, elderly people) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and power.
+**So what's my point?**
 
-**So what's my fucking point?**
-
-You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans. Be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-fucking-death in school (something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by a public being driven insane by a government that is actively trying to kill them).
+You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans. Be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-death in school (something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by a public being driven insane by a government that is actively trying to kill them).
 
 We absolutely need to improve gun legislation in America, we also have to fix prescription legislation, healthcare legislation, we need to increase investment in education and infrastructure, we need to address the issues of both physical and mental health care, we need to address the problems of a dying planet and move our investments into efforts that fight to improve the world.
 
