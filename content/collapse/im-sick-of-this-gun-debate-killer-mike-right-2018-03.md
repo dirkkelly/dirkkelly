@@ -59,9 +59,9 @@ Killer Mike going on NRA TV was an opportunity for the left and right to unite o
 
 Instead, as usual, it was an opportunity for the left to attack one of their most powerful allies while completely ignoring the tyranny of their government and effectively giving it permission to continue its mission of destroying all life on Earth, while they, "the left" squabble over how they get to kill each other during their misguided and self destructive civil war with the right.
 
-Yes America needs better gun legislation, that will never happen while corporations are able to spend unlimited amounts of money on pushing policy points. The NRA has one goal, defend the second amendment, trying to fight their unlimited funds is a misguided and pointless action, you need to focus on cutting off their access to bribing Government.
-
 ![](/uploads/2018/03/26/2018-03-25_9-02-00.jpg)
+
+Yes America needs better gun legislation, that will never happen while corporations are able to spend unlimited amounts of money on pushing policy points. The NRA has one goal, defend the second amendment, trying to fight their unlimited funds is a misguided and pointless action, you need to focus on cutting off their access to bribing Government.
 
 Yes America needs to maintain the second amendment, the people need to be able to defend themselves against a tyrannical government, but your personal arms are nothing compared to an increasingly militarized police force which is funded by the military industrial complex which lobbies your government to engage in wars abroad, and engage in war on their own citizens by taking away their social services.
 
