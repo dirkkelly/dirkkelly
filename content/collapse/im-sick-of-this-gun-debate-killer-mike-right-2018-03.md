@@ -35,7 +35,7 @@ Life is fucking shit, maybe not for you, maybe you're a 30ish year old white sof
 
 But for a lot of the world, especially for the poorest of people (children, young people, non-westerners) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and power.
 
-So what's my fucking point?
+**So what's my fucking point?**
 
 You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans, be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-fucking-death in school, something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by the public.
 
