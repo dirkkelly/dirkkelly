@@ -17,14 +17,14 @@ Of course people are jumping on [Killer Mike because he appeared on NRA TV](http
 
 {{< youtube ZXtpUE1b2NY >}}
 
+> I have worked as a tireless advocate on the behalf of children and disenfranchised women in society, I've also worked with gun groups like Georgians' Against Gun Violence, so I say if there's a table to be sat at, a gun owner needs to be there. You have to see a problem from the whole perspective.  
+> **Killer Mike**
+
 ## Killer Mike is Absolutely Correct
 
 Even if somehow, all the guns were removed from people's houses, taking away an extremely convenient and powerful tool for killing, the killing won't stop.
 
 ![](/uploads/2018/03/26/1B786D31-0B39-4BD9-B8E1-1D32E721E80E-e1521928873872.jpeg)
-
-> I have worked as a tireless advocate on the behalf of children and disenfranchised women in society, I've also worked with gun groups like Georgians' Against Gun Violence, so I say if there's a table to be sat at, a gun owner needs to be there. You have to see a problem from the whole perspective.  
-> **Killer Mike**
 
 Kid's aren't shooting their classmates simply because they have access to guns, they're killing classmates because they're absolutely fucked up, they're devastated and distraught because their world is terrifying and horrible.
 
