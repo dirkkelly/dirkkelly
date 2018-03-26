@@ -56,7 +56,9 @@ Where is the fight against Citizen's United? Where is the march against an omnib
 
 Killer Mike going on NRA TV was an opportunity for the left and right to unite on the issue of a tyrannical government that needs to be dismantled by the people.
 
-Instead, as usual, it was an opportunity for the left to attack one of their most powerful allies while completely ignoring the tyranny of their government and effectively giving it permission to continue its mission of destroying all life on Earth, while they, "the left" squabble over how Americans get to kill each other during the misguided and self destructive civil war between the left and right.
+Instead, as usual, it was an opportunity for the anti-gun movement to attack one of their most powerful allies while completely ignoring the tyranny of their government and an opportunity for the pro-gun movement to manipulate someone's message to push their agenda and increase tensions between the people.
+
+The point is to cause Americans to squabble over how Americans get to kill each other as a result of their miserable existance, instead of collaborating on how to improve that existance.
 
 > What is an ally? An ally isn't necessarily a friend, it's not fam. You know we have a mutual interest in something that progresses our causes, why are your allies not fighting your other fights with the same vigor you're fighting for theirs?
 >
