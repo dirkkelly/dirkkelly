@@ -82,3 +82,5 @@ If the left and right don't work together their fight against each other will be
 ![](/uploads/2018/03/26/Screen Shot 2018-03-26 at 12.13.22 AM.png)
 
 ![](/uploads/2018/03/26/Screen Shot 2018-03-26 at 12.35.27 AM.png)
+
+![](/uploads/2018/03/26/Screen Shot 2018-03-26 at 12.51.09 AM.png)
