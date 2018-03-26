@@ -2,7 +2,11 @@
 title: I'm Sick of This Gun Debate, Killer Mike is Right!
 subtitle: It's not even a debate, it's just another idealogy laced fight between the
   lower classes, a distraction from the real threat of Empire.
-date: 2018-03-25 21:52:17 -0400
+date: 2018-03-25 19:52:17 -0600
+type: article
+tags: []
+aliases: []
+image: ''
 
 ---
 Of course people are jumping on [Killer Mike because he appeared on NRA TV](https://www.youtube.com/watch?v=ZXtpUE1b2NY) ([who recently has been attacked by Jon Oliver](https://www.youtube.com/watch?v=LEcbagW4O-s)) to denounce the march this weekend, his position being that taking away people's guns will not solve the issues America is facing.
