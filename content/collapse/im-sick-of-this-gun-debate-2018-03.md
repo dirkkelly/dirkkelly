@@ -1,45 +1,46 @@
 ---
-title: "I'm Sick of This Gun Debate"
-subtitle: "It's not even a debate, it's just another idealogy laced fight between the lower classes, a distraction from the real threat of Empire."
-date: 2018-03-25T21:52:17-04:00
----
+title: I'm Sick of This Gun Debate
+subtitle: It's not even a debate, it's just another idealogy laced fight between the
+  lower classes, a distraction from the real threat of Empire.
+date: 2018-03-25 21:52:17 -0400
 
-Of course people are jumping on Killer Mike because he appeared on NRA TV (who recently has been attacked by Jon Oliver) to denounce the march this weekened, his position being that taking away people's guns will not solve the issues America is facing.
+---
+Of course people are jumping on Killer Mike because he appeared on NRA TV (who recently has been attacked by Jon Oliver) to denounce the march this weekend, his position being that taking away people's guns will not solve the issues America is facing.
 
 ## Killer Mike is Absolutely Correct
 
 Even if somehow, all the guns were removed from people's houses, taking away an extremely convenient and powerful tool for killing, the killing won't stop.
 
-Kid's aren't shooting their classmates simply because they have access to guns, they're killing classmates because they're absolutely fucked up, they're devestated and destraught because their world is terrifying and horrible.
+Kid's aren't shooting their classmates simply because they have access to guns, they're killing classmates because they're absolutely fucked up, they're devastated and distraught because their world is terrifying and horrible.
 
 Think about it, you're a 15 year old kid, you know that your planet is dying, you know that the economy has collapsed, that there is no hope for a good career for you, and that in pursuit of that career you will have to rack up hundreds of thousands of debt for the privilege of having nothing to look forward to.
 
 This isn't an hypothesis, this is the state of people's minds, this is why the memes are so fucking weird, this is why kids are eating tide pods for the lolz, because, seriously, what's the fucking point of living?
 
-Life is fucking shit, maybe not for you, maybe you're a 30ish year old white software engineer making over $120,000 and using your money to pay away the problems of your life (like me :), or maybe you're 45+ and you have a couple of investment properties and whilst the market is tight, you know that people just need to buck up and work hard like you did to get where you are.
+Life is fucking shit, maybe not for you, maybe you're a 30ish year old white software engineer making over $120,000 and using your money to pay away the problems of your life, or maybe you're 45+ and you have a couple of investment properties and whilst the market is tight, you know that people just need to buck up and work hard like you did to get where you are.
 
 But for a lot of the world, especially for the poorest of people (children, young people, non-westerners) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and  power.
 
 So what's my fucking point?
 
-We absolutely need to improve gun legislation in america, we also have to fix prescription legislation, healthcare legislation, we need to increase investment in education and infrastructure, we need to address the issues of both physical and mental health care, we need to address the problems of a dying planet and move our investments into efforts that fight to improve the world.
+We absolutely need to improve gun legislation in America, we also have to fix prescription legislation, healthcare legislation, we need to increase investment in education and infrastructure, we need to address the issues of both physical and mental health care, we need to address the problems of a dying planet and move our investments into efforts that fight to improve the world.
 
 Shouting at the NRA is a distraction.
 
-The US goverment is a corrupt powerhouse where coprorations can use their unlmited funds to out manouver any effort to improve the lives of Americans.
+The US government is a corrupt powerhouse where corporations can use their unlimited funds to out-maneuver any effort to improve the lives of Americans.
 
-Where is the fight against Citizens's United? Where is the march against an omnibus spending package that increases milatary power, or new legislation supported by Democrats and Republicans that increases the poiwer of the President to spy on the American people.
+Where is the fight against Citizen's United? Where is the march against an omnibus spending package that increases military power, or new legislation supported by Democrats and Republicans that increases the power of the President to spy on the American people.
 
 You know how the right fight to keep their guns to protect them from a criminal government? I totally support that, but I don't get why they're not using them to fight their criminal government?
 
-And this is the most crucial point of this idealogical debate, neither side has a moral leg to stand on. Those fighting to ban guns can not do so while ignoring the use of weapons to kill people all over the world. Those fighting the keep their guns can not do so while ignoring the destructive tyranical government they're living under.
+And this is the most crucial point of this ideological debate, neither side has a moral leg to stand on. Those fighting to ban guns can not do so while ignoring the use of weapons to kill people all over the world. Those fighting the keep their guns can not do so while ignoring the destructive tyrannic government they're living under.
 
-Killer Mike going on NRA TV was an opportunity for the left and right to unite on the issue of a tyranical government that needs to be dismantled by the people.
+Killer Mike going on NRA TV was an opportunity for the left and right to unite on the issue of a tyrannical government that needs to be dismantled by the people.
 
-Instead, as usual, it was an opportunity for the left to attack one of their most powerful allies while completely ignoring the tyranny of their governemnt and effectively giving it permission to contiue its mission of destroying all life on Earth, while they, "the left" squabble over how they get to kill each other during their misguided and self destructive civil war with the right.
+Instead, as usual, it was an opportunity for the left to attack one of their most powerful allies while completely ignoring the tyranny of their government and effectively giving it permission to continue its mission of destroying all life on Earth, while they, "the left" squabble over how they get to kill each other during their misguided and self destructive civil war with the right.
 
-Yes America needs better gun legislation, that will never happen while corporations are able to spend unlimited amounts of money on pushing policy points. The NRA has one goal, defend the second ammendment, trying to fight their unlimited funds is a misguided and pointless action, you need to focus on cutting off their access to bribing Government.
+Yes America needs better gun legislation, that will never happen while corporations are able to spend unlimited amounts of money on pushing policy points. The NRA has one goal, defend the second amendment, trying to fight their unlimited funds is a misguided and pointless action, you need to focus on cutting off their access to bribing Government.
 
-Yes America needs to maintain the second ammendment, the people need to be able to defend themselves against a tyrcanical govermment, but your personal arms are nothing compared to an increasingly militarized police force which is funded by the military industrial complex which lobbies your government to engage in wars abroad, and engage in war on their own citizens by taking away their social services.
+Yes America needs to maintain the second amendment, the people need to be able to defend themselves against a tyrannical government, but your personal arms are nothing compared to an increasingly militarized police force which is funded by the military industrial complex which lobbies your government to engage in wars abroad, and engage in war on their own citizens by taking away their social services.
 
-If the left and right don't work together to reclaimn their government, if they allow themselves to get distracted with these pointless ideological marches, then the corporations that rule their life will continue to strip away the wealth and power of the people, creating a world where going to school to shoot up 15 kids seems like a reasonable response in the broken mind of a teenager caught in a hopeless condition.
+If the left and right don't work together to reclaim their government, if they allow themselves to get distracted with these pointless ideological marches, then the corporations that rule their life will continue to strip away the wealth and power of the people, creating a world where going to school to shoot up 15 kids seems like a reasonable response in the broken mind of a teenager caught in a hopeless condition.
