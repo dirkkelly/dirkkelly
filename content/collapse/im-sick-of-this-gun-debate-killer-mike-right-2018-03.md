@@ -4,7 +4,10 @@ subtitle: It's not even a debate, it's just another idealogy laced fight between
   lower classes, a distraction from the real threat of Empire.
 date: 2018-03-25 19:52:17 -0600
 type: article
-tags: []
+tags:
+- america
+- collapse
+- democracy
 aliases:
 - "/collapse/im-sick-of-this-gun-debate-2018-03/"
 image: "/uploads/2018/03/26/killer-mike-nratv.jpg"
