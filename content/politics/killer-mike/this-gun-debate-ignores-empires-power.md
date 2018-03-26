@@ -90,3 +90,11 @@ Yes we need better gun legislation in America, this march is a powerful way of a
 I am advocating for the left and right uniting to take back control of their government and introduce rational rules about gun control, that fix such things as 3% of the population having more than 50% of the guns.
 
 The left and right fighting against each other is a distraction from changing the influence of money in US power and opening up channels to improve all aspects of the nation.
+
+## Killer Mike's Further Clarification
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">I hope this clears some stuff up. Love and Respect to all.  Part 1 <a href="https://t.co/pq977HEG7A">pic.twitter.com/pq977HEG7A</a></p>&mdash; Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978053530689847296?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-video" data-lang="en"><p lang="und" dir="ltr">P2 <a href="https://t.co/FigGacJeYM">pic.twitter.com/FigGacJeYM</a></p>&mdash; Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978054153984385024?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
