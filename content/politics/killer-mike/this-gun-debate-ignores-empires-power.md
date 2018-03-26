@@ -68,7 +68,7 @@ The point is to cause Americans to squabble over how Americans get to kill each 
 
 ![](/uploads/2018/03/26/2018-03-25_9-02-00.jpg)
 
-Yes America needs better gun legislation, that will never happen while corporations are able to spend unlimited amounts of money on pushing policy points. The NRA has one goal, defend the second amendment, trying to fight their unlimited funds is a misguided and pointless action, you need to focus on cutting off their access to bribing Government.
+Yes America needs better gun legislation, but that hasn't happened because corporations like the NRA are able to spend unlimited amounts of money on pushing policy points. The NRA has one goal "defend the second amendment" and they can spend unlimited money protecting that position. Changing legislation regarding gun ownership will be greatly helped by a more equal playing ground, which means getting the unfair inbalance of power from having unlimited money in the legislative and legal systems.
 
 Yes America needs to maintain the second amendment, the people need to be able to defend themselves against a tyrannical government, but your personal arms are nothing compared to an increasingly militarized police force which is funded by the military industrial complex which lobbies your government to engage in wars abroad, and engage in war on their own citizens by taking away their social services.
 
