@@ -1,5 +1,5 @@
 ---
-title: I'm Sick of This Gun Debate
+title: I'm Sick of This Gun Debate, Killer Mike is Right!
 subtitle: It's not even a debate, it's just another idealogy laced fight between the
   lower classes, a distraction from the real threat of Empire.
 date: 2018-03-25 21:52:17 -0400
