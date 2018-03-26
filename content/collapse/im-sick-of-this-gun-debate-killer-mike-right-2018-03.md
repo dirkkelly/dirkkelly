@@ -77,7 +77,7 @@ Yes America needs to maintain the second amendment, the people need to be able t
 
 If the left and right don't work together to reclaim their government, if they allow themselves to get distracted with these pointless ideological marches, then the corporations that rule their life will continue to strip away the wealth and power of the people, creating a world where going to school to shoot up 15 kids seems like a reasonable response in the broken mind of a teenager caught in a hopeless condition.
 
-> What is an ally? An ally isn't necessarily a friend, it's not fam, you know we have a mutual interest in something that progresses our causes, why are your allies not fighting your other fights with the same vigor you're fighting for theirs?  
+> What is an ally? An ally isn't necessarily a friend, it's not fam. You know we have a mutual interest in something that progresses our causes, why are your allies not fighting your other fights with the same vigor you're fighting for theirs?  
 > **Killer Mike**
 
 ![](/uploads/2018/03/26/2018-03-25_9-04-49.jpg)
