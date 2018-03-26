@@ -57,8 +57,6 @@ Where is the fight against Citizen's United? Where is the march against an omnib
 
 ![](/uploads/2018/03/26/2018-03-25_9-05-18.jpg)
 
-The most crucial point of this ideological debate is that neither side has a moral leg to stand on. Those fighting to ban guns can not do so while ignoring the use of weapons to kill people all over the world. Those fighting the keep their guns can not do so while ignoring the destructive government they're living under.
-
 Killer Mike going on NRA TV was an opportunity for the left and right to unite on the issue of a tyrannical government that needs to be dismantled by the people.
 
 Instead, as usual, it was an opportunity for the left to attack one of their most powerful allies while completely ignoring the tyranny of their government and effectively giving it permission to continue its mission of destroying all life on Earth, while they, "the left" squabble over how Americans get to kill each other during the misguided and self destructive civil war between the left and right.
