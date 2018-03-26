@@ -11,13 +11,8 @@ tags:
 aliases:
 - "/collase/im-sick-of-this-gun-debate-2018-03/"
 - "/collapse/im-sick-of-this-gun-debate-2018-03/"
-<<<<<<< HEAD:content/collapse/im-sick-of-this-gun-debate-killer-mike-right-2018-03.md
-image: "/uploads/2018/03/26/killer-mike-nratv.jpg"
-=======
 - "/collapse/im-sick-of-this-gun-debate-killer-mike-right-2018-03"
-image: ''
->>>>>>> moved to politics:content/politics/killer-mike/this-gun-debate-ignores-empires-power.md
-
+image: "/uploads/2018/03/26/killer-mike-nratv.jpg"
 ---
 Of course people are jumping on [Killer Mike because he appeared on NRA TV](https://www.youtube.com/watch?v=ZXtpUE1b2NY) ([who recently has been attacked by Jon Oliver](https://www.youtube.com/watch?v=LEcbagW4O-s)) to denounce the march this weekend, his position being that taking away people's guns will not solve the issues America is facing.
 
