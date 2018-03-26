@@ -45,7 +45,7 @@ But for a lot of the world, especially for the poorest of people (children, not-
 
 **So what's my fucking point?**
 
-You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans, be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-fucking-death in school, something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by a public being driven insane by a government that is actively trying to kill them.
+You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans. Be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-fucking-death in school (something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by a public being driven insane by a government that is actively trying to kill them).
 
 We absolutely need to improve gun legislation in America, we also have to fix prescription legislation, healthcare legislation, we need to increase investment in education and infrastructure, we need to address the issues of both physical and mental health care, we need to address the problems of a dying planet and move our investments into efforts that fight to improve the world.
 
