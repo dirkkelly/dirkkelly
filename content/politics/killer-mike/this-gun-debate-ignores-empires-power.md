@@ -38,6 +38,8 @@ Life is shit, maybe not for you, maybe you're a 30ish year old white software en
 
 But for a lot of the world, especially for the poorest of people (children, not-whites, non-westerners, young people, elderly people) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and power.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some dismaying messaging at <a href="https://twitter.com/hashtag/MarchForOurLives?src=hash&amp;ref_src=twsrc%5Etfw">#MarchForOurLives</a>: &quot;There is no reason why anyone other than military and law enforcement should have an assault weapon like this.&quot; Sad to see the centrist-imposed script justify police militarization and normalize endless shooting abroad. <a href="https://t.co/1cp3o6TtH8">pic.twitter.com/1cp3o6TtH8</a></p>&mdash; Max Blumenthal (@MaxBlumenthal) <a href="https://twitter.com/MaxBlumenthal/status/977982443734097920?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
+
 **So what's my point?**
 
 You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans. Be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-death in school. This is something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by a public being driven insane by a government that is actively trying to kill them.
