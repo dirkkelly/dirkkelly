@@ -22,9 +22,6 @@ fields:
   label: Title
   config:
     required: true
-- type: text
-  label: Slug
-  name: slug
 - type: textarea
   name: subtitle
   label: Subtitle
