@@ -26,7 +26,7 @@ Killer Mike focusses his piece on the importance of retaining gun rights of the 
 
 ![](/uploads/2018/03/26/1B786D31-0B39-4BD9-B8E1-1D32E721E80E-e1521928873872.jpeg)
 
-I don't believe so, I don't think kid's aren't shooting their classmates simply because they have access to guns, they're killing classmates because they're they're devastated and distraught because their world is terrifying and horrible. Just like older Americans who may chose to kill themselves with opiates, alcohol, and guns, there is mass despair in America and it's causing people to behave in irrational and violent ways.
+I don't believe so, I don't think kid's are shooting their classmates simply because they have access to guns, they're killing classmates because they're they're devastated and distraught because their world is terrifying and horrible. Just like older Americans who may chose to kill themselves with opiates, alcohol, and guns, there is mass despair in America and it's causing people to behave in irrational and violent ways.
 
 Think about it, you're a 15 year old kid, you know that your planet is dying, you know that the economy has collapsed, that there is no hope for a good career for you, and that in pursuit of that career you will have to rack up hundreds of thousands of debt for the privilege of having nothing to look forward to.
 
