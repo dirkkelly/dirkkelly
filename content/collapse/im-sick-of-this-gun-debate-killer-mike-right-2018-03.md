@@ -66,3 +66,11 @@ Yes America needs to maintain the second amendment, the people need to be able t
 If the left and right don't work together to reclaim their government, if they allow themselves to get distracted with these pointless ideological marches, then the corporations that rule their life will continue to strip away the wealth and power of the people, creating a world where going to school to shoot up 15 kids seems like a reasonable response in the broken mind of a teenager caught in a hopeless condition.
 
 ![](/uploads/2018/03/26/2018-03-25_9-04-49.jpg)
+
+**I'm seriously open to debate on this**
+
+I would like to continue improving this article to get my point across.
+
+Yes we need better gun legislation in America, no this march does not help that, unfortunately the corporations (like the NRA) are super powerful because of their ability to lobby unlimitedly against our interests. The left and right need to unite to take back control of their government and introduce rational rules about gun control, that fix such things as 3% of the population having more than 50% of the guns...
+
+![](/uploads/2018/03/26/Screen Shot 2018-03-26 at 12.13.22 AM.png)
