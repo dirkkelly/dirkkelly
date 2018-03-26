@@ -23,6 +23,8 @@ Even if somehow, all the guns were removed from people's houses, taking away an 
 
 ![](/uploads/2018/03/26/1B786D31-0B39-4BD9-B8E1-1D32E721E80E-e1521928873872.jpeg)
 
+> I have worked as a tireless advocate on the behalf of children and disenfranchised women in society, I've also worked with gun groups like Georgians' Against Gun Violence, so I say if there's a table to be sat at, a gun owner needs to be there. You have to see a problem from the whole perspective.
+
 Kid's aren't shooting their classmates simply because they have access to guns, they're killing classmates because they're absolutely fucked up, they're devastated and distraught because their world is terrifying and horrible.
 
 Think about it, you're a 15 year old kid, you know that your planet is dying, you know that the economy has collapsed, that there is no hope for a good career for you, and that in pursuit of that career you will have to rack up hundreds of thousands of debt for the privilege of having nothing to look forward to.
