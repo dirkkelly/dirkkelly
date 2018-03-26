@@ -15,20 +15,18 @@ aliases:
 image: "/uploads/2018/03/26/killer-mike-nratv.jpg"
 
 ---
-Of course people are jumping on [Killer Mike because he appeared on NRA TV](https://www.youtube.com/watch?v=ZXtpUE1b2NY) ([who recently has been attacked by Jon Oliver](https://www.youtube.com/watch?v=LEcbagW4O-s)) to denounce the march this weekend, his position being that taking away people's guns will not solve the issues America is facing.
+Of course people are jumping on [Killer Mike because he appeared on NRA TV](https://www.youtube.com/watch?v=ZXtpUE1b2NY) to denounce the march this weekend, his position being that taking away people's guns will not solve the issues America is facing.
 
 {{< youtube ZXtpUE1b2NY >}}
 
 > I have worked as a tireless advocate on the behalf of children and disenfranchised women in society, I've also worked with gun groups like Georgians' Against Gun Violence, so I say if there's a table to be sat at, a gun owner needs to be there. You have to see a problem from the whole perspective.  
 > **Killer Mike**
 
-## Killer Mike is Absolutely Correct
-
-Even if somehow, all the guns were removed from people's houses, taking away an extremely convenient and powerful tool for killing, the killing won't stop.
+Killer Mike focusses his piece on the importance of retaining gun rights of the individual, however at the very beginning their is a mention of the systemic problems which result in this gun violence. Of course due to NRAs bias this is not going to be expanded upon, but its an absolutely vital part of the conversation, why is is that people are shooting each other, and even if somehow, all the guns were removed from people's houses, taking away an extremely convenient and powerful tool for killing, will the killing stop?
 
 ![](/uploads/2018/03/26/1B786D31-0B39-4BD9-B8E1-1D32E721E80E-e1521928873872.jpeg)
 
-Kid's aren't shooting their classmates simply because they have access to guns, they're killing classmates because they're absolutely fucked up, they're devastated and distraught because their world is terrifying and horrible.
+I don't believe so, I don't think kid's aren't shooting their classmates simply because they have access to guns, they're killing classmates because they're they're devastated and distraught because their world is terrifying and horrible. Just like older Americans who may chose to kill themselves with opiates, alcohol, and guns, there is mass despair in America and it's causing people to behave in irrational and violent ways.
 
 Think about it, you're a 15 year old kid, you know that your planet is dying, you know that the economy has collapsed, that there is no hope for a good career for you, and that in pursuit of that career you will have to rack up hundreds of thousands of debt for the privilege of having nothing to look forward to.
 
@@ -45,7 +43,7 @@ But for a lot of the world, especially for the poorest of people (children, not-
 
 **So what's my point?**
 
-You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans. Be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-death in school (something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by a public being driven insane by a government that is actively trying to kill them).
+You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans. Be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-death in school. This is something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by a public being driven insane by a government that is actively trying to kill them.
 
 We absolutely need to improve gun legislation in America, we also have to fix prescription legislation, healthcare legislation, we need to increase investment in education and infrastructure, we need to address the issues of both physical and mental health care, we need to address the problems of a dying planet and move our investments into efforts that fight to improve the world.
 
@@ -69,7 +67,6 @@ Instead, as usual, it was an opportunity for the left to attack one of their mos
 
 > What is an ally? An ally isn't necessarily a friend, it's not fam. You know we have a mutual interest in something that progresses our causes, why are your allies not fighting your other fights with the same vigor you're fighting for theirs?
 >
->   
 > You're going to progress us into slavery, people say there's no way slavery can exist, slavery does exist now, slavery exists according to the thirteenth amendment. The same people telling you we need to abolish the second amendment, they ain't there for the documented thirteenth, they ain't there for the march to end that.
 >
 > **Killer Mike**
