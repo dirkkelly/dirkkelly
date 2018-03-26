@@ -12,11 +12,11 @@ image: ''
 ---
 Of course people are jumping on [Killer Mike because he appeared on NRA TV](https://www.youtube.com/watch?v=ZXtpUE1b2NY) ([who recently has been attacked by Jon Oliver](https://www.youtube.com/watch?v=LEcbagW4O-s)) to denounce the march this weekend, his position being that taking away people's guns will not solve the issues America is facing.
 
-{{< youtube ZXtpUE1b2NY >}}
-
 ## Killer Mike is Absolutely Correct
 
 Even if somehow, all the guns were removed from people's houses, taking away an extremely convenient and powerful tool for killing, the killing won't stop.
+
+![](/uploads/2018/03/26/1B786D31-0B39-4BD9-B8E1-1D32E721E80E-e1521928873872.jpeg)
 
 Kid's aren't shooting their classmates simply because they have access to guns, they're killing classmates because they're absolutely fucked up, they're devastated and distraught because their world is terrifying and horrible.
 
@@ -24,9 +24,11 @@ Think about it, you're a 15 year old kid, you know that your planet is dying, yo
 
 This isn't an hypothesis, this is the state of people's minds, this is why the memes are so fucking weird, this is why kids are eating tide pods for the lolz, because, seriously, what's the fucking point of living?
 
+![](/uploads/2018/03/26/2018-03-25_8-59-38.jpg)
+
 Life is fucking shit, maybe not for you, maybe you're a 30ish year old white software engineer making over $120,000 and using your money to pay away the problems of your life, or maybe you're 45+ and you have a couple of investment properties and whilst the market is tight, you know that people just need to buck up and work hard like you did to get where you are.
 
-But for a lot of the world, especially for the poorest of people (children, young people, non-westerners) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and  power.
+But for a lot of the world, especially for the poorest of people (children, young people, non-westerners) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and power.
 
 So what's my fucking point?
 
@@ -34,11 +36,15 @@ We absolutely need to improve gun legislation in America, we also have to fix pr
 
 Shouting at the NRA is a distraction.
 
+![](/uploads/2018/03/26/2018-03-25_9-00-13_0.jpg)
+
 The US government is a corrupt powerhouse where corporations can use their unlimited funds to out-maneuver any effort to improve the lives of Americans.
 
 Where is the fight against Citizen's United? Where is the march against an omnibus spending package that increases military power, or new legislation supported by Democrats and Republicans that increases the power of the President to spy on the American people.
 
 You know how the right fight to keep their guns to protect them from a criminal government? I totally support that, but I don't get why they're not using them to fight their criminal government?
+
+![](/uploads/2018/03/26/2018-03-25_9-05-18.jpg)
 
 And this is the most crucial point of this ideological debate, neither side has a moral leg to stand on. Those fighting to ban guns can not do so while ignoring the use of weapons to kill people all over the world. Those fighting the keep their guns can not do so while ignoring the destructive tyrannic government they're living under.
 
