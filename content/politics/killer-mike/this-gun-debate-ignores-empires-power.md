@@ -38,9 +38,6 @@ Life is shit, maybe not for you, maybe you're a 30ish year old white software en
 
 But for a lot of the world, especially for the poorest of people (children, not-whites, non-westerners, young people, elderly people) life is a miserable place where your access to advantage has been stripped away by the forces that collaborate to hoard wealth and power.
 
-> The tears of white mothers are like ratings... it's true, black people know it's true.  
-> **Killer Mike**
-
 **So what's my point?**
 
 You know that there is nobody in power doing anything about it, the politicians are all criminals taking legal bribes from corporations who want to help their profits at the expense of the health of Americans. Be it through shitty jobs, poisoned water, no healthcare, or getting shot-to-death in school. This is something that happens nowhere else on Earth and is absolutely the result of poor gun legislation allowing for ridiculous weapons to be owned by a public being driven insane by a government that is actively trying to kill them.
