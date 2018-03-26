@@ -93,8 +93,8 @@ The left and right fighting against each other is a distraction from changing th
 
 ## Killer Mike's Further Clarification
 
-<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">I hope this clears some stuff up. Love and Respect to all.  Part 1 <a href="https://t.co/pq977HEG7A">pic.twitter.com/pq977HEG7A</a></p>— Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978053530689847296?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I hope this clears some stuff up. Love and Respect to all.  Part 1 <a href="https://t.co/pq977HEG7A">pic.twitter.com/pq977HEG7A</a></p>&mdash; Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978053530689847296?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
 
-<blockquote class="twitter-video" data-lang="en"><p lang="und" dir="ltr">P2 <a href="https://t.co/FigGacJeYM">pic.twitter.com/FigGacJeYM</a></p>— Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978054153984385024?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">P2 <a href="https://t.co/FigGacJeYM">pic.twitter.com/FigGacJeYM</a></p>&mdash; Killer Mike (@KillerMike) <a href="https://twitter.com/KillerMike/status/978054153984385024?ref_src=twsrc%5Etfw">March 25, 2018</a></blockquote>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
