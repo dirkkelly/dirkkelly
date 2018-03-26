@@ -85,14 +85,8 @@ If the left and right don't work together to reclaim their government, if they a
 
 I would like to continue improving this article to get my point across.
 
-Yes we need better gun legislation in America, no this march does not help that, unfortunately the corporations (like the NRA) are super powerful because of their ability to lobby with unlimited finance against our interests.
+Yes we need better gun legislation in America, this march is a powerful way of advocating for that change, unfortunately the corporations (like the NRA) are super powerful because of their ability to lobby with unlimited finance against our interests.
 
-I am advocating for the left and right uniting to take back control of their government and introduce rational rules about gun control, that fix such things as 3% of the population having more than 50% of the guns...
+I am advocating for the left and right uniting to take back control of their government and introduce rational rules about gun control, that fix such things as 3% of the population having more than 50% of the guns.
 
 The left and right fighting against each other is a distraction from changing the influence of money in US power and opening up channels to improve all aspects of the nation.
-
-![](/uploads/2018/03/26/Screen Shot 2018-03-26 at 12.13.22 AM.png)
-
-![](/uploads/2018/03/26/Screen Shot 2018-03-26 at 12.35.27 AM.png)
-
-![](/uploads/2018/03/26/Screen Shot 2018-03-26 at 12.51.09 AM.png)
