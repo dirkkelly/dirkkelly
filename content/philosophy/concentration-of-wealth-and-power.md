@@ -22,3 +22,25 @@ Concentration of wealth yields concentration of power, particularly so as the co
 It is so traditional that it was described by Adam Smith, in 1776, you read the famous Wealth of Nations, he says in England the principle architects of policy are the people who own the society, in his day merchants and manufacturers, and they make sure that their own interests are very well cared for however grievous the impact on the people of England or others.
 
 Now it's not merchants and manufacturers, it's financial institutions and multinational corporations. The people who Adam Smith called the **Masters of Mankind** and they're following the vile maxim **All for ourselves and nothing for anyone else.** 
+
+They're just going to pursue policies that benefit them and harm everyone else. And in the absence of a **general popular reaction**, that's pretty much what you'd expect.
+
+## Principle 1: Reduce Democracy
+
+All through history there has been a clash, from the pressure for more freedom and democracy coming from below, and the efforts of elite control and domination coming from above.
+
+It goes back tot he founding of the country, James Madison the main framer who was as much a believer in democracy as anybody in the world in that day, nevertheless felt that the Unites States system should be designed, and indeed with his initiative was designed, so that power should be in the hands of the wealthy "because the wealthy are the more responsible set of men". Therefore the structure of the formal constitutional system placed most power in the hands of the Senate, remember the Senate was not elected in those days. **It was selected from the wealthy**. 
+
+Men, as Madison put it "had sympathy for property owners and their rights."
+
+If you read the debates of the constitutional convention, Madison said, "The major concern of the society has to be to **protect the minority of the opulent against the majority**."
+
+....
+
+If Athens were a democracy for free men, it would take away the property from the rich. Well same dilemma, they had opposite solutions.  Aristotle proposed what we would nowadays call a welfare state. He said "try to reduce inequality".
+
+So same problem, opposite solutions, one is reduce inequality, you won't have this problem. The other is reduce democracy.
+
+If you look at the history of the United States it's a constant struggle between these two tendencies. A democratizing tendency that's mostly coming from the population, a pressure from below, and you get this constant battle going on, periods of regression, periods of progress. 
+
+**The 1960s for example, were a period of significant democratization.** 
