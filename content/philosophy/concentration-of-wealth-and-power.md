@@ -101,3 +101,9 @@ It just changed consciousness in a lot of ways.
 ### These are all civilizing effects and that caused great fear.
 
 ....
+
+## Principle 2: Redesign the Economy
+
+Fictionalization of the Economy
+
+Offshoring of Production
