@@ -44,3 +44,56 @@ So same problem, opposite solutions, one is reduce inequality, you won't have th
 If you look at the history of the United States it's a constant struggle between these two tendencies. A democratizing tendency that's mostly coming from the population, a pressure from below, and you get this constant battle going on, periods of regression, periods of progress. 
 
 **The 1960s for example, were a period of significant democratization.** 
+
+Sectors of the population that were usually passive and apathetic became organized, active, started pressing their demands. And they became more and more involved in the decision-making, activism and so on.
+
+It just changed consciousness in a lot of ways.
+
+**Minority Rights.**
+
+> If democracy means freedom, why aren't our people free?
+>
+> If democracy means justice, why don't we have justice?
+>
+> If democracy means equality, why don't we have equality?**  
+> Dr. MLK**
+
+**Women's Rights**
+
+> This inhuman system of exploitation will change,
+>
+> but only if we force it change, and force it together.
+
+**Environmental Rights**
+
+> A unique day in American history is ending,
+>
+> a day set aside for a nationwide outpouring of mankind seeking its own survival.
+
+**Opposition to Aggression**
+
+> I say to those who criticize us for the militancy of our dissent
+>
+> that if they are serious about law and order,
+>
+> they should provide it for the Vietnamese people,
+>
+> for our own black people, and for our own poor people.
+>
+> **Dr Benjamin Spock**
+
+**Concern for other people**
+
+> One day we must ask the question,
+>
+> Why are there 40 million poor people in America?
+>
+> When you begin to ask that question, 
+>
+> You're raising a question about the economic system,
+>
+> about a broader distribution of wealth,
+>
+> the question of restructuring the whole of American society.
+>
+> **Dr. MLK**
