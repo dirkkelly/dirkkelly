@@ -1,16 +1,16 @@
 ---
 title: Concentration of Wealth and Power
 date: 2018-03-26 22:28:37 +0000
-subtitle: Noam Chomsky offeres 10 reasons why America is not a democracy, is a horrible
+subtitle: Noam Chomsky offers 10 reasons why America is not a democracy, is a horrible
   place to live, is causing mass distress, and is killing children and adults alike,
   both in American schools and in foreign weddings.
 tags:
 - noam chomsky
 - collapse
 - democracy
+- wip
 aliases: []
 image: ''
-draft: true
 
 ---
 # **10 Principles of Concentration of Wealth and Power**
@@ -97,3 +97,7 @@ It just changed consciousness in a lot of ways.
 > the question of restructuring the whole of American society.
 >
 > **Dr. MLK**
+
+### These are all civilizing effects and that caused great fear.
+
+....
