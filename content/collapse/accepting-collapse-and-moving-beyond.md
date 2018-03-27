@@ -20,11 +20,11 @@ The truth is that the time for action has come and gone, greedy people made deci
 
 The truth is you should focus on community and doing what you can take make the lives of those around you better.
 
-The truth is you should take control of your emloyer organization and create a democratic workplace that can focus its profits on helping the community.
+The truth is you should take control of your employer organization and create a democratic workplace that can focus its profits on helping the community.
 
 The truth is nothing you do will stop the Earth from continuing altering so much so that it’s no longer habitable by us.
 
-People don’t like to hear this because it makes them feel hopeless, which is exactly how they should feel. Hope is a worthless feeling, it’s counter productive, hope is the desire for things to change without the willingness to change it. 
+People don’t like to hear this because it makes them feel hopeless, which is exactly how they should feel. Hope is a worthless feeling, it’s counter productive, hope is the desire for things to change without the willingness to change it.
 
 Hope doesn’t fix anything, it just makes you feel good.
 
