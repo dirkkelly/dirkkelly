@@ -38,7 +38,7 @@ You lay in bed at night staring at the ceiling, worrying about tomorrow, what it
 * America kills more innocent civilians, and points their finger at another country
 * Fuck you Trump, also fuck all your presidents, god damn this nation's leaders are horrible
 
-So you want Americans to fix their education and health systems so that people aren't sick and poor, so that Americans can see a future worth living for.
+So you want Americans to fix their education and health systems so that people aren't sick and poor, so that Americans can imagine a future worth living for.
 
 So you want American police to be disarmed, to have their recycling programs with the US military to be disbanded, you want tanks off the streets of America.
 
