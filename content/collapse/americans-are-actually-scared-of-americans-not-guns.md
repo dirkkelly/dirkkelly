@@ -67,3 +67,5 @@ Here's an amazing critical thinker Cody Johnston, who [now has his own channel](
 Gratz Cody, you're fucking amazing dude, your work is on point and I'm proud to support you being able to speak truth to power! Thank you :)
 
 {{< youtube HBR_dcp38KA >}}
+
+{{< youtube Ngr4bNZsPeQ >}}
