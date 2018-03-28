@@ -9,7 +9,6 @@ tags:
 - violence
 aliases: []
 image: ''
-draft: true
 
 ---
 **As an American**
@@ -40,14 +39,8 @@ You lay in bed at night staring at the ceiling, worrying about tomorrow, what it
 
 So you want Americans to fix their education and health systems so that people aren't sick and poor, so that Americans can imagine a future worth living for.
 
-So you want American police to be disarmed, to have their recycling programs with the US military to be disbanded, you want tanks off the streets of America.
+So you want American police to be disarmed, to have their recycling programs with the US military to be disbanded, to get tanks off the streets of America.
 
-So you want America to stop the wars, to bring its troops home, to stop killing its people by destroying social services to fund unlimited war against the world.
+So you want America to stop the wars, to bring its troops home, to stop killing its people back home by destroying social services to fund unlimited war against the world.
 
-So you realize, that the gun problem in America, is the tip of the iceberg, that the gun problem in schools is the result of a fucked up system creating shitty people who hate, the the gun problem is more of a problem when the guns are in the hands of police, who use the to kill innocent people daily and suffer few consequences.
-
-**Dear Americans**
-
-Your country is responsible for an estimated 10-20 million deaths since 1945, after it dropped two nuclear bombs on an island nation, after the war was over.
-
-Your country has troops in 156 countries around the world, that leaves 46 with no military presence, you are an occupying force in 77% of the world, even if some governments claim you're an ally.
+So you realize, that the gun problem in America, is the tip of the iceberg, that the gun problem in schools is the result of a fucked up system creating shitty people who hate each other, that the gun problem is more of a problem when the guns are in the hands of police and soldiers who use the to kill innocent people daily, and suffer no consequences.
