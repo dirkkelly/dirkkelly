@@ -35,7 +35,7 @@ You do what they want you to do, you see the problem on a surface level and you 
 
 I lay in bed at night staring at the ceiling, worrying about tomorrow, what it will bring, what it will change, what it will kill. It's not a question of whether these things will happen, I know they will, something always happens, and it's going to be in my face, and it's going to make me feel horrible.
 
-**Scared and uneducated American boy his classmates and himself**
+**Scared and uneducated American boy kills his classmates and himself**
 
 **Scared and exploited American cop kills a poor and exploited black child**
 
