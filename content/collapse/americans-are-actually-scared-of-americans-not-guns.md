@@ -57,4 +57,4 @@ I realize that America kills as many people abroad as it does at home, I realize
 
 I realize that no President has ever been a leader of this country, I see that it has always been the wealth elite who rule from behind the stage, who use their wealth to influence power.
 
-**You need to think more as a critical thinker, and less as a scared subject of empire.**
+**We need to think more as critical thinkers, and less as scared subjects of empire.**
