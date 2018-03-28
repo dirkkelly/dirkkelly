@@ -23,8 +23,6 @@ You lay in bed at night staring at the ceiling, worrying about tomorrow, what it
 
 **Your stupid dickhead of a president opened his dumb fucking mouth again**
 
-So you want to ban all guns because shitty horrible people do terrible fucked up things that result in the death of people, who could have been you!
-
 So you want to give the police more power because the lower class are out of control and want to destroy this country.
 
 So you don't care if the American war machine keeps bombing innocent families in other countries, because they're not like you, they don't value freedom.
