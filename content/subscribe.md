@@ -9,7 +9,7 @@ menu:
 
 ## Interested in a monthly digest of posts?
 
-<script type="text/javascript" src="https://static.mailerlite.com/data/webforms/814910/a3h4l0.js?v1"></script>
+<script type="text/javascript" src="https://static.mailerlite.com/data/webforms/814910/a3h4l0.js?v2"></script>
 
 <br />
 <br />
