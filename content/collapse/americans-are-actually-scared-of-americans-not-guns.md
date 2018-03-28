@@ -54,7 +54,7 @@ I realize that the gun problem in America is the tip of the iceberg, that these 
 
 I realize that the gun problem is more of a problem when the guns are in the hands of police and soldiers who use them to kill innocent people daily, and suffer no consequences.
 
-I realize that America kills as many people abroad as it does at home, I realize that the empire is a machine which can only kill, I also realize that Canada, Great Britain, Australia, New Zealand are willing participants in America's war against the world.
+I realize that America kills as many people abroad as it does at home, I realize that the empire is a machine which can only kill, I also realize that Canada, Great Britain, Australia, New Zealand are willing participants in Empire's's war against the world.
 
 I realize that no President has ever been the true leader of this country, I see that it has always been the wealth elite who rule from behind the stage, who use their wealth to influence power.
 
