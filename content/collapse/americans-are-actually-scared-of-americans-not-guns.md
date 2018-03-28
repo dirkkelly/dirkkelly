@@ -7,12 +7,11 @@ tags:
 - collapse
 - america
 - violence
+- cody johnston
 aliases: []
 image: ''
 
 ---
-{{< youtube HBR_dcp38KA >}}
-
 **As an American**
 
 You lay in bed at night staring at the ceiling, worrying about tomorrow, what it will bring, what it will change, what it will kill. It's not a question of whether these things will happen, you know they will, something always happens, and it's going to be in your face, and it's going to make you feel horrible.
@@ -62,3 +61,7 @@ I realize that no President has ever been the true leader of this country, I see
 _I know that the left and right fighting against each other is part of a greater strategy of distracting the American people from turning against their enemy government, from taking down an empire from within that will kill all life on Earth._
 
 **We need to think more as critical thinkers, and less as scared subjects of empire, nationality aside, we are in this together, and we must be in this against empire.**
+
+Here's an amazing critical thinker Cody Johnston, who now has his own channel
+
+{{< youtube HBR_dcp38KA >}}
