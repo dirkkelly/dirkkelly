@@ -13,11 +13,6 @@ SectionPagesMenu = "topbar"
   author = "dirkkelly"
   description = "Austramerican thinking about politics, economics, and technology during humanity's struggle to survive the collapse of capitalism and holocene extinction."
 
-[[menu.sidebar]]
-  name = "Subscribe"
-  url = "/index.xml"
-  weight = 4
-
 [[menu.topbar]]
   name = "Politics"
   url = "/politics/"
