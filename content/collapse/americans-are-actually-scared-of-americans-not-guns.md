@@ -40,7 +40,7 @@ I lay in bed at night staring at the ceiling, worrying about tomorrow, what it w
 
 So I want Americans to fix their education and health systems so that people aren't sick and poor, so that Americans can imagine a future worth living for.
 
-So I want American police to be disarmed, to have their recycling programs with the US military to be disbanded, to get tanks off the streets of America.
+So I want American police to be disarmed, to disbanded their recycling programs with the US military, to get tanks off the streets of America and everywhere else.
 
 So I want America to stop the wars, to bring its troops home, to stop killing its people back home by destroying social services to fund unlimited war against the world.
 
