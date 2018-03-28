@@ -14,6 +14,6 @@ menu:
 <br />
 <br />
 
-## More of a technical type?
+## More of an RSS type?
 
 Check out the <a href="/index.xml">RSS Feed</a>.
