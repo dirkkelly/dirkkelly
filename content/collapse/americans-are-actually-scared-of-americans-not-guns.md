@@ -52,7 +52,7 @@ _I react to your weird ways in a manner which places the blame solely on your co
 
 I realize that the gun problem in America is the tip of the iceberg, that these deaths are caused by people living horrible lives who are scared into hating each other and themselves, who kill with guns as much as they kill with opiates.
 
-I realize that the gun problem is more of a problem when the guns are in the hands of police and soldiers who use the to kill innocent people daily, and suffer no consequences.
+I realize that the gun problem is more of a problem when the guns are in the hands of police and soldiers who use them to kill innocent people daily, and suffer no consequences.
 
 I realize that America kills as many people abroad as it does at home, I realize that the empire is a machine which can only kill, I also realize that Canada, Great Britain, Australia, New Zealand are willing participants in your war against the world.
 
