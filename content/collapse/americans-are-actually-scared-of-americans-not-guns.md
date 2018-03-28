@@ -69,3 +69,7 @@ Gratz Cody, you're fucking amazing dude, your work is on point and I'm proud to 
 {{< youtube HBR_dcp38KA >}}
 
 {{< youtube Ngr4bNZsPeQ >}}
+
+> Hello, I'm a former newsperson and here's some news: I'm a newsperson again and here's some more news: Cody Johnston (newsperson) is going to be creating weekly content about and against the, um, news. You know, that news we all love? Me neither.
+
+> Regardless, I've heard your requests, your pleas, your "what the fuck where the fuck did your fucking Some News show go what the fuck am I going to do without it"s. And so, here it is. I'll be launching a weekly podcast for Patrons (some in which I speak to some old and familiar faces (voices), some bonus podcasts about single-serving topics, etc.) and will post various writings and videos that may have nothing to do with the news, for Patrons. This will all fund the publicly available, fully-formed video series eerily similar to another video series with which you may be familiar. And furthermore, I love you.
