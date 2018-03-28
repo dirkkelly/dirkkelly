@@ -29,8 +29,6 @@ So you don't care if the American war machine to keeps bombing innocent families
 
 **So you realize your president is a puppet advocating for the death of all life... (and is therefore a dickhead)... but then so was Obama, Bush, Clinton, Bush, and Reagan...**
 
-Your country is responsible for an estimated 10-20 million deaths since 1945, after it dropped two nuclear bombs on an island nation... after the war was over.
-
 **As an Australian**
 
 You lay in bed at night staring at the ceiling, worrying about tomorrow, what it will bring, what it will change, what it will kill. It's not a question of whether these things will happen, you know they will, something always happens, and it's going to be in your face, and it's going to make you feel horrible.
@@ -47,3 +45,9 @@ So you want American police to be disarmed, to have their recycling programs wit
 So you want America to stop the wars, to bring its troops home, to stop killing its people by destroying social services to fund unlimited war against the world.
 
 So you realize, that the gun problem in America, is the tip of the iceberg, that the gun problem in schools is the result of a fucked up system creating shitty people who hate, the the gun problem is more of a problem when the guns are in the hands of police, who use the to kill innocent people daily and suffer few consequences.
+
+**Dear Americans**
+
+Your country is responsible for an estimated 10-20 million deaths since 1945, after it dropped two nuclear bombs on an island nation, after the war was over.
+
+Your country has troops in 156 countries around the world, that leaves 46 with no military presence, you are an occupying force in 77% of the world, even if some governments claim you're an ally.
