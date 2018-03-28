@@ -49,7 +49,7 @@ So I want American presidents to stop killing life over the world and in your co
 
 **As a critical thinker**
 
-I realize that the gun problem in America, is the tip of the iceberg, that these deaths are caused by shitty people living horrible lives who hate each other and themselves, who kill with guns as often as they kill with opiates.
+I realize that the gun problem in America is the tip of the iceberg, that these deaths are caused by shitty people living horrible lives who hate each other and themselves, who kill with guns as often as they kill with opiates.
 
 I realize that the gun problem is more of a problem when the guns are in the hands of police and soldiers who use the to kill innocent people daily, and suffer no consequences.
 
