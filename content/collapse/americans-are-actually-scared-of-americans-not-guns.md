@@ -56,7 +56,7 @@ I realize that the gun problem is more of a problem when the guns are in the han
 
 I realize that America kills as many people abroad as it does at home, I realize that the empire is a machine which can only kill, I also realize that Canada, Great Britain, Australia, New Zealand are willing participants in Empire's's war against the world.
 
-I realize that no President has ever been the true leader of this country, I see that it has always been the wealth elite who rule from behind the stage, who use their wealth to influence power.
+I realize that no President has ever been the true leader of this country, I see that it has always been the wealthyt elite who rule from behind the stage, who use their wealth to influence power.
 
 _I know that the left and right fighting against each other is part of a greater strategy of distracting the American people from turning against their enemy government, from taking down an empire from within that will kill all life on Earth._
 
