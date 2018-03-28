@@ -65,4 +65,4 @@ I realize that no President has ever been the true leader of this country, I see
 
 _I know that the left and right fighting against each other is part of a greater strategy of distracting the American people from turning against their enemy government, from taking down an empire from within that will kill all life on Earth._
 
-**We need to think more as critical thinkers, and less as scared subjects of empire.**
+**We need to think more as critical thinkers, and less as scared subjects of empire, nationality aside, we are in this together, and we must be in this against empire.**
