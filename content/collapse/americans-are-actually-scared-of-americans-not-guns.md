@@ -36,7 +36,7 @@ I lay in bed at night staring at the ceiling, worrying about tomorrow, what it w
 * Scared and uneducated American boy kills his classmates and himself
 * Scared and exploited American cop kills a poor and exploited black child
 * America kills more innocent civilians, and points their finger at another country
-* Fuck you Trump, also fuck all your presidents, god damn this nation's leaders are horrible
+* Fuck you Trump, fuck all your presidents, god damn this nation's leaders are horrible
 
 So I want Americans to fix their education and health systems so that people aren't sick and poor, so that Americans can imagine a future worth living for.
 
