@@ -29,7 +29,7 @@ So you don't care if the American war machine keeps bombing innocent families in
 
 So you realize your president is a a dickhead and you get really angry at him, and you tell all your friends how terrible he is, and you really are upset about what he tweeted.
 
-You do what they want you to do, you see the problem on a surface level and you accept the solution they hand you.
+_You do what they want you to do, you see the problem on a surface level and you accept the solution they hand you._
 
 **As an Australian**
 
@@ -51,14 +51,18 @@ So I want America to stop the wars, to bring its troops home, to stop killing it
 
 So I want American presidents to stop killing life over the world and in your country, yeah I am including Obama, Bush, Clinton, Bush, and Reagan in that.
 
+_I react to your weird ways in a manner which places the blame solely on your country and your politics._
+
 **As a critical thinker**
 
-I realize that the gun problem in America is the tip of the iceberg, that these deaths are caused by shitty people living horrible lives who hate each other and themselves, who kill with guns as often as they kill with opiates.
+I realize that the gun problem in America is the tip of the iceberg, that these deaths are caused by people living horrible lives who are scared into hating each other and themselves, who kill with guns as much as they kill with opiates.
 
 I realize that the gun problem is more of a problem when the guns are in the hands of police and soldiers who use the to kill innocent people daily, and suffer no consequences.
 
-I realize that America kills as many people abroad as it does at home, I realize that the empire is a machine which can only kill.
+I realize that America kills as many people abroad as it does at home, I realize that the empire is a machine which can only kill, I also realize that Canada, Great Britain, Australia, New Zealand are willing participants in your war against the world.
 
-I realize that no President has ever been a leader of this country, I see that it has always been the wealth elite who rule from behind the stage, who use their wealth to influence power.
+I realize that no President has ever been the true leader of this country, I see that it has always been the wealth elite who rule from behind the stage, who use their wealth to influence power.
+
+_I know that the left and right fighting against each other is part of a greater strategy of distracting the American people from turning against their enemy government, from taking down an empire from within that will kill all life on Earth._
 
 **We need to think more as critical thinkers, and less as scared subjects of empire.**
