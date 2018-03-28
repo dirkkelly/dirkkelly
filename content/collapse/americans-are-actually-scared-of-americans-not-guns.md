@@ -24,7 +24,7 @@ So you want to ban all guns because shitty horrible people do terrible fucked up
 
 So you want to give the police more power because the lower class are out of control and want to destroy this country.
 
-So you don't care if the American war machine to keeps bombing innocent families in other countries, because they're not like you, they don't value freedom.
+So you don't care if the American war machine keeps bombing innocent families in other countries, because they're not like you, they don't value freedom.
 
 **So you realize your president is a puppet advocating for the death of all life... (and is therefore a dickhead)... but then so was Obama, Bush, Clinton, Bush, and Reagan...**
 
