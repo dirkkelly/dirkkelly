@@ -25,7 +25,7 @@ So you want to give the police more power because the lower class are out of con
 
 So you don't care if the American war machine keeps bombing innocent families in other countries, because they're not like you, they don't value freedom.
 
-So you realize your president is a dickhead and you get really angry at him, and you tell all your friends how terrible he is, and you really are upset about what he tweeted.
+So you realize your president is a dickhead and you get really angry at him, and you tell all your friends how terrible he is, and you get really upset about what he tweeted.
 
 _You do what they want you to do, you see the problem on a surface level and you accept the solution they hand you._
 
