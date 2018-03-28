@@ -60,7 +60,7 @@ I realize that America kills as many people abroad as it does at home, I realize
 
 I realize that no President has ever been the true leader of this country, I see that it has always been the wealthy elite who rule from behind the stage, who use their wealth to influence power.
 
-_I know that the left and right fighting against each other is part of a greater strategy of distracting the American people from turning against their enemy government, from taking down an empire from within that will kill all life on Earth._
+_I know that the left and right fighting against each other is part of a greater strategy of distracting the American people from turning against their enemy government, from taking down an Empire from within that will kill all life on Earth._
 
 **We need to think more as critical thinkers, and less as scared subjects of empire, nationality aside, we are in this together, and we must be in this against empire.**
 
