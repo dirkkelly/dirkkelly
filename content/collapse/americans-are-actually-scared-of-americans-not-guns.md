@@ -62,7 +62,7 @@ _I know that the left and right fighting against each other is part of a greater
 
 **We need to think more as critical thinkers, and less as scared subjects of empire, nationality aside, we are in this together, and we must be in this against empire.**
 
-Here's an amazing critical thinker Cody Johnston, who now has his own channel!
+Here's an amazing critical thinker Cody Johnston, who [now has his own channel](https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng) and also a [patreon](http://patreon.com/codyjohnston)!
 
 Gratz Cody, you're fucking amazing dude, your work is on point and I'm proud to support you being able to speak truth to power! Thank you :)
 
