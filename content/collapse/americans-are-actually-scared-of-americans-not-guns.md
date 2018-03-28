@@ -21,6 +21,8 @@ You lay in bed at night staring at the ceiling, worrying about tomorrow, what it
 * The US government bombed a wedding because the groom hated freedom
 * Your stupid dickhead of a president opened his dumb fucking mouth again
 
+So you want to ban all guns because horrible people do fucked up things that result in the death of people who look like you.
+
 So you want to give the police more power because the lower class are out of control and want to destroy this country.
 
 So you don't care if the American war machine keeps bombing innocent families in other countries, because they're not like you, they don't value freedom.
@@ -69,7 +71,3 @@ Gratz Cody, you're fucking amazing dude, your work is on point and I'm proud to 
 {{< youtube HBR_dcp38KA >}}
 
 {{< youtube Ngr4bNZsPeQ >}}
-
-> Hello, I'm a former newsperson and here's some news: I'm a newsperson again and here's some more news: Cody Johnston (newsperson) is going to be creating weekly content about and against the, um, news. You know, that news we all love? Me neither.
-
-> Regardless, I've heard your requests, your pleas, your "what the fuck where the fuck did your fucking Some News show go what the fuck am I going to do without it"s. And so, here it is. I'll be launching a weekly podcast for Patrons (some in which I speak to some old and familiar faces (voices), some bonus podcasts about single-serving topics, etc.) and will post various writings and videos that may have nothing to do with the news, for Patrons. This will all fund the publicly available, fully-formed video series eerily similar to another video series with which you may be familiar. And furthermore, I love you.
