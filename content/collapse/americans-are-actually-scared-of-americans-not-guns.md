@@ -15,13 +15,10 @@ image: ''
 
 You lay in bed at night staring at the ceiling, worrying about tomorrow, what it will bring, what it will change, what it will kill. It's not a question of whether these things will happen, you know they will, something always happens, and it's going to be in your face, and it's going to make you feel horrible.
 
-**Teenager guns down his classmates because of violet video games**
-
-**Cop shoots a child because black teenagers are out of control**
-
-**The US government bombed a wedding because the groom hated freedom**
-
-**Your stupid dickhead of a president opened his dumb fucking mouth again**
+* Teenager guns down his classmates because of violet video games
+* Cop shoots a child because black teenagers are out of control
+* The US government bombed a wedding because the groom hated freedom
+* Your stupid dickhead of a president opened his dumb fucking mouth again
 
 So you want to give the police more power because the lower class are out of control and want to destroy this country.
 
@@ -35,13 +32,10 @@ _You do what they want you to do, you see the problem on a surface level and you
 
 I lay in bed at night staring at the ceiling, worrying about tomorrow, what it will bring, what it will change, what it will kill. It's not a question of whether these things will happen, I know they will, something always happens, and it's going to be in my face, and it's going to make me feel horrible.
 
-**Scared and uneducated American boy kills his classmates and himself**
-
-**Scared and exploited American cop kills a poor and exploited black child**
-
-**America kills more innocent civilians, and points their finger at another country**
-
-**Fuck you Trump, also fuck all your presidents, god damn this nation's leaders are horrible**
+* Scared and uneducated American boy kills his classmates and himself
+* Scared and exploited American cop kills a poor and exploited black child
+* America kills more innocent civilians, and points their finger at another country
+* Fuck you Trump, also fuck all your presidents, god damn this nation's leaders are horrible
 
 So I want Americans to fix their education and health systems so that people aren't sick and poor, so that Americans can imagine a future worth living for.
 
