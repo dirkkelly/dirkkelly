@@ -62,7 +62,7 @@ I realize that no President has ever been the true leader of this country, I see
 
 _I know that the left and right fighting against each other is part of a greater strategy of distracting the American people from turning against their enemy government, from taking down an Empire from within that will kill all life on Earth._
 
-**We need to respond more as critical thinkers, and less as scared subjects of empire, nationality aside, we are in this together, and we must be in this against empire.**
+**We need to respond more as critical thinkers and react less as scared subjects, nationality aside, we are in this together, this fight against Empire.**
 
 Here's an amazing critical thinker Cody Johnston, who [now has his own channel](https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng "Cody Johnston YouTube")!
 
