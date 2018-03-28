@@ -49,7 +49,7 @@ So I want American police to be disarmed, to have their recycling programs with 
 
 So I want America to stop the wars, to bring its troops home, to stop killing its people back home by destroying social services to fund unlimited war against the world.
 
-So I want American presidents to stop killing life over the world and in your country, yeah we also mean Obama, Bush, Clinton, Bush, and Reagan....
+So I want American presidents to stop killing life over the world and in your country, yeah I am including Obama, Bush, Clinton, Bush, and Reagan in that.
 
 **As a critical thinker**
 
