@@ -11,6 +11,8 @@ aliases: []
 image: ''
 
 ---
+{{< youtube HBR_dcp38KA >}}
+
 **As an American**
 
 You lay in bed at night staring at the ceiling, worrying about tomorrow, what it will bring, what it will change, what it will kill. It's not a question of whether these things will happen, you know they will, something always happens, and it's going to be in your face, and it's going to make you feel horrible.
