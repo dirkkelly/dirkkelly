@@ -1,22 +1,22 @@
 ---
-title: I don’t want to Die in America
+title: I don’t Want to Die in America
 date: 2018-03-28 22:52:18 +0000
-subtitle: ''
-tags: []
+subtitle: 'I moved here for work, I will not stay here until death. '
+tags:
+- America
+- collapse
+- depression
 aliases: []
 image: ''
-draft: true
 
 ---
-That’s why I sunk into depression
+This magnficant place is filled with beautiful people, living in a poisoned culture which is killing both.
 
 That’s why I became so anxious
 
-That’s why I stopped caring about anything 
+That’s why I sunk into depression
 
-That’s why I couldn’t stay true
-
-That’s why I couldn’t marry you 
+That’s why I stopped caring about anything, anyone
 
 That’s why I left New York
 
