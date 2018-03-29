@@ -8,7 +8,7 @@ image: ''
 draft: true
 
 ---
-# [The Socialist Case for Gun Control](https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police)
+[The Socialist Case for Gun Control](https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police)
 
 > As socialists we appreciate the violence of capitalism in denying basic necessities like decent housing and schooling to large sections of the population. But do we wait for the overthrow of capitalism and reject interim solutions to remedy those ills?
 
