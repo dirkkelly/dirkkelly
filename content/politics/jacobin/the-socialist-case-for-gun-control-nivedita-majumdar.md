@@ -5,7 +5,6 @@ subtitle: ''
 tags: []
 aliases: []
 image: ''
-draft: true
 
 ---
 [Nivedita Majumdar “The Health of Nations" Jacobin](https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police)
