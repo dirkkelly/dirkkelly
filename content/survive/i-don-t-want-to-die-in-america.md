@@ -10,7 +10,7 @@ aliases: []
 image: ''
 
 ---
-This magnficant place is filled with beautiful people, living in a poisoned culture which is killing both.
+These magnficant American lands are filled with beautiful people, living in a poisoned culture which is killing both.
 
 That’s why I became so anxious
 
