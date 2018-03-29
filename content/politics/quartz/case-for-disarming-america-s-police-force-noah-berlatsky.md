@@ -5,7 +5,6 @@ subtitle: ''
 tags: []
 aliases: []
 image: ''
-draft: true
 
 ---
 [https://qz.com/602682/the-case-for-disarming-americas-police-force/](https://qz.com/602682/the-case-for-disarming-americas-police-force/ "https://qz.com/602682/the-case-for-disarming-americas-police-force/")
