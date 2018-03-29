@@ -8,7 +8,7 @@ image: ''
 draft: true
 
 ---
-[https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police](https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police "https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police")
+# [The Socialist Case for Gun Control](https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police)
 
 > As socialists we appreciate the violence of capitalism in denying basic necessities like decent housing and schooling to large sections of the population. But do we wait for the overthrow of capitalism and reject interim solutions to remedy those ills?
 
@@ -38,7 +38,7 @@ draft: true
 
 > There’s a reason the carceral state is happy to promote the proliferation of arms among its citizenry. It knows that such proliferation poses no threat to its rule. But there’s a deeper more insidious logic at play beyond pandering to gun manufacturers. 
 
-> > **Timothy Shenk:** What is the carceral state?
+> > [**Timothy Shenk: **](https://www.dissentmagazine.org/blog/booked-origins-carceral-state-elizabeth-hinton)What is the carceral state?
 > >
 > > **Elizabeth Hinton:** Historians and social scientists all have different definitions. The formal definition is that it’s the law enforcement officers who police the streets and help maintain order—it’s the court marshals, the lawyers, the probation and parole officers and, of course, correctional officials. So, it’s all the formal institutions of the criminal justice system. But the way that I think about the carceral state has been deeply informed by Foucault’s idea of the carceral, which is a carceral continuum or carceral network. In this book I’m trying to get us to expand our definitions of the carceral state to think about social programs that are operating in low-income, urban communities from the Kennedy administration until today, and the ways in which these programs impose various forms of supervision and surveillance. Often people who come into contact with these various state programs eventually end up in prison.
 
