@@ -12,16 +12,16 @@ image: ''
 ---
 These magnficant American lands are filled with beautiful people, living in a poisoned culture which is killing both.
 
-That’s why I became so anxious
+That’s why I became so anxious.
 
-That’s why I sunk into depression
+That’s why I sunk into depression.
 
-That’s why I stopped caring about anything, anyone
+That’s why I stopped caring about anything, anyone.
 
-That’s why I left New York
+That’s why I left New York.
 
-That’s why I made jobs in Perth
+That’s why I made jobs in Perth.
 
-That’s why I will go home
+That’s why I will go home.
 
-That’s where I’ll die, as we all do. 
+That’s where I’ll die, as we all do.
