@@ -8,7 +8,7 @@ image: ''
 draft: true
 
 ---
-[The Socialist Case for Gun Control](https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police)
+[Nivedita Majumdar “The Health of Nations" Jacobin](https://www.jacobinmag.com/2018/02/gun-control-parkland-students-race-police)
 
 > As socialists we appreciate the violence of capitalism in denying basic necessities like decent housing and schooling to large sections of the population. But do we wait for the overthrow of capitalism and reject interim solutions to remedy those ills?
 
@@ -16,7 +16,7 @@ draft: true
 
 > In 2013, 84 percent of black victims were killed with guns, and 73 percent of these were killed with handguns. [Trayvon Martin](https://www.wsj.com/articles/gun-that-killed-trayvon-martin-successfully-sold-1463618241) was killed by a 9mm pistol.
 
-> The argument, made by some that gun control must be opposed because the criminal justice system is irremediably racist, is untenable. It has been argued that the implementation of laws governing sexual assault and domestic abuse are often [racialized](https://www.nytimes.com/2017/09/22/opinion/california-sexual-assault-law-blacks.html). Yet few make the case that the state should therefore no longer criminalize sexual assault. 
+> The argument, made by some that gun control must be opposed because the criminal justice system is irremediably racist, is untenable. It has been argued that the implementation of laws governing sexual assault and domestic abuse are often [racialized](https://www.nytimes.com/2017/09/22/opinion/california-sexual-assault-law-blacks.html). Yet few make the case that the state should therefore no longer criminalize sexual assault.
 
 > It is no surprise that blacks themselves do not share the Left’s skepticism on gun control. In repeated [polls](http://www.people-press.org/2015/08/13/continued-bipartisan-support-for-expanded-background-checks-on-gun-sales/8-12-2015-3-59-05-pm/), more than 70 percent of black respondents support gun control, compared to some 40 percent of Whites. This puts progressives casting gun control as a “white liberal” issue in the awkward position of appearing to know better than black communities themselves what is in their interest.
 
@@ -36,9 +36,9 @@ draft: true
 
 > Imagine the state response if Occupy or Black Lives Matter included the idea of armed defense or resistance. And also imagine what it would have done for the future of organizing.
 
-> There’s a reason the carceral state is happy to promote the proliferation of arms among its citizenry. It knows that such proliferation poses no threat to its rule. But there’s a deeper more insidious logic at play beyond pandering to gun manufacturers. 
+> There’s a reason the carceral state is happy to promote the proliferation of arms among its citizenry. It knows that such proliferation poses no threat to its rule. But there’s a deeper more insidious logic at play beyond pandering to gun manufacturers.
 
-> > [**Timothy Shenk: **](https://www.dissentmagazine.org/blog/booked-origins-carceral-state-elizabeth-hinton)What is the carceral state?
+> > [\*\*Timothy Shenk: \*\*](https://www.dissentmagazine.org/blog/booked-origins-carceral-state-elizabeth-hinton)What is the carceral state?
 > >
 > > **Elizabeth Hinton:** Historians and social scientists all have different definitions. The formal definition is that it’s the law enforcement officers who police the streets and help maintain order—it’s the court marshals, the lawyers, the probation and parole officers and, of course, correctional officials. So, it’s all the formal institutions of the criminal justice system. But the way that I think about the carceral state has been deeply informed by Foucault’s idea of the carceral, which is a carceral continuum or carceral network. In this book I’m trying to get us to expand our definitions of the carceral state to think about social programs that are operating in low-income, urban communities from the Kennedy administration until today, and the ways in which these programs impose various forms of supervision and surveillance. Often people who come into contact with these various state programs eventually end up in prison.
 
