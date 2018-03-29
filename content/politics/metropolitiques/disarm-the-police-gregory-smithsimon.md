@@ -5,7 +5,6 @@ subtitle: ''
 tags: []
 aliases: []
 image: ''
-draft: true
 
 ---
 [http://www.metropolitiques.eu/Disarm-the-Police.html](http://www.metropolitiques.eu/Disarm-the-Police.html "http://www.metropolitiques.eu/Disarm-the-Police.html")
