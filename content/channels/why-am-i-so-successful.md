@@ -20,7 +20,7 @@ You either understand that or you don't.
 
 The way you understand that is that you see change happen in your world, daily, because that's how change happens, one day at a time, one tiny action at a time.
 
-I am a Wall Street  Executive, running a $700,00 software engineering budget for the purpose of improving culture exchange relationships between thousands of people around the world, I work out of my home in Colorado and earn 6x more than the average American household.
+I am a Wall Street  Executive, running a $700,00 software engineering budget for the purpose of improving relationships between thousands of people around the world through cultural exchange, I work out of my home in Colorado and earn 6x more than the average American household.
 
 That's not after some struggle, some struggle that made me realize that this system which creates huge levels of inequality is not a society that supports life. This struggle also taught me how to fight power, how to plan, propose, and enforce revolutions that change policy, and change the lives of the people around me.
 
