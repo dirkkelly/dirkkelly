@@ -28,7 +28,7 @@ I am the epitome of the American dream, I moved here at 22, with literally no mo
 
 Fuckkkk, I needed that $5,000, that was how I was going to an afford to rent an apartment. What the fuck do I do now.
 
-Airbnb you better fucking believe it, I lived day-to-fucking-day in hostels and strangers homes, I even unlocked a special feature "It looks like you're desperate for a place to sleep, we're going to send a notification to all hosts in the area, Okay?" 
+Airbnb, I lived day-to-fucking-day in hostels and strangers homes, I even unlocked a special feature "It looks like you're desperate for a place to sleep, we're going to send a notification to all hosts in the area, Okay?" 
 
 **Okay**
 
