@@ -2,7 +2,7 @@
 date: 2017-08-18 00:00:00 +0000
 title: The Paradox of Tolerance
 subtitle: The Open Society and Its Enemies, Philosopher Karl Popper
-image: 2017/07/the-paradox-of-tolerance-pictoline.jpg
+image: "/uploads/2018/03/30/02813D40-11AE-4787-9116-2E6EFE70C5BF.jpeg"
 tags:
 - Philosophy
 - Tolerance
