@@ -10,7 +10,7 @@ image: ''
 draft: true
 
 ---
-Nobody is going to give you anything, that's not how it works in this world.
+Nobody is going to give you anything, that's not how it works in our current society.
 
 * Being rich doesn't mean you understand that.
 * Being famous doesn't mean you understand that.
