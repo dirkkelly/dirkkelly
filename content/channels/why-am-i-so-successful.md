@@ -20,9 +20,7 @@ You either understand that or you don't.
 
 The way you understand that is that you see change happen in your world, daily, because that's how change happens, one day at a time, one tiny action at a time.
 
-I wanted to take some time to reflect on where I'm at, so the rest of this post is about my story of moving to America, a brief overview of how I changed my life from a poor college grad, into a powerful member of society who is advocating for giving more rights to workers, and dismantling the empire which is destroying all life.
-
-I am a Wall Street Technology Executive, running a 3/4 of a million dollar budget for the purpose of improving culture exchange relationships between thousands of people around the world, I work out of my home in Colorado and earn 6x more than the average American household.
+I am a Wall Street  Executive, running a $700,00 software engineering budget for the purpose of improving culture exchange relationships between thousands of people around the world, I work out of my home in Colorado and earn 6x more than the average American household.
 
 That's not after some struggle, some struggle that made me realize that this system which creates huge levels of inequality is not a society that supports life. This struggle also taught me how to fight power, how to plan, propose, and enforce revolutions that change policy, and change the lives of the people around me.
 
