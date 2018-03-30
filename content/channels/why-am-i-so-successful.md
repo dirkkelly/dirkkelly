@@ -12,7 +12,7 @@ draft: true
 ---
 Nobody is going to give you anything, that's not how it works in this world.
 
-* Having money doesn't mean you understand that.
+* Being rich doesn't mean you understand that.
 * Being famous doesn't mean you understand that.
 * Being liked doesn't mean you understand that.
 
