@@ -59,7 +59,7 @@ I hadn't been fine for a long time, and now I was up against a monster, a final 
 
 It's a war, and you, the broken human being who is in pain, is caught in the middle. Two massive organizations, your hospital and your health insurance, they hate each other, and the best place to put their hatred (their costs) is on you, the child-adult with a broken wrist and no family to look after him. 
 
-**I had a very good American lady look after me, I will always appreciate you.**
+**I had a very good American lady look after me, K I will always appreciate you.**
 
 But that didn't stop it from destroying me, from crushing my spirit and optimism, from taking away the distraction of reality.
 
