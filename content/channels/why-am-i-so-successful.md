@@ -38,11 +38,13 @@ Airbnb you better fucking believe it, I lived day-to-fucking-day in hostels and 
 
 Turns out I had a really good Klout, due to the small size of Perth I had quickly acquired these fake internet points on a website that I hope is dead, but might not be, who cares.
 
-I started getting gifts in the mail from retailers, hoping I'd tweet about their products.
+I started getting gifts in the mail from retailers, hoping I'd tweet about their products, I was homeless, but who cared, internet points!
 
-Also I really missed home, and I still didn't have a place to live, and I going on random dates every other night to try to feel some comfort from someone.
+I really missed home, I didn't have a place to live, and I was going on random dates every other night to try to feel some comfort from someone.
 
-It doesn't matter what happens in between, because I don't remember. Sometimes I chuckle when I think about wearing a santa outfit on a pub crawl, but then I remember how empty I felt that whole time... drugs, sex and alcohol were a good distraction though.
+I eventually found a home, I borrowed money from my friend and we moved in together, I paid him back as quickly as I could, while having as much fun as I could.
+
+Sometimes I chuckle when I think about wearing a Santa outfit on a pub crawl, but then I remember how empty I felt that whole time... drugs, sex and alcohol were a good distraction from reality, until reality knocked me off my snowboard.
 
 **I broke my wrist.**
 
