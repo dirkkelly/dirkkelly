@@ -48,7 +48,7 @@ Sometimes I chuckle when I think about wearing a Santa outfit on a pub crawl, bu
 
 **I broke my wrist.**
 
-I was terrified, I called my mum from the bus, "I don't want you to freak out, but I broke my wrist snowboarding", "Oh my god, should I fly out there", "No, I'm fine".
+I was terrified, still I calmly called my mum from the bus, "I don't want you to freak out, but I broke my wrist snowboarding", "Oh my god, should I fly out there", "No, I'm fine".
 
 **I wasn't fine.**
 
