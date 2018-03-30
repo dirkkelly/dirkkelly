@@ -16,7 +16,7 @@ Nobody is going to give you anything, that's not how it works in this world.
 * Being famous doesn't mean you understand that.
 * Being liked doesn't mean you understand that.
 
-The way you understand that is that you see change happen in your world, daily, because that's how change happens, one day at a time, one tiny action at a time.
+The way you get anything is that you make the world change happen in your favor just a little bit every day, because that's how change happens, one day at a time, one tiny action at a time.
 
 I am a Wall Street  Executive, running a $700,00 software engineering budget for the purpose of improving relationships between thousands of people around the world through cultural exchange, I work out of my home in Colorado and earn 6x more than the average American household.
 
