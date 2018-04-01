@@ -1,11 +1,11 @@
-/basics  /about
-/channels/*  /media/:splat
-/collapse/*  /essays/collapse/:splat
-/economics/*  /essays/economics/:splat
-/philosophy/*  /essays/philosophy/:splat
-/politics/*  /essays/politics/:splat
-/survive/*  /essays/survive/:splat
-/technology/*  /essays/technology/:splat
-/tags/chomsky /tags/noam-chomsky
-/pledges https://www.patreon.com/dirkkelly/creators
-/tags/trump /tags/donald-trump
+/basics  /about 301
+/channels/*  /media/:splat 301
+/collapse/*  /essays/collapse/:splat 301
+/economics/*  /essays/economics/:splat 301
+/philosophy/*  /essays/philosophy/:splat 301
+/pledges https://www.patreon.com/dirkkelly/creators 301
+/politics/*  /essays/politics/:splat 301
+/survive/*  /essays/survive/:splat 301
+/tags/chomsky /tags/noam-chomsky 301
+/tags/trump /tags/donald-trump 301
+/technology/*  /essays/technology/:splat 301
