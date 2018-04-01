@@ -1,4 +1,3 @@
-baseUrl = "https://dirkkelly.com/"
 canonifyurls = true
 googleAnalytics = "UA-38004449-5"
 languageCode = "en-us"
@@ -7,7 +6,6 @@ title = "Dirk Kelly"
 # disqusshortname = "dirkkellycom"
 staticman_api = "https://api.staticman.net/v2/entry/dancwilliams/networkhobo/master/comments"
 pluralizelisttitles = false
-SectionPagesMenu = "topbar"
 
 [params]
   author = "dirkkelly"
@@ -15,37 +13,37 @@ SectionPagesMenu = "topbar"
 
 [[menu.topbar]]
   name = "Politics"
-  url = "/politics/"
+  url = "/essays/politics/"
   identifier = "politics"
   weight = 1
 
 [[menu.topbar]]
   name = "Economics"
-  url = "/economics/"
+  url = "/essays/economics/"
   identifier = "economics"
   weight = 2
 
 [[menu.topbar]]
   name = "Technology"
-  url = "/technology/"
+  url = "/essays/technology/"
   identifier = "technology"
   weight = 3
 
 [[menu.topbar]]
   name = "Philosophy"
-  url = "/philosophy/"
+  url = "/essays/philosophy/"
   identifier = "philosophy"
   weight = 4
 
 [[menu.topbar]]
   name = "Survive"
-  url = "/survive/"
+  url = "/essays/survive/"
   identifier = "survive"
   weight = 5
 
 [[menu.topbar]]
   name = "Collapse"
-  url = "/collapse/"
+  url = "/essays/collapse/"
   identifier = "collapse"
   weight = 6
 
