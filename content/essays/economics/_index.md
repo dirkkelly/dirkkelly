@@ -1,3 +1,3 @@
 ---
-title: Reflections on These Economic Times we Find Ourselves in
+title: Reflections on these economic times we find ourselves in.
 ---

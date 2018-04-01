@@ -1,3 +1,3 @@
 ---
-title: People Decide How Life is Structured, Power Decides the Strategy
+title: People decide how life is structured, power secides the strategy.
 ---

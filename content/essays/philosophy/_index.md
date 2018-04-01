@@ -1,3 +1,3 @@
 ---
-title: The Thoughts of People Who Think About Thinking
+title: The thoughts of people who think about thinking.
 ---

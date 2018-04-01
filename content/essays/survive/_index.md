@@ -1,3 +1,3 @@
 ---
-title: You Are Not Alone, You Need Not Suffer Alone
+title: You are not alone, you don't need to suffer alone.
 ---
