@@ -15,17 +15,17 @@ image: ''
 
 No, it's not that simple, nothing in this interconnected hypernormalised world will ever be simple. Collapse of our civilization, of this dominant culture, is a continuing and long process, it has no clear beginning and it's end will only be defined in the history books.
 
-For you, and me, for the children and future generations of this Earth, collapse is life, collapse is the weekly, now daily, incidents which as in individual event seem terrible, and as a collection of events are catastrophic. 
+For you, and me, for the children and future generations of this Earth, collapse is life, collapse is the weekly, now daily, incidents which as in individual event seem terrible, and as a collection of events are catastrophic.
 
 "Surviving" collapse is also not a destination, it's an ongoing process of assessment and adaptation, responding to local traumas, with a global perspective.
 
-Surviving collapse is as much as physical challenge as it is a mental challenge, a strong body with an ignorant and weak mind is going to be unable to direct their energy at efforts of actual improvement. 
+Surviving collapse is as much as physical challenge as it is a mental challenge, a strong body with an ignorant and weak mind is going to be unable to direct their energy at efforts of actual improvement.
 
-The opposite can be just as unhelpful, a strong mind in a weak body may be able to provide excellent analysis, but their inability to put this into practice will limit their influence in the world. 
+The opposite can be just as unhelpful, a strong mind in a weak body may be able to provide excellent analysis, but their inability to put this into practice will limit their influence in the world.
 
 None of this is to say that we cannot engage with those who lack the theoretical understanding, nor that those with less physical ability can't provide incredible support to our resistance, it's just to say that you must focus on your self improvement in both these areas.
 
-### **Self Collapse Audit 2018 March** 
+### **Self Collapse Audit 2018 March**
 
 #### Health
 

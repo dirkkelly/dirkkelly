@@ -16,4 +16,3 @@ I'm very grateful for the new things that have come into my life over the last f
 I also added a new category today, [survive](/survive/) which gives me a place to put content that inspires us to drive forward with our efforts to create change in our world.
 
 Survive :)
-

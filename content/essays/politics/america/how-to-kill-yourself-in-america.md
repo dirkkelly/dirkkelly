@@ -11,13 +11,13 @@ image: ''
 draft: true
 
 ---
-Why would you vote against your best interests like that? 
+Why would you vote against your best interests like that?
 
-Why can’t you see that you need those benefits? 
+Why can’t you see that you need those benefits?
 
 Why do you hate the government so much?
 
-Why are you so protective of your guns? 
+Why are you so protective of your guns?
 
 Why do you want to shoot all the people at school?
 

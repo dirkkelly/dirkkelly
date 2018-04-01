@@ -36,7 +36,7 @@ Her full story is of course deep and vast, we only heard half hour or it, but th
 
 > The group was rooted in conservative christian values, with the singular exception of black empowerment, gender based power models still existed, disempowering the women who worked in the association, but were unable to build leadership positions.
 
-Ultimately though this person and the partner she met there stayed, they worked through the conflict and division, they built alliances, eventually they were accepted by long standing members who created a space for them to listen and engage in discussion about the association. 
+Ultimately though this person and the partner she met there stayed, they worked through the conflict and division, they built alliances, eventually they were accepted by long standing members who created a space for them to listen and engage in discussion about the association.
 
 By not turning away from the problem, by recognizing the issues of power distribution in the group, by recognizing and respecting the history, culture, and time period for the group, and by constantly showing service and duty to the mission, they were able to become members that created positive change.
 

@@ -1,0 +1,11 @@
+/basics  /about
+/channels/*  /media/:splat
+/collapse/*  /essays/collapse/:splat
+/economics/*  /essays/economics/:splat
+/philosophy/*  /essays/philosophy/:splat
+/politics/*  /essays/politics/:splat
+/survive/*  /essays/survive/:splat
+/technology/*  /essays/technology/:splat
+/tags/chomsky /tags/noam-chomsky
+/pledges https://www.patreon.com/dirkkelly/creators
+/tags/trump /tags/donald-trump
