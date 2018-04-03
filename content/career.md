@@ -7,10 +7,6 @@ tags:
 type: page
 aliases:
 - "/resume/"
-menu:
-  sidebar:
-    weight: 2
-
 ---
 ### [InterExchange](http://interexchange.org)
 
