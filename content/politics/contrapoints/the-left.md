@@ -1,5 +1,6 @@
 ---
 title: Contrapoints The Left
+type: media
 tags:
 - Contrapoints
 - Resist

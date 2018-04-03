@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 I didn't even know I was going to war when I was deployed, when the empire picked me for active duty and shipped me off to the other side of the world.
 
 > I miss my dog so much, I miss my boy, the man that I raised, who turned into the dog that I love with all my heart.

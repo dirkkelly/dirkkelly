@@ -3,6 +3,7 @@ title: Nobody Can Do This Alone
 date: 2018-03-17 04:21:45 +0000
 subtitle: Our survival is the responsibility of everyone, we can make that our governments
   priorities, but we need to take power back in order to do that.
+type: blog
 tags:
 - Democracy
 - Socialism
@@ -14,6 +15,7 @@ aliases:
 image: ''
 
 ---
+
 For me the biggest relief over these years is learning that I’m not solely responsible for saving our species from extinction.
 
 The hardest thing to come to terms with is that most of the species is ignorant of the dangers we face, or responsible in their own small way for pushing us closer to the edge.

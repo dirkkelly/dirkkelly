@@ -4,6 +4,7 @@ date: 2018-03-26 22:28:37 +0000
 subtitle: Noam Chomsky offers 10 reasons why America is not a democracy, is a horrible
   place to live, is causing mass distress, and is killing children and adults alike,
   both in America and in foreign nations.
+type: media
 tags:
 - noam chomsky
 - collapse

@@ -2,6 +2,7 @@
 date: 2017-12-22 00:00:00 +0000
 title: David Pakman interviews Scott Adams on Donald Trump's "Report Card"
 subtitle: This is Exactly How To Engage with "Other Side"
+type: media
 tags:
 - America
 - David Pakman

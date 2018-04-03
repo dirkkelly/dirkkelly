@@ -2,6 +2,7 @@
 date: 2017-12-21 00:00:00 +0000
 title: Gough Whitlam, Australia's greatest Prime Minister
 subtitle: Friendly Jordies setting the record straight
+type: media
 tags:
 - Australia
 - Gough Whitlam

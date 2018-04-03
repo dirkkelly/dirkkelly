@@ -2,6 +2,7 @@
 title: Grateful For These New Changes
 date: 2018-03-17 10:21:45 +0000
 image: "/images/screenshots/2018-03-18-00-23-00.png"
+type: blog
 aliases:
 - "/technology/new-macbook-pro-new-logo-new-website/"
 - "/survive/new-things-make-me-happy/"

@@ -1,6 +1,7 @@
 ---
 date: 2017-05-31 00:00:00 +0000
 title: America Needed Bernie Sanders, a Politician
+type: blog
 tags:
 - America
 - Bernie Sanders

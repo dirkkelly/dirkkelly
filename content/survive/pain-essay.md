@@ -1,6 +1,7 @@
 ---
 title: Pain Essay
 date: 2018-03-20 14:08:26 -0600
+type: media
 tags:
 - collapse
 - violence

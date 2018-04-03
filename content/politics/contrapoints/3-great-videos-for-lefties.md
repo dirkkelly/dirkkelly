@@ -1,6 +1,7 @@
 ---
 date: 2017-10-04 00:00:00 +0000
 title: 3 Great Contrapoints Videos for Lefties
+type: media
 tags:
 - Resist
 - Contrapoints

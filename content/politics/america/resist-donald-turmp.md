@@ -1,6 +1,7 @@
 ---
 date: 2017-04-05 00:00:00 +0000
 title: America, Resist Donald Trump
+type: blog
 tags:
 - America
 - Resist

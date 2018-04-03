@@ -1,6 +1,7 @@
 ---
 date: 2017-10-29 00:00:00 +0000
 title: Is There an Alternative to Political Correctness?
+type: media
 tags:
 - School of Life
 - Political Correctness

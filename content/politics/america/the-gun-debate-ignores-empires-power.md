@@ -3,7 +3,7 @@ title: This Gun Debate Ignores Empire's Power, Killer Mike
 subtitle: It's not even a debate, it's just another idealogy laced fight between the
   lower classes, a distraction from the real threat of Empire.
 date: 2018-03-25 19:52:17 -0600
-type: article
+type: essay
 tags:
 - america
 - collapse
@@ -12,6 +12,7 @@ aliases:
 - "/collase/im-sick-of-this-gun-debate-2018-03/"
 - "/collapse/im-sick-of-this-gun-debate-2018-03/"
 - "/collapse/im-sick-of-this-gun-debate-killer-mike-right-2018-03/"
+- "/politics/killer-mike/this-gun-debate-ignores-empires-power/"
 image: "/uploads/2018/03/26/killer-mike-nratv.jpg"
 
 ---
