@@ -8,7 +8,8 @@ tags:
 - wall street
 - donald trump
 - richard wolff
-subtitle: ''
+subtitle: There has to be a movement from below otherwise there's no counter force
+  that can take us in another direction.
 aliases: []
 image: ''
 
