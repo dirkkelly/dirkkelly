@@ -22,7 +22,7 @@ I guess it's time to start another war.
 
 I hope you don't have debt, I hope you've got assets in other countries, I hope you're a citizen of other countries, I hope you have employment in other countries.
 
-That doesn't mean other countries are immune to the financial crisis they're all about to experience, just that their are more stable places in the world to be when people start realizing, money is just a construct.
+That doesn't mean other countries are immune to the financial crisis that we're all about to experience, just that there are more stable places in the world to be than America when people start realizing, money is just a construct.
 
 I wasn't sure whether to publish this, thanks for the encouragement Wolff.
 
