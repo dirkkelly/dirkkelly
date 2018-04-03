@@ -1,6 +1,7 @@
 ---
 title: Pain Essay
 date: 2018-03-20 14:08:26 -0600
+type: media
 tags:
 - collapse
 - violence
@@ -44,7 +45,7 @@ It was a dead place, a wasteland, sure with some parks, but they were the except
 
 We need to normalize the despair, it is an appropriate response to a desperate situation.
 
-> Sorrow is just sorrow, pain is just pain, and it's not so much the sorrow or the pain that hurts, it's my resistance to it.  
+> Sorrow is just sorrow, pain is just pain, and it's not so much the sorrow or the pain that hurts, it's my resistance to it.
 
 > There's this idea that if you acknowledge how bad things are you have to go around being miserable all the time, so we waste energy trying to avoid the reality we find ourselves embedded in, instead of acknowledging our situation and figuring out what to do about it.
 

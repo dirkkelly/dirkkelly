@@ -2,6 +2,7 @@
 date: 2017-12-24 00:00:00 +0000
 title: Pig Iron Bob and Australian Unions
 subtitle: Maritime Union of Australia and Robert Menzies
+type: media
 tags:
 - Union
 - Capitalism
@@ -10,7 +11,6 @@ tags:
 - Maritime Union of Australia
 - Resist
 - Pig Iron Bob
-type: 2017
 aliases:
 - "/2017/12/24-pig-iron-bob-australian-unions/"
 

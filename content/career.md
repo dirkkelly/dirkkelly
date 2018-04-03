@@ -9,8 +9,7 @@ aliases:
 - "/resume/"
 menu:
   sidebar:
-    weight: 2
-
+    weight: 5
 ---
 ### [InterExchange](http://interexchange.org)
 

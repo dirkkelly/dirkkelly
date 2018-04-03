@@ -2,12 +2,12 @@
 date: 2017-12-30 00:00:00 +0000
 title: 2017 Ben Howard Anthem
 subtitle: ''
+type: media
 tags:
 - Personal
 - Music
 - Ben Howard
 - Resist
-type: 2017
 aliases:
 - "/2017/12/30-2017-ben-howard-anthem/"
 

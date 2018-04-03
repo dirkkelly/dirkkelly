@@ -1,6 +1,7 @@
 ---
 date: 2017-11-22 00:00:00 +0000
 title: Slaughterbots, A Terrifying Vision of the Future if Bots are Allowed to Kill.
+type: media
 tags:
 - America
 - War

@@ -3,6 +3,7 @@ date: 2017-08-18 00:00:00 +0000
 title: The Paradox of Tolerance
 subtitle: The Open Society and Its Enemies, Philosopher Karl Popper
 image: "/uploads/2018/03/30/02813D40-11AE-4787-9116-2E6EFE70C5BF.jpeg"
+type: media
 tags:
 - Philosophy
 - Tolerance
@@ -12,11 +13,10 @@ tags:
 - Free Speech
 - Karl Popper
 - Resist
-type: 2017
 aliases:
 - "/2017/07/the-paradox-of-tolerance/"
-
 ---
+
 > Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them. In this formulation, I do not imply, for instance, that we should always suppress the utterance of intolerant philosophies; as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise. But we should claim the right to suppress them if necessary even by force; for it may easily turn out that they are not prepared to meet us on the level of rational argument, but begin by denouncing all argument; they may forbid their followers to listen to rational argument, because it is deceptive, and teach them to answer arguments by the use of their fists or pistols. We should therefore claim, in the name of tolerance, the right not to tolerate the intolerant. We should claim that any movement preaching intolerance places itself outside the law, and we should consider incitement to intolerance and persecution as criminal, in the same way as we should consider incitement to murder, or to kidnapping, or to the revival of the slave trade, as criminal.
 
 Found on [r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/comments/6ub41y/the_paradox_of_tolerance/)

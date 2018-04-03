@@ -3,7 +3,7 @@ title: This Gun Debate Ignores Empire's Power, Killer Mike
 subtitle: It's not even a debate, it's just another idealogy laced fight between the
   lower classes, a distraction from the real threat of Empire.
 date: 2018-03-25 19:52:17 -0600
-type: article
+type: essays
 tags:
 - america
 - collapse
@@ -12,6 +12,7 @@ aliases:
 - "/collase/im-sick-of-this-gun-debate-2018-03/"
 - "/collapse/im-sick-of-this-gun-debate-2018-03/"
 - "/collapse/im-sick-of-this-gun-debate-killer-mike-right-2018-03/"
+- "/politics/killer-mike/this-gun-debate-ignores-empires-power/"
 image: "/uploads/2018/03/26/killer-mike-nratv.jpg"
 
 ---
@@ -19,7 +20,7 @@ Of course people are jumping on [Killer Mike because he appeared on NRA TV](http
 
 {{< youtube ZXtpUE1b2NY >}}
 
-> I have worked as a tireless advocate on the behalf of children and disenfranchised women in society, I've also worked with gun groups like Georgians' Against Gun Violence, so I say if there's a table to be sat at, a gun owner needs to be there. You have to see a problem from the whole perspective.  
+> I have worked as a tireless advocate on the behalf of children and disenfranchised women in society, I've also worked with gun groups like Georgians' Against Gun Violence, so I say if there's a table to be sat at, a gun owner needs to be there. You have to see a problem from the whole perspective.
 > **Killer Mike**
 
 Killer Mike focusses his piece on the importance of retaining gun rights of the individual, however at the very beginning their is a mention of the systemic problems which result in this gun violence. Of course due to NRAs bias this is not going to be expanded upon, but its an absolutely vital part of the conversation, why is is that people are shooting each other? And even if somehow, all the guns were removed from people's houses, taking away an extremely convenient and powerful tool for killing, will the killing stop?

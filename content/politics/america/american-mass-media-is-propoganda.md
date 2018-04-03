@@ -13,6 +13,6 @@ draft: true
 ---
 > Isn't propaganda just lies?
 
-Nuance is not something most American people spend much time considering, the idea that things can be a 
+Nuance is not something most American people spend much time considering, the idea that things can be a
 
 [https://caitlinjohnstone.com/2018/03/12/mass-media-propaganda-is-the-only-thing-keeping-us-from-rising-like-lions/](https://caitlinjohnstone.com/2018/03/12/mass-media-propaganda-is-the-only-thing-keeping-us-from-rising-like-lions/ "https://caitlinjohnstone.com/2018/03/12/mass-media-propaganda-is-the-only-thing-keeping-us-from-rising-like-lions/")

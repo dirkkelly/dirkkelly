@@ -2,10 +2,10 @@
 date: 2017-12-31 00:00:00 +0000
 title: Next Year Perth, Following Year Farm
 subtitle: My exit from the USA and eventual exit from the global economy.
+type: blog
 tags:
 - Personal
 - Farm
-type: 2017
 aliases:
 - "/2017/12/31-next-year-perth-following-year-farm/"
 

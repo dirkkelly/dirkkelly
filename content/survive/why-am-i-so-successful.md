@@ -7,6 +7,7 @@ subtitle: I don't have any Twitter or Facebook followers, I don't give a fuck ab
 tags: []
 aliases: []
 image: ''
+type: blog
 draft: true
 
 ---

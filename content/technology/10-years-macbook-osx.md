@@ -1,10 +1,10 @@
 ---
 title: 10 Years of Macbook Pro's and OS X
 subtitle: How I Got Here, Where I'm Looking Next
+type: blog
 tags:
 - Mac OS
 date: 2018-02-18 00:00:00 +0000
-type: 2018
 draft: true
 
 ---

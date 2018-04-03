@@ -1,6 +1,7 @@
 ---
 date: 2017-04-12 00:00:00 +0000
 title: 100 Days
+type: blog
 tags:
 - Donald Trump
 - America
@@ -11,9 +12,8 @@ tags:
 - Culture War
 aliases:
 - "/2017/04/100-days/"
+---
 
----
----
 In the American Media you're hearing a lot right now about Trump's first 100 days, people are (rightfully so) giving this topic a lot of attention. Understanding what this presidency focuses its attention on in its first days gives us an idea of where the administration is pointing our future.
 
 I had personally been thinking about these 100 days a lot lately, and honestly, it was making me extremely depressed, despondant, and anxious.

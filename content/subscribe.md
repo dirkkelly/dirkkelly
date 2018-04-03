@@ -4,7 +4,7 @@ type: page
 menu:
   sidebar:
     name: "Subscribe (new)"
-    weight: 4
+    weight: 7
 ---
 
 ## Interested in a monthly digest of posts?

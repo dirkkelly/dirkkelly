@@ -1,6 +1,7 @@
 ---
 date: 2017-10-04 00:00:00 +0000
 title: 3 Great Contrapoints Videos for Lefties
+type: media
 tags:
 - Resist
 - Contrapoints
@@ -10,7 +11,6 @@ tags:
 - Nazism
 - Identity Politics
 - Culture War
-type: 2017
 aliases:
 - "/2017/10/3-great-contrapoints-for-lefties/"
 - "/contrapoints/3-great-contrapoints-for-lefties/"

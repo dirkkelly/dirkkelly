@@ -1,6 +1,7 @@
 ---
 title: Rick and Morty & Run The Jewels
 date: 2018-03-18 00:00:58 -0400
+type: media
 tags:
 - Run The Jewels
 - Rick and Morty

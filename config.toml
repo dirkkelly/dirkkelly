@@ -1,4 +1,3 @@
-baseUrl = "https://dirkkelly.com/"
 canonifyurls = true
 googleAnalytics = "UA-38004449-5"
 languageCode = "en-us"
@@ -7,7 +6,6 @@ title = "Dirk Kelly"
 # disqusshortname = "dirkkellycom"
 staticman_api = "https://api.staticman.net/v2/entry/dancwilliams/networkhobo/master/comments"
 pluralizelisttitles = false
-SectionPagesMenu = "topbar"
 
 [params]
   author = "dirkkelly"

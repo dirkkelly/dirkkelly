@@ -2,11 +2,11 @@
 date: 2017-12-23 00:00:00 +0000
 title: Joyner Luca Music Videos
 subtitle: ''
+type: media
 tags:
 - Joyner Luca America
 - Racism
 - Depression
-type: 2017
 aliases:
 - "/2017/12/23-joyner-lucas-music-videos/"
 

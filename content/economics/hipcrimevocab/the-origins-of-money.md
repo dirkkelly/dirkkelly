@@ -1,15 +1,14 @@
 ---
 date: 2017-11-10 00:00:00 +0000
 title: The Origins of Money, HipCrime Vocab
+type: essays
 tags:
 - Capitalism
 - Philosophy
 - HipCrime Vocab
 - Resist
-type: 2017
 aliases:
 - "/2017/11/10-the-origins-of-money-hipcrimevocab/"
-
 ---
 [the HipCrime Vocab](http://hipcrimevocab.com) is a source of many in-depth essays analyzing power in our society, where it came from, how it is distributed, and the ways in which the systems enforce control.
 

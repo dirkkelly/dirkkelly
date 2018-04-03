@@ -2,6 +2,7 @@
 date: 2017-12-10 00:00:00 +0000
 title: How is Australia Going?
 subtitle: Let's check in with FriendlyJordies on Australia
+type: media
 tags:
 - Australia
 - Personal

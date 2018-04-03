@@ -3,6 +3,7 @@ title: The Greatest Threat To All Life on Earth, America
 date: 2018-03-15 00:04:32 +0000
 subtitle: Acknowledge that the American people are not their government, and that
   their government will kill everyone... if that’s a profitable solution.
+type: blog
 tags:
 - America
 - Capitalism
@@ -13,6 +14,7 @@ aliases:
 image: ''
 
 ---
+
 Russia is not going to launch a nuke.
 
 Islam is not going to kill western values.
@@ -33,11 +35,11 @@ America is a dying nation.
 
 **Why?**
 
-Because its people are dying of oppression, depression, or abandonment inflicted by their governing forces, a few wealthy   Individuals who own all the industries  
+Because its people are dying of oppression, depression, or abandonment inflicted by their governing forces, a few wealthy   Individuals who own all the industries
 
 **Why?**
 
-Because the people of America are being abandoned because they’re no longer valuable to the capitalist system. They’re too expensive to hire compared to the rest of the world, and they’re too poor to afford anything the capitalists are producing. 
+Because the people of America are being abandoned because they’re no longer valuable to the capitalist system. They’re too expensive to hire compared to the rest of the world, and they’re too poor to afford anything the capitalists are producing.
 
 **Why?**
 

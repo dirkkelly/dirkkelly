@@ -1,12 +1,12 @@
 ---
 date: 2017-10-11 00:00:00 +0000
 title: Fuck You Trump, by Eminem
+type: media
 tags:
 - Eminem
 - Resist
 - Donald Trump
 - Snoop Dogg
-type: 2017
 aliases:
 - "/url/2017/10/11-fuck-you-trump-by-eminem/"
 

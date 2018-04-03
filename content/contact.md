@@ -6,8 +6,7 @@ tags:
 type: page
 menu:
   sidebar:
-    weight: 3
-
+    weight: 6
 ---
 
 ## Secure
