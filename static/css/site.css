@@ -24,7 +24,6 @@ a { text-decoration: none; }
 .content .post-summary .post-date { display: block; margin-bottom: 5px }
 
 .content .post-content { font-size: 1.2em; }
-.content .post-content p { text-align: justify; }
 .content .post-content blockquote p { text-align: left; }
 .content .post-content img { width: 100%; margin: 10px 0; }
 
