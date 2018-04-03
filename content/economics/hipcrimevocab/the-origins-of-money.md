@@ -1,7 +1,7 @@
 ---
 date: 2017-11-10 00:00:00 +0000
 title: The Origins of Money, HipCrime Vocab
-type: essay
+type: essays
 tags:
 - Capitalism
 - Philosophy

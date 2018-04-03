@@ -2,6 +2,7 @@
 title: I don’t Want to Die in America
 date: 2018-03-28 22:52:18 +0000
 subtitle: 'I moved here for work, I will not stay here until death. '
+type: blog
 tags:
 - America
 - collapse
