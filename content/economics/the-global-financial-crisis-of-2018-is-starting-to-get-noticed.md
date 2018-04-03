@@ -7,6 +7,7 @@ tags:
 - america
 - wall street
 - donald trump
+- richard wolff
 subtitle: ''
 aliases: []
 image: ''
