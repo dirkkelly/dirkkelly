@@ -8,7 +8,6 @@ tags:
 - Capitalism
 - Marxism
 - Richard Wolff
-type: 2018
 aliases:
 - "/2018/02/05-your-president-horrible-boss-worse-board-more/"
 

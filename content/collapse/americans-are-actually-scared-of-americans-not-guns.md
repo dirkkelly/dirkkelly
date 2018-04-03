@@ -3,6 +3,7 @@ title: Americans are Scared of Americans, Not Guns
 date: 2018-03-27 20:55:27 +0000
 subtitle: They've been programmed to be scared of each other, they don't know who
   to trust, and some of them are willing to kill over that.
+type: blog
 tags:
 - collapse
 - america

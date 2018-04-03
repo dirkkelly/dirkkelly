@@ -10,7 +10,6 @@ tags:
 - Nazism
 - Identity Politics
 - Culture War
-type: 2017
 aliases:
 - "/2017/10/3-great-contrapoints-for-lefties/"
 - "/contrapoints/3-great-contrapoints-for-lefties/"

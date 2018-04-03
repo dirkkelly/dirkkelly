@@ -13,37 +13,37 @@ pluralizelisttitles = false
 
 [[menu.topbar]]
   name = "Politics"
-  url = "/essays/politics/"
+  url = "/politics/"
   identifier = "politics"
   weight = 1
 
 [[menu.topbar]]
   name = "Economics"
-  url = "/essays/economics/"
+  url = "/economics/"
   identifier = "economics"
   weight = 2
 
 [[menu.topbar]]
   name = "Technology"
-  url = "/essays/technology/"
+  url = "/technology/"
   identifier = "technology"
   weight = 3
 
 [[menu.topbar]]
   name = "Philosophy"
-  url = "/essays/philosophy/"
+  url = "/philosophy/"
   identifier = "philosophy"
   weight = 4
 
 [[menu.topbar]]
   name = "Survive"
-  url = "/essays/survive/"
+  url = "/survive/"
   identifier = "survive"
   weight = 5
 
 [[menu.topbar]]
   name = "Collapse"
-  url = "/essays/collapse/"
+  url = "/collapse/"
   identifier = "collapse"
   weight = 6
 

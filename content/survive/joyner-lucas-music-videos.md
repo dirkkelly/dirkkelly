@@ -6,7 +6,6 @@ tags:
 - Joyner Luca America
 - Racism
 - Depression
-type: 2017
 aliases:
 - "/2017/12/23-joyner-lucas-music-videos/"
 

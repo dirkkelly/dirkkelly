@@ -7,7 +7,6 @@ tags:
 - Music
 - Ben Howard
 - Resist
-type: 2017
 aliases:
 - "/2017/12/30-2017-ben-howard-anthem/"
 

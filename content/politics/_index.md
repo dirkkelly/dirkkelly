@@ -1,3 +1,3 @@
 ---
-title: People decide how life is structured, power secides the strategy.
+title: Privileged people decide who has power, power decides how society is structured.
 ---

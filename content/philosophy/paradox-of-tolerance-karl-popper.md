@@ -12,7 +12,6 @@ tags:
 - Free Speech
 - Karl Popper
 - Resist
-type: 2017
 aliases:
 - "/2017/07/the-paradox-of-tolerance/"
 

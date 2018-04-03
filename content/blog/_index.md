@@ -5,4 +5,5 @@ type: page
 menu:
   sidebar:
     weight: 3
+    identifier: blog
 ---

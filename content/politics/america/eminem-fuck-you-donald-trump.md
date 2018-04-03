@@ -6,7 +6,6 @@ tags:
 - Resist
 - Donald Trump
 - Snoop Dogg
-type: 2017
 aliases:
 - "/url/2017/10/11-fuck-you-trump-by-eminem/"
 

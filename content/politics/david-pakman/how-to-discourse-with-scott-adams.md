@@ -9,7 +9,6 @@ tags:
 - Donald Trump
 - Contrapoints
 - reddit
-type: 2017
 aliases:
 - "/2017/12/22-david-pakman-scott-adams/"
 

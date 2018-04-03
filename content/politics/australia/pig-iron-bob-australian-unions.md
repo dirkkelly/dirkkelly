@@ -10,7 +10,6 @@ tags:
 - Maritime Union of Australia
 - Resist
 - Pig Iron Bob
-type: 2017
 aliases:
 - "/2017/12/24-pig-iron-bob-australian-unions/"
 

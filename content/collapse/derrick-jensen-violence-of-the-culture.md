@@ -2,6 +2,7 @@
 date: 2017-06-21 00:00:00 +0000
 title: Derrick Jensen
 subtitle: Bringing Down Civilization, The Violence of Capitalism
+type: media
 tags:
 - Deep Green Resistance
 - Derrick Jensen

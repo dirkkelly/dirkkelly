@@ -5,6 +5,7 @@ type: index
 menu:
   sidebar:
     weight: 1
+    identifier: media
 ---
 
 Hi

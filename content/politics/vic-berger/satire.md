@@ -8,7 +8,6 @@ tags:
 - Super Deluxe
 - Donald Trump
 - Culture War
-type: 2017
 aliases:
 - "/2017/12/22-vic-berger/"
 

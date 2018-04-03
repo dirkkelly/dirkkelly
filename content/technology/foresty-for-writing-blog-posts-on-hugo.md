@@ -6,7 +6,6 @@ tags:
 - Personal
 - Blogging
 - Hugo
-type: 2018
 aliases:
 - "/2018/02/foresty-for-writing-blog-posts-on-hugo/"
 image: ''

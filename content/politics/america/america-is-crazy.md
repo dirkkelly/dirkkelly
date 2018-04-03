@@ -4,7 +4,6 @@ title: America is Crazy
 subtitle: ''
 tag:
 - America
-type: 2017
 aliases:
 - "/2017/12/17-america-is-crazy/"
 draft: true
