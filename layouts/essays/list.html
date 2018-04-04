@@ -3,7 +3,7 @@
     <h1><a>{{ .Title }}</a></h1>
 
     {{ range where .Site.Pages "Type" "essays" }}
-      {{ partial "summary.html" . }}
+      {{ .Render "summary" }}
     {{ end }}
   </div>
 {{ end }}

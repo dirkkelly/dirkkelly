@@ -2,7 +2,7 @@
   <div class="content">
     {{ range .Data.Pages }}
       {{ if (not .Date.IsZero) }}
-        {{ partial "summary.html" . }}
+        {{ .Render "summary" }}
       {{ end }}
     {{ end }}
   </div>
