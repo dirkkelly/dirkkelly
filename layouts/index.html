@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class="content">
-    {{ range .Data.Pages }}
+    {{ range where .Site.Pages "Type" "in" .Site.Params.mainSections }}
       {{ if (not .Date.IsZero) }}
         {{ .Render "summary" }}
       {{ end }}

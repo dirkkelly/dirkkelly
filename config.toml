@@ -10,6 +10,7 @@ pluralizelisttitles = false
 [params]
   author = "dirkkelly"
   description = "Austramerican thinking about politics, economics, and technology during humanity's struggle to survive the collapse of capitalism and holocene extinction."
+  mainSections = ["essays", "media"]
 
 [[menu.topbar]]
   name = "Politics"
