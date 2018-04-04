@@ -1,7 +1,12 @@
 ---
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
-id:
+videos:
+-
 channel:
+type: media
+layout: youtube
+tags:
+-
 draft: true
 ---

@@ -12,6 +12,7 @@
 
     <div class="post-content">
       {{ range .Param "videos" }}
+        <h2><a href="https://www.youtube.com/watch?v={{ . }}">{{ $title }}</a></h2>
         {{ partial "media/youtube" . }}
       {{ end }}
 
