@@ -1,0 +1,24 @@
+{{ define "main" }}
+  {{ $title := .Title }}
+  <div class="content">
+    <h1>{{ $title }}</h1>
+    <h2 class="h3">{{ .Param "subtitle" }}</h2>
+
+    {{ if (not .Date.IsZero) }}
+      <a href="{{ .Permalink }}"><span class="post-date">{{ .Date.Format "Jan 2, 2006. Monday" }}</span></a>
+    {{ end }}
+
+    {{ partial "tags" . }}
+
+    <div class="post-content">
+      {{ range .Param "videos" }}
+        {{ partial "media/youtube" . }}
+      {{ end }}
+
+      {{ .Content }}
+    </div>
+
+    {{ partial "comments" . }}
+  </div>
+{{ end }}
+
