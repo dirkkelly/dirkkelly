@@ -2,8 +2,10 @@
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
 videos:
--
-channel:
+  - name:
+    slug:
+    channel:
+    description:
 type: media
 layout: youtube
 tags:

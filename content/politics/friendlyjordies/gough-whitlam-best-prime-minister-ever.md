@@ -5,8 +5,8 @@ subtitle: Friendly Jordies setting the record straight
 type: media
 layout: youtube
 videos:
-- OBmIkeYvhXQ
-- QM-oZ5UdYpY
+  - slug: OBmIkeYvhXQ
+  - slug: QM-oZ5UdYpY
 tags:
 - Australia
 - Gough Whitlam

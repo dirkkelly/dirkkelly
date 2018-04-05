@@ -2,7 +2,8 @@
 date: 2018-04-04T19:05:13-04:00
 title: "Uncanny Valley, the Threat of Virtual Reality in the Hands of Empire"
 videos:
-- UXX0TRtg5Vk
+  - slug: UXX0TRtg5Vk
+    name: Uncanny Valley
 channel: UC-1rx8j9Ggp8mp4uD0ZdEIA
 type: media
 layout: youtube
