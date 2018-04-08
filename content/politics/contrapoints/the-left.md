@@ -5,7 +5,6 @@ tags:
 - Politics
 - Contrapoints
 - Resist
-- DSA
 - Antifa
 - Alt Right
 - Terrorism
