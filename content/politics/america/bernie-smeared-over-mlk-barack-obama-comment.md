@@ -1,5 +1,5 @@
 ---
-title: "Bernie Sanders: 'Barack Obama is a brilliant guy, an extraordinary candidate, and a charasmatic leader'"
+title: "Bernie Sanders: \"Barack Obama is a brilliant guy, an extraordinary candidate, and a charasmatic leader\""
 subtitle: "The business model of the democratic model is a failure, they've lost all power in American government, and the media are their attack dogs for anyone who criticizes their failures."
 date: 2018-04-07 20:12:50 +0000
 videos:

@@ -1,5 +1,5 @@
 ---
-title: The Socialist Case for Gun Control - Nivedita Majumdar
+title: "Nivedita Majumdar: The Socialist Case for Gun Control"
 date: 2018-03-28 20:46:17 +0000
 type: media
 subtitle: ''
