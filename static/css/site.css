@@ -55,6 +55,8 @@ a { text-decoration: none; }
 .topbar a, .topbar a:hover { text-decoration: none; }
 .topbar a:hover { border-bottom: 2px solid #326799 }
 
+.tag-cloud { text-align: justify }
+
 @media only screen and (max-width: 768px) {
   .content { min-height: inherit }
   .sidebar-wrapper { padding: 0 10px; }
