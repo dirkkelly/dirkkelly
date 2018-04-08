@@ -1,7 +1,8 @@
 ---
 title: Concentration of Wealth and Power
 date: 2018-03-26 22:28:37 +0000
-subtitle: Noam Chomsky offers 10 reasons why America is not a democracy, is a horrible
+publisher: Noam Chomsky
+subtitle: 10 reasons why America is not a democracy, is a horrible
   place to live, is causing mass distress, and is killing children and adults alike,
   both in America and in foreign nations.
 type: media
@@ -17,6 +18,7 @@ aliases: []
 image: ''
 
 ---
+
 # **10 Principles of Concentration of Wealth and Power**
 
 Concentration of wealth yields concentration of power, particularly so as the cost of elections skyrockets, which forces the political parties into the pockets of major corporations. This political power quickly translates into legislation that increases the concentration of wealth, so fiscal policy like tax policy, deregulation, rules of corporate governance, and a whole variety of measures. Political measures designed to increase the concentration of wealth and power which in turn yields more political power to do the same thing, and that's what we've been seeing.
