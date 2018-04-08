@@ -1,9 +1,11 @@
 {{ define "main" }}
-  <div class="content">
-    <h1><a>{{ .Title }}</a></h1>
+  <div class="col-12 col-md-9 col-lg-9 col-xl-7">
+    <div class="content">
+      <h1><a>{{ .Title }}</a></h1>
 
-    {{ range where .Site.Pages "Type" "blog" }}
-      {{ .Render "summary" }}
-    {{ end }}
+      {{ range where .Site.Pages "Type" "blog" }}
+        {{ .Render "summary" }}
+      {{ end }}
+    </div>
   </div>
 {{ end }}

@@ -8,14 +8,16 @@
           {{ partial  "sidebar.html" . }}
         </div>
 
-        <div class="col-12 col-md-8 col-lg-7 col-xl-6">
-          {{ partial "topbar.html" . }}
+        <div class="col-12 col-md-9">
+          <div class="row">
+            {{ partial "topbar.html" . }}
 
-          {{ block "main" . }}
-          {{ end }}
-
-          {{ template "_internal/google_analytics.html" . }}
+            {{ block "main" . }}
+            {{ end }}
+          </div>
         </div>
+
+        {{ template "_internal/google_analytics.html" . }}
       </div>
     </div>
   </body>

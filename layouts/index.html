@@ -1,9 +1,11 @@
 {{ define "main" }}
-  <div class="content">
-    {{ range where .Site.Pages "Type" "in" .Site.Params.mainSections }}
-      {{ if (not .Date.IsZero) }}
-        {{ .Render "summary" }}
+  <div class="col-12 col-md-9 col-lg-9 col-xl-7">
+    <div class="content">
+      {{ range where .Site.Pages "Type" "in" .Site.Params.mainSections }}
+        {{ if (not .Date.IsZero) }}
+          {{ .Render "summary" }}
+        {{ end }}
       {{ end }}
-    {{ end }}
+    </div>
   </div>
 {{ end }}
