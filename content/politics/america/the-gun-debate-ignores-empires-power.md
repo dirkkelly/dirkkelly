@@ -8,6 +8,8 @@ tags:
 - america
 - collapse
 - democracy
+- gun control
+- killer mike
 aliases:
 - "/collase/im-sick-of-this-gun-debate-2018-03/"
 - "/collapse/im-sick-of-this-gun-debate-2018-03/"
