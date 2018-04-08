@@ -9,14 +9,14 @@ videos:
     name: Trumpular
     channel: pogo
 tags:
-- politics
-- pogo
-- donald trump
-- unite
-- community
-- democracy
-- resist
-- survive
+- Politics
+- Pogo
+- Donald Trump
+- Unite
+- Community
+- Democracy
+- Resist
+- Survive
 ---
 
 Thank you Pogo for spreading the message of love, with the voice of a sad, sad, broken, person.
