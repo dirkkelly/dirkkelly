@@ -7,7 +7,6 @@ tags:
 - Politics
 - Unite
 - Capitalism
-- Communism
 - Communist Party Australia
 - Maritime Union of Australia
 - Resist
