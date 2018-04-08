@@ -7,7 +7,7 @@ tags:
 - Donald Trump
 - America
 - Resist
-- Personal
+- Dirk Kelly
 - Reflection
 - Identity Politics
 - Culture War

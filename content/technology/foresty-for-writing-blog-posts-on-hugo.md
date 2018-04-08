@@ -4,7 +4,7 @@ date: 2018-02-27 17:26:18 +0000
 subtitle: 'Removing the cognitive barrier-of-entry to posting on my static site. '
 tags:
 - Technology
-- Personal
+- Dirk Kelly
 - Blogging
 - Hugo
 aliases:

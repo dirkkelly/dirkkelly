@@ -5,7 +5,7 @@ subtitle: Jordan Shanks helping you, help your mindset.
 type: media
 tags:
 - Philosophy
-- Personal
+- Dirk Kelly
 - Friendly Jordies
 - Jordan Shanks
 aliases:

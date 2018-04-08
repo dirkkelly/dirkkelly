@@ -6,7 +6,7 @@ type: media
 tags:
 - Politics
 - Australia
-- Personal
+- Dirk Kelly
 - Friendly Jordies
 aliases:
 - "/2017/12/10-christmas-in-australia/"

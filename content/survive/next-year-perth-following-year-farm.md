@@ -5,7 +5,7 @@ subtitle: My exit from the USA and eventual exit from the global economy.
 type: blog
 tags:
 - Survive
-- Personal
+- Dirk Kelly
 - The Farm
 aliases:
 - "/2017/12/31-next-year-perth-following-year-farm/"

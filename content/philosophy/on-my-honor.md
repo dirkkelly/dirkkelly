@@ -6,7 +6,7 @@ subtitle: 'I promise to do my best, to do my duty to my god, and to the preserva
 type: blog
 tags:
 - Philosophy
-- Personal
+- Dirk Kelly
 aliases: []
 image: ''
 
