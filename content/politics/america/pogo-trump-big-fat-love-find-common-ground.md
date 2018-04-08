@@ -1,7 +1,7 @@
 ---
 title: "Pogo: Trump with an important messsage"
 date: 2018-04-07 23:21:22 +0000
-subtitle: "If we don't control insiders this will be over. Big Fat Love, Find Common Ground, To Halt The Spread of Lies."
+subtitle: "Big Fat Love, Find Common Ground, To Halt The Spread of Lies. If we don't control insiders this will be over."
 type: media
 layout: youtube
 videos:
