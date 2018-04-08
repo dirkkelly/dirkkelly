@@ -1,9 +1,9 @@
 <head>
   {{ if .IsHome }}
-    <title>{{ .Site.Title }}</title>
+    <title>{{ humanize .Site.Title }}</title>
     <meta property="og:title" content='{{ .Site.Title }}'>
   {{ else }}
-    <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+    <title>{{ humanize .Title }} &middot; {{ humanize .Site.Title }}</title>
     <meta property="og:title" content='{{ .Title }} &middot; {{ .Site.Title }}'>
   {{ end }}
 
