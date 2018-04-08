@@ -4,7 +4,7 @@ title: Pig Iron Bob and Australian Unions
 subtitle: Maritime Union of Australia and Robert Menzies
 type: media
 tags:
-- Union
+- Unite
 - Capitalism
 - Communism
 - Communist Party Australia

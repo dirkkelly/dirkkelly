@@ -1,5 +1,7 @@
 /basics  /about 301
 /channels/*  /media/:splat 301
+/tags/berni-sanders /tags/bernie-sanders 301
 /tags/chomsky /tags/noam-chomsky 301
 /tags/trump /tags/donald-trump 301
+/tags/union /tags/unite 301
 /technology/*  /essays/technology/:splat 301
