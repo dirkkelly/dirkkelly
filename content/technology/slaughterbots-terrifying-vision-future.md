@@ -2,8 +2,14 @@
 date: 2017-11-22 00:00:00 +0000
 title: Slaughterbots, A Terrifying Vision of the Future if Bots are Allowed to Kill.
 type: media
+layout: youtube
+videos:
+  - slug: 9CO6M2HsoIA
+    name: Slaughterbots
+    channel: Stop Autonomous Weapons
 tags:
 - Technology
+- Stop Autonomous Weapons
 - America
 - War
 - Cyber War
@@ -13,7 +19,6 @@ aliases:
 - "/2017/11/22-22-slaughterbots-terrifying-vision-future/"
 
 ---
-{{< youtube 9CO6M2HsoIA >}}
 
 The rate of technological evolution is increasing exponentially, devices which we couldn't imagine existing 20 years ago are now a mainstream part of life. Consumer product development is only one area of advancement though, and it's hardly the cutting edge.
 
