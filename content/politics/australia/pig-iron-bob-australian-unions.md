@@ -7,7 +7,7 @@ tags:
 - Politics
 - Unite
 - Capitalism
-- Communist Party Australia
+- Community
 - Maritime Union of Australia
 - Resist
 - Pig Iron Bob
