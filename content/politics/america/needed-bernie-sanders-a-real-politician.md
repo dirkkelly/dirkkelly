@@ -1,6 +1,7 @@
 ---
 date: 2017-05-31 00:00:00 +0000
 title: America Needed Bernie Sanders, a Politician, not a Corporate Stooge
+subtitle: There was no difference between Trump and Clinton, they both represented the elite class interests'.
 type: blog
 tags:
 - America
