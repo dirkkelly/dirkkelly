@@ -32,6 +32,7 @@ tags:
 - Capitalism
 - Donald Trump
 - Jeff Bazos
+- Corruption
 - Military Industrial Complex
 ---
 
