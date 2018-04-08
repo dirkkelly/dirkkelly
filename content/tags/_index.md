@@ -1,7 +1,6 @@
 ---
-title: tags
-type: page
-layout: tagcloud
+title: Tags
+layout: index
 menu:
   sidebar:
     name: "Tags"
