@@ -22,7 +22,7 @@
             {{ $weight := div (sub (math.Log $count) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
             {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weight) ) }}
             <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" style="font-size:{{$currentFontSize}}{{$fontUnit}};white-space:nowrap;display:inline-block;padding:0 5px 5px 0;margin:2px 0;">
-              {{ if lt (len $name) 4}}
+              {{ if lt (len $name) 5}}
                 {{ upper (humanize $name) }}
               {{ else}}
                 {{ title (humanize $name) }}
