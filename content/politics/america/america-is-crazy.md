@@ -4,7 +4,7 @@ title: "Big Think: America is Crazy"
 subtitle: ''
 type: media
 videos:
-  slug: XirnEfkdQJM
+- slug: XirnEfkdQJM
   name: America is Crazy
   channel: Big Think
 tag:
