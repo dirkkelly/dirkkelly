@@ -61,7 +61,7 @@ a { text-decoration: none; }
   .sidebar-wrapper { padding: 0 10px; }
   .sidebar { max-width: 100%; float: none; position: relative; text-align: center; }
   .sidebar li { float: none; display: inline-block; margin: 0 5px; padding: 2px; margin-bottom: 0; font-size: 0.9em }
-  .sidebar img { width: 30px; margin-top: -5px }
+  .sidebar img { width: 30px; margin: -5px 0 0; }
   .topbar { margin-top: 10px; text-align: center }
   .topbar li { float: none; display: inline-block; margin: 3px 5px; padding: 2px; }
   .d-none { display: none; }
