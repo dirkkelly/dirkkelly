@@ -32,8 +32,6 @@ My fellow Americans a war is about to be waged between everything you love and e
 
 #### Make America Great Again, Hail Victory
 
-This is why they're in power.
-
 - Nazis
 - Alt Right
 - ISIS
@@ -44,8 +42,6 @@ This is why they're in power.
 ### Ladies and Gentlemen, A leftist
 
 #### Oh Fuck you! You Fucking Racists, Death to Capitalism, Hail Satan.
-
-This is why we can't have nice things.
 
 - Antifa
 - DSA
