@@ -5,7 +5,7 @@ type: media
 tags:
 - Deep Green Resistance
 - Derrick Jensen
-- Climate
+- Climate Change
 - Extinction
 - Capitalism
 - Violence
