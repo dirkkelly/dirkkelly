@@ -5,7 +5,7 @@ subtitle: My exit from the USA and eventual exit from the global economy.
 type: blog
 tags:
 - Personal
-- Farm
+- The Farm
 aliases:
 - "/2017/12/31-next-year-perth-following-year-farm/"
 
