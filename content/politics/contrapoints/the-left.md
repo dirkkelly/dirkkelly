@@ -8,8 +8,8 @@ tags:
 - DSA
 - Antifa
 - Alt Right
-- ISIS
-- USMIC
+- Terrorism
+- Military Industrial Complex
 - World War Internet
 date: 2017-09-27 00:00:00 +0000
 aliases:
