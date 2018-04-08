@@ -1,5 +1,6 @@
 ---
-title: "Pogo: Trump with an important messsage"
+title: "Trump with an important messsage"
+publisher: "Pogo"
 date: 2018-04-07 23:21:22 +0000
 subtitle: "Big Fat Love, Find Common Ground, To Halt The Spread of Lies. If we don't control insiders this will be over."
 type: media

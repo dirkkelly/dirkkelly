@@ -1,6 +1,16 @@
 <div class="post-summary">
   <h2><a href="{{ .Permalink }}">{{ .Title }}</a> </h2>
 
+  {{ with .Param "publisher" }}
+    <h2 style="margin-top: -10px;">
+      <a href="/tags/{{ . | urlize }}/">
+        <small style="font-weight: bold">
+          {{ . }}
+        </small>
+      </a>
+    </h2>
+  {{ end }}
+
   {{ with .Param "subtitle" }}
     <h3>{{ . }}</h3>
   {{ end }}

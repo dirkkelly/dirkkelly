@@ -1,14 +1,15 @@
 ---
 title: American Mass Media is Propaganda
+publisher: "Caitlin Johnstone"
 date: 2018-03-13 07:09:41 +0000
 subtitle: It's a word that confuses and scares most Americans, yet propaganda is responsible
   for their apathy towards their horrible ruling elite.
 type: media
 tags:
 - Politics
+- Caitlin Johnstone
 - America
 - Propaganda
-- Caitlin Johnstone
 aliases: []
 image: ''
 ---

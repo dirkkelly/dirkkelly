@@ -1,5 +1,6 @@
 ---
-title: "Shaun: Charlottesville: The True Alt-Right"
+title: "Charlottesville: The True Alt-Right"
+publisher: "Shaun"
 date: 2018-04-07 23:02:22 +0000
 videos:
   - slug: zcoYKuoiUrY
@@ -9,10 +10,11 @@ videos:
 type: media
 layout: youtube
 tags:
-  - Collapse
-  - Politics
-  - America
-  - Alt Right
-  - Nazism
-  - Terrorism
+- Collapse
+- Shaun
+- Politics
+- America
+- Alt Right
+- Nazism
+- Terrorism
 ---

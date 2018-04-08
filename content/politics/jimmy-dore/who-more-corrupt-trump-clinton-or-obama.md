@@ -1,5 +1,6 @@
 ---
-title: "Jimmy Dore: Who is More Corrupt Trump Clinton or Obama?"
+title: "Who Is More Corrupt: Trump, Clinton or Obama? Surprising Answer!"
+publisher: "Jimmy Dore"
 date: 2017-05-23T14:32:00-04:00
 videos:
   - name: "Who Is More Corrupt: Trump, Clinton or Obama? Surprising Answer!"

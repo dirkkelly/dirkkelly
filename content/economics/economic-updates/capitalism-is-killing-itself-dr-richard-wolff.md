@@ -1,12 +1,14 @@
 ---
 date: 2018-01-09 00:00:00 +0000
-title: Capitalism is Killing Itself - Richard Wolff
+title: "Capitalism is Killing Itself"
+publisher: "Richard Wolff"
 subtitle: These recurring problems of Capitalism, Maxism says are built into the system.
 type: media
 tags:
+- Econonmics
+- Richard Wolff
 - Capitalism
 - Marxism
-- Richard Wolff
 - Empire
 aliases:
 - "/2018/01/09-capitalism-is-killing-itself-dr-richard-wolff/"

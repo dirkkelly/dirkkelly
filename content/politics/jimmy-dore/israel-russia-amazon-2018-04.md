@@ -1,6 +1,7 @@
 ---
 date: 2018-04-08T14:11:39-04:00
-title: "Jimmy Dore on Israel, Russia, and Amazon. April 2018."
+title: "Israel, Russia, and Amazon. April 2018."
+publisher: "Jimmy Dore"
 subtitle: "The damaging impact of concentration of wealth and power corrupting governments can be seen all over the world today. Imperialism is subjugating Palestinians in open air prisons, Syrians in a proxy war aimed at Russia, and Americans in a crushing failing capitalist society."
 videos:
   - name: "Israel Shoots 6 Journalist Covering Palestinian Protest"

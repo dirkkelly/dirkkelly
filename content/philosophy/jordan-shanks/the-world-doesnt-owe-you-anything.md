@@ -1,24 +1,28 @@
 ---
 date: 2018-01-02 00:00:00 +0000
-title: The World Doesn't Owe You Anything!
-subtitle: Jordan Shanks helping you, help your mindset.
+title: "The World Doesn't Owe You Anything!"
+publisher: "Jordan Shanks"
+subtitle: "An Internet legend from down under, helping you, help your mindset. Also me randomly commenting on his video."
+videos:
+  - slug: "RYmw76TP6mw"
+    name: "Get The Right Mindset"
+    channel: "Jordan Shanks"
 type: media
+layout: youtube
 tags:
 - Philosophy
-- Dirk Kelly
-- Friendly Jordies
 - Jordan Shanks
+- Friendly Jordies
+- Dirk Kelly
+- Australia
 aliases:
 - "/2018/01/02-the-world-doesnt-owe-you-anything/"
-
 ---
 <!-- Welcome to the comments -->
 
+Before heading to sleep I got down some notes on this video
+
 [Jordan Shanks](https://www.youtube.com/channel/UCaoxFlhy4oGz3EvkTGhWvkA/feed) isn't the only wise and humble influence in my life, but he is the one who posts his thoughts to YouTube, however I only just stumbled on his Personal YouTube after being a subscriber to [Friendly Jordies](http://youtube.com/friendlyjordies) for about a year.
-
-Before heading to sleep I got down some notes on [Get The Right Mindset](https://www.youtube.com/watch?v=RYmw76TP6mw)
-
-{{< youtube RYmw76TP6mw >}}
 
 > The Reason You're Not Where You Want is You.
 
