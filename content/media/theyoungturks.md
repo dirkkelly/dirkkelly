@@ -3,7 +3,6 @@ title: The Young Turks
 tags:
 - America
 - Resist
-- Politics
 - Republican Party
 - Democratic Party
 - Donald Trump

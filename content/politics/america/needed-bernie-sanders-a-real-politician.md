@@ -4,6 +4,7 @@ title: America Needed Bernie Sanders, a Politician, not a Corporate Stooge
 subtitle: There was no difference between Trump and Clinton, they both represented the elite class interests'.
 type: blog
 tags:
+- Politics
 - America
 - Bernie Sanders
 - Noam Chomsky

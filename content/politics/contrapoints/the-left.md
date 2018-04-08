@@ -2,6 +2,7 @@
 title: Contrapoints The Left
 type: media
 tags:
+- Politics
 - Contrapoints
 - Resist
 - DSA

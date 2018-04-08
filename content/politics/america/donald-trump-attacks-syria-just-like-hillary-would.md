@@ -3,6 +3,7 @@ date: 2017-04-06 00:00:00 +0000
 title: Donald Trump's America Attacks Syria
 type: blog
 tags:
+- Politics
 - Donald Trump
 - America
 - Syria

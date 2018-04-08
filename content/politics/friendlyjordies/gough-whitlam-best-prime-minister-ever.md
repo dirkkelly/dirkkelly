@@ -8,6 +8,7 @@ videos:
   - slug: OBmIkeYvhXQ
   - slug: QM-oZ5UdYpY
 tags:
+- Politics
 - Australia
 - Gough Whitlam
 - Friendly Jordies

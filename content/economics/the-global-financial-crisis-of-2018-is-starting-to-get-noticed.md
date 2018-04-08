@@ -3,12 +3,15 @@ title: The Global Financial Crisis of 2018 is Starting to Get Noticed
 date: 2018-04-02 18:54:35 +0000
 type: blog
 tags:
-- gfc2018
-- collapse
-- america
-- wall street
-- donald trump
-- richard wolff
+- Economics
+- GFC2018
+- Collapse
+- America
+- Wall Street
+- Capitalism
+- Socialism
+- Donald Trump
+- Richard Wolff
 subtitle: There has to be a movement from below otherwise there's no counter force
   that can take us in another direction.
 aliases: []

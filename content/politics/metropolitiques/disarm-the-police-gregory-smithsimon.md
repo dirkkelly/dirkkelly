@@ -4,6 +4,7 @@ date: 2018-03-28 21:34:55 +0000
 type: media
 subtitle: ''
 tags:
+- Politics
 - empire
 - police
 - gun control

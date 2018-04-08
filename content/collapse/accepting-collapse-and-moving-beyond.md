@@ -6,11 +6,11 @@ subtitle: 'Our biosphere is dying and so is all life on Earth. Hope in “a solu
   and that it will not help us.  '
 type: blog
 tags:
+- Collapse
 - Extinction
-- collapse
-- capitalism
-- resist
-- community
+- Capitalism
+- Resist
+- Community
 aliases: []
 image: ''
 

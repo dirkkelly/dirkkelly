@@ -4,6 +4,7 @@ title: How is Australia Going?
 subtitle: Let's check in with FriendlyJordies on Australia
 type: media
 tags:
+- Politics
 - Australia
 - Personal
 - Friendly Jordies

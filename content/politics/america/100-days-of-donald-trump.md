@@ -3,6 +3,7 @@ date: 2017-04-12 00:00:00 +0000
 title: 100 Days
 type: blog
 tags:
+- Politics
 - Donald Trump
 - America
 - Resist

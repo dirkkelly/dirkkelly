@@ -6,10 +6,13 @@ subtitle: Noam Chomsky offers 10 reasons why America is not a democracy, is a ho
   both in America and in foreign nations.
 type: media
 tags:
-- noam chomsky
-- collapse
-- democracy
-- wip
+- Philosophy
+- Noam Chomsky
+- Collapse
+- Economics
+- Democracy
+- Justice
+- WIP
 aliases: []
 image: ''
 

@@ -5,6 +5,7 @@ subtitle: '"America itself could be described as one gigantic ongoing psyop" - C
   Johnstone'
 type: essays
 tags:
+- Politics
 - america
 - russia
 - community

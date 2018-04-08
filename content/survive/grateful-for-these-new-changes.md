@@ -7,6 +7,7 @@ aliases:
 - "/technology/new-macbook-pro-new-logo-new-website/"
 - "/survive/new-things-make-me-happy/"
 tags:
+- Survive
 - Blogging
 - Hugo
 - Rationality Rules

@@ -9,7 +9,8 @@ videos:
     channel: NCCYXrZBho
     description: It's going so fast now, it's crazy. 2017 80% of the income was made by the 1%.
 tags:
-- dirk kelly
-- gfc2018
+- Economics
+- Dirk Kelly
+- GFC2018
 ---
 

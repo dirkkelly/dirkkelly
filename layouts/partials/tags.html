@@ -1,5 +1,4 @@
 <ul class="tags list-unstyled">
-  <li class="list-inline-item"><a href="/{{ .Type }}" style="color: black">{{ .Type }}</a></li>
   {{ range .Params.tags }}
     <li class="list-inline-item"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
   {{ end }}

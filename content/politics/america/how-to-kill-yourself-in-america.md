@@ -5,6 +5,7 @@ subtitle: 'What do you do when your government has abandoned you and only exists
   tax you and kill others.  '
 type: blog
 tags:
+- Politics
 - capitalism
 - depression
 aliases: []

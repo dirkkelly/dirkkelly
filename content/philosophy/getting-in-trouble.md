@@ -5,13 +5,14 @@ subtitle: All my life I've been getting in trouble and been afraid of getting in
   I'm not afraid anymore and you can't be either, because we really need your help.
 type: essays
 tags:
-- democracy
-- unite
-- community
-- resist
-- capitalism
-- america
-- collapse
+- Philosophy
+- Democracy
+- Unite
+- Community
+- America
+- Resist
+- Collapse
+- Capitalism
 aliases: []
 image: "/uploads/2018/03/20/humansarefree.com-american-empire-kills.png"
 

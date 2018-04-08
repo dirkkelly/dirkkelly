@@ -5,6 +5,7 @@ subtitle: Free? Well free as in cheap beer, more so free as in freedom. It will 
   fast, and it will be yours.
 type: blog
 tags:
+- Technology
 - hugo
 - website
 - github

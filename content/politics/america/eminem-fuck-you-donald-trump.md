@@ -3,6 +3,7 @@ date: 2017-10-11 00:00:00 +0000
 title: Fuck You Trump, by Eminem
 type: media
 tags:
+- Politics
 - Eminem
 - Resist
 - Donald Trump

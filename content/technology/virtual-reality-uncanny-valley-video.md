@@ -8,8 +8,9 @@ channel: UC-1rx8j9Ggp8mp4uD0ZdEIA
 type: media
 layout: youtube
 tags:
+- Technology
+- Collapse
 - virtual reality
-- collapse
 - war
 - poverty
 ---

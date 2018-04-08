@@ -10,16 +10,17 @@ videos:
 type: media
 layout: youtube
 tags:
-- america
-- propaganda
-- barack obama
-- jimmy dore
-- bernie sanders
-- martin luther king
-- harry belafonte
-- killer mike
-- nina turner
-- spike lee
+- Politics
+- America
+- Propaganda
+- Barack Obama
+- Jimmy Dore
+- Bernie Sanders
+- Martin Luther King
+- Harry Belafonte
+- Killer Mike
+- Nina Turner
+- Spike Lee
 ---
 
 > I sit here deeply concerned that I suspect we're leading our nation on an integration trip that has us integrating into a burning house.

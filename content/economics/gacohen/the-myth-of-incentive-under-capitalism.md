@@ -2,10 +2,15 @@
 title: The Myth of Incentive Under Capitalism-G.A.Cohen
 date: 2018-02-28 21:50:59 +0000
 type: media
+layout: youtube
+videos:
+  - slug: YKRBgCmgm-c
+    name: The Myth of Incentive Under Capitalism
 tags:
-- gacohen
-- capitalism
-- survival
+- Economics
+- G A Cohen
+- Capitalism
+- Survival
 subtitle: 'Capitalist firms survive, only if they make money, and they make money
   only if they prevail in competition against other capitalist firms. '
 aliases: "/2018/02/the-myth-of-incentive-under-capitalism-g.a.cohen/]"

@@ -6,6 +6,7 @@ subtitle: I was raised under the motto "Be Prepared", this ethos guides my decis
   2018 self audit.
 type: blog
 tags:
+- Survive
 - resist
 - collapse
 aliases: []

@@ -3,12 +3,12 @@ date: 2017-10-29 00:00:00 +0000
 title: Is There an Alternative to Political Correctness?
 type: media
 tags:
+- Philosophy
 - School of Life
 - Political Correctness
 - Politeness
 - Identity Politics
 - Culture War
-- Philosophy
 aliases:
 - "/2017/10/29-is-there-an-alternative-to-political-correctness/"
 

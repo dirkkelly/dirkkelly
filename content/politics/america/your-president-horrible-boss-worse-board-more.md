@@ -5,6 +5,7 @@ subtitle: Trump is doing horrible things, because horrible people have all the m
   and power.
 type: essays
 tags:
+- Politics
 - America
 - Capitalism
 - Marxism

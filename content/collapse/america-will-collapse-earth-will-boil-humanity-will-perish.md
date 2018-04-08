@@ -4,6 +4,7 @@ title: America Will Collapse, Earth Will Boil, and Humanity Will Perish
 subtitle: Understanding this will help you plan for your future.
 type: blog
 tags:
+- Collapse
 - Climate Change
 - Extinction
 - Capitalism

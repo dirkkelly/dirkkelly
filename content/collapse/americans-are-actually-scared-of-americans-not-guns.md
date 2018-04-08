@@ -5,10 +5,10 @@ subtitle: They've been programmed to be scared of each other, they don't know wh
   to trust, and some of them are willing to kill over that.
 type: blog
 tags:
-- collapse
-- america
-- violence
-- cody johnston
+- Collapse
+- America
+- Violence
+- Cody Johnston
 aliases: []
 image: ''
 

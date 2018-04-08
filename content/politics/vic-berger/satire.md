@@ -4,6 +4,7 @@ title: Vic Berger
 subtitle: Sassy Smart Video Political Satire
 type: media
 tags:
+- Politics
 - America
 - Vic Berger
 - Super Deluxe

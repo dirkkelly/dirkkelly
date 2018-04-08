@@ -3,6 +3,7 @@ date: 2017-11-08 00:00:00 +0000
 title: The Deep Green Resistance Strategy
 type: media
 tags:
+- Collapse
 - Deep Green Resistance
 - Derrick Jensen
 - Climate Change

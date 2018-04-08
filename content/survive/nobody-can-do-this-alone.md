@@ -5,6 +5,7 @@ subtitle: Our survival is the responsibility of everyone, we can make that our g
   priorities, but we need to take power back in order to do that.
 type: blog
 tags:
+- Survive
 - Democracy
 - Socialism
 - Resist

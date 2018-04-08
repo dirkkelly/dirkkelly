@@ -5,6 +5,7 @@ subtitle: Acknowledge that the American people are not their government, and tha
   their government will kill everyone... if that’s a profitable solution.
 type: blog
 tags:
+- Politics
 - America
 - Capitalism
 - Nuclear War

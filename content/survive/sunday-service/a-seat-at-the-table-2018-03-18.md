@@ -5,6 +5,7 @@ subtitle: In our current society we give others a seat at the table, and then te
 date: 2018-03-18 14:45:15 -0400
 type: blog
 tags:
+- Survive
 - service
 - justice
 - equality

@@ -4,6 +4,7 @@ title: The World Doesn't Owe You Anything!
 subtitle: Jordan Shanks helping you, help your mindset.
 type: media
 tags:
+- Philosophy
 - Personal
 - Friendly Jordies
 - Jordan Shanks

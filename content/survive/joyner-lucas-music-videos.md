@@ -4,6 +4,7 @@ title: Joyner Luca Music Videos
 subtitle: ''
 type: media
 tags:
+- Survive
 - Joyner Luca America
 - Racism
 - Depression

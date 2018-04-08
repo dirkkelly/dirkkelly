@@ -4,6 +4,7 @@ title: Derrick Jensen
 subtitle: Bringing Down Civilization, The Violence of Capitalism
 type: media
 tags:
+- Collapse
 - Deep Green Resistance
 - Derrick Jensen
 - Climate Change

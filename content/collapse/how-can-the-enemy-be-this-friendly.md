@@ -6,10 +6,10 @@ subtitle: The American people are our brothers and sisters, The American Governm
   their government and change its ways. Before it's too late.
 type: blog
 tags:
-- america
-- democracy
-- collapse
-- donald trump
+- Collapse
+- America
+- Democracy
+- Donald trump
 image: "/uploads/2018/03/24/us-flag-cover-shame-killing-innocent.png"
 aliases: []
 ---

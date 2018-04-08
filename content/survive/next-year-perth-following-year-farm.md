@@ -4,6 +4,7 @@ title: Next Year Perth, Following Year Farm
 subtitle: My exit from the USA and eventual exit from the global economy.
 type: blog
 tags:
+- Survive
 - Personal
 - The Farm
 aliases:

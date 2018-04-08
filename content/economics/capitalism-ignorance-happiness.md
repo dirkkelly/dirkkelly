@@ -3,6 +3,7 @@ date: 2017-11-26 00:00:00 +0000
 title: Ignorance and Happiness in Capitalism.
 type: media
 tags:
+- Economics
 - Philosophy
 - Capitalism
 - Depression

@@ -4,6 +4,7 @@ title: David Pakman interviews Scott Adams on Donald Trump's "Report Card"
 subtitle: This is Exactly How To Engage with "Other Side"
 type: media
 tags:
+- Politics
 - America
 - David Pakman
 - Scott Adams

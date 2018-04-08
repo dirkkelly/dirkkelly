@@ -5,9 +5,11 @@ subtitle: Have you been keeping up since Russia cheated in the olympics, hacked 
   election, gassed Syria, and now failed to very publicly kill a spy?
 type: blog
 tags:
+- Collapse
+- Nuclear War
+- Politics
 - America
-- collapse
-- russia
+- Russia
 aliases: []
 image: ''
 

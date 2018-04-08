@@ -3,6 +3,7 @@ date: 2017-04-01 00:00:00 +0000
 title: HyperNormalisation 2016, Adam Curtis on Chapo Trap House
 type: media
 tags:
+- Collapse
 - Hypernormalisation
 - Adam Curtis
 - Chapo Trap House

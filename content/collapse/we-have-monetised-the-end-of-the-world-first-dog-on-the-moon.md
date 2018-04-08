@@ -9,9 +9,9 @@ source:
   author: First Dog on the Moon
   publisher: The Guardian
 tags:
-- resist
-- capitalism
-- extinction
-- violence
-- collapse
+- Collapse
+- Resist
+- Capitalism
+- Extinction
+- Violence
 ---
