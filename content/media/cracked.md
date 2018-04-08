@@ -6,8 +6,6 @@ tags:
 - Bernie Sanders
 - Antifa
 - Nazism
-- Rapists
-- Horseshoe Theory
 - Dog Whistling
 weight: 0
 

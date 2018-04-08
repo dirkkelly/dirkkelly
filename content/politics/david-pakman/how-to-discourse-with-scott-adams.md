@@ -10,7 +10,8 @@ tags:
 - Scott Adams
 - Donald Trump
 - Contrapoints
-- reddit
+- Social Media
+- Unite
 aliases:
 - "/2017/12/22-david-pakman-scott-adams/"
 
