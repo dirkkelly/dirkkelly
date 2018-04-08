@@ -1,6 +1,6 @@
 <ul class="tags list-unstyled">
   <li class="list-inline-item"><a href="/{{ .Type }}" style="color: black">{{ title (humanize .Type) }}</a></li>
   {{ range .Params.tags }}
-    <li class="list-inline-item"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+    <li class="list-inline-item"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ title (humanize .) }}</a> </li>
   {{ end }}
 </ul>
