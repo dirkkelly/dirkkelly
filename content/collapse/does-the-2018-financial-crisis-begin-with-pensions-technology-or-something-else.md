@@ -4,10 +4,11 @@ title: Does the 2018 Financial Crisis Begin With Pensions, Technology, or Someth
 type: blog
 tags:
 - Collapse
+- GFC2018
+- Technology
 - America
-- Financial Crisis
 - Capitalism
-- Cyptocurrency
+- Cryptocurrency
 - Zero Hedge
 - Sovereign Man
 aliases:

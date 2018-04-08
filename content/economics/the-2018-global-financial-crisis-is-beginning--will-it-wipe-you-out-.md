@@ -7,10 +7,11 @@ videos:
   - name: Hello World Again, Empire Destroying Everything
     slug: NCCYXrZBho
     channel: NCCYXrZBho
-    description: It's going so fast now, it's crazy. 2017 80% of the income was made by the 1%.
+    description: "It's going so fast now, it's crazy. 2017 80% of the income was made by the 1%."
 tags:
 - Economics
 - Dirk Kelly
+- Cryptocurrency
 - GFC2018
 ---
 

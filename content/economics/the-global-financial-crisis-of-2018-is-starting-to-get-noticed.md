@@ -6,6 +6,7 @@ tags:
 - Economics
 - GFC2018
 - Collapse
+- Cryptocurrency
 - America
 - Wall Street
 - Capitalism

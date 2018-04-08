@@ -4,9 +4,10 @@ title: The Origins of Money, HipCrime Vocab
 type: essays
 tags:
 - Economics
-- Capitalism
 - Philosophy
+- Capitalism
 - HipCrime Vocab
+- Cryptocurrency
 - Resist
 aliases:
 - "/2017/11/10-the-origins-of-money-hipcrimevocab/"
