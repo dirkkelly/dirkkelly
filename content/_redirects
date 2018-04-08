@@ -1,5 +1,5 @@
-/basics  /about 301
-/channels/*  /media/:splat 301
+/basics /about 301
+/channels/* /media/:splat 301
 /tags/berni-sanders /tags/bernie-sanders 301
 /tags/bitcoin /cryptocurrency 301
 /tags/chomsky /tags/noam-chomsky 301
@@ -9,9 +9,10 @@
 /tags/etherium /cryptocurrency 301
 /tags/farm /tags/the-farm 301
 /tags/gacohen /tags/g-a-cohen 301
+/tags/hypernormalization /tags/hypernormalisation 301
 /tags/ico /cryptocurrency 301
 /tags/ipo /cryptocurrency 301
 /tags/media /media 301
 /tags/trump /tags/donald-trump 301
 /tags/union /tags/unite 301
-/technology/*  /essays/technology/:splat 301
+/technology/* /essays/technology/:splat 301

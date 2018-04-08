@@ -2,8 +2,9 @@
 title: Vic Berger
 type: media
 tags:
-- Hypernormalization
+- Hypernormalisation
 - America
+- Politics
 - Donald Trump
 - Dog Whistling
 weight: 0
