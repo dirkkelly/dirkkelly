@@ -7,12 +7,13 @@ type: media
 tags:
 - Philosophy
 - Tolerance
-- Hate
+- Violence
 - Donald Trump
 - Nazism
 - Free Speech
 - Karl Popper
 - Resist
+- Unite
 aliases:
 - "/2017/07/the-paradox-of-tolerance/"
 ---
