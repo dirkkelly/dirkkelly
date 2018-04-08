@@ -1,7 +1,6 @@
 ---
 title: Andreas M. Antonopoulos
 tags:
-- Bitcoin
 - Cyptocurrency
 aliases:
 - "/channels/aantonop/"
