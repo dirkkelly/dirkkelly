@@ -7,7 +7,7 @@ tags:
 - Resist
 - Antifa
 - Alt-Right
-- Naxism
+- Nazism
 - Dog Whistling
 - Identity Politics
 - Culture War
