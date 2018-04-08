@@ -10,6 +10,7 @@ tags:
 - ContraSpin
 - America
 - Corruption
+image: /images/politics/contraspin/i-am-wikileaks.jpg
 articles:
   - title: "Being Julian Assange"
     url: "https://contraspin.co.nz/beingjulianassange/"
@@ -19,6 +20,8 @@ layout: article
 ---
 
 # [Being Julian Assange](https://contraspin.co.nz/beingjulianassange/)
+
+[![I am Wikileaks](/images/politics/contraspin/i-am-wikileaks.jpg)](https://twitter.com/SomersetBean/status/974831022897442816)
 
 > In 2016 an accused serial sexual predator ran for the US presidency against the notoriously corrupt wife of a previously impeached President – who is also an accused serial sexual predator.
 
