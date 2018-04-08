@@ -8,7 +8,9 @@ a { text-decoration: none; }
 .tags li { white-space: nowrap; }
 .tags li:not(:last-child) a::after { content: ","; }
 
-.content { box-sizing: border-box; float: left; width: 100%; min-height: 100vh; }
+.screen { min-height: 100vh; }
+
+.content { box-sizing: border-box; float: left; width: 100%; }
 .content blockquote { padding-left: 5px; border-left: 3px solid #DEDEDE; }
 .content iframe { padding-bottom: 10px; }
 .content img { max-width: 100%; }

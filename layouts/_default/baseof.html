@@ -9,11 +9,13 @@
         </div>
 
         <div class="col-12 col-md-9">
-          <div class="row">
-            {{ partial "topbar.html" . }}
+          <div class="screen">
+            <div class="row">
+              {{ partial "topbar.html" . }}
 
-            {{ block "main" . }}
-            {{ end }}
+              {{ block "main" . }}
+              {{ end }}
+            </div>
           </div>
         </div>
 
