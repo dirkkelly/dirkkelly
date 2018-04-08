@@ -5,5 +5,5 @@ layout: tagcloud
 menu:
   sidebar:
     name: "Tags"
-    weight: 7
+    weight: 4
 ---
