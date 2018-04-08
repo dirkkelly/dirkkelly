@@ -1,5 +1,5 @@
 ---
-title: tags
+title: Tags
 type: page
 layout: tagcloud
 menu:
