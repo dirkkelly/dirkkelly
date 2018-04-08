@@ -9,7 +9,7 @@ tags:
 - Donald Trump
 - Hillary Clinton
 - Clinton Foundation
-- Berni Sanders
+- Bernie Sanders
 weight: 0
 
 ---
