@@ -9,7 +9,7 @@ aliases:
 tags:
 - Survive
 - Blogging
-- Hugo CMS
+- Go Hugo
 - Rationality Rules
 
 ---

@@ -7,7 +7,7 @@ type: blog
 tags:
 - Technology
 - Dirk Kelly
-- Hugo CMS
+- Go Hugo
 - Github
 - Netlify
 - Forestry
