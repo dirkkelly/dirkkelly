@@ -2,7 +2,7 @@
 title: Deep Green Resistance
 tags:
 - Derrick Jensen
-- Climate
+- Climate Change
 - Extinction
 - Violence
 - Resist
