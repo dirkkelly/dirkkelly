@@ -8,7 +8,6 @@ tags:
 - America
 - Resist
 - Dirk Kelly
-- Reflection
 - Identity Politics
 - Culture War
 aliases:
