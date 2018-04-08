@@ -3,7 +3,7 @@ title: Subscribe
 type: page
 menu:
   sidebar:
-    name: "Subscribe (new)"
+    name: "Subscribe"
     weight: 8
 ---
 
