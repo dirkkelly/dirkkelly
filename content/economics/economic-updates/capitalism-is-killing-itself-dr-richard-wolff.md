@@ -7,7 +7,7 @@ tags:
 - Capitalism
 - Marxism
 - Richard Wolff
-- Empire Files
+- Empire
 aliases:
 - "/2018/01/09-capitalism-is-killing-itself-dr-richard-wolff/"
 
