@@ -7,7 +7,7 @@ layout: youtube
 videos:
   - slug: 1vx3_2ks5qQ
     name: Trumpular
-    channel: pogo
+    channel: Pogo
 tags:
 - Politics
 - Pogo
