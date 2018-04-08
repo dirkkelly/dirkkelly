@@ -15,7 +15,7 @@
         {{ $fontStep := div $fontSpread $spread }}
 
         <div id="tag-cloud" style="padding: 5px 15px">
-          {* https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/ *}
+          {{/* https://www.sidorenko.io/post/2017/07/nice-tagcloud-with-hugo/ */}}
           {{ range $name, $taxonomy := $.Site.Taxonomies.tags }}
             {{ $currentTagCount := len $taxonomy.Pages }}
             {{ $currentFontSize := (add $smallestFontSize (mul (sub $currentTagCount $min) $fontStep) ) }}
