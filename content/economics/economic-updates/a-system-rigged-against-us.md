@@ -7,10 +7,12 @@ type: media
 layout: youtuve
 videos:
   - slug: yomlBtXL4Ks
-    name: "Economic Update: A System Rigged Against Us"
+    name: "A System Rigged Against Us"
+    channel: "Economic Update"
 tags:
 - Economics
 - Richard Wolff
+- Economic Update
 aliases:
 - "/economicupdates/economic-update-a-system-rigged-against-us.md"
 ---

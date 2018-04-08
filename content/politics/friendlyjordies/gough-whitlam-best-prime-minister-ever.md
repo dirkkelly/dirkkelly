@@ -6,7 +6,11 @@ type: media
 layout: youtube
 videos:
   - slug: OBmIkeYvhXQ
+    name: "Andrew Bolt attempts to spit on Gough Whitlam's grave"
+    channel: "Friendly Jordies"
   - slug: QM-oZ5UdYpY
+    name: "Andrew Bolt attempts to spit on Gough Whitlam's grave"
+    channel: "Friendly Jordies"
 tags:
 - Politics
 - Australia

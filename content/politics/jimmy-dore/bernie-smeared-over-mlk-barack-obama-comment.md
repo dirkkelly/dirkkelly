@@ -5,8 +5,8 @@ subtitle: "The business model of the democratic model is a failure, they've lost
 date: 2018-04-07 20:12:50 +0000
 videos:
   - name: "Bernie Smeared Over MLK Speech By Establishment Tools"
-    slug: VKaZ8-mbI4M
-    channel: The Jimmy Dore Show
+    slug: "VKaZ8-mbI4M"
+    channel: "The Jimmy Dore Show"
     description: "Bernie Sanders gave a speech accurately criticizing the Democratic Party. The corporate media made maybe their most desperate attempt at a smear yet."
 type: media
 layout: youtube

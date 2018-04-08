@@ -2,6 +2,10 @@
 title: The Global Financial Crisis of 2018 is Starting to Get Noticed
 date: 2018-04-02 18:54:35 +0000
 type: blog
+videos:
+  - slug: "0i1T72jfoWA"
+    name: "The Coming Collapse of the American Economic System"
+    channel: "Richard Wolff"
 tags:
 - Economics
 - GFC2018
@@ -13,6 +17,7 @@ tags:
 - Socialism
 - Donald Trump
 - Richard Wolff
+- Economic Update
 subtitle: There has to be a movement from below otherwise there's no counter force
   that can take us in another direction.
 aliases: []
