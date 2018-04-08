@@ -6,11 +6,11 @@ subtitle: Free? Well free as in cheap beer, more so free as in freedom. It will 
 type: blog
 tags:
 - Technology
-- hugo
-- website
-- github
-- netlify
-- forestry
+- Dirk Kelly
+- Hugo CMS
+- Github
+- Netlify
+- Forestry
 aliases: []
 draft: true
 

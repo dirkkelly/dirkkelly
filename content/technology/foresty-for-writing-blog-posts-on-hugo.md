@@ -6,7 +6,7 @@ tags:
 - Technology
 - Dirk Kelly
 - Blogging
-- Hugo
+- Hugo CMS
 aliases:
 - "/2018/02/foresty-for-writing-blog-posts-on-hugo/"
 image: ''
