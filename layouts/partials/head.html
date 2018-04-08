@@ -1,10 +1,10 @@
 <head>
   {{ if .IsHome }}
-    <title>{{ humanize .Site.Title }}</title>
-    <meta property="og:title" content='{{ .Site.Title }}'>
+    <title>{{ title (humanize .Site.Title) }}</title>
+    <meta property="og:title" content='{{ title (humanize .Site.Title) }}'>
   {{ else }}
-    <title>{{ humanize .Title }} &middot; {{ humanize .Site.Title }}</title>
-    <meta property="og:title" content='{{ .Title }} &middot; {{ .Site.Title }}'>
+    <title>{{ title (humanize .Title) }} &middot; {{ title (humanize .Site.Title) }}</title>
+    <meta property="og:title" content='{{ title (humanize .Title) }} &middot; {{ title (humanize .Site.Title) }}'>
   {{ end }}
 
   {{ with .Param "subtitle" }}
