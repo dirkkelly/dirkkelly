@@ -1,9 +1,5 @@
 ---
 title: Career
-tags:
-- InterExchange
-- Pivotal Labs
-- Murdoch University
 type: page
 aliases:
 - "/resume/"
