@@ -5,12 +5,8 @@ type: blog
 tags:
 - America
 - Financial Crisis
-- Technology
 - Capitalism
 - Cyptocurrency
-- IPO
-- ICO
-- Etherium
 - Zero Hedge
 - Sovereign Man
 aliases:
