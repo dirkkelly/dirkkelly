@@ -19,9 +19,7 @@ articles:
 layout: article
 ---
 
-# [Being Julian Assange](https://contraspin.co.nz/beingjulianassange/)
-
-[![I am Wikileaks](/images/politics/contraspin/i-am-wikileaks.jpg)](https://twitter.com/SomersetBean/status/974831022897442816)
+source: [Being Julian Assange](https://contraspin.co.nz/beingjulianassange/)
 
 > In 2016 an accused serial sexual predator ran for the US presidency against the notoriously corrupt wife of a previously impeached President – who is also an accused serial sexual predator.
 
@@ -173,3 +171,7 @@ layout: article
 > By contrast, much of the digital history detailing the genesis of the campaign to free Chelsea Manning has vanished. Many of the key contributions of her original supporters have been bleached from the record.
 
 # [Keep Reading](https://contraspin.co.nz/beingjulianassange/)
+
+> Dr. King was not merely the civil rights activist and organiser that we are encouraged to remember him as. He was in fact an ardent anti-war, anti-militarism, anti-imperialism and anti-capitalist activist.
+
+> Rather than recognise that King stood against absolutely everything that the status quo is, they are able to pretend he just took issue with one facet of society and argue that the US has progressed as a direct result. In reality, the overwhelming majority of the problems King dedicated his life to addressing have not been bettered, but in fact worsened in the passage of time since the State who now celebrates his memory, killed him. Such as systemic economic inequality, mass incarceration, the rise of the military-industrial complex, and Washington’s bull-in-a-china-shop foreign policy
