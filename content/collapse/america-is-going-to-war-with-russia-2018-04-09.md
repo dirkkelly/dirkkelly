@@ -1,5 +1,6 @@
 ---
-title: America is getting ready to go to war with Syria, Russia, and Iran
+title: America is getting ready to go to war with Syria, Russia, and Iran. We must
+  stop this empire from starting another war.
 date: 2018-04-09 18:20:25 +0000
 subtitle: The US media has seized on the latest claims by CIA-backed groups of a poison
   gas attack on civilians to demand a further escalation of the US-led war for regime-change
@@ -36,7 +37,6 @@ tags:
 aliases:
 - "/collapse/wsws-cia-stages-gas-attack-pretext-for-syria-escalation/"
 image: ''
-layout: youtube
 videos:
 - slug: KwpgwBZTyqM
   name: "'Everywhere you go, chaos is left behind' – Russia’s UN envoy to US over
@@ -52,6 +52,7 @@ videos:
     air base used by Iranian forces. There are reports that 14 people died in the
     strikes, including Iranian nationals.
   channel: Democracy Now
+layout: youtube
 
 ---
 The American empire is pushing forward in its latest unrelenting war on the world, on both the left and right the media is calling for war based on unproven claims of chemical weapon attacks that are all too similar to weapons of mass destruction.
@@ -67,3 +68,9 @@ Today is the first day of the new National Security Adviser, John Bolton, and Tr
 The main stream media is calling for war on yet another unproven attack.
 
 ![](/uploads/2018/04/10/2018-04-09-war-on-syria.jpg)
+
+It's been 15 years since the Iraq War, since the same government lied about the presence of weapons of mass destruction and convinced its people to send their children over to die in a senseless war.
+
+Will the American people be convinced once again, will they even need to be, will they do anything to resist their government increasing its killing campaigns in the middle east.
+
+Will the Australia, British, Canadian, or New Zealander people do anything to stop their governments from doing the same, from sending their children to go kill children abroad?
