@@ -6,7 +6,7 @@ subtitle: The US media has seized on the latest claims by CIA-backed groups of a
   in Syria and an increased confrontation with Russia.
 type: media
 layout: youtube
-vides:
+videos:
 - slug: KwpgwBZTyqM
   name: "'Everywhere you go, chaos is left behind' – Russia’s UN envoy to US over
     'chem attack' in Syria"
