@@ -4,9 +4,6 @@ date: 2018-04-09 22:21:51 +0000
 type: blog
 layout: youtube
 videos:
-- slug: pqovhbrNsbo
-  name: "True Detective Season 1 Philosophy"
-  description: "This is a compilation of all philosophical/nihilistic mono- and dialogues from the first season of the series True Detective."
 - slug: 9oX2xFo7JA4
   name: "Rust Cohle - Philosophy of Pessimism (True Detective)"
 tags:
