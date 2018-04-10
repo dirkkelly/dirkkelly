@@ -1,5 +1,5 @@
 ---
-title: "What's the Point of Anything"
+title: "What's the Point of Anything?"
 date: 2018-04-09 22:21:51 +0000
 type: blog
 layout: youtube
