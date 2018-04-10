@@ -5,6 +5,7 @@ subtitle: The US media has seized on the latest claims by CIA-backed groups of a
   gas attack on civilians to demand a further escalation of the US-led war for regime-change
   in Syria and an increased confrontation with Russia.
 type: media
+layout: youtube
 vides:
 - slug: KwpgwBZTyqM
   name: "'Everywhere you go, chaos is left behind' – Russia’s UN envoy to US over
@@ -46,8 +47,8 @@ The American empire is pushing forward in its latest unrelenting war on the worl
 
 Today is the first day of the new National Security Adviser, John Bolton, and Trump is hot at the collar.
 
-![](/uploads/2018/04/10/2018-04-09-trump-syria.jpg)
+![Trump on Syria](/uploads/2018/04/10/2018-04-09-trump-syria.jpg)
 
 The main stream media is calling for war on yet another unproven attack.
 
-![](/uploads/2018/04/10/2018-04-09-war-on-syria.jpg)
+![Mainstream media on Syria](/uploads/2018/04/10/2018-04-09-war-on-syria.jpg)
