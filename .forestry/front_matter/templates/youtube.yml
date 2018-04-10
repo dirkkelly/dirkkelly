@@ -5,7 +5,7 @@ fields:
   label: Date
   type: text
   hidden: false
-  default:
+  default: 
 - name: title
   label: Title
   type: text
@@ -15,12 +15,12 @@ fields:
   label: Id
   type: text
   hidden: false
-  default:
+  default: 
 - name: channel
   label: Channel
   type: text
   hidden: false
-  default:
+  default: 
 - name: draft
   label: Draft
   type: boolean
