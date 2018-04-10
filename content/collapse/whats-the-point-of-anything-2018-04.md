@@ -12,6 +12,8 @@ tags:
 - Philosophy
 - Depression
 - Nihilism
+aliases:
+- /collapse/whats-the-point-of-any-of-this/
 ---
 
 Every day I wonder why I even bother, and yet I still do, we all still do.
