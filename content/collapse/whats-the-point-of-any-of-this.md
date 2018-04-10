@@ -5,10 +5,11 @@ type: blog
 layout: youtube
 videos:
 - slug: pqovhbrNsbo
-  name: "Philosophy of True Detective Season 1"
+  name: "True Detective Season 1 Philosophy"
   description: "This is a compilation of all philosophical/nihilistic mono- and dialogues from the first season of the HBO series True Detective."
 tags:
 - Collapse
+- Philosophy
 - Depression
 - Nihilism
 ---
