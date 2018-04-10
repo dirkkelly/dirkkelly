@@ -1,0 +1,29 @@
+{{ range .Param "videos" }}
+  {{ if (index .) }}
+    {{ $name := (index . "name") }}
+    {{ $slug := (index . "slug") }}
+    {{ $channel := (index . "channel") }}
+    {{ $description := (index . "description") }}
+
+    <div class="col-12 col-md-6 col-xl-4 mb-3">
+      <div class="card">
+        {{ with $slug }}
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" style="margin-bottom: 0" src="https://www.youtube.com/embed/{{ . }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        {{ end }}
+        <div class="card-body">
+          {{ with $slug }}
+            <h2 class="card-title"><a href="https://www.youtube.com/watch?v={{ $slug }}">{{ $name }}</a></h2>
+          {{ end }}
+          {{ with $description }}
+            <p class="card-text">{{ . }}</p>
+          {{ end }}
+          {{ with $channel }}
+            <a href="/tags/{{ . | urlize }}/">{{ . }}</a><br/>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  {{ end }}
+{{ end }}
