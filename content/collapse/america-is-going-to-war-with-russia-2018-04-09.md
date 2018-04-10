@@ -1,19 +1,25 @@
 ---
-title: America is getting ready to go to war with Syria, and Russa
+title: America is getting ready to go to war with Syria, and Russia
 date: 2018-04-09 18:20:25 +0000
 subtitle: The US media has seized on the latest claims by CIA-backed groups of a poison
   gas attack on civilians to demand a further escalation of the US-led war for regime-change
   in Syria and an increased confrontation with Russia.
 type: media
 vides:
-  - slug: "KwpgwBZTyqM"
-    name: "'Everywhere you go, chaos is left behind' – Russia’s UN envoy to US over 'chem attack' in Syria"
-    description: "The UN Security Council is holding an emergency meeting on security in the Middle East, in the wake of reports of an alleged chemical attack in the Syrian city of Douma."
-    channel: "RT"
-  - slug: "vRJNEOkCFTc"
-    name: "Glenn Greenwald on Syria: U.S. & Israel Revving Up War Machine Won’t Help Suffering Syrian Civilians"
-    description: "in Syria, where Israeli F-15 bomber jets have reportedly bombed a Syrian air base used by Iranian forces. There are reports that 14 people died in the strikes, including Iranian nationals."
-    channel: "Democracy Now"
+- slug: KwpgwBZTyqM
+  name: "'Everywhere you go, chaos is left behind' – Russia’s UN envoy to US over
+    'chem attack' in Syria"
+  description: The UN Security Council is holding an emergency meeting on security
+    in the Middle East, in the wake of reports of an alleged chemical attack in the
+    Syrian city of Douma.
+  channel: RT
+- slug: vRJNEOkCFTc
+  name: 'Glenn Greenwald on Syria: U.S. & Israel Revving Up War Machine Won’t Help
+    Suffering Syrian Civilians'
+  description: in Syria, where Israeli F-15 bomber jets have reportedly bombed a Syrian
+    air base used by Iranian forces. There are reports that 14 people died in the
+    strikes, including Iranian nationals.
+  channel: Democracy Now
 tags:
 - America
 - Syria
@@ -28,10 +34,10 @@ tags:
 - WSWS
 - RT
 aliases:
-- /collapse/wsws-cia-stages-gas-attack-pretext-for-syria-escalation/
+- "/collapse/wsws-cia-stages-gas-attack-pretext-for-syria-escalation/"
 image: ''
----
 
+---
 The American empire is pushing forward in its latest unrelenting war on the world, on both the left and right the media is calling for war based on unproven claims of chemical war attacks that are all too similar to weapons of mass destruction.
 
 [World Socialist Web Site has covered today in a deep diving article that calls out the latest CIA staged attack, and warns that it will be used to justify an invasion.](http://www.wsws.org/en/articles/2018/04/09/pers-a09.html "CIA stages gas attack pretext for Syria escalation")
