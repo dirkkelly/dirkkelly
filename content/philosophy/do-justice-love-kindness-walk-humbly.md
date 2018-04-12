@@ -3,7 +3,7 @@ title: Do Justice, Love Kindness, Walk Humbly
 date: 2018-03-04 12:07:45 +0000
 subtitle: A society founded on the values of justice, kindness, and equality, would
   be radically different to our dominant capitalist culture.
-type: blog
+type: essay
 tags:
 - Philosophy
 - Service
