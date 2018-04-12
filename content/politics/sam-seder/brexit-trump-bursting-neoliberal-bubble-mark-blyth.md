@@ -5,12 +5,9 @@ videos:
 - name: Brexit, Trump, & the Bursting Neoliberal Bubble ft. Mark Blyth
   slug: eH8fKebOWeU
   channel: Sam Seder
-  description: Mark Blyth (@MkBlyth), Professor of Political Economy at Brown University,
-    joins us to discuss how understanding recent macroeconomic history, particularly
-    the triumph on neoliberalism, led him to predicting Brexit and Trump’s victory.
-    The Democrat bubble and how Bernie Sanders and Trump saw what the establishment
-    didn’t. The technocratic story of how political professionals became detached
-    from people. The scary ground being ceded to Tucker Carlson.
+  description: Mark Blyth Professor of Political Economy at Brown University discusses
+    how understanding recent macroeconomic history, particularly the triumph on neoliberalism,
+    led him to predicting Brexit and Trump’s victory.
 type: media
 layout: youtube
 tags:
@@ -20,5 +17,6 @@ tags:
 - sam seder
 - america
 - donald trump
+- identity politics
 
 ---
