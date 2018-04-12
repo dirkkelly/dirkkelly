@@ -13,6 +13,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: text
+  name: channel
+  label: Channel
 - type: textarea
   label: Description
   name: description
