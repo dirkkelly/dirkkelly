@@ -1,5 +1,5 @@
 ---
-title: Youtube Censoring Notifications
+title: YouTube Admits Not Notifying Subscribers & Screwing With Algorithms
 date: 2018-04-12 17:12:20 +0000
 tags:
 - Google
