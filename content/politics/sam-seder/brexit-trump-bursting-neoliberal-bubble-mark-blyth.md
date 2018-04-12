@@ -14,4 +14,11 @@ videos:
 type: media
 layout: youtube
 tags:
+- politics
+- economics
+- mark blythe
+- sam seder
+- america
+- donald trump
+
 ---
