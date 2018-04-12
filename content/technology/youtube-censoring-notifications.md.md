@@ -11,6 +11,8 @@ videos:
   description: 'YouTube admits to their new policies and methods that deliberately
     screw over content creators and Independent News Outlets. '
   channel: Jimmy Dore
+description: 'YouTube admits to their new policies and methods that deliberately screw
+  over content creators and Independent News Outlets. '
 draft: true
 
 ---
