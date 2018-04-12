@@ -1,4 +1,6 @@
 ---
+pages:
+- technology/youtube-censoring-notifications.md.md
 hide_body: false
 fields:
 - name: date
