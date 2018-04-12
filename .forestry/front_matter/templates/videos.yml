@@ -13,11 +13,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: draft
-  label: Draft
-  type: boolean
-  hidden: false
-  default: true
+- type: tag_list
+  name: tags
+  label: Tags
 - type: field_group_list
   name: videos
   label: Videos
