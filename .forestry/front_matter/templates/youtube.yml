@@ -1,4 +1,6 @@
 ---
+pages:
+- politics/sam-seder.md
 hide_body: false
 fields:
 - name: date
@@ -26,3 +28,23 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: field_group_list
+  name: videos
+  label: Videos
+  fields:
+  - type: text
+    name: name
+    label: Name
+    config:
+      required: true
+  - type: text
+    name: slug
+    label: Slug
+    config:
+      required: true
+  - type: textarea
+    name: description
+    label: Description
+  - type: text
+    name: channel
+    label: Channel
