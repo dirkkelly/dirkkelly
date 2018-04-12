@@ -14,9 +14,4 @@ videos:
 type: media
 layout: youtube
 tags:
-- 
-id: ''
-channel: ''
-draft: true
-
 ---

@@ -1,28 +1,16 @@
 ---
-pages:
-- politics/sam-seder.md
 hide_body: false
 fields:
 - name: date
   label: Date
   type: text
   hidden: false
-  default: 
+  default:
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
-- name: id
-  label: Id
-  type: text
-  hidden: false
-  default: 
-- name: channel
-  label: Channel
-  type: text
-  hidden: false
-  default: 
 - name: draft
   label: Draft
   type: boolean
