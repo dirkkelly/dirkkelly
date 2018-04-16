@@ -4,7 +4,7 @@ languageCode = "en-us"
 metadataformat = "yaml"
 title = "Dirk Kelly"
 # disqusshortname = "dirkkellycom"
-staticman_api = "https://api.staticman.net/v2/entry/dirkkelly/dirkeklly/master/comments"
+staticman_api = "https://api.staticman.net/v2/entry/dirkkelly/dirkkelly/master/comments"
 pluralizelisttitles = false
 
 [params]
