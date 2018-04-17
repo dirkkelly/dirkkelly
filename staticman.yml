@@ -5,6 +5,10 @@ comments:
   generatedFields:
     date:
       type: date
+    slug:
+      type: slugify
+      options:
+        field: title
   format: "json"
   commitMessage: "dirkkelly.com : Oh Shit! New Comment"
   moderation: true
