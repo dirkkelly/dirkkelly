@@ -1,3 +1,4 @@
+baseURL = "https://dirkkelly.com/"
 canonifyurls = true
 googleAnalytics = "UA-38004449-5"
 languageCode = "en-us"
