@@ -10,7 +10,7 @@ comments:
   moderation: true
   name: "Dirk Kelly"
   path: "data/comments/{options.slug}"
-  filename: "entry{@timestamp}"
+  filename: "{@id}"
   requiredFields: ["name", "body"]
   transforms:
     email: md5 # The email field will be MD5-hashed
