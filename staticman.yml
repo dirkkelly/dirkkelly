@@ -13,7 +13,7 @@ comments:
   commitMessage: "dirkkelly.com : Oh Shit! New Comment"
   moderation: true
   name: "Dirk Kelly"
-  path: "data/comments/{options.entryId}"
+  path: "data/comments/{options.slug}"
   filename: "{@id}"
   requiredFields: ["name", "body"]
   transforms:
