@@ -1,7 +1,7 @@
 comments:
   allowedFields: ["name", "email", "body", "slug"]
   allowedOrigins: ["localhost", "dirkkelly.com"]
-  branch: "test-staticman"
+  branch: "master"
   generatedFields:
     date:
       type: date
