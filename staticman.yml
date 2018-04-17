@@ -9,8 +9,8 @@ comments:
   commitMessage: "dirkkelly.com : Oh Shit! New Comment"
   moderation: true
   name: "Dirk Kelly"
-  path: "data/comments/{options.entryId}"
-  filename: "{@id}"
+  path: "data/comments/{options.slug}"
+  filename: "entry{@timestamp}"
   requiredFields: ["name", "body"]
   transforms:
     email: md5 # The email field will be MD5-hashed
