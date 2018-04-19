@@ -1,5 +1,6 @@
 /basics /about 301
 /channels/* /media/:splat 301
+/docs/propaganda/ https://docs.google.com/document/d/1-lckcPpkiU9_TrALS9oa6R4a65fQnJaRc092T0wwnkQ/edit?usp=sharing
 /media/aantonop /tags/aantonop 301
 /media/chomskysphilosophy /tags/noam-chomsky 301
 /media/contrapoints /tags/contrapoints 301
