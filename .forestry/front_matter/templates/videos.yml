@@ -2,6 +2,7 @@
 pages:
 - politics/assad-and-putin--have-you-ever-listened-to-them-.md
 hide_body: false
+is_partial: false
 fields:
 - name: date
   label: Date
