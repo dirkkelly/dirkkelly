@@ -13,7 +13,9 @@ image: "/uploads/2018/04/21/272C8576-FCB9-4D63-9A0F-C251442489B0.jpeg"
 aliases: []
 
 ---
-if your government is funding the destruction of a nation, do you trust it's media or some [shitty subreddit](https://reddit.com/r/syriancirclejerkwar) for the truth? who knows what truth is, but here's some counter points to the mainstream narrative about one man Issam Zahreddine.
+If your government is funding as celebrating the destruction of a nation, do you trust it's media or some [shitty subreddit](https://reddit.com/r/syriancirclejerkwar) for the truth? 
+
+Who knows what truth is, but here's some counter-points to the mainstream narrative about one man Issam Zahreddine.
 
 It’s been 6 months since his death from a landmine, hopefully these memes will one day be recognized as some of the more honest reflections on America’s decades long attempted invasion and destruction of Syria. When the American empire falls to the people of this world, when they rise up and overthrow the vicious murderers like George Bush Snr, Bill Clinton, George Bush, Barack Obama, Hillary Clinton, and Mike Pompeo.
 
