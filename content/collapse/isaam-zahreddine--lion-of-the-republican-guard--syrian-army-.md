@@ -17,7 +17,9 @@ If your government is funding and celebrating the destruction of a nation, do yo
 
 Who knows what truth is, but here's some counter-points to the mainstream narrative about one man Issam Zahreddine.
 
-It’s been 6 months since his death from a landmine, hopefully these memes will one day be recognized as some of the more honest reflections on America’s decades long attempted invasion and destruction of Syria. When the American empire falls to the people of this world, when they rise up and overthrow the vicious murderers like George Bush Snr, Bill Clinton, George Bush, Barack Obama, Hillary Clinton, and Mike Pompeo.
+It’s been 6 months since his death from a landmine, hopefully these memes will one day be recognized as some of the more honest reflections on America’s decades long attempted invasion and destruction of Syria.
+
+When the American empire falls to the people of this world, when they rise up and overthrow the vicious murderers like George Bush Snr, Bill Clinton, George Bush, Barack Obama, Hillary Clinton, and Mike Pompeo.
 
 ![Why?](/uploads/2018/04/21/DD6BDDF2-FC98-43C3-83D5-F0DBFBC6191C.jpeg)
 
