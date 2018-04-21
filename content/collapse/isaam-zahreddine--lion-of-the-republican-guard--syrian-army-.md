@@ -13,7 +13,7 @@ image: "/uploads/2018/04/21/272C8576-FCB9-4D63-9A0F-C251442489B0.jpeg"
 aliases: []
 
 ---
-If your government is funding a and celebrating the destruction of a nation, do you trust it's media or some [shitty subreddit](https://reddit.com/r/syriancirclejerkwar) for the truth? 
+If your government is funding and celebrating the destruction of a nation, do you trust it's media or some [shitty subreddit](https://reddit.com/r/syriancirclejerkwar) for the truth? 
 
 Who knows what truth is, but here's some counter-points to the mainstream narrative about one man Issam Zahreddine.
 
