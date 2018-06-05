@@ -17,5 +17,3 @@ fields:
   type: boolean
   hidden: false
   default: true
-pages:
-- survive/this-is-life-now-june-2018.md
