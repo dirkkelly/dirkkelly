@@ -1,7 +1,7 @@
 ---
 title: "What's the Point of Anything?"
 date: 2018-04-09 22:21:51 +0000
-type: blog
+type: media
 layout: youtube
 videos:
 - slug: 9oX2xFo7JA4
