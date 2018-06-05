@@ -1,7 +1,7 @@
 ---
 title: This is Life Now, June 2018
 date: 2018-06-05 11:27:20 -0600
-draft: true
+draft: false
 
 ---
 There's certain times of the day when writing becomes so easy, when the world isn't in your head for you to have to worry about it, so you can focus on the story in front of you. In this case the story is mine, just a simple story about my life now that I'm back in Perth.
@@ -38,4 +38,4 @@ Had some meetings for the rest of the night, leadership team where all divisions
 
 And now here I am, at the end of a blog post about what I did today. I'm finally enjoying a glass of red wine, while our dog sleeps at my side, and the night makes the sounds of creatures and keyboards. 
 
-Good night
+Good night.
