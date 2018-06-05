@@ -1,18 +1,4 @@
 ---
-pages:
-- survive/pain-essay.md
-- survive/be-prepared-2018-03.md
-- survive/i-don-t-want-to-die-in-america.md
-- economics/the-global-financial-crisis-of-2018-is-starting-to-get-noticed.md
-- technology/building-a-website-that-s-fast--free--and-yours.md
-- philosophy/do-justice-love-kindness-walk-humbly.md
-- philosophy/getting-in-trouble.md
-- philosophy/concentration-of-wealth-and-power.md
-- philosophy/on-my-honor.md
-- collapse/isaam-zahreddine--lion-of-the-republican-guard--syrian-army-.md
-- collapse/shifting-russian-narrative.md
-- collapse/how-can-the-enemy-be-this-friendly.md
-- collapse/accepting-collapse-and-moving-beyond.md
 hide_body: false
 is_partial: false
 fields:
@@ -47,3 +33,17 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- survive/pain-essay.md
+- survive/be-prepared-2018-03.md
+- survive/i-don-t-want-to-die-in-america.md
+- economics/the-global-financial-crisis-of-2018-is-starting-to-get-noticed.md
+- technology/building-a-website-that-s-fast--free--and-yours.md
+- philosophy/do-justice-love-kindness-walk-humbly.md
+- philosophy/getting-in-trouble.md
+- philosophy/concentration-of-wealth-and-power.md
+- philosophy/on-my-honor.md
+- collapse/isaam-zahreddine--lion-of-the-republican-guard--syrian-army-.md
+- collapse/shifting-russian-narrative.md
+- collapse/how-can-the-enemy-be-this-friendly.md
+- collapse/accepting-collapse-and-moving-beyond.md

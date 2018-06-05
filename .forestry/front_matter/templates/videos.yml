@@ -1,8 +1,4 @@
 ---
-pages:
-- politics/america/america-has-been-invading-syria-since-2012--under-obama.md
-- politics/assad-and-putin--have-you-ever-listened-to-them-.md
-- philosophy/everyday-virtue.md
 hide_body: false
 is_partial: false
 fields:
@@ -45,3 +41,7 @@ fields:
   - type: text
     name: channel
     label: Channel
+pages:
+- politics/america/america-has-been-invading-syria-since-2012--under-obama.md
+- politics/assad-and-putin--have-you-ever-listened-to-them-.md
+- philosophy/everyday-virtue.md
