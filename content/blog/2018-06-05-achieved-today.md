@@ -1,26 +1,28 @@
 ---
-title: This is Life Now, June 2018
+title: What I Achieved Today, June 5th 2018
 date: 2018-06-05 11:27:20 -0600
 tags:
 - Dirk Kelly
 - Diary
-
 ---
+
 There's certain times of the day when writing becomes so easy, when the world isn't in your head for you to have to worry about it, so you can focus on the story in front of you. In this case the story is mine, just a simple story about my life now that I'm back in Perth.
 
 It's 1:30am and I'm sitting outside in the backyard of my in parent's house a favorite spot in my life. In the background I can hear some night creatures; most notably my buddy Giles, who just jumped back on the chair, another attempt to make me come to bed. I just finished work an hour ago though and I don't have to get up until 9, so I'm taking my time, enjoying the evening.
 
-**A little about my schedule**  
+**A little about my schedule**
+
 I work two shifts every day Monday through Thursday, in the day from 10am \~ 3pm  and the evenings from 10pm until I'm not needed, usually some time between 12am and 2am,
 
 Whilst this can seem like a daunting burden, I have found it to be a very useful tool for approaching my schedule outside of work.
 
-**What I achieved today  
-**I woke up at 9am and got in to work around 10am, I caught and caught up with Jordan and Kevin our Australian Engineers regarding the projects they're currently working on, we also discussed process regarding standup and iteration planning meetings, agreed we'd discuss this with America tonight.
+**What I achieved today**
+
+I woke up at 9am and got in to work around 10am, I caught and caught up with Jordan and Kevin our Australian Engineers regarding the projects they're currently working on, we also discussed process regarding standup and iteration planning meetings, agreed we'd discuss this with America tonight.
 
 Then we went and grabbed a coffee and they had something to eat, turns out the place serves Antz in Ya Pantz, so yeah I've been drinking that and Five Senses at home since I've been back, delicious!
 
-_I received an email notifying me of the_ [_TEDxPerth Recruiting Evening_](https://www.eventbrite.com.au/register?orderid=dfe262c0686911e88b950a39556d7ec2&client_token=273c945ea55b4a038347c6a872fcbdc9&eid=46459671127) _which has an opening for IT Manager, I registered for the event and am looking forward to finding out more. Seems like a fantastic way to get back into the community and engaging with thought leaders who are getting their messages out there._
+I received an email notifying me of the [TEDxPerth Recruiting Evening](https://www.eventbrite.com.au/register?orderid=dfe262c0686911e88b950a39556d7ec2&client_token=273c945ea55b4a038347c6a872fcbdc9&eid=46459671127) which has an opening for IT Manager, I registered for the event and am looking forward to finding out more. Seems like a fantastic way to get back into the community and engaging with thought leaders who are getting their messages out there.
 
 Back to the office for a couple of hours, looking over the Layout migrations, getting through some failing tests in the older parts of the code-base, and discussing priorities for the week.
 
