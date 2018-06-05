@@ -8,17 +8,17 @@ tags:
 
 There's certain times of the day when writing becomes so easy, when the world isn't in your head for you to have to worry about it, so you can focus on the story in front of you. In this case the story is mine, just a simple story about my life now that I'm back in Perth.
 
-It's 1:30am and I'm sitting outside in the backyard of my in parent's house a favorite spot in my life. In the background I can hear some night creatures; most notably my buddy Giles, who just jumped back on the chair, another attempt to make me come to bed. I just finished work an hour ago though and I don't have to get up until 9, so I'm taking my time, enjoying the evening.
+It's 1:30am and I'm sitting outside in the backyard of my in parent's house a favorite spot in my life. In the background I can hear some night creatures; most notably my buddy Giles, who just jumped back on the chair, another attempt to make me come to bed. I just finished work an hour ago though and I don't have to get up until 9am, so I'm taking my time, enjoying the evening.
 
 **A little about my schedule**
 
-I work two shifts every day Monday through Thursday, in the day from 10am \~ 3pm  and the evenings from 10pm until I'm not needed, usually some time between 12am and 2am,
+I work two shifts Monday through Thursday, in the day from 10am \~ 3pm and the evenings from 10pm until I'm not needed, usually some time between 12am and 2am,
 
 Whilst this can seem like a daunting burden, I have found it to be a very useful tool for approaching my schedule outside of work.
 
 **What I achieved today**
 
-I woke up at 9am and got in to work around 10am, I caught and caught up with Jordan and Kevin our Australian Engineers regarding the projects they're currently working on, we also discussed process regarding standup and iteration planning meetings, agreed we'd discuss this with America tonight.
+I woke up at 9am and got in to work around 10am, I caught up with Jordan and Kevin our Australian Engineers regarding the projects they're currently working on, we also discussed process regarding standup and iteration planning meetings, agreed we'd discuss this with America tonight.
 
 Then we went and grabbed a coffee and they had something to eat, turns out the place serves Antz in Ya Pantz, so yeah I've been drinking that and Five Senses at home since I've been back, delicious!
 
@@ -37,6 +37,8 @@ From Ikea headed straight to the gym, great advice from my Jordan on loosening m
 After the gym I went by the apartment, dropped off and opened up the mattress, and repaired the door on the cupboard, I also had to move the drawers to accommodate the change in the mount positions, not simple alone but I managed with some spare parts holding the door in place. Met another neighbor, which puts me at three right around me, good to start to know the community, all very friendly people.
 
 I then drove back to my parent's, mum had left me dinner which I reheated before sitting down to work at 9:15pm, a video call for an hour with Nicole to discuss projects and staffing over the next 6 months, some great projects on the horizon, loving how much harder we're able to push with such a strong team.
+
+Met with the team for standup, discussed the concept of multiple IPMs, agreed that a senior engineer from each stream needs to be at all IPMs and agreed on starting at 930am EST on Thursdays for the Australia IPM, meaning our other Australian engineers only have to work Thursday nights. We have such a great team that is able to communicate effectively asynchronously and get together regularly enough to build good software.
 
 Had some meetings for the rest of the night, leadership team where all divisions checked in, got some context on what focuses everyone has right now, and gave a breakdown of the work we have going on which is a big list of great changes! Finally a catch up with Marketing to discuss an upcoming website project which is going to be a great opportunity to work with the new designer, Hugo Website Framework and Bootstrap 4 Library.
 
