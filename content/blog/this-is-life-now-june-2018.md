@@ -1,9 +1,9 @@
 ---
 title: This is Life Now, June 2018
 date: 2018-06-05 11:27:20 -0600
-draft: false
 tags:
-- blog
+- Dirk Kelly
+- Diary
 
 ---
 There's certain times of the day when writing becomes so easy, when the world isn't in your head for you to have to worry about it, so you can focus on the story in front of you. In this case the story is mine, just a simple story about my life now that I'm back in Perth.
@@ -16,7 +16,7 @@ I work two shifts every day Monday through Thursday, in the day from 10am \~ 3pm
 Whilst this can seem like a daunting burden, I have found it to be a very useful tool for approaching my schedule outside of work.
 
 **What I achieved today  
-**I woke up at 9am and got in to work around 10am, I caught and caught up with Jordan and Kevin our Australian Engineers regarding the projects they're currently working on, we also discussed process regarding standup and iteration planning meetings, agreed we'd discuss this with America tonight. 
+**I woke up at 9am and got in to work around 10am, I caught and caught up with Jordan and Kevin our Australian Engineers regarding the projects they're currently working on, we also discussed process regarding standup and iteration planning meetings, agreed we'd discuss this with America tonight.
 
 Then we went and grabbed a coffee and they had something to eat, turns out the place serves Antz in Ya Pantz, so yeah I've been drinking that and Five Senses at home since I've been back, delicious!
 
@@ -30,7 +30,7 @@ Back to the office for a bit and I created a few smaller pull requests from the 
 
 At 3pm I left the office and headed to Ikea, bought a mattress and a replacement panel for the wardrobe, afforded myself exactly enough time to get those high priorities sorted, but of course now I've had a look around and that means I can actually furnish my apartment, L shaped couch coming soon to a life near me. _Yay Stuff!_
 
-From Ikea headed straight to the gym, great advice from my Jordan on loosening my hamstrings and moving into Sumo deadlifts in order to start getting some work into them. Squats and Bench were around the 40s, I still have a sore shoulder and need to get to a **Physio Therapist, this is something I've been neglecting**. 
+From Ikea headed straight to the gym, great advice from my Jordan on loosening my hamstrings and moving into Sumo deadlifts in order to start getting some work into them. Squats and Bench were around the 40s, I still have a sore shoulder and need to get to a **Physio Therapist, this is something I've been neglecting**.
 
 After the gym I went by the apartment, dropped off and opened up the mattress, and repaired the door on the cupboard, I also had to move the drawers to accommodate the change in the mount positions, not simple alone but I managed with some spare parts holding the door in place. Met another neighbor, which puts me at three right around me, good to start to know the community, all very friendly people.
 
@@ -38,6 +38,6 @@ I then drove back to my parent's, mum had left me dinner which I reheated before
 
 Had some meetings for the rest of the night, leadership team where all divisions checked in, got some context on what focuses everyone has right now, and gave a breakdown of the work we have going on which is a big list of great changes! Finally a catch up with Marketing to discuss an upcoming website project which is going to be a great opportunity to work with the new designer, Hugo Website Framework and Bootstrap 4 Library.
 
-And now here I am, at the end of a blog post about what I did today. I'm finally enjoying a glass of red wine, while our dog sleeps at my side, and the night makes the sounds of creatures and keyboards. 
+And now here I am, at the end of a blog post about what I did today. I'm finally enjoying a glass of red wine, while our dog sleeps at my side, and the night makes the sounds of creatures and keyboards.
 
 Good night.
