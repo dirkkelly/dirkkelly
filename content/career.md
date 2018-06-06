@@ -102,6 +102,12 @@ Open Crew
 
 ### [Fort Collins Democratic Socialists of America](https://dsafc.org/)<br/><small>(2018)</small>
 
+Was able to provide leadership and advice for the existing group who were looking to incorporate and join the national organization.
+
+Assisted in development of their Constitution and meeting processes, as well as creation of their website and training on content creation.
+
+This was a fantastic opportunity to engage in the Fort Collins community, even if it was for such a short period.
+
 ### [BetaNYC](https://beta.nyc/)<br/><small>(2016 - 2017)</small>
 
 ### [Bullcreek Leeming Scout Group](https://www.blscouts.org.au/)<br/><small>(1998 - 2010)</small>
