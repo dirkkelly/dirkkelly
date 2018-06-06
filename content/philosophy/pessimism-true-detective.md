@@ -1,5 +1,5 @@
 ---
-title: "What's the Point of Anything?"
+title: "Phiolosophy of Pessimism"
 date: 2018-04-09 22:21:51 +0000
 type: media
 layout: youtube
@@ -19,13 +19,8 @@ tags:
 - School of Life
 aliases:
 - /collapse/whats-the-point-of-any-of-this/
+- /collapse/whats-the-point-of-anything-2018-04/
 ---
-
-Every day I wonder why I even bother getting out of bed, and yet I still do, we all still do.
-
-This video is useful for getting through bullshit days like today where you get fucked around by people, people who don't want to think about the life they're living, about how to make the lives of those around them better, those who cling to their ideology while the world around them burns.
-
-But then we can remember, of course nothing matters, but that doesn't matter.
 
 > We should cope as well as we can at whatever we have to do, we have to acknowledge the absurd background to existence and then triumph over the constant possibility of hopelessness.
 >
