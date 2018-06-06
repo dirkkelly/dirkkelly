@@ -100,7 +100,7 @@ Open Crew
 
 ## Volunteer
 
-### [Fort Collins Democratic Socialists of America](https://dsafc.org/)<br/><small>(2018 - Present)</small>
+### [Fort Collins Democratic Socialists of America](https://dsafc.org/)<br/><small>(2018)</small>
 
 ### [BetaNYC](https://beta.nyc/)<br/><small>(2016 - 2017)</small>
 
