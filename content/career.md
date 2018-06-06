@@ -7,16 +7,18 @@ menu:
   sidebar:
     weight: 6
 ---
+
 ### [InterExchange](http://interexchange.org)
 
+**Managing Director (Australia)** <small>(2018 - now)</small><br/>
 **Chief Technology Officer** <small>(2015 - now)</small><br/>
 **Lead Software Engineer** <small>(2013 - 2015)</small>
 
-InterExchange provides work and travel opportunities to young people, I manage their use of technology to achieve organization goals.
+InterExchange provides work and travel opportunities to young people, I manage their use of technology to achieve organizational goals.
 
 Having successfully built a quality engineering team, I am working on an organizational level to improve jobs, simplify processes, and develop systems.
 
-After many years software consulting across many different industries, I decided to take the time to fully understand a single organization.
+Now that I have returned to Perth I have also taken on the responsibility of building an Australian division of the organization, focussed on both engineering and exchange program development.
 
 ### [Pivotal Labs](http://pivotallabs.com/)
 
