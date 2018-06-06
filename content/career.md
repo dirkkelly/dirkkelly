@@ -110,6 +110,14 @@ This was a fantastic opportunity to engage in the Fort Collins community, even i
 
 ### [BetaNYC](https://beta.nyc/)<br/><small>(2016 - 2017)</small>
 
+Attended various meetings of this open group of civic hackers, assisted the community in various open source projects and open days.
+
+Eventually took over stewerdship of the [Citygram.nyc](https://citygram.nyc) project and lead multiple workshops teaching volunteers to contribute data to this notification service.
+
+After my departure from New York I worked with their new developer and the Code For America team to migrate the project to national hosting.
+
+Still provide minimal consulting services to the leadership group, as needed.
+
 ### [Bullcreek Leeming Scout Group](https://www.blscouts.org.au/)<br/><small>(1998 - 2010)</small>
 
 **Cub Scout Leader** 19½ - 21
