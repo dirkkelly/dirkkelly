@@ -17,7 +17,7 @@ Our children are growing up hopeless, an understandable response to being born i
 
 I've climbed the ladders of this society, I've worked through the capitalist system, played roles as both the worker and owner, fought for capital and fought for labor. I've tried leaving the capitalist system, rejecting it's existence, denying reality and suffering the consequences and effects this has on the mental health of a human being.
 
-I've found some peace, not all peace, through attempting to move myself into a position of acceptance for the hypernormalised unreality that we exist in, and I continue to practice that acceptance every day.
+I've found some peace, not all peace, through attempting to move myself into a position of acceptance of the hypernormalised unreality that we exist in, and I continue to practice that acceptance every day.
 
 There will be no solution to the largest problems our species faces, our dominant culture is one of exploitation of our future stability, it will consume until it has destroyed all life.
 
