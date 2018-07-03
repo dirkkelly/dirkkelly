@@ -13,7 +13,7 @@ This world which sits in a period of time where the the perversity of knowledge 
 
 Our culture is one which is fully aware of its own demise and yet is also powerless to make any changes to that fate due to the massive imbalance of power between the very few with the majority of wealth interested solely in taking more and the rest of life which is losing at an increasingly rapid rate.
 
-Our children our growing up hopeless, an understandable response to being born into a dying world controlled by those who hope their hoards of wealth will save them from the self destructive nature of the system they've lost control of. We see this hopelessness in the memes that they find refuge in, the nihilism that defines their response to the state of life on Earth, in the schools they're shooting up each day, in the drugs they're dying to as they try to escape reality.
+Our children are growing up hopeless, an understandable response to being born into a dying world controlled by those who hope their hoards of wealth will save them from the self destructive nature of the system they've lost control of. We see this hopelessness in the memes that they find refuge in, the nihilism that defines their response to the state of life on Earth, in the schools they're shooting up each day, in the drugs they're dying to as they try to escape reality.
 
 I've climbed the ladders of this society, I've worked through the capitalist system, played roles as both the worker and owner, fought for capital and fought for labor. I've tried leaving the capitalist system, rejecting it's existence, denying reality and suffering the consequences and effects this has on the mental health of a human being.
 
