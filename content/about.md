@@ -17,7 +17,7 @@ Our culture is one which is fully aware of its own demise and yet is also powerl
 
 Our children our growing up hopeless, an understandable response to being born into a dying world controlled by those who hope their hoards of wealth will save them from the self destructive nature of the system they've lost control of. We see this hopelessness in the memes that they find refuge in, the nihilism that defines their response to the state of life on Earth, in the schools they're shooting up each day, in the drugs they're dying to as they try to escape reality.
 
-I've climbed the ladders of this society, I've worked through the capitalist system, played roles as both the worker and owner, fought for capital and fought the labor. I've tried leaving the capitalist system, rejecting it's existence, denying reality and suffering the consequences and effects this has on the mental health of a human being.
+I've climbed the ladders of this society, I've worked through the capitalist system, played roles as both the worker and owner, fought for capital and fought for labor. I've tried leaving the capitalist system, rejecting it's existence, denying reality and suffering the consequences and effects this has on the mental health of a human being.
 
 I've found some peace, not all peace, through attempting to move myself into a position of acceptance for the hypernormalised unreality that we exist in, and I continue to practice that acceptance every day.
 
