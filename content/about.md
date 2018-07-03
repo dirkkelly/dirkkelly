@@ -7,8 +7,6 @@ menu:
     weight: 5
 
 ---
-You're here to learn more about how Dirk Kelly can relate to your journey through existence at this point in time, how can this other character be of any assistance to you?
-
 My goal is to learn and provide support in the areas of technology, business, and philosophy; and by philosophy nothing more fancy than trying to understand what it is to exist in this world right now.
 
 This world which sits in a period of time where the the perversity of knowledge and noise is a fundamental aspect of our Internet connected society, yet also a world with a climate changing at such a rapid rate that the dominant species has set in motion its own inevitable extinction.
