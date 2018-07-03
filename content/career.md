@@ -6,8 +6,8 @@ aliases:
 menu:
   sidebar:
     weight: 6
----
 
+---
 ### [InterExchange](http://interexchange.org)
 
 **Managing Director (Australia)** <small>(2018 - now)</small><br/>
@@ -60,7 +60,7 @@ I now know that getting bills paid is hard, that sustainable hours are vital and
 
 ### [Murdoch University](http://www.murdoch.edu.au/)
 
-**Software Developer** <small>(2007 ~ 2012)</small>
+**Software Developer** <small>(2007 \~ 2012)</small>
 
 Predominantly built PHP single purpose apps within the student services division. Installed and maintained an [OpenReports](http://oreports.com/) service.
 
@@ -96,9 +96,13 @@ Kitchen Crew<br/>
 Counter Crew<br/>
 Open Crew
 
----
+***
 
 ## Volunteer
+
+### [TEDxPerth](https://tedxperth.org)<br/><small>(2018 - now)</small>
+
+Taken on the role of IT Manager, working to improve systems and processes in the organization to assist with the distribution of ideas that change the world.
 
 ### [Fort Collins Democratic Socialists of America](https://dsafc.org/)<br/><small>(2018)</small>
 
@@ -128,17 +132,17 @@ After taking a break from scouting I came back to volunteer, before leaving for 
 
 As venturer scouts we ran our pack collaboratively with leaders providing advice (and transportation), working together we would plan and execute events we wanted to, whether it was a LAN party with dozens of people, a 5 day hike through Albany.
 
-**[Scouts](https://www.blscouts.org.au/scouts/)** 10½ - 14½
+[**Scouts**](https://www.blscouts.org.au/scouts/) 10½ - 14½
 
 As a scout I progressed through the ranks to assistant six leader, I served alongside a great crew and we had some amazing adventures together.
 
-**[Cub Scouts](https://www.blscouts.org.au/cubs/)** 9½ - 10½
+[**Cub Scouts**](https://www.blscouts.org.au/cubs/) 9½ - 10½
 
 Joined cub scouts towards the end age bracket, I was introduced to an amazing pack of kind and helpful people, I learnt a lot about camping, volunteering, and community service.
 
 Cub Scouts Do Your Best
 
----
+***
 
 ## Education
 
@@ -155,7 +159,7 @@ The degree I hold can be used to in accordance with an E3 visa, I can work withi
 
 ### [Banksia Park Primary School](http://www.banksiapark.wa.edu.au/)
 
----
+***
 
 ## Skills
 
@@ -163,17 +167,17 @@ The degree I hold can be used to in accordance with an E3 visa, I can work withi
 
 My development career has given me exposure and expertise across all aspects of web development.
 
-- Databases<br/><small>(PostgreSQL, MySQL, OracleDB)</small>
-- Application<br/><small>(Ruby, PHP, Java)</small>
-- Interaction<br/><small>(ES6, ReactJS, EmberJS)</small>
-- Interface<br/><small>(HTML, CSS)</small>
+* Databases<br/><small>(PostgreSQL, MySQL, OracleDB)</small>
+* Application<br/><small>(Ruby, PHP, Java)</small>
+* Interaction<br/><small>(ES6, ReactJS, EmberJS)</small>
+* Interface<br/><small>(HTML, CSS)</small>
 
 #### Test Driver
 
 I use test driven guide me through creating features that are reliable and well documented.
 
-- Integration<br/><small>(Cucumber, Behat)</small>
-- Unit <br/><small>(Rspec, PHPUnit, JUnit)</small>
+* Integration<br/><small>(Cucumber, Behat)</small>
+* Unit <br/><small>(Rspec, PHPUnit, JUnit)</small>
 
 #### User Focussed
 
@@ -181,7 +185,7 @@ My process prioritizes end-user features over solving problems that don't exist 
 
 #### Future Prepared
 
-I work closely with product teams to champion and promote quality time spent on technical debt and R&amp;D.
+I work closely with product teams to champion and promote quality time spent on technical debt and R&D.
 
 #### Self Directed
 
