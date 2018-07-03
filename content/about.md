@@ -7,7 +7,7 @@ menu:
     weight: 5
 
 ---
-My goal is to learn and provide support in the areas of technology, business, and philosophy; and by philosophy nothing more fancy than trying to understand what it is to exist in this world right now.
+My goal is to learn and provide support in the areas of technology, business, and philosophy; and by philosophy I mean nothing more fancy than trying to understand what it is to exist in this world right now.
 
 This world which sits in a period of time where the the perversity of knowledge and noise is a fundamental aspect of our Internet connected society, yet also a world with a climate changing at such a rapid rate that the dominant species has set in motion its own inevitable extinction.
 
