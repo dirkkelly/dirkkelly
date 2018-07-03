@@ -25,4 +25,4 @@ There will be no solution to the largest problems our species faces, our dominan
 
 However that is then and this is now, these existential problems which we face are absurd and depressing, but they cannot consume your mind or else they will take you from your duty to exist.
 
-So like I said, if you need help with technology and business, or if you just want to chat about the meaningless of it all, feel free to [get in touch](/contact/ "Contact Me").
+So like I said, if you need help with technology and business, or if you just want to chat about the meaningless of it all and getting through it, feel free to [get in touch](/contact/ "Contact Me").
