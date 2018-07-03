@@ -21,7 +21,7 @@ I've climbed the ladders of this society, I've worked through the capitalist sys
 
 I've found some peace, not all peace, through attempting to move myself into a position of acceptance for the hypernormalised unreality that we exist in, and I continue to practice that acceptance every day.
 
-There will be no solution to the largest problems our species faces, our dominant culture is one of exploitation of our future stability in order to survive and it will consume until it has destroyed life.
+There will be no solution to the largest problems our species faces, our dominant culture is one of exploitation of our future stability, it will consume until it has destroyed all life.
 
 However that is then and this is now, these existential problems which we face are absurd and depressing, but they cannot consume your mind or else they will take you from your duty to exist.
 
