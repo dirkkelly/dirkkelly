@@ -9,7 +9,9 @@ menu:
 ---
 You're here to learn more about how Dirk Kelly can relate to your journey through existence at this point in time, how can this other character be of any assistance to you?
 
-My goal is to learn and provide support in the areas of technology, business, and philosophy; and by philosophy nothing more fancy than trying to understand what it is to exist in this world right now. This world which sits in a period of time where the the perversity of knowledge and noise is a fundamental aspect of our Internet connected society yes also one with a climate that is changing at such a rapid rate that the dominant species has set in motion its own extinction, once it's finished with all other life.
+My goal is to learn and provide support in the areas of technology, business, and philosophy; and by philosophy nothing more fancy than trying to understand what it is to exist in this world right now. 
+
+This world which sits in a period of time where the the perversity of knowledge and noise is a fundamental aspect of our Internet connected society yes also one with a climate that is changing at such a rapid rate that the dominant species has set in motion its own extinction, once it's finished with all other life.
 
 Our culture now exists as one which is fully aware of its own demise and yet is also seemingly powerless to make any changes to that fate due to the massive imbalance of power between the very few with the majority of wealth, and the rest of the species which is losing more footing each year.
 
