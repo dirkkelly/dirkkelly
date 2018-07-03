@@ -11,7 +11,7 @@ My goal is to learn and provide support in the areas of technology, business, an
 
 This world which sits in a period of time where the the perversity of knowledge and noise is a fundamental aspect of our Internet connected society, yet also a world with a climate changing at such a rapid rate that the dominant species has set in motion its own inevitable extinction.
 
-Our culture is one which is fully aware of its own demise and yet is also powerless to make any changes to that fate due to the massive imbalance of power; the very few with the majority of wealth interested solely in taking more and the rest of life which is losing at an increasingly rapid rate.
+Our culture is one which is fully aware of its own demise and yet is also powerless to make any changes to that fate due to the massive imbalance of power between the very few with the majority of wealth interested solely in taking more and the rest of life which is losing at an increasingly rapid rate.
 
 Our children our growing up hopeless, an understandable response to being born into a dying world controlled by those who hope their hoards of wealth will save them from the self destructive nature of the system they've lost control of. We see this hopelessness in the memes that they find refuge in, the nihilism that defines their response to the state of life on Earth, in the schools they're shooting up each day, in the drugs they're dying to as they try to escape reality.
 
