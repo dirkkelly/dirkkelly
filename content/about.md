@@ -5,55 +5,22 @@ type: page
 menu:
   sidebar:
     weight: 5
+
 ---
-## Australian
+You're here to learn more about how Dirk Kelly can relate to your journey through existence at this point in time, how can this other character in your movie be of any assistance to you, and also how can they be of risk?
 
-This has come to mean so much to me, I have so much love for a country that supported me into becoming who I am.
+My goal is to provide support to others and himself in the areas of technology, business, and philosophy; and by philosophy nothing more fancy than trying to understand what it is to exist in this world right now. This world which sits in a period of time where the the perversity of knowledge and noise is a fundamental aspect of our Internet connected society yes also one with a climate that is changing at such a rapid rate that the dominant species has set in motion its own extinction, once it's finished with all other life.
 
-I believe in cultural exchange, that we need to be challenged so that we can grow and give back more.
+Our culture now exists as one which is fully aware of its own demise and yet is also seemingly powerless to make any changes to that fate due to the massive imbalance of power between the very few with the majority of wealth, and the rest of the species which is losing more footing each year.
 
-## Socialist
+Our children our growing up hopeless, an understandable response to being born into a dying world controlled by those who hope their hoards of wealth will save them from the self destructive nature of the system they control. We see this hopelessness in the memes that they find refuge in, the nihilism that defines their response to the state of life on Earth.
 
-The economic system of our society is one of violent repression and extreme wealth in a tiny percent of people.
+I've climbed the ladders of this society, I've worked through the capitalist system, played roles as both the worker and owner, fought for capital and fought the labor. I've tried leaving the capitalist system, rejecting it's existence, denying reality and suffering the consequences and effects this has on the mental health of a human being.
 
-We need to take down this economic system and build one which fairly distributes the wealth amongst all people.
+I've found some peace, not all peace, through attempting to move myself into a position of acceptance for the hypernormalised unreality that we exist in, and I continue to practice that acceptance every day.
 
-## Technologist
+There will be no solution to the largest problems our species faces, our dominant culture is one of exploitation of our future stability in order to survive and it will consume until it has destroyed life.
 
-I'm building this documentation with a new piece of technology that I'm hoping to implement across my organization.
+However that is then and this is now, these existential problems which we face are absurd and depressing, but they cannot consume your mind or else they will take you from your duty to exist.
 
-This gives me an opportunity to compare the tool to so many others that I have used, contributed to, consulted on, deployed with, supported, regretted, and praised.
-
-I adore the Internet, simplifying the ability to publish to it is a high priority to me.
-
-That's not to say I don't recognize and abhor the cost of technology influencing our lives.
-
-## Chief Technology Officer
-
-[InterExchange](https://www.interexchange.org/) is a non profit organization which understands that people build empathy towards each other through in-person interaction.
-
-With the aim of reducing adversity between cultures we administer international exchange programs that enable participants to interact with a foreign society through work and volunteer opportunities.
-
-I'm their Chief Technology Officer. It's my responsibility to understand how the industry can be innovated and made more efficient, then guide the implementation of these improvements through structured process and automation.
-
-## Fort Collins
-
-Summer 2017 I moved to Fort Collins Colorado and it was one of the best decisions of my life. I love being surrounded by huge mountains, good people, and chill vibes.
-
-In only a month here I've made great friends, been on many bike rides (from [Poudre Trail](http://www.poudretrail.org/) [Tour De Fat](https://www.newbelgium.com/events/tour-de-fat)), and seem some great live music.
-
-Working remotely has resulted in huge improvements to my lifestyle, I'm healthier, happier, and more effective here.
-
-## New York
-
-I moved to New York in 2011 to advance my career in software development at [Pivotal Labs](https://pivotal.io/labs).
-
-Consulting was a fantastic way for me to experience the huge variety of organizations in the world, and relate that experience back to my skill of system analysis, design, and development.
-
-I went on to join InterExchange's headquarters are in New York, I work as a full time remote employee.
-
-## Perth
-
-I was born here, I promise you it's one of the most beautiful places I have been on this Earth.
-
-My family live here, they're a clan of caring, hard-working, intelligent, and opinionated people.
+So like I said, if you need help with technology and business, or if you just want to chat about the meaningless of it all, feel free to [get in touch](/contact/ "Contact Me").

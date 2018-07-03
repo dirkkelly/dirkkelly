@@ -42,7 +42,7 @@ fields:
     name: channel
     label: Channel
 pages:
-- politics/america/america-has-been-invading-syria-since-2012--under-obama.md
-- politics/assad-and-putin--have-you-ever-listened-to-them-.md
-- philosophy/everyday-virtue.md
-- collapse/video-about-the-failure-of-america.md
+- content/politics/america/america-has-been-invading-syria-since-2012--under-obama.md
+- content/politics/assad-and-putin--have-you-ever-listened-to-them-.md
+- content/collapse/video-about-the-failure-of-america.md
+- content/philosophy/everyday-virtue.md
