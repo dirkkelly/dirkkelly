@@ -11,7 +11,6 @@ pluralizelisttitles = false
 [params]
   author = "dirkkelly"
   description = "Thinking about politics, economics, and technology during humanity's struggle to navigate the collapse of Capitalism and subsequent Holocene extinction."
-  mainSections = ["essays", "media"]
 
 [[menu.topbar]]
   name = "Politics"

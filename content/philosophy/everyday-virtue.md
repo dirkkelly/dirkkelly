@@ -1,12 +1,14 @@
 ---
 title: Everyday Virtue | Paterson & David Foster Wallace
 date: 2018-04-22 20:10:50 -0600
+type: media
+layout: youtube
 videos:
-- name: Everyday Virtue | Paterson & David Foster Wallace
-  slug: RnGvWTRQ9j4
-  description: Analysis of Jim Jarmusch’s 2016 film Paterson through the lens of David
-    Foster Wallace’s philosophy.
-  channel: Like Stories of Old
+  - name: Everyday Virtue | Paterson & David Foster Wallace
+    slug: RnGvWTRQ9j4
+    description: Analysis of Jim Jarmusch’s 2016 film Paterson through the lens of David
+      Foster Wallace’s philosophy.
+    channel: Like Stories of Old
 channel: Like Stories of Old
 description: The idea that the world around us is just a stage for our heroes journey.
 tags:

@@ -3,6 +3,7 @@ date: 2018-02-05 00:00:00 +0000
 title: Your President is Horrible, Your Boss is Worse, and Your Board Even More So
 subtitle: Trump is doing horrible things, because horrible people have all the money
   and power.
+featured: true
 type: essays
 tags:
 - Politics
