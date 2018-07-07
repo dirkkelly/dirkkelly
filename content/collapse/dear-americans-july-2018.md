@@ -6,7 +6,9 @@ description: A facitst government is clearly making your lives worse, the questi
 tags:
 - america
 - donald trump
+- fascism
 - cody johnston
+- anti-corruption act
 featured: true
 
 ---
