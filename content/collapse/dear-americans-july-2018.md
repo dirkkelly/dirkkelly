@@ -6,7 +6,6 @@ description: A facitst government is clearly making your lives worse, the questi
 tags:
 - america
 - donald trump
-- facism
 - cody johnston
 featured: true
 
@@ -25,6 +24,6 @@ How is this possible they ask? How can Americans let their country be destroyed 
 
 {{ < youtube 5tu32CCA_Ig > }}
 
-And when they ask, how can American's believe that Trump is going to save them? I explain it's because they're absolutely desperate, so aware of the corruption of their government that the masses of both sides of the political spectrum have thrown aside the false leaders that are available, creating a power vacuum for a new form of leadership, fascism. This is not nazism, this is not Hitlerism, or any existing form of facism, this is American Facism, this is Trumpism.
+And when they ask, how can American's believe that Trump is going to save them? I explain it's because they're absolutely desperate, so aware of the corruption of their government that the masses of both sides of the political spectrum have thrown aside the false leaders that are available, creating a power vacuum for a new form of leadership, fascism. This is not nazism, this is not Hitlerism, or any existing form of fascism, this is American Fascism, this is Trumpism.
 
 {{< youtube CcklYVR5I-I >}}
