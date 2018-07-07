@@ -1,5 +1,5 @@
 ---
-title: Dear Americans July 2018
+title: Dear Americans Living in Facist America
 date: 2018-07-06 22:18:53 -0600
 description: A facitst government is clearly making your lives worse, the question
   is are you seeing this reality, and what are you doing about it?
