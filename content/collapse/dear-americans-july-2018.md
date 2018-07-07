@@ -16,9 +16,7 @@ You haven't heard from me in a while, I haven't written for a few months and I t
 
 How have I been? I'm going really well, having finally moved back to Australia I'm enjoying spending my time with family and friends, settling into a much more stable existence than I've experienced over the past 7 years. I'm finally investing in my future again, saving money, planning a home construction project, optimizing my new work and volunteer roles, and going to the gym 3 times a week.
 
-How are things going for you? Since getting back I've been fielding so many questions from intrigued Australians watching your country with confusion and horror. While the media only really speaks of your president's actions, those alone being enough to cause despair, it doesn't tell us how things are going for you. Sometimes the Internet is able to fill the vacuum of this information void, it's such a polarizing medium though and the things that bubble to the top are the us vs them rhetoric that do not explain the overall story of your nation's decline.
-
-That's where I can provide provide a broader perspective of what's happening and how I try to answer the question of how things are going for y'all.
+How are things going for you? Since getting back I've been fielding that question for you from intrigued Australians watching your country with confusion.
 
 I explain that [you're living in a collapsing society](http://fortune.com/2015/07/20/united-states-decline-statistics-economic/) which not only spends millions [dropping 121 bombs a day](https://www.truthdig.com/articles/trumps-military-drops-a-bomb-every-12-minutes-and-no-one-is-talking-about-it/) to kill the poorest around the world it spends nothing on the poorest at home who suffer to contaminated water [in 42 states](https://www.thoughtco.com/chemical-contaminated-tap-water-in-us-1204205) and [400 military bases](https://www.military.com/daily-news/2017/04/25/nearly-400-military-bases-must-be-tested-water-contamination.html) and can't afford a [$400 medical bill](http://money.cnn.com/2018/05/22/pf/emergency-expenses-household-finances/index.html).
 
