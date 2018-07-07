@@ -22,7 +22,7 @@ I am able to explain that [you're living in a collapsing society](http://fortune
 
 How is this possible they ask? How can Americans let their country be destroyed so blatantly. I explain it's not because Americans are monsters, it's because their government is absolutely corrupted.
 
-{{ < youtube 5tu32CCA_Ig > }}
+{{< youtube 5tu32CCA_Ig >}}
 
 And when they ask, how can American's believe that Trump is going to save them? I explain it's because they're absolutely desperate, so aware of the corruption of their government that the masses of both sides of the political spectrum have thrown aside the false leaders that are available, creating a power vacuum for a new form of leadership, fascism. This is not nazism, this is not Hitlerism, or any existing form of fascism, this is American Fascism, this is Trumpism.
 
