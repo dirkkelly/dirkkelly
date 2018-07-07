@@ -26,6 +26,6 @@ How is this possible they ask. "How can Americans let their country be blatantly
 
 Then when they ask "how can some American's believe that Trump is going to save them?" I explain it's because they're absolutely desperate. They're so aware of the corruption of their government that the masses of both sides of the political spectrum have thrown aside the false leaders that are available, creating a power vacuum for a new form of leadership, fascism.
 
-This is not nazism, this is not Hitlerism, or any existing form of fascism, this is American Fascism, this is Trumpism.
+This is not nazism, this is not Hitlerism, or any existing form of fascism; this is American Fascism, this is Trumpism.
 
 {{< youtube CcklYVR5I-I >}}
