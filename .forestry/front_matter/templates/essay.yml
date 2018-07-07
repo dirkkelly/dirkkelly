@@ -18,14 +18,14 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- type: boolean
+  name: featured
+  label: Featured
 - name: draft
   label: Draft
   type: boolean
   hidden: false
   default: true
-- type: boolean
-  name: featured
-  label: Featured
 pages:
 - content/collapse/dear-americans-july-2018.md
 - content/politics/it-s-easy-not-to-care-from-afar.md
