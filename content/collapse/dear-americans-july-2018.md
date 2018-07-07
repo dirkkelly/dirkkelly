@@ -18,13 +18,13 @@ How are things going for you? Since getting back I've been fielding so many ques
 
 That's where I can provide provide a broader perspective of what's happening and how I try to answer the question of how things are going for y'all. 
 
-I am able to explain that [you're living in a collapsing society](http://fortune.com/2015/07/20/united-states-decline-statistics-economic/) by citing facts about how [40% of American's are unable to afford a $400 bill](http://money.cnn.com/2018/05/22/pf/emergency-expenses-household-finances/index.html),  [that your military drop 121 bombs a day](https://www.truthdig.com/articles/trumps-military-drops-a-bomb-every-12-minutes-and-no-one-is-talking-about-it/), fail to provide clean drinking water for [citizens in 42 states](https://www.thoughtco.com/chemical-contaminated-tap-water-in-us-1204205) and [soldiers across 400 military bases](https://www.military.com/daily-news/2017/04/25/nearly-400-military-bases-must-be-tested-water-contamination.html).
+I am able to explain that [you're living in a collapsing society](http://fortune.com/2015/07/20/united-states-decline-statistics-economic/) which not only spends millions [dropping 121 bombs a day](https://www.truthdig.com/articles/trumps-military-drops-a-bomb-every-12-minutes-and-no-one-is-talking-about-it/) (as opposed to Obama's 34 and Bush's 24) on the poorest parts of the world, is killing it's own citizens. I help them understand your struggles, that  [40% (120 Million) of you can't afford a $400 bill](http://money.cnn.com/2018/05/22/pf/emergency-expenses-household-finances/index.html) and that not only is for [water contaminated in 42 states](https://www.thoughtco.com/chemical-contaminated-tap-water-in-us-1204205) it's also [contaminated in over 400 military bases](https://www.military.com/daily-news/2017/04/25/nearly-400-military-bases-must-be-tested-water-contamination.html).
 
-How is this possible they ask? How can Americans let their country be destroyed so blatantly. I explain it's not because Americans are monsters, it's because their government is absolutely corrupted.
+How is this possible they ask. "How can Americans let their country be blatantly destroyed?" I explain it's because their government is corrupt.
 
 {{< youtube 5tu32CCA_Ig >}}
 
-And when they ask, how can some American's believe that Trump is going to save them? I explain it's because they're absolutely desperate, so aware of the corruption of their government that the masses of both sides of the political spectrum have thrown aside the false leaders that are available, creating a power vacuum for a new form of leadership, fascism. 
+Then when they ask "how can some American's believe that Trump is going to save them?" I explain it's because they're absolutely desperate. They're so aware of the corruption of their government that the masses of both sides of the political spectrum have thrown aside the false leaders that are available, creating a power vacuum for a new form of leadership, fascism.
 
 This is not nazism, this is not Hitlerism, or any existing form of fascism, this is American Fascism, this is Trumpism.
 
