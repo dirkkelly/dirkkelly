@@ -1,4 +1,5 @@
 ---
+label: essay
 hide_body: false
 is_partial: false
 fields:
@@ -28,4 +29,5 @@ fields:
   default: true
 pages:
 - content/collapse/dear-americans-july-2018.md
+- content/collapse/preparing-for-life-under-a-declining-empire.md
 - content/politics/it-s-easy-not-to-care-from-afar.md
