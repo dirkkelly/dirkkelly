@@ -12,7 +12,9 @@ draft: true
 ---
 ## The Future Can't Be Known
 
-The future isn’t something for us to know, to make predictions of what it holds for us is a game I'm trying to avoid playing, [as fun as it can be](/collapse/america-will-collapse-earth-will-boil-humanity-will-perish/). However the past and present is something we can measure, and those measurements can give us guidance for what could possibly happen in the future.
+The future isn’t something for us to know, to make predictions of what it holds for us is a game I'm trying to avoid playing, [as fun as it can be](/collapse/america-will-collapse-earth-will-boil-humanity-will-perish/).
+
+However the past and present is something we can measure, and those measurements can give us guidance for what could possibly happen in the future.
 
 The empire celebrates the measurements of football scores, stock prices, and unemployment rates. The narrative we hear is that we’re in a global financial recovery, that there are less unemployed Americans than ever, things are going well for everyone and if they’re not for you, then you must be doing something wrong.
 
