@@ -23,7 +23,7 @@ A measurement you won’t hear from Empire's sources is that since 2008 the real
 
 [![Real Wage](/uploads/2018/07/15/trading-economics-us-salary-history.png)](https://tradingeconomics.com/united-states/wage-growth)
 
-Those who’s insurance and savings have run out have finally been forced to go back into the workforce. Yes sure they’re employed, but where they were once a manager at a local firm they’re now an Uber driver, where they once had full time employment and health insurance, they have casual work and pay more for car insurance.
+Those who’s umemployment insurance and savings have run out have finally been forced to go back into the workforce. Yes sure they’re employed, but where they were once a manager at a local firm they’re now an Uber driver, where they once had full time employment and health insurance, they have casual work and pay more for car insurance.
 
 [![Household Income](/uploads/2018/07/15/saupload_median-household-income-in-21st-century-nominal-and-real-estimates-200001-thru-201801_thumb1.png)](https://seekingalpha.com/article/4152222-january-2018-median-household-income)
 
