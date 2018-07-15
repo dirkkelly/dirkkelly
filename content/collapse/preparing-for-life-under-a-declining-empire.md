@@ -1,7 +1,7 @@
 ---
 title: Preparing for Life Under a Declining Empire
 date: 2018-07-15 14:37:14 +0000
-description: ''
+description: Solidarity is the key to survival, and your community is the key to solidarity.
 tags:
 - collapse
 - america
