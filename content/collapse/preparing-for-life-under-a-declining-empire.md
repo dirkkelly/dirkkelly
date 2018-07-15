@@ -22,11 +22,11 @@ In reality that is barely half the truth, those narratives do not accurately ref
 
 A measurement you won’t hear from Empire's sources is that since 2008 the real wage of Americans, that is their wage relative to the items they buy, has not changed.
 
-<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=unitedstawaggro&v=201805311312v&d1=20080101&d2=20181231&h=400&w=800' width='100%'  height='300' frameborder='0' scrolling='no'></iframe>
+[![Real Wage](/uploads/2018/07/15/trading-economics-us-salary-history.png)](https://tradingeconomics.com/united-states/wage-growth)
 
 Those who’s insurance and savings have run out have finally been forced to go back into the workforce. Yes sure they’re employed, but where they were once a manager at a local firm they’re now an Uber driver, where they once had full time employment and health insurance, they have casual work and pay more for car insurance.
 
-![](/uploads/2018/07/15/saupload_median-household-income-in-21st-century-nominal-and-real-estimates-200001-thru-201801_thumb1.png)
+[![Household Income](/uploads/2018/07/15/saupload_median-household-income-in-21st-century-nominal-and-real-estimates-200001-thru-201801_thumb1.png)](https://seekingalpha.com/article/4152222-january-2018-median-household-income)
 
 A society which won’t recognize the problems it’s facing will certainly not take any actions to improve the lives of those suffering under it. I’m not here to predict where the lives of Americans are headed, what I’m here to do is tell you what I’m planning to do with my life, as an Australian who lived here from 2011 until 2018.
 
