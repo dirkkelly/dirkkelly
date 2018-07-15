@@ -14,7 +14,7 @@ tags:
 - Fort Collins
 aliases:
 - "/2018/02/02-america-will-collapse-earth-will-boil-humanity-will-perish/"
-
+featured: true
 ---
 ## America Will Collapse
 
