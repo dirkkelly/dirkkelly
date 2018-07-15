@@ -20,7 +20,7 @@ In reality that is barely half the truth, those narratives do not accurately ref
 
 A measurement you won’t hear from Empire's sources is that since 2008 the real wage of Americans, that is their wage relative to the items they buy, has not changed.
 
-<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=unitedstawaggro&v=201805311312v&d1=20080101&d2=20181231&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/united-states/wage-growth'>tradingeconomics.com</a>
+<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=unitedstawaggro&v=201805311312v&d1=20080101&d2=20181231&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe>
 
 Those who’s insurance and savings have run out have finally been forced to go back into the workforce. Yes sure they’re employed, but where they were once a manager at a local firm they’re now an Uber driver, where they once had full time employment and health insurance, they have casual work and pay more for car insurance.
 
