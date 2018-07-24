@@ -25,7 +25,6 @@ sections:
 - path: content/essays
   label: Essays
   create: all
-  default_front_matter_template: essay
 - path: content/media
   label: Media
   create: all

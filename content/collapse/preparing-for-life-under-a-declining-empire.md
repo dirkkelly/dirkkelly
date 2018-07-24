@@ -9,6 +9,16 @@ tags:
 featured: true
 
 ---
+America has been experiencing a steady decline in living conditions for more of its people each year, wealth disparity has been burned into the system by an economic model that rewards the haves and punished the have nots. Regardless of this reality for so many, American government, media, and  education proudly celebrate their nation, constantly reminding its own  citizens and the rest of the world world that is the greatest nation on  earth. 
+
+A  society which won’t recognize the problems it’s facing will certainly  not take any actions to improve the lives of those suffering under it.  Telling the world you’re great as the living conditions of the majority  of people collapses is a grift that can only be played so long. 
+
+This  decline of life quality is compounded as this same unequal economic  system destroys the natural earth which sustains all life, creating an  extinction level risk as serious as nuclear war and far more ensured  regardless of human behavior going forward.
+
+I  have an opinion on this because I immigrated to America in 2011, a  young intelligent man, benefiting from the rise of information  technology and the privilege it supplies the elite of these systems. My  exposure to the long term effects of hyper capitalism shook me to my  core, evolving my thinking to one which celebrates community over  capital, and my goals to the preservation of the majority over myself.  
+
+I’m  not here to predict where the lives of Americans are headed, what I’m  here to do is tell you what I’m planning to do with my life. How I use  my technical skills in combination with my team building experience to  understand and implement the principles of permaculture to build a  community. As with all communities we will have adapt to the new  realities of our world, and struggle to counter m the destructive  characteristics of our species which ensured its extinction. 
+
 ## The Future Can't Be Known
 
 The future isn’t something for us to know, to make predictions of what it holds for us is a game I'm trying to avoid playing, [as fun as it can be](/collapse/america-will-collapse-earth-will-boil-humanity-will-perish/).
@@ -23,7 +33,7 @@ A measurement you won’t hear from Empire's sources is that since 2008 the real
 
 [![Real Wage](/uploads/2018/07/15/trading-economics-us-salary-history.png)](https://tradingeconomics.com/united-states/wage-growth)
 
-Those who’s umemployment insurance and savings have run out have finally been forced to go back into the workforce. Yes sure they’re employed, but where they were once a manager at a local firm they’re now an Uber driver, where they once had full time employment and health insurance, they have casual work and pay more for car insurance.
+Those who’s unemployment insurance and savings have run out have finally been forced to go back into the workforce. Yes sure they’re employed, but where they were once a manager at a local firm they’re now an Uber driver, where they once had full time employment and health insurance, they have casual work and pay more for car insurance.
 
 [![Household Income](/uploads/2018/07/15/saupload_median-household-income-in-21st-century-nominal-and-real-estimates-200001-thru-201801_thumb1.png)](https://seekingalpha.com/article/4152222-january-2018-median-household-income)
 
@@ -59,9 +69,9 @@ Nothing lasts forever though, and I have no plans to continue to be employed in 
 
 I work in technology, my drive as a child to learn and master computer systems has been the driving force behind the success I have found in our current economy. I learnt to build and maintain computer systems just as they became the most important systems in our society, and this strategy is one I will continue to follow in the future.
 
-My interest going froward is not in computer systems, but is in ecosystems and community systems. The permaculture movement founded in Australia over 30 years ago is one which recognizes that sustainable dependance on nature to produce food, requires a system which does not ignore the reality of nature and the beings which depend on it. There are 12 key principles to permaculture, these principles create a lifecycle for systems analysis and design which complement nature, instead of exploiting it.
+My interest going froward is not in computer systems, but is in ecosystems and community systems. The permaculture movement founded in Australia over 30 years ago is one which recognizes that sustainable dependence on nature to produce food, requires a system which does not ignore the reality of nature and the beings which depend on it. There are 12 key principles to permaculture, these principles create a life cycle for systems analysis and design which complement nature, instead of exploiting it.
 
-I don't have the experience necessary to properly explain the permaculture princples, which is why I am investing my efforts in the future to understand and live this life, to involve myself in communities that already appreciate the power of a life within the nature, and are rejecting a lifestyle which profits from the destruction of nature.
+I don't have the experience necessary to properly explain the permaculture principles, which is why I am investing my efforts in the future to understand and live this life, to involve myself in communities that already appreciate the power of a life within the nature, and are rejecting a lifestyle which profits from the destruction of nature.
 
 [![Permaculture 12 Principles](/uploads/2018/07/15/permaculture-12-principles.jpeg)](https://medium.com/land-and-ladle/the-12-design-principles-of-permaculture-as-rules-of-living-e9fc0176dd16)
 
