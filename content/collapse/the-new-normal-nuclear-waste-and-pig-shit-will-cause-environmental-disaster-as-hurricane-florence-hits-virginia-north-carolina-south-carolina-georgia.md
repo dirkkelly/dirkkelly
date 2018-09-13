@@ -28,7 +28,6 @@ videos:
     We speak with Naeema Muhammad, organizing co-director for the North Carolina Environmental
     Justice Network, and Will Hendrick, staff attorney with the Waterkeeper Alliance.
   channel: Democracy Now
-draft: true
 
 ---
 This is what our disgusting unthinking culture has brought us, the release of pig shit and nuclear waste as 1 Billion Dollars of pork farming and 9 Nuclear reactors are about to get smashed by Hurricane Florence.
