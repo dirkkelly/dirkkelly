@@ -42,6 +42,9 @@ fields:
   - type: text
     name: channel
     label: Channel
+- type: text
+  name: image
+  label: Image
 pages:
 - content/collapse/the-new-normal-nuclear-waste-and-pig-shit-will-cause-environmental-disaster-as-hurricane-florence-hits-virginia-north-carolina-south-carolina-georgia.md
 - content/philosophy/everyday-virtue.md
