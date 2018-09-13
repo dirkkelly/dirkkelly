@@ -2,9 +2,17 @@
 title: The New Normal, Nuclear Waste and Pig Shit Will Cause Environmental Disaster
   as Hurricane Florence hits Virginia, North Carolina, South Carolina, Georgia
 date: 2018-09-13 14:02:22 -0600
-channel: ''
-description: ''
-tags: []
+channel: Democracy Now
+description: America is being destroyed from climate change, did you know it's also
+  the number 1 exporter of oil now?
+tags:
+- democracy now
+- zerohedge
+- climate change
+- nuclear
+- collapse
+- waste
+- america
 videos:
 - name: Top U.S. & World Headlines — September 13, 2018
   slug: TlMtT9bx8Kc
@@ -23,3 +31,16 @@ videos:
 draft: true
 
 ---
+This is what our disgusting unthinking culture has brought us, the release of pig shit and nuclear waste as 1 Billion Dollars of pork farming and 9 Nuclear reactors are about to get smashed by Hurricane Florence.
+
+[https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence](https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence "https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence")
+
+[https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons](https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons "https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons")
+
+The new normal will see the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
+
+[https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat](https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat "https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat")
+
+Oh in good news financially! The US just became the worlds top oil exporter, so that's good :
+
+[https://www.zerohedge.com/news/2018-09-13/us-becomes-worlds-top-oil-producer](https://www.zerohedge.com/news/2018-09-13/us-becomes-worlds-top-oil-producer "https://www.zerohedge.com/news/2018-09-13/us-becomes-worlds-top-oil-producer")
