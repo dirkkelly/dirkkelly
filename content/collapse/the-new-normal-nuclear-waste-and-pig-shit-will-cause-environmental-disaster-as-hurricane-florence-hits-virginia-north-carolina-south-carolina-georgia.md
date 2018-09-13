@@ -31,6 +31,9 @@ videos:
 image: "/uploads/2018/09/13/trump-puerto-rico-2018-09-13.jpg"
 
 ---
+Trump is of course being the piece of shit that he is and ignoring the incoming devastation as he defends his pathetic response to Puerto Rico a year ago. But it doesn't matter, the people are going to suffer no matter who's on television.
+
+
 {{< youtube TlMtT9bx8Kc >}}
 
 This is what our disgusting unthinking culture has brought us, the release of pig shit and nuclear waste as 1 billion dollars of pork farming and 9 nuclear reactors are about to get smashed by Hurricane Florence.
@@ -39,9 +42,7 @@ This is what our disgusting unthinking culture has brought us, the release of pi
 
 [https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons](https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons "https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons")
 
-Trump is of course being the piece of shit that he is and ignoring the incoming devastation as he defends his pathetic response to Puerto Rico a year ago.
-
-![Trump Puerto Rico 2018 Sep 13](/uploads/2018/09/13/trump-puerto-rico-2018-09-13.jpg)The new normal will see the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
+The new normal will see the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
 
 [https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat](https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat "https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat")
 
