@@ -38,10 +38,12 @@ This is what our disgusting unthinking culture has brought us, the release of pi
 
 [https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons](https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons "https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons")
 
-The new normal will see the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
+Trump is of course being the piece of shit that he is and ignoring the incoming devastation as he defends his pathetic response to Puerto Rico a year ago.
+
+![](/uploads/2018/09/13/trump-puerto-rico-2018-09-13.jpg)The new normal will see the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
 
 [https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat](https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat "https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat")
 
-Oh in good news financially! The US just became the worlds top oil exporter, so that's good :
+Oh in good news financially! The US just became the worlds top oil exporter, so that's good I guess
 
 [https://www.zerohedge.com/news/2018-09-13/us-becomes-worlds-top-oil-producer](https://www.zerohedge.com/news/2018-09-13/us-becomes-worlds-top-oil-producer "https://www.zerohedge.com/news/2018-09-13/us-becomes-worlds-top-oil-producer")
