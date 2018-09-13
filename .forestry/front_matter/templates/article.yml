@@ -35,16 +35,16 @@ fields:
   name: image
   label: Image
 pages:
-- content/philosophy/on-my-honor.md
-- content/philosophy/concentration-of-wealth-and-power.md
-- content/philosophy/do-justice-love-kindness-walk-humbly.md
-- content/philosophy/getting-in-trouble.md
 - content/collapse/shifting-russian-narrative.md
 - content/collapse/isaam-zahreddine--lion-of-the-republican-guard--syrian-army-.md
-- content/collapse/accepting-collapse-and-moving-beyond.md
-- content/collapse/how-can-the-enemy-be-this-friendly.md
-- content/technology/building-a-website-that-s-fast--free--and-yours.md
-- content/economics/the-global-financial-crisis-of-2018-is-starting-to-get-noticed.md
 - content/survive/i-don-t-want-to-die-in-america.md
-- content/survive/be-prepared-2018-03.md
+- content/economics/the-global-financial-crisis-of-2018-is-starting-to-get-noticed.md
+- content/philosophy/on-my-honor.md
+- content/philosophy/getting-in-trouble.md
 - content/survive/pain-essay.md
+- content/collapse/how-can-the-enemy-be-this-friendly.md
+- content/philosophy/do-justice-love-kindness-walk-humbly.md
+- content/philosophy/concentration-of-wealth-and-power.md
+- content/technology/building-a-website-that-s-fast--free--and-yours.md
+- content/survive/be-prepared-2018-03.md
+- content/collapse/accepting-collapse-and-moving-beyond.md
