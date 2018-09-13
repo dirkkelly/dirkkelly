@@ -13,6 +13,8 @@ tags:
 - america
 - democracy now
 - zero hedge
+- Amy Goodman
+- nazism
 videos:
 - name: Top U.S. & World Headlines — September 13, 2018
   slug: TlMtT9bx8Kc
@@ -33,16 +35,19 @@ image: "/uploads/2018/09/13/trump-puerto-rico-2018-09-13.jpg"
 ---
 Trump is of course being the piece of shit that he is and ignoring the incoming devastation as he defends his pathetic response to Puerto Rico a year ago. But it doesn't matter, the people are going to suffer no matter who's on television.
 
-
 {{< youtube TlMtT9bx8Kc >}}
 
-This is what our disgusting unthinking culture has brought us, the release of pig shit and nuclear waste as 1 billion dollars of pork farming and 9 nuclear reactors are about to get smashed by Hurricane Florence.
+Amy Goodman starts crying as she speaks to the highest levels of imprisonment of children in US history. Followed by Eric Trump being blatantly anti-semetic on cable news.
+
+This is the new normal, this is what our disgusting unthinking culture has brought us.
+
+We're going to compound that now with the release of pig shit and nuclear waste as 1 billion dollars of pork farming and 9 nuclear reactors are about to get smashed by Hurricane Florence.
 
 [https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence](https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence "https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence")
 
 [https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons](https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons "https://www.democracynow.org/2018/9/13/nc_lagoons_hold_billions_of_gallons")
 
-The new normal will see the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
+This culture, this economic system, this selfishness will oversee the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
 
 [https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat](https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat "https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat")
 
