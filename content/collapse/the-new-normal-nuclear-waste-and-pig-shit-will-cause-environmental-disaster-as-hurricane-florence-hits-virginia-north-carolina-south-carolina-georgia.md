@@ -6,13 +6,13 @@ channel: Democracy Now
 description: America is being destroyed from climate change, did you know it's also
   the number 1 exporter of oil now?
 tags:
-- democracy now
-- zerohedge
 - climate change
 - nuclear
 - collapse
 - waste
 - america
+- democracy now
+- zero hedge
 videos:
 - name: Top U.S. & World Headlines — September 13, 2018
   slug: TlMtT9bx8Kc
