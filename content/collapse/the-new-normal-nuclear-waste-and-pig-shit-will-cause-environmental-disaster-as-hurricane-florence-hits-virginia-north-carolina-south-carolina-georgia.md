@@ -30,7 +30,7 @@ videos:
   channel: Democracy Now
 
 ---
-{{ <youtube TlMtT9bx8Kc> }}
+{{< youtube TlMtT9bx8Kc >}}
 
 This is what our disgusting unthinking culture has brought us, the release of pig shit and nuclear waste as 1 billion dollars of pork farming and 9 nuclear reactors are about to get smashed by Hurricane Florence.
 
