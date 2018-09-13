@@ -28,6 +28,7 @@ videos:
     We speak with Naeema Muhammad, organizing co-director for the North Carolina Environmental
     Justice Network, and Will Hendrick, staff attorney with the Waterkeeper Alliance.
   channel: Democracy Now
+image: "/uploads/2018/09/13/trump-puerto-rico-2018-09-13.jpg"
 
 ---
 {{< youtube TlMtT9bx8Kc >}}
@@ -40,7 +41,7 @@ This is what our disgusting unthinking culture has brought us, the release of pi
 
 Trump is of course being the piece of shit that he is and ignoring the incoming devastation as he defends his pathetic response to Puerto Rico a year ago.
 
-![](/uploads/2018/09/13/trump-puerto-rico-2018-09-13.jpg)The new normal will see the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
+![Trump Puerto Rico 2018 Sep 13](/uploads/2018/09/13/trump-puerto-rico-2018-09-13.jpg)The new normal will see the absolute devastation of the East, South, and West coasts of America as the entire countries infrastructure falls to the forces of global climate change.
 
 [https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat](https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat "https://www.zerohedge.com/news/2018-09-13/even-rescuers-cant-stay-deadly-rain-storm-surges-expected-even-florence-weakens-cat")
 
