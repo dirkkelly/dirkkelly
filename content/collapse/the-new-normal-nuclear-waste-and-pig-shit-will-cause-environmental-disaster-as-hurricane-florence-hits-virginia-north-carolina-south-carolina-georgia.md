@@ -30,6 +30,8 @@ videos:
   channel: Democracy Now
 
 ---
+{{ <youtube TlMtT9bx8Kc> }}
+
 This is what our disgusting unthinking culture has brought us, the release of pig shit and nuclear waste as 1 billion dollars of pork farming and 9 nuclear reactors are about to get smashed by Hurricane Florence.
 
 [https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence](https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence "https://www.democracynow.org/2018/9/13/headlines/toxic_waste_sites_and_nuclear_plants_lie_in_path_of_hurricane_florence")
