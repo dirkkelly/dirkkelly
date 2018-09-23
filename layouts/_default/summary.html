@@ -21,6 +21,12 @@
 
   {{ partial "tags" . }}
 
+  {{ if (.Param "video_image") }}
+    <a href='{{ .Permalink }}' class="post-video">
+      <img src='{{ .Param "video_image" }}' alt="" class="img-responsive img-thumbnail" />
+    </a>
+  {{ end }}
+
   {{ .Summary }}
 
   {{ if .Truncated }}
