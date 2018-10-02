@@ -60,7 +60,7 @@ I now know that getting bills paid is hard, that sustainable hours are vital and
 
 ### [Murdoch University](http://www.murdoch.edu.au/)
 
-**Software Developer** <small>(2007 \~ 2012)</small>
+**Software Developer** <small>(2007 \~ 2010)</small>
 
 Predominantly built PHP single purpose apps within the student services division. Installed and maintained an [OpenReports](http://oreports.com/) service.
 
@@ -149,7 +149,7 @@ Cub Scouts Do Your Best
 ### [Murdoch University](http://www.murdoch.edu.au/)
 
 **Internet Software Development**<br/>
-<small>Bachelor of Science (2009 - 2012)</small>
+<small>Bachelor of Science (2007 - 2010)</small>
 
 Gaining an undergraduate taught me to efficiently recognize and research solutions to problems.
 
