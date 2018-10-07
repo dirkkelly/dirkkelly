@@ -35,6 +35,7 @@ fields:
   name: image
   label: Image
 pages:
+- content/blog/internet-comment-etiquette-article-13.md
 - content/collapse/shifting-russian-narrative.md
 - content/collapse/isaam-zahreddine--lion-of-the-republican-guard--syrian-army-.md
 - content/survive/i-don-t-want-to-die-in-america.md
