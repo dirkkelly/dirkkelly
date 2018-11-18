@@ -4,43 +4,66 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- path: content/economics
+- type: directory
+  path: content/economics
   label: Economics
   create: all
-- path: content/politics
+  match: "**/*"
+- type: directory
+  path: content/politics
   label: Politics
   create: all
-- path: content/technology
+  match: "**/*"
+- type: directory
+  path: content/technology
   label: Technology
   create: all
-- path: content/collapse
+  match: "**/*"
+- type: directory
+  path: content/collapse
   label: Collapse
   create: all
-- path: content/philosophy
+  match: "**/*"
+- type: directory
+  path: content/philosophy
   label: Philosophy
   create: all
-- path: content/blog
+  match: "**/*"
+- type: directory
+  path: content/blog
   label: Blog
   create: all
-- path: content/essays
+  match: "**/*"
+- type: directory
+  path: content/essays
   label: Essays
   create: all
-  default_front_matter_template: essay
-- path: content/media
+  match: "**/*"
+- type: directory
+  path: content/media
   label: Media
   create: all
-- path: content/videos
+  match: "**/*"
+- type: directory
+  path: content/videos
   label: Videos
   create: all
-- path: content/survive
+  match: "**/*"
+- type: directory
+  path: content/survive
   label: Survive
   create: all
-- path: content/tags
+  match: "**/*"
+- type: directory
+  path: content/tags
   label: Tags
   create: all
-- path: content
+  match: "**/*"
+- type: directory
+  path: content
   label: Pages
   create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
