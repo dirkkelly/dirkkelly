@@ -1,0 +1,15 @@
+name= "Non Compete"
+description = ""
+
+sponsored = true
+sponsored_since = "2018-11-18"
+
+[[videos]]
+name = "Why are you working 8 hours per day?"
+url = "https://www.youtube.com/watch?v=p7YZUWEu-x0"
+description = "Why don't we have a 4 hour workday? Why have wages stagnated while the revenue we produce for our companies have almost tripled since the early 1970s? Let's talk about capitalism."
+
+[[videos]]
+name = "How would anarchism actually work in real life? (Part 1)"
+url = "https://www.youtube.com/watch?v=ZzEl5RIMp7M"
+description = "One of the first questions I usually get asked about anarchism is, "how would that work?" In this series we'll talk about some of the pragmatic possibilities for how an anarcho-communist society might function in the real world."
