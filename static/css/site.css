@@ -54,7 +54,15 @@ a { text-decoration: none; }
 
 .tag-cloud { text-align: justify }
 
+.sticky-offset {
+  top: 51px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  background: white;
+}
+
 @media only screen and (max-width: 768px) {
+  .sticky-offset { top: 56px; }
   .content { min-height: inherit }
   .sidebar-wrapper { padding: 0 10px; }
   .sidebar { max-width: 100%; float: none; position: relative; text-align: center; }

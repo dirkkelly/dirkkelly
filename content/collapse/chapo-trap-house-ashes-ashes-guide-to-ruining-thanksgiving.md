@@ -1,7 +1,6 @@
 ---
 title: The Official Ashes Ashes Guide to Ruining Thanksgiving
 date: 2018-11-20 11:00:00 -0600
-featured: true
 tags: [Chapo Trap House, Ashes Ashes, Collapse]
 ---
 
