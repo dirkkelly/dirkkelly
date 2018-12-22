@@ -1,11 +1,31 @@
 {{ define "main" }}
-  <div class="col-12 col-md-9 col-lg-9 col-xl-7">
-    <div class="content">
-      {{ range .Site.Pages }}
-        {{ if and (not .Date.IsZero) (.Param "featured") }}
-          {{ .Render "summary" }}
-        {{ end }}
-      {{ end }}
-    </div>
+
+  <div class="card-body">
+    <h3 class="card-title mt-2">
+      <img class="img-fluid" style="width: 50px; margin-top: -3px" src="/images/dirkkelly.png" alt="{{ .Site.Title }}" />
+      <span class="text-nowrap">Hello, I'm Dirk Kelly.</span>
+    </h3>
+
+    <h5 class="mt-4" style="max-width: 35em">
+      I want to live in a society where we all have input over
+      decisions that affect us, where we all share custodianship
+      over our finite resources, and where we all strive to look
+      after each other.
+    </h5>
+
+    <h5 class="mt-4" style="max-width: 35em">
+      I don't think that a small handful of people should
+      control all the wealth and power in our society and
+      decide our fate under a changing climate and collapsing economy.
+    </h5>
+
+    <h5 class="mt-4" style="max-width: 35em">
+      I think a revolution is achievable if we work together
+      to abandon all the systems supporting this unjust society.
+      We can do this by creating the necessary replacements of these
+      manifestations of power in a manner which is collaborative,
+      equitable, and mindful of life and the ecosystem.
+    </h5>
   </div>
 {{ end }}
+

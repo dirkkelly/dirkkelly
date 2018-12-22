@@ -1,19 +1,15 @@
 {{ $currentPage := . }}
 {{ $currentSection := .CurrentSection }}
-<div class="col-12 col-md-9 col-lg-9 col-xl-7">
-  <div class="topbar">
-    <ul class="list-inline">
-      {{ range .Site.Menus.topbar }}
-        {{if .URL }}
-          {{if $currentSection }}
-            <li {{if (eq $currentSection.URL .URL) }}class="active"{{end}}>
-          {{ else }}
-            <li {{if or ($currentPage.IsMenuCurrent "topbar" .) ($currentPage.HasMenuCurrent "topbar" .) }}class="active"{{end}}>
-          {{end}}
-            <a href="{{.URL}}">{{ .Name }}</a>
-          </li>
-        {{end}}
+<ul class="navbar-nav">
+  {{ range .Site.Menus.topbar }}
+    {{if .URL }}
+      {{if $currentSection }}
+        <li class="nav-item {{if (eq $currentSection.URL .URL) }}active{{end}}">
+      {{ else }}
+        <li class="nav-item {{if or ($currentPage.IsMenuCurrent "topbar" .) ($currentPage.HasMenuCurrent "topbar" .) }}{{end}}">
       {{end}}
-    </ul>
-  </div>
-</div>
+        <a class="nav-link font-weight-bold" href="{{.URL}}">{{ .Name }}</a>
+      </li>
+    {{end}}
+  {{end}}
+</ul>

@@ -1,24 +1,14 @@
 {{ $currentPage := . }}
-<div class="sidebar">
-  <div class="sidebar-about">
-    <h1>
-      <a href="/">
-        <img class="img-fluid" src="/images/dirkkelly.png" alt="{{ .Site.Title }}" />
-        {{ .Site.Title }}
-      </a>
-    </h1>
-    <p>
-      {{ .Site.Params.description }}
-    </p>
-  </div>
-
-  <ul class="sidebar-nav">
-    {{ range .Site.Menus.sidebar }}
-      {{if .URL }}
-        <li {{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) (eq $currentPage.Type .Identifier) }}class="active"{{end}}>
-          <a href="{{.URL}}">{{ .Name }}</a>
-        </li>
+<div class="sidebar-wrapper pl-2" style="width: 100%; height: 100%;">
+  <div class="sidebar">
+    <ul class="sidebar-nav">
+      {{ range .Site.Menus.sidebar }}
+        {{if .URL }}
+          <li {{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) (eq $currentPage.Type .Identifier) }}class="active"{{end}}>
+            <a href="{{.URL}}">{{ .Name }}</a>
+          </li>
+        {{end}}
       {{end}}
-    {{end}}
-  </ul>
+    </ul>
+  </div>
 </div>
