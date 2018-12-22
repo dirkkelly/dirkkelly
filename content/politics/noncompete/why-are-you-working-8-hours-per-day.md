@@ -1,7 +1,7 @@
 ---
 title: "Why are you Working 8 hours per day?"
 channel: "NonCompete"
-date: 2018-11-18:00:00:00
+date: 2018-11-18 00:00:00 +0600
 featured: true
 ---
 

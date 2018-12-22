@@ -1,7 +1,7 @@
 ---
 title: "The Spider's Web: Britain's Second Empire"
 channel: Independent POV
-date: 2018-09-24:00:00:00
+date: 2018-09-24 00:00:00 +0600
 ---
 
 Who wants their government to be led by people who's assets are hidden, who's financial transactions are conducted anonymously offshore?
