@@ -1,3 +1,4 @@
 ---
-title: The saddening continuous collapse of civilization.
+title: Collapse
+subtitle: The saddening continuous collapse of civilization.
 ---
