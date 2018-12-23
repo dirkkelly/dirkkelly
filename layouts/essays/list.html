@@ -2,8 +2,12 @@
   <div class="content">
     <h1 class="sticky-top sticky-offset"><a>{{ .Title }}</a></h1>
 
-    {{ range where .Site.Pages "Type" "essays" }}
-      {{ .Render "summary" }}
-    {{ end }}
+    <ul class="list-unstyled">
+      {{ range where .Site.Pages "Type" "essays" }}
+        {{ if not .Date.IsZero }}
+          {{ .Render "list_title" }}
+        {{ end }}
+      {{ end }}
+    </ul>
   </div>
 {{ end }}

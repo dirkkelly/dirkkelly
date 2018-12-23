@@ -2,17 +2,10 @@
   <div class="content">
     <h1 class="sticky-top sticky-offset"><a>{{ .Title }}</a></h1>
 
-    <ul id="essayList" class="list-unstyled">
+    <ul class="list-unstyled">
       {{ range .Data.Pages.ByWeight }}
         {{ if not .Date.IsZero }}
-          <li>
-            <h5 class="mt-2 mb-3 font-weight-bold">
-              <a href="{{ .Permalink }}">
-                {{ .Title }}
-                <small>{{ .Date.Format "2006" }}</small>
-              </a>
-            </h5>
-          </li>
+          {{ .Render "list_title" }}
         {{ end }}
       {{ end }}
     </ul>
