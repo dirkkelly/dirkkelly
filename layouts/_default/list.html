@@ -4,9 +4,20 @@
       <div class="content">
         <h1 class="sticky-top sticky-offset"><a>{{ .Title }}</a></h1>
 
-        {{ range .Data.Pages.ByWeight }}
-          {{ .Render "summary" }}
-        {{ end }}
+        <ul id="essayList" class="list-unstyled">
+          {{ range .Data.Pages.ByWeight }}
+            {{ if not .Date.IsZero }}
+              <li>
+                <h5 class="mt-2 mb-3 font-weight-bold">
+                  <a href="{{ .Permalink }}">
+                    {{ .Title }}
+                    <small>{{ .Date.Format "2006" }}</small>
+                  </a>
+                </h5>
+              </li>
+            {{ end }}
+          {{ end }}
+        </ul>
       </div>
     </div>
   </div>
