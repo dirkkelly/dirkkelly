@@ -5,11 +5,14 @@
     {{ partial "navbar.html" . }}
     <div class="container-fluid">
       <div class="row">
-        <div class="sidebar-container col-12 col-md-3 col-lg-2 pl-0 pr-0">
+        <div class="sidebar-container col-12 col-md-2 pl-0 pr-0">
           {{ partial  "sidebar.html" . }}
         </div>
 
-        <div class="col-12 col-md-9">
+        <div class="col-12 col-md-10">
+          {{ block "fullscreen" . }}
+          {{ end }}
+
           <div class="screen" style="max-width: 36em">
             {{ block "main" . }}
             {{ end }}
