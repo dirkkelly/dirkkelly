@@ -13,6 +13,7 @@ tags:
 - Community
 aliases: []
 image: ''
+featured: true
 
 ---
 I have to admit that I haven’t been fully honest, in a lot of my writing I’ve implied that it’s important to get engaged in community in order to change policy to avoid extinction.
