@@ -1,41 +1,49 @@
 {{ define "main" }}
+  <div id="homePage" style="max-width: 36em">
+    <h1 class="sticky-top sticky-offset font-weight-bold mb-0 pt-3">
+      <img class="img-fluid" style="width: 50px; margin-top: -4px; margin-right: 10px" src="/images/dirkkelly.png" alt="{{ .Site.Title }}" />
+      Hello, I'm Dirk Kelly.
+    </h1>
 
-  <h1 class="sticky-top sticky-offset font-weight-bold mb-0 pt-3">
-    <img class="img-fluid" style="width: 50px; margin-top: -4px; margin-right: 10px" src="/images/dirkkelly.png" alt="{{ .Site.Title }}" />
-    Hello, I'm Dirk Kelly.
-  </h1>
+    <h5 class="mt-3">
+      I want to live in a society where we all have input over the
+      decisions that affect us, where we all share custodianship
+      over our finite resources, and where we all strive to look
+      after each other.
+    </h5>
 
-  <h5 class="mt-4" style="max-width: 35em">
-    I want to live in a society where we all have input over
-    decisions that affect us, where we all share custodianship
-    over our finite resources, and where we all strive to look
-    after each other.
-  </h5>
+    <h5>
+      I don't think that a small handful of people should
+      control all the wealth and power in our society and
+      decide our fate under a changing climate and collapsing economy.
+    </h5>
 
-  <h5 class="mt-4" style="max-width: 35em">
-    I don't think that a small handful of people should
-    control all the wealth and power in our society and
-    decide our fate under a changing climate and collapsing economy.
-  </h5>
+    <h5>
+      I think a revolution is necessary, in progress, and achievable
+      if we work together to abandon all the systems supporting this
+      unjust society.
+    </h5>
 
-  <h5 class="mt-4" style="max-width: 35em">
-    I think a revolution is achievable if we work together
-    to abandon all the systems supporting this unjust society.
-    We can do this by creating the necessary replacements of these
-    manifestations of power in a manner which is collaborative,
-    equitable, and mindful of life and the ecosystem.
-  </h5>
+    <h5>
+      We can do this by creating the necessary
+      replacements of these manifestations of power in a manner which
+      is collaborative, equitable, and mindful of life and the ecosystem.
+    </h5>
 
-  <div class="row mt-4">
-    <div class="col-12 col-md-9 col-lg-9 col-xl-7">
-      <div class="content">
+    <div class="essays">
+      <h2 class="h3 mt-3 mb-0 font-weight-bold">Essays</h2>
+
+      <ul id="essayList" class="list-unstyled">
         {{ range .Site.Pages }}
           {{ if and (not .Date.IsZero) (.Param "featured") }}
-            {{ .Render "summary" }}
+            <li>
+              <h5 class="mt-2 mb-3 font-weight-bold">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </h5>
+            </li>
           {{ end }}
         {{ end }}
-      </div>
+      </ul>
     </div>
   </div>
-
 {{ end }}

@@ -124,3 +124,7 @@ a { text-decoration: none; }
 .bg-blue {
   background-color: #326799;
 }
+
+a {
+  color: #326799;
+}
