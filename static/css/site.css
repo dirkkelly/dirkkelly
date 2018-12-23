@@ -58,7 +58,7 @@ a { text-decoration: none; }
 
 .sticky-offset {
   top: 51px;
-  padding-top: 5px;
+  padding-top: 10px;
   padding-bottom: 15px;
   background: white;
 }
@@ -130,4 +130,8 @@ a { text-decoration: none; }
 
 a {
   color: #326799;
+}
+
+h1 {
+  font-size: 2.2rem;
 }

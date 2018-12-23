@@ -1,14 +1,10 @@
 {{ define "main" }}
   {{ $title := .Title }}
-  <div class="row">
-    <div class="col-12 col-md-9 col-lg-9 col-xl-7">
-      <div class="content">
-        <h1 class="sticky-top sticky-offset"><a>{{ .Title }}</a></h1>
+  <div class="content">
+    <h1 class="sticky-top sticky-offset"><a>{{ .Title }}</a></h1>
 
-        <div class="post-content">
-          {{ .Content }}
-        </div>
-      </div>
+    <div class="post-content">
+      {{ .Content }}
     </div>
   </div>
 {{ end }}
