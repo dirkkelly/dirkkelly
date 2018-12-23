@@ -15,7 +15,7 @@ tags:
 - Capitalism
 aliases: []
 image: "/uploads/2018/03/09/tumblr_ng9bexfv4Z1t50zepo1_500-rose.jpg"
-
+featured: true
 ---
 This society which praises capitalism for its efficiency in driving progress, justifies the destruction of life under the claim it has permission of both the people and God. These justifications are not only unacceptable, they're also lies. The dominant culture is driven by neither Democratic or Christian values which it pays so much lip service to.
 
