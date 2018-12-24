@@ -10,7 +10,6 @@ tags:
 - america
 aliases: []
 image: "/uploads/2018/12/24/1E7E888D-2C25-4ED7-9185-E6E9F54B4866.jpeg"
-draft: true
 
 ---
 The sad reality of Americans is that they’re so brainwashed by the authoritarian regime that they support the policies that bring on their own suffarage. 
