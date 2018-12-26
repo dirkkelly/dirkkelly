@@ -1,5 +1,5 @@
 ---
-date: 2018-12-24 22:00:00 -0700
+date: 2018-12-25 10:00:00 -0700
 title: Christmas for Communists
 subtitle: ''
 tags:
