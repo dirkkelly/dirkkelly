@@ -5,7 +5,8 @@ a { text-decoration: none; }
 .tags li { white-space: nowrap; }
 .tags li:not(:last-child) a::after { content: ","; }
 
-.screen { min-height: 96vh; }
+.screen { max-width: 36em }
+.body-content { min-height: 92vh; padding-bottom: 4vh; }
 
 .content { box-sizing: border-box; float: left; width: 100%;}
 .content blockquote { padding-left: 5px; border-left: 3px solid #DEDEDE; }

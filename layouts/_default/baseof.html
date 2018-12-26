@@ -9,11 +9,11 @@
           {{ partial  "sidebar.html" . }}
         </div>
 
-        <div class="col-12 col-md-10">
+        <div class="body-content col-12 col-md-10">
           {{ block "fullscreen" . }}
           {{ end }}
 
-          <div class="screen" style="max-width: 36em">
+          <div class="screen">
             {{ block "main" . }}
             {{ end }}
           </div>
