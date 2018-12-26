@@ -16,13 +16,15 @@ image: "/uploads/2018/12/26/anarachist-christmas.jpeg"
 featured: true
 
 ---
-The Left's War on Christmas does a great job of helping Marxists understand the value of the story of Santa. If we are to succeed in helping others imagine a different world and subsequently helping to create that as a reality, we must allow them to dream of alternatives to capitalism.
+Zero Book's "The Left's War on Christmas" does a great job of helping Marxists understand the value of the story of Santa. If we are to succeed in helping others imagine a different world and subsequently helping to create that as a reality, we must allow them to dream of alternatives to capitalism.
 
 Maybe a dude giving out presents to everyone in the world isn't the worst thing to encourage.
 
 {{< youtube P26iV7Y1jpY >}}
 
-Was Jesus a Communist, well that political thought (as well as capitalism) didn't exist 2000 odd years ago, however we can relate his words to the two systems. Of course he spoke of a community which helped all, this was bastardized by Constantine who merged Christianity with the state to turn it into another force for class warfare.
+NonCompete's "Was Jesus a Communist" explains that the political thought of communism as well as capitalism didn't exist 2000 odd years ago, however that we we can relate his words to the two systems. 
+
+Jesus spoke of a community which helped all, this was bastardized by Constantine who merged Christianity with the state to turn it into another force for class warfare.
 
 {{< youtube HUzCglAAorw >}}
 
