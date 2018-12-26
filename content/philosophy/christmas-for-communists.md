@@ -9,6 +9,7 @@ tags:
 - christianity
 - kropotkin
 - marxism
+- communism
 aliases:
 - "/philosophy/christmas-for-marxists"
 image: "/uploads/2018/12/26/anarachist-christmas.jpeg"
