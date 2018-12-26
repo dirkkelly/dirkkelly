@@ -18,7 +18,7 @@ featured: true
 ---
 The Left's War on Christmas does a great job of helping Marxists understand the value of the story of Santa. If we are to succeed in helping others imagine a different world and subsequently helping to create that as a reality, we must allow them to dream of alternatives to capitalism.
 
-Maybe a dude giving out presents to everyone in the world isn't the worst thing to behavior to encourage.
+Maybe a dude giving out presents to everyone in the world isn't the worst thing to encourage.
 
 {{< youtube P26iV7Y1jpY >}}
 
