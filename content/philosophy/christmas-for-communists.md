@@ -1,13 +1,16 @@
 ---
 date: 2018-12-24 22:00:00 -0700
-title: Christmas for Marxists
+title: Christmas for Communists
 subtitle: ''
 tags:
 - zero books
 - noncompete
 - christmas
 - christianity
-aliases: []
+- kropotkin
+- marxism
+aliases:
+- "/philosophy/christmas-for-marxists"
 image: "/uploads/2018/12/26/anarachist-christmas.jpeg"
 featured: true
 
@@ -22,6 +25,8 @@ Was Jesus a Communist, well that political thought (as well as capitalism) didn'
 
 {{< youtube HUzCglAAorw >}}
 
-All of these resources remind us that this is a time for sharing with others, and that real joy comes from doing and working for good.
+All of these resources remind us that this is a time for sharing with others, and that real joy comes from doing and working for good, as Kropotkin says
+
+> Struggle so that all may live this rich, overflowing life. And be sure that in this struggle you will find a joy greater than anything else can give.
 
 ![](/uploads/2018/12/26/kropotkin-christmas.jpeg)
