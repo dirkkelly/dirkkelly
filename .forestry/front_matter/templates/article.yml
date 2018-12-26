@@ -31,6 +31,9 @@ fields:
     use_select: false
     source:
       type: datafiles
+- type: boolean
+  name: featured
+  label: Featured
 - type: file
   name: image
   label: Image
