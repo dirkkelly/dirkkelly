@@ -52,11 +52,11 @@
               <h5 class="font-weight-bold mb-0">
                 <a href="{{ .Permalink }}">
                   {{ .Title }}
-                  <small>{{ .PublishDate.Format "2006" }}</small>
                 </a>
               </h5>
+              <p class="mb-0"><strong>{{ .PublishDate.Format "2006, January" }}</strong></p>
               {{ if .Param "subtitle" }}
-                <small>{{ .Param "subtitle" }}</small>
+                <p><small>{{ .Param "subtitle" }}</small></p>
               {{ end }}
             </li>
           {{ end }}
