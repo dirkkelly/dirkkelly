@@ -1,10 +1,8 @@
 ---
-title: The New Normal, Nuclear Waste and Pig Shit Will Cause Environmental Disaster
-  as Hurricane Florence hits Virginia, North Carolina, South Carolina, Georgia
+title: A New Normal, Nuclear Waste and Pig Shit Flood America
+subtitle: Environmental Disaster as Hurricane Florence hits Virginia, North Carolina, South Carolina, and Georgia
 date: 2018-09-13 14:02:22 -0600
 channel: Democracy Now
-description: America is being destroyed from climate change, did you know it's also
-  the number 1 exporter of oil now?
 tags:
 - climate change
 - nuclear
@@ -31,8 +29,12 @@ videos:
     Justice Network, and Will Hendrick, staff attorney with the Waterkeeper Alliance.
   channel: Democracy Now
 image: "/uploads/2018/09/13/trump-puerto-rico-2018-09-13.jpg"
-
+aliases:
+- /collapse/the-new-normal-nuclear-waste-and-pig-shit-will-cause-environmental-disaster-as-hurricane-florence-hits-virginia-north-carolina-south-carolina-georgia/
 ---
+
+America is being destroyed from climate change, did you know it's also the number 1 exporter of oil now?
+
 Trump is of course being the piece of shit that he is and ignoring the incoming devastation as he defends his pathetic response to Puerto Rico a year ago. But it doesn't matter, the people are going to suffer no matter who's on television.
 
 {{< youtube TlMtT9bx8Kc >}}
