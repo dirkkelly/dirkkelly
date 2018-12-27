@@ -39,13 +39,16 @@
       <ul id="essayList" class="list-unstyled">
         {{ range .Site.Pages }}
           {{ if and (not .Date.IsZero) (.Param "featured") }}
-            <li>
-              <h5 class="mt-2 mb-3 font-weight-bold">
+            <li class="mt-2 mb-3">
+              <h5 class="font-weight-bold mb-1">
                 <a href="{{ .Permalink }}">
                   {{ .Title }}
                   <small>{{ .PublishDate.Format "2006" }}</small>
                 </a>
               </h5>
+              {{ if .Param "subtitle" }}
+                <small>{{ .Param "subtitle" }}</small>
+              {{ end }}
             </li>
           {{ end }}
         {{ end }}
