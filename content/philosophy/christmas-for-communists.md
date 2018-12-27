@@ -1,7 +1,7 @@
 ---
 date: 2018-12-25 10:00:00 -0700
-title: Christmas for Communists
-subtitle: ''
+title: The War on Christmas for Communists
+subtitle: 'That what is being aimed at is a bit abstract, should be attractive to commies. Being willing to champion what is utopian in this present moement is what socialism and christmas ought to be about.'
 tags:
 - zero books
 - noncompete
@@ -13,7 +13,7 @@ tags:
 aliases:
 - "/philosophy/christmas-for-marxists"
 image: "/uploads/2018/12/26/anarachist-christmas.jpeg"
-featured: false
+featured: true
 type: media
 ---
 Zero Book's "The Left's War on Christmas" does a great job of helping Marxists understand the value of the story of Santa. If we are to succeed in helping others imagine a different world and subsequently helping to create that as a reality, we must allow them to dream of alternatives to capitalism.
