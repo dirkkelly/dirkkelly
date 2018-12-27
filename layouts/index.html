@@ -1,55 +1,61 @@
-{{ define "main" }}
-  <div id="homePage">
-    <h1 class="sticky-top sticky-offset font-weight-bold">
-      Hello, I'm <span class="text-nowrap">Dirk Kelly.</span>
-    </h1>
+{{ define "fullscreen" }}
+  <div id="homePage" class="row mt-4">
+    <div class="col-12 col-xl">
+      <h1 class="font-weight-bold">
+        Hello, I'm <span class="text-nowrap">Dirk Kelly.</span>
+      </h1>
 
-    <h5>
-      I want to live in a society where we all have input over the
-      decisions that affect us, where we all share custodianship
-      over our finite resources, and where we all strive to look
-      after each other.
-    </h5>
+      <h5>
+        I want to live in a society where we all have input over the
+        decisions that affect us, where we all share custodianship
+        over our finite resources, and where we all strive to look
+        after each other.
+      </h5>
 
-    <h5>
-      I don't think that a small handful of people should
-      control all the wealth and power in our society and
-      decide our fate under a changing climate and collapsing economy.
-    </h5>
+      <h5>
+        I don't think that a small handful of people should
+        control all the wealth and power in our society and
+        decide our fate under a changing climate and collapsing economy.
+      </h5>
 
-    <h5>
-      I think a revolution is necessary, in progress, and achievable
-      if we work together to abandon all the systems supporting this
-      unjust society.
-    </h5>
+      <h5>
+        I think a revolution is necessary, in progress, and achievable
+        if we work together to abandon all the systems supporting this
+        unjust society.
+      </h5>
 
-    <h5 class="pb-2">
-      We can do this by creating the necessary
-      replacements of these manifestations of power in a manner which
-      is collaborative, equitable, and cares for life in our ecosystem.
-    </h5>
-
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KlMlZTHShFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h5 class="pb-2">
+        We can do this by creating the necessary
+        replacements of these manifestations of power in a manner which
+        is collaborative, equitable, and cares for life in our ecosystem.
+      </h5>
     </div>
 
-    <h2 class="h3 mt-3 mb-0 font-weight-bold">Featured</h2>
-    <ul id="featured" class="list-unstyled">
-      {{ range .Site.Pages }}
-        {{ if and (not .Date.IsZero) (.Param "featured") }}
-          <li class="mt-2 mb-3">
-            <h5 class="font-weight-bold mb-0">
-              <a href="{{ .Permalink }}">
-                {{ .Title }}
-                <small>{{ .PublishDate.Format "2006" }}</small>
-              </a>
-            </h5>
-            {{ if .Param "subtitle" }}
-              <small>{{ .Param "subtitle" }}</small>
-            {{ end }}
-          </li>
+    <div class="col-12 col-xl">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KlMlZTHShFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="col-12 col-xl">
+      <h2 class="h3 mt-3 mb-0 font-weight-bold">Featured</h2>
+      <ul id="featured" class="list-unstyled">
+        {{ range .Site.Pages }}
+          {{ if and (not .Date.IsZero) (.Param "featured") }}
+            <li class="mt-2 mb-3">
+              <h5 class="font-weight-bold mb-0">
+                <a href="{{ .Permalink }}">
+                  {{ .Title }}
+                  <small>{{ .PublishDate.Format "2006" }}</small>
+                </a>
+              </h5>
+              {{ if .Param "subtitle" }}
+                <small>{{ .Param "subtitle" }}</small>
+              {{ end }}
+            </li>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </ul>
+      </ul>
+    </div>
   </div>
 {{ end }}
