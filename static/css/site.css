@@ -64,6 +64,10 @@ a { text-decoration: none; }
   background: white;
 }
 
+.sticky-offset.smaller {
+  font-size: 1.3rem;
+}
+
 @media only screen and (max-width: 768px) {
   .sticky-offset { top: 56px; }
   .content { min-height: inherit }
