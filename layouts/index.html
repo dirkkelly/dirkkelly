@@ -40,7 +40,7 @@
         {{ range .Site.Pages }}
           {{ if and (not .Date.IsZero) (.Param "featured") }}
             <li class="mt-2 mb-3">
-              <h5 class="font-weight-bold mb-1">
+              <h5 class="font-weight-bold mb-0">
                 <a href="{{ .Permalink }}">
                   {{ .Title }}
                   <small>{{ .PublishDate.Format "2006" }}</small>
