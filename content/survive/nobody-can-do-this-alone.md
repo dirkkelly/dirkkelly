@@ -3,7 +3,7 @@ title: Nobody Can Do This Alone
 date: 2018-03-17 04:21:45 +0000
 subtitle: Our survival is the responsibility of everyone, we can make that our governments
   priorities, but we need to take power back in order to do that.
-type: blog
+type: essay
 tags:
 - Survive
 - Democracy

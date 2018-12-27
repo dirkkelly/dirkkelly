@@ -2,10 +2,6 @@
 title: About
 weight: 0
 type: page
-menu:
-  sidebar:
-    weight: 5
-
 ---
 My goal is to learn and provide support in the areas of technology, business, and philosophy; and by philosophy I mean nothing more fancy than trying to understand what it is to exist in this world right now.
 

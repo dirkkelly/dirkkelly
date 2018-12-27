@@ -3,7 +3,7 @@ title: Sunday Service - A Seat at the Table
 subtitle: In our current society we give others a seat at the table, and then teach
   them to concentrate power and dominate their group.
 date: 2018-03-18 14:45:15 -0400
-type: blog
+type: essay
 tags:
 - Survive
 - service

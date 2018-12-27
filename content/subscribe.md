@@ -1,10 +1,6 @@
 ---
 title: Subscribe
 type: page
-menu:
-  sidebar:
-    name: "Subscribe"
-    weight: 8
 ---
 
 ## Interested in a monthly digest of posts?

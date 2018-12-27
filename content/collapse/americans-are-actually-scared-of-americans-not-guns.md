@@ -4,7 +4,7 @@ date: 2018-03-27 20:55:27 +0000
 featured: true
 subtitle: They've been programmed to be scared of each other, they don't know who
   to trust, and some of them are willing to kill over that.
-type: blog
+type: essay
 tags:
 - Collapse
 - America

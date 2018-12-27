@@ -4,7 +4,7 @@ date: 2018-03-25 16:22:29 +0000
 subtitle: 'Our biosphere is dying and so is all life on Earth. Hope in “a solution”
   is the drug we use to avoid the truth that it’s too late, that our culture is responsible,
   and that it will not help us.  '
-type: blog
+type: essay
 tags:
 - Collapse
 - Extinction

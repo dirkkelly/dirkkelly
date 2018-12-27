@@ -3,7 +3,7 @@
     <h1 class="sticky-top sticky-offset"><a>{{ .Title }}</a></h1>
 
     <ul class="list-unstyled">
-      {{ range where .Site.Pages "Type" "essays" }}
+      {{ range where .Site.Pages "Type" "essay" }}
         {{ if not .Date.IsZero }}
           {{ .Render "list_title" }}
         {{ end }}

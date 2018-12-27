@@ -6,7 +6,13 @@
     <div class="container-fluid">
       <div class="row">
         <div class="sidebar-container col-12 col-md-2 pl-0 pr-0">
-          {{ partial  "sidebar.html" . }}
+          <div class="sidebar-wrapper pl-2" style="width: 100%; height: 100%;">
+            <div class="sidebar pt-0">
+              <ul class="sidebar-nav pt-0">
+                {{ partial  "sidebar.html" . }}
+              </ul>
+            </div>
+          </div>
         </div>
 
         <div class="body-content col-12 col-md-10">

@@ -3,10 +3,6 @@ title: Career
 type: page
 aliases:
 - "/resume/"
-menu:
-  sidebar:
-    weight: 6
-
 ---
 ### [InterExchange](http://interexchange.org)
 

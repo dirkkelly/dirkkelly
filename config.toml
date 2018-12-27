@@ -55,10 +55,46 @@ pluralizelisttitles = false
   identifier = "redirects"
 
 [[menu.sidebar]]
+  name = "Essays"
+  url = "/essays/"
+  identifier = "essays"
+  weight = "1"
+
+[[menu.sidebar]]
+  name = "Blog"
+  url = "/blog/"
+  identifier = "blog"
+  weight = "2"
+
+[[menu.sidebar]]
+  name = "Media"
+  url = "/media/"
+  identifier = "media"
+  weight = "4"
+
+[[menu.sidebar]]
+  name = "Videos"
+  url = "/videos/"
+  identifier = "videos"
+  weight = "5"
+
+[[menu.sidebar]]
   name = "Youtube"
-  url = "http://youtube.com/dirkkelly"
+  url = "https://youtube.com/dirkkelly"
   identifier = "youtube"
-  weight = "-1"
+  weight = "6"
+
+[[menu.sidebar]]
+  name = "Career"
+  url = "/career/"
+  identifier = "career"
+  weight = "7"
+
+[[menu.sidebar]]
+  name = "Contact"
+  url = "/contact/"
+  identifier = "contact"
+  weight = "6"
 
 [permalinks]
   channels = "/:filename"

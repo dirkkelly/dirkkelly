@@ -3,7 +3,7 @@ title: "This Gun Debate Ignores Empire's Power"
 publisher: "Killer Mike"
 subtitle: "It's not even a debate, it's just another idealogy laced fight between the lower classes, a distraction from the real threat of Empire."
 date: 2018-03-25 19:52:17 -0600
-type: essays
+type: essay
 tags:
 - Politics
 - america

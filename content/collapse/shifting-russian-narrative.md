@@ -4,7 +4,7 @@ date: 2018-03-21 16:27:22 +0000
 featured: true
 subtitle: Have you been keeping up since Russia cheated in the olympics, hacked the
   election, gassed Syria, and now failed to very publicly kill a spy?
-type: blog
+type: essays
 tags:
 - Collapse
 - Nuclear War

@@ -1,10 +1,6 @@
 ---
 title: Contact
 type: page
-menu:
-  sidebar:
-    weight: 7
-
 ---
 ## Secure
 

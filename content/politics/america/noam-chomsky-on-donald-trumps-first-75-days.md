@@ -1,7 +1,7 @@
 ---
 date: 2017-04-08 00:00:00 +0000
 title: Noam Chomsky on Trump's First 75 Days
-type: blog
+type: essay
 tags:
 - Politics
 - America
