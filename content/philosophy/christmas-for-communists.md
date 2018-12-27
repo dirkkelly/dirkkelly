@@ -14,7 +14,7 @@ aliases:
 - "/philosophy/christmas-for-marxists"
 image: "/uploads/2018/12/26/anarachist-christmas.jpeg"
 featured: false
-
+type: media
 ---
 Zero Book's "The Left's War on Christmas" does a great job of helping Marxists understand the value of the story of Santa. If we are to succeed in helping others imagine a different world and subsequently helping to create that as a reality, we must allow them to dream of alternatives to capitalism.
 
