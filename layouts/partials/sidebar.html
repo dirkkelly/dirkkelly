@@ -2,7 +2,7 @@
 {{ $currentSection := .CurrentSection }}
 {{ range .Site.Menus.topbar }}
   {{if .URL }}
-    <li class="{{if in $currentPage.Params.tags .Name }}active{{end}} pb-1">
+    <li class="{{if in $currentPage.Params.tags (lower .Name) }}active{{end}} pb-1">
       <a href="{{.URL}}" {{ if hasPrefix .URL "http" }}target="_blank"{{ end }}>{{ .Name }}</a>
     </li>
   {{ end }}
