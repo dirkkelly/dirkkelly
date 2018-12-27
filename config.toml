@@ -79,6 +79,12 @@ pluralizelisttitles = false
   weight = "5"
 
 [[menu.sidebar]]
+  name = "Tags"
+  url = "/tags/"
+  identifier = "tags"
+  weight = "6"
+
+[[menu.sidebar]]
   name = "Career"
   url = "/career/"
   identifier = "career"
