@@ -13,13 +13,20 @@
     <ul class="navbar-nav mr-auto">
       {{ range .Site.Menus.sidebar }}
         {{ if .URL }}
-          <li class="nav-item {{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) (eq $currentPage.Type .Identifier) }}active{{end}}">
+          <li class="nav-item{{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) (eq $currentPage.URL .URL) }} active{{end}}">
             <a class="nav-link" href="{{.URL}}" {{ if hasPrefix .URL "http" }}target="_blank"{{ end }}>{{ .Name }}</a>
           </li>
         {{ end }}
       {{ end }}
     </ul>
     <ul class="navbar-nav">
+      {{ range .Site.Menus.sidebar_right }}
+        {{ if .URL }}
+          <li class="nav-item{{if or ($currentPage.IsMenuCurrent "sidebar_right" .) ($currentPage.HasMenuCurrent "sidebar_right" .) (eq $currentPage.URL .URL) }} active{{end}}">
+            <a class="nav-link" href="{{.URL}}" {{ if hasPrefix .URL "http" }}target="_blank"{{ end }}>{{ .Name }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
     </ul>
   </div>
 </nav>

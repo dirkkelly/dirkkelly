@@ -5,7 +5,7 @@ type: page
 ---
 My goal is to learn and provide support in the areas of technology, business, and philosophy; and by philosophy I mean nothing more fancy than trying to understand what it is to exist in this world right now.
 
-We live in a period of time where instant global distribution knowledge and noise is a fundamental aspect of our Internet connected society, in a world where climate change is occurring at such a rapid rate that we have set in motion our inevitable extinction.
+We live in a period of time where instant global distribution of noise is a fundamental aspect of our Internet connected society, in a world where climate change is occurring at such a rapid rate that we have set in motion our inevitable extinction.
 
 Our culture is one which is fully aware of its own demise and is also powerless to make any changes to that fate due to the massive imbalance of power between the very few with the majority of wealth and all other life.
 

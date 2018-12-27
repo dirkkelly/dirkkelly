@@ -79,22 +79,34 @@ pluralizelisttitles = false
   weight = "5"
 
 [[menu.sidebar]]
-  name = "Youtube"
-  url = "https://youtube.com/dirkkelly"
-  identifier = "youtube"
-  weight = "6"
-
-[[menu.sidebar]]
   name = "Career"
   url = "/career/"
   identifier = "career"
   weight = "7"
 
 [[menu.sidebar]]
+  name = "About"
+  url = "/about/"
+  identifier = "about"
+  weight = "8"
+
+[[menu.sidebar]]
   name = "Contact"
   url = "/contact/"
   identifier = "contact"
-  weight = "6"
+  weight = "9"
+
+[[menu.sidebar_right]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/dirk-kelly"
+  identifier = "linkedin"
+  weight = "1"
+
+[[menu.sidebar_right]]
+  name = "Youtube"
+  url = "https://youtube.com/dirkkelly"
+  identifier = "youtube"
+  weight = "2"
 
 [permalinks]
   channels = "/:filename"

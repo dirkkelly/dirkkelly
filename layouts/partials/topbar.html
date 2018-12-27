@@ -1,0 +1,15 @@
+{{ $currentPage := . }}
+{{ $currentSection := .CurrentSection }}
+<ul class="navbar-nav">
+  {{ range .Site.Menus.topbar }}
+    {{if .URL }}
+      {{if $currentSection }}
+        <li class="nav-item {{if (eq $currentSection.URL .URL) }}active{{end}}">
+      {{ else }}
+        <li class="nav-item {{if or ($currentPage.IsMenuCurrent "topbar" .) ($currentPage.HasMenuCurrent "topbar" .) }}{{end}}">
+      {{end}}
+        <a class="nav-link font-weight-bold" href="{{.URL}}">{{ .Name }}</a>
+      </li>
+    {{end}}
+  {{end}}
+</ul>
