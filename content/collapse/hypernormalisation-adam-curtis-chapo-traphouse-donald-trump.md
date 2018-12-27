@@ -36,4 +36,10 @@ aliases:
 > We live in an extremely complex time where nobody can discern reality, those with
 power use mass media to hide the war they're enacting on the world.
 
-{{< youtube fny99f8amM >}}
+### Preview
+
+{{< youtube AUiqaFIONPQ >}}
+
+### Latest Upload
+
+{{< youtube -fny99f8amM >}}
