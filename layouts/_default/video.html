@@ -8,13 +8,13 @@
     <div class="col-12 col-md-6 col-xl-4 mb-3">
       <div class="card">
         {{ with $slug }}
-          <a href="https://www.youtube.com/watch?v={{ . }}">
+          <a href="https://www.youtube.com/watch?v={{ . }}" target="_blank">
             <img class="card-img-top" src="https://img.youtube.com/vi/{{ . }}/0.jpg">
           </a>
         {{ end }}
         <div class="card-body">
           {{ with $slug }}
-            <h2 class="card-title"><a href="https://www.youtube.com/watch?v={{ . }}">{{ $name }}</a></h2>
+            <h2 class="card-title"><a href="https://www.youtube.com/watch?v={{ . }}" target="_blank">{{ $name }}</a></h2>
           {{ end }}
           {{ with $description }}
             <p class="card-text">{{ . }}</p>

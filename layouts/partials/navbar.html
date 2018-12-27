@@ -13,7 +13,7 @@
     <ul class="navbar-nav mr-auto">
       {{ range .Site.Menus.sidebar }}
         {{ if .URL }}
-          <li class="nav-item{{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) (eq $currentPage.URL .URL) }} active{{end}}">
+          <li class="nav-item{{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) (eq $currentPage.URL .URL) (eq $currentPage.Type .Identifier) }} active{{end}}">
             <a class="nav-link" href="{{.URL}}" {{ if hasPrefix .URL "http" }}target="_blank"{{ end }}>{{ .Name }}</a>
           </li>
         {{ end }}

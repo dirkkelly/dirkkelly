@@ -57,7 +57,7 @@ pluralizelisttitles = false
 [[menu.sidebar]]
   name = "Essays"
   url = "/essays/"
-  identifier = "essays"
+  identifier = "essay"
   weight = "1"
 
 [[menu.sidebar]]
