@@ -1,7 +1,7 @@
 ---
 title: Preparing for Life Under a Declining Empire
+subtitle: Solidarity is the key to survival, and your community is the key to solidarity. Building community together is how we replace the unjust systems which oppress us.
 date: 2018-07-15 14:37:14 +0000
-description: Solidarity is the key to survival, and your community is the key to solidarity.
 tags:
 - collapse
 - america

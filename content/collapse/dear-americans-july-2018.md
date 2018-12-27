@@ -1,7 +1,7 @@
 ---
 title: Dear Americans Living in Fascist America
 date: 2018-07-06 22:18:53 -0600
-description: A facitst government is clearly making your lives worse, the question
+description: A fascist government is clearly making your lives worse, the question
   is are you seeing this reality, and what are you doing about it?
 tags:
 - america
@@ -9,7 +9,7 @@ tags:
 - fascism
 - cody johnston
 - anti-corruption act
-featured: true
+featured: false
 
 ---
 You haven't heard from me in a while, I haven't written for a few months and I tend to go quiet when I'm in another time zone, so I thought it would be nice to check in.

@@ -33,26 +33,23 @@
       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KlMlZTHShFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-    <div class="essays">
-      <h2 class="h3 mt-3 mb-0 font-weight-bold">Essays</h2>
-
-      <ul id="essayList" class="list-unstyled">
-        {{ range .Site.Pages }}
-          {{ if and (not .Date.IsZero) (.Param "featured") }}
-            <li class="mt-2 mb-3">
-              <h5 class="font-weight-bold mb-0">
-                <a href="{{ .Permalink }}">
-                  {{ .Title }}
-                  <small>{{ .PublishDate.Format "2006" }}</small>
-                </a>
-              </h5>
-              {{ if .Param "subtitle" }}
-                <small>{{ .Param "subtitle" }}</small>
-              {{ end }}
-            </li>
-          {{ end }}
+    <h2 class="h3 mt-3 mb-0 font-weight-bold">Featured</h2>
+    <ul id="featured" class="list-unstyled">
+      {{ range .Site.Pages }}
+        {{ if and (not .Date.IsZero) (.Param "featured") }}
+          <li class="mt-2 mb-3">
+            <h5 class="font-weight-bold mb-0">
+              <a href="{{ .Permalink }}">
+                {{ .Title }}
+                <small>{{ .PublishDate.Format "2006" }}</small>
+              </a>
+            </h5>
+            {{ if .Param "subtitle" }}
+              <small>{{ .Param "subtitle" }}</small>
+            {{ end }}
+          </li>
         {{ end }}
-      </ul>
-    </div>
+      {{ end }}
+    </ul>
   </div>
 {{ end }}
