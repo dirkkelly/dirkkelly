@@ -54,6 +54,12 @@ pluralizelisttitles = false
 [[menu.topbar]]
   identifier = "redirects"
 
+[[menu.sidebar]]
+  name = "Youtube"
+  url = "http://youtube.com/dirkkelly"
+  identifier = "youtube"
+  weight = "-1"
+
 [permalinks]
   channels = "/:filename"
 
