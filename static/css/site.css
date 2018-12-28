@@ -69,7 +69,7 @@ a { text-decoration: none; }
   font-size: 1.3rem;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 960px) {
   .sticky-offset { top: 56px; }
   .content { min-height: inherit }
   .sidebar-container { max-width: 100% }
@@ -82,7 +82,7 @@ a { text-decoration: none; }
   .d-none { display: none; }
 }
 
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 961px) {
   .sidebar { position: fixed; height: 100%; text-align: left; }
   .content .post-content { font-size: 1.2em; }
 }
