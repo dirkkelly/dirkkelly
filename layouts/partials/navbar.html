@@ -11,18 +11,18 @@
   </button>
   <div class="collapse navbar-collapse font-weight-bold" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      {{ range .Site.Menus.sidebar }}
+      {{ range .Site.Menus.navbar }}
         {{ if .URL }}
-          <li class="nav-item{{if or ($currentPage.IsMenuCurrent "sidebar" .) ($currentPage.HasMenuCurrent "sidebar" .) (eq $currentPage.URL .URL) (eq $currentPage.Type .Identifier) }} active{{end}}">
+          <li class="nav-item{{if or ($currentPage.IsMenuCurrent "navbar" .) ($currentPage.HasMenuCurrent "navbar" .) (eq $currentPage.URL .URL) (eq $currentPage.Type .Identifier) }} active{{end}}">
             <a class="nav-link" href="{{.URL}}" {{ if hasPrefix .URL "http" }}target="_blank"{{ end }}>{{ .Name }}</a>
           </li>
         {{ end }}
       {{ end }}
     </ul>
     <ul class="navbar-nav">
-      {{ range .Site.Menus.sidebar_right }}
+      {{ range .Site.Menus.navbar_right }}
         {{ if .URL }}
-          <li class="nav-item{{if or ($currentPage.IsMenuCurrent "sidebar_right" .) ($currentPage.HasMenuCurrent "sidebar_right" .) (eq $currentPage.URL .URL) }} active{{end}}">
+          <li class="nav-item{{if or ($currentPage.IsMenuCurrent "navbar_right" .) ($currentPage.HasMenuCurrent "navbar_right" .) (eq $currentPage.URL .URL) }} active{{end}}">
             <a class="nav-link" href="{{.URL}}" {{ if hasPrefix .URL "http" }}target="_blank"{{ end }}>{{ .Name }}</a>
           </li>
         {{ end }}
