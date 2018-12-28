@@ -138,6 +138,6 @@ a {
   color: #326799;
 }
 
-h1 {
-  font-size: 2.2rem;
+h1.h2, h2 {
+  font-size: 1.6rem;
 }

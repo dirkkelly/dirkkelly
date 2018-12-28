@@ -115,16 +115,10 @@ pluralizelisttitles = false
   weight = "2"
 
 [[menu.navbar_right]]
-  name = "InterExchange"
-  url = "https://www.interexchange.org/authors/dirkkelly/"
-  identifier = "interexchange"
+  name = "Reddit"
+  url = "https://www.reddit.com/u/dirkkelly"
+  identifier = "reddit"
   weight = "3"
-
-[[menu.navbar_right]]
-  name = "TEDxPerth"
-  url = "https://www.tedxperth.org/"
-  identifier = "tedxperth"
-  weight = "4"
 
 [permalinks]
   channels = "/:filename"

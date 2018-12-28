@@ -17,7 +17,7 @@ tags:
 - Artificial Intelligence
 aliases:
 - "/2017/11/22-22-slaughterbots-terrifying-vision-future/"
-
+featured: true
 ---
 
 The rate of technological evolution is increasing exponentially, devices which we couldn't imagine existing 20 years ago are now a mainstream part of life. Consumer product development is only one area of advancement though, and it's hardly the cutting edge.
