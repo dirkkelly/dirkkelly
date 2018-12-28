@@ -116,7 +116,7 @@ pluralizelisttitles = false
 
 [[menu.navbar_right]]
   name = "InterExchange"
-  url = "https://www.interexchange.org/leadership/#dkelly"
+  url = "https://www.interexchange.org/authors/dirkkelly/"
   identifier = "interexchange"
   weight = "3"
 
