@@ -17,6 +17,7 @@ tags:
 - Australia
 aliases:
 - "/2018/01/02-the-world-doesnt-owe-you-anything/"
+featured: true
 ---
 <!-- Welcome to the comments -->
 
