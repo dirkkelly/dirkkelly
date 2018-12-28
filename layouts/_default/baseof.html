@@ -35,12 +35,14 @@
       function resizeHeaderOnScroll() {
         const distanceY = window.pageYOffset || document.documentElement.scrollTop,
         shrinkOn = 1,
-        headerEl = document.getElementsByClassName('sticky-offset')[0];
+        headerEls = document.getElementsByClassName('sticky-offset');
 
-        if (distanceY > shrinkOn) {
-          headerEl.classList.add("smaller");
-        } else {
-          headerEl.classList.remove("smaller");
+        for (let headerEl of headerEls) {
+          if (distanceY > shrinkOn) {
+            headerEl.classList.add("smaller");
+          } else {
+            headerEl.classList.remove("smaller");
+          }
         }
       }
 
