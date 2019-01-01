@@ -58,7 +58,7 @@ a { text-decoration: none; }
 .tag-cloud { text-align: justify }
 
 .sticky-offset {
-  top: 51.5px;
+  top: 51px;
   padding-top: 10px;
   padding-bottom: 10px;
   background: white;
