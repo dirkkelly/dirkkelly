@@ -9,7 +9,6 @@ aliases:
 - "/breadtube/"
 featured: true
 image: ''
-draft: true
 
 ---
 > [**Original Post on r/breadtube**](https://www.reddit.com/r/BreadTube/comments/ahxwrm/breadtubetv_is_live_and_open_source_you_can_help/)
