@@ -12,6 +12,8 @@ image: ''
 draft: true
 
 ---
+> [**Original Post on r/breadtube**](https://www.reddit.com/r/BreadTube/comments/ahxwrm/breadtubetv_is_live_and_open_source_you_can_help/)
+
 [https://BreadTube.tv](https://BreadTube.tv "https://BreadTube.tv") has been launched in an effort to simplify the process of finding and sharing all the great content on BreadTube.
 
 This free and open source media distribution platform which already [links to some fantastic channels](https://breadtube.tv) and has some [great introductionary playlists](https://breadtube.tv/playlists/), can be [expanded on](https://github.com/breadtubetv/breadtubetv/blob/master/CONTRIBUTING.md#contributing) by someone like you!
