@@ -103,12 +103,6 @@ pluralizelisttitles = false
   weight = "9"
 
 [[menu.navbar_right]]
-  name = "Sources"
-  url = "/sources/"
-  identifier = "sources"
-  weight = "1"
-
-[[menu.navbar_right]]
   name = "BreadTube"
   url = "https://breadtube.tv/"
   identifier = "breadtube"
