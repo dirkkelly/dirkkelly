@@ -103,22 +103,34 @@ pluralizelisttitles = false
   weight = "9"
 
 [[menu.navbar_right]]
+  name = "Sources"
+  url = "/sources/"
+  identifier = "sources"
+  weight = "1"
+
+[[menu.navbar_right]]
+  name = "BreadTube"
+  url = "https://breadtube.tv/"
+  identifier = "breadtube"
+  weight = "1"
+
+[[menu.navbar_right]]
   name = "Youtube"
   url = "https://youtube.com/dirkkelly"
   identifier = "youtube"
-  weight = "1"
+  weight = "2"
 
 [[menu.navbar_right]]
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/dirk-kelly"
   identifier = "linkedin"
-  weight = "2"
+  weight = "3"
 
 [[menu.navbar_right]]
   name = "Reddit"
   url = "https://www.reddit.com/u/dirkkelly"
   identifier = "reddit"
-  weight = "3"
+  weight = "4"
 
 [permalinks]
   channels = "/:filename"
