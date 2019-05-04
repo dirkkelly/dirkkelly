@@ -39,6 +39,11 @@
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KlMlZTHShFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
 
+      <!-- BreadTube.tv -->
+      <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/A13Xer-IvFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
       <!-- Blog Posts -->
       <div class="embed-responsive embed-responsive-16by9 mt-2">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EpoFF_XCJLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,6 +53,11 @@
       </div>
       <div class="embed-responsive embed-responsive-16by9 mt-2">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9gvkwp4uPc0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+      <!-- Inspiration -->
+      <div class="embed-responsive embed-responsive-16by9 mt-2">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/EoWV1fvkjHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -62,7 +72,7 @@
                   {{ .Title }}
                 </a>
               </h5>
-              <p class="mb-0"><strong>{{ .PublishDate.Format "2006, January" }}</strong></p>
+              <p class="mb-0"><strong>{{ .PublishDate.Format "January, 2006" }}</strong></p>
               {{ if .Param "subtitle" }}
                 <p><small>{{ .Param "subtitle" }}</small></p>
               {{ end }}
