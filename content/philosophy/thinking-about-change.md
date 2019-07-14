@@ -1,5 +1,6 @@
 ---
 title: Thinking About Change
+subtitle: 
 date: 2019-07-12 17:42:20 +0000
 featured: true
 type: essay
@@ -31,8 +32,12 @@ Social Media’s impact on political campaigns is a good example of how social h
 
 When we think about virtual cultural exchange we need to confront the idea from a perspective of what our values are and what we’re hoping to achieve with these programs. 
 
-This last video is from a very influential programming language creator Rich Hickey, on “Hammock Driven Development” or “Stepping Away From The Keyboard” about how to think deeply on problems and then coming together to build a solution for them. 
+When we think about how we bring together a revolution of the people of the world, United in creating a better life for all, there is so much to learn. 
+
+{{< youtube 2NuqxMpkH6Y >}}
+
+Finally, this last video is from a very influential programming language creator Rich Hickey, on “Hammock Driven Development” or “Stepping Away From The Keyboard” about how to think deeply on problems and then coming together to build a solution for them. 
 
 {{< youtube f84n5oFoZBc >}}
 
-Taking some tine to think about these bold strategies ♥️🖤
+Taking some time to think about these bold strategies ♥️🖤
