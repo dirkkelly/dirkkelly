@@ -1,6 +1,6 @@
 ---
 title: Thinking About Change
-subtitle: 
+subtitle: We need to bring about change in the world in order to preserve what little life is left, we can’t afford to make mistakes that we could have thought through. 
 date: 2019-07-12 17:42:20 +0000
 featured: true
 type: essay
