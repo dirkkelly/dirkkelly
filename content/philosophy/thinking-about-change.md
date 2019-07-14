@@ -1,4 +1,4 @@
-—-
+——-
 title: Thinking About Change
 date: 2018-07-12 17:42:20 +0000
 featured: true
@@ -8,7 +8,7 @@ tags:
 - travel
 - revolution
 - thinking
-—-
+——-
 
 I’m taking a vacation,
 going to Italy to be with the world around me,
