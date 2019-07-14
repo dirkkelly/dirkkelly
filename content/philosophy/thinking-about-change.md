@@ -1,7 +1,12 @@
 —-
 title: Thinking About Change
-date: 2018-07-12
+date: 2018-07-12 17:42:20 +0000
 featured: true
+type: essay
+tags:
+- philosophy
+- travel
+- revolution
 —-
 
 I’m taking a vacation,
