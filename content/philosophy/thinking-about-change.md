@@ -7,6 +7,7 @@ tags:
 - philosophy
 - travel
 - revolution
+- thinking
 —-
 
 I’m taking a vacation,
