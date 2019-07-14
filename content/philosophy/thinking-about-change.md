@@ -1,6 +1,6 @@
 ---
 title: Thinking About Change
-date: 2018-07-12 17:42:20 +0000
+date: 2019-07-12 17:42:20 +0000
 featured: true
 type: essay
 tags:
