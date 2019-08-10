@@ -1,5 +1,5 @@
 ---
-date: 2019-08-11 00:00:00 +0000
+date: 2019-08-10 20:00:00 +0000
 title: Jeffrey Epstein "Suicide"
 type: blog
 tags:
