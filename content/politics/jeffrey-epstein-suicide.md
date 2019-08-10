@@ -22,4 +22,4 @@ We, the people, need to gather together, assert our collective power, and overth
 
 If you're an American you need to demand that your local representatives and senators ensure that this investigation is not terminated and that justice is served to the women who's lives were destroyed by these monsters.
 
-![Clinton Lolita Express](/static/images/politics/epstein/clinton_lolita_express.png)
+![Clinton Lolita Express](/static/images/politics/epstein/clinton_lolita_express.jpg)
