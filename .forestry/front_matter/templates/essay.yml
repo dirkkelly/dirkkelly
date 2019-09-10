@@ -1,7 +1,6 @@
 ---
 label: essay
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -28,7 +27,7 @@ fields:
   hidden: false
   default: true
 pages:
-- content/politics/it-s-easy-not-to-care-from-afar.md
-- content/collapse/dear-americans-july-2018.md
-- content/collapse/preparing-for-life-under-a-declining-empire.md
 - content/essays/_index.md
+- content/collapse/preparing-for-life-under-a-declining-empire.md
+- content/collapse/dear-americans-july-2018.md
+- content/politics/it-s-easy-not-to-care-from-afar.md
