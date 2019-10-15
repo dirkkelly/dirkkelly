@@ -25,7 +25,7 @@ I am calm, I am confident, and I am still very concerned for the future of our s
 
 I know, I went there straight away. I didn't even open up with something relevant to our relationship, some detail about the strains that we have personally been feeling, I went to issue of the extinction of all life on our planet.
 
-I do this so that you know, that ultimately, while I am both calm and collected (for the most part), I am still very focused on this singular issue and more importantly how it came to be our reality, and what we need to do to adapt to the changes that are coming.
+I do this so that you know, that ultimately, while I am both calm and collected, I am still very focused on this singular issue and more importantly how it came to be our reality, and what we need to do to adapt to the changes that are coming.
 
 It scares you when I call myself anti-capitalist, I think I've even gone so far as to say, if not heavily infer that you and I are personally at odds due to your relationship with capitalism and my opinion of Online Feudalism 2.0™️.
 
