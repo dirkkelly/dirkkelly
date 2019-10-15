@@ -33,7 +33,7 @@ In reality as much as I cosplay the class-war in my daily interactions with you,
 
 Because ultimately like me, you're nothing.
 
-You are not the real holder of power in this system, you are as equally a victim as me. On a long enough timeline everything returns to zero.
+You are not the real holder of power in this system, you are as equally a victim as me. On a long enough timeline everything returns to zero, especially your "investments" on a planet devoid of life.
 
 You do have some private capital though, or at least fundamental decision making power over that allocation of capital. What you are doing with that private capital is, knowing what it is we do at this point about where we are, extremely immoral.
 
