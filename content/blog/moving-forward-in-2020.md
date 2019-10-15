@@ -35,7 +35,7 @@ Because ultimately like me, you're nothing.
 
 You are not the real holder of power in this system, you are as equally a victim as me. On a long enough timeline everything returns to zero.
 
-You do have some private capital though, or at least fundamental decision making power over that allocation of capital. What you are doing with that private capital though is, at this point in time, knowing what it is we do, scientifically, about where we are, extremely immoral.
+You do have some private capital though, or at least fundamental decision making power over that allocation of capital. What you are doing with that private capital is, knowing what it is we do at this point about where we are, extremely immoral.
 
 You are a good person, you have a heart that has grown through adversity, you have taken on a world built against you and yet you have still carved our a relatively safe place in this world. I love you, even though I don't show it very well, you must know I really do love you.
 
