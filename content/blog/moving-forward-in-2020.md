@@ -27,7 +27,7 @@ I know, I went there straight away. I didn't even open up with something relevan
 
 I do this so that you know, that ultimately, while I am both calm and collected, I am still very focused on this singular issue and more importantly how it came to be our reality, and what we need to do to adapt to the changes that are coming.
 
-It scares you when I call myself anti-capitalist, it makes you question what that means for our relationship. In fact I think I've even gone so far as to say or heavily imply that you and I are personally at odds due to your relationship with capitalism and my opinion of Online Feudalism 2.0™️.
+It scares you when I call myself anti-capitalist, it makes you question what that means for our relationship. In fact I think I've even gone so far as to say that your relationship with and my opinion of capitalism, put us at odds.
 
 In reality as much as I cosplay the class-war in my daily interactions with you, it's not truly you that I am focused on defeating.
 
