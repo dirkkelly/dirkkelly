@@ -41,11 +41,11 @@ You are a good person, you have a heart that has grown through adversity, you ha
 
 I'm not angry, I'm just really disappointed.
 
-You look at my activism, you glance what I try to get into your attention span, but you don't want to look into it, you don't want to learn about it, you don't want to feel uncomfortable with that knowledge.
+You look away from this activism, you don't want it in your attention realm, you don't want to learn about it, you don't want to feel uncomfortable with that knowledge.
 
-Not yet anyway, and I still see it as my responsibility to help you get there, and I need to do a better job of it.
+Not yet, we will get you there.
 
-For now I'm going to ask that you go check out these websites, question how you can be involved.
+So for now I'm going to ask that you go check out these websites, and I'll start working on the next piece of writing.
 
 [Extinction Rebellion https://rebellion.earth/](https://rebellion.earth/ "Extinction Rebellion https://rebellion.earth/")
 
