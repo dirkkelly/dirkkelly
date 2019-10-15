@@ -47,6 +47,8 @@ Not yet, we will get you there.
 
 So for now I'm going to ask that you go check out these websites, and I'll start working on the next piece of writing.
 
-[Extinction Rebellion https://rebellion.earth/](https://rebellion.earth/ "Extinction Rebellion https://rebellion.earth/")
+[Choices made now are critical for the future of our ocean and cryosphere](https://www.ipcc.ch/2019/09/25/srocc-press-release/)
 
-[Democracy at Work https://www.democracyatwork.info/](https://www.democracyatwork.info/)
+[Extinction Rebellion](https://rebellion.earth/ "Extinction Rebellion https://rebellion.earth/")
+
+[Democracy at Work](https://www.democracyatwork.info/)
