@@ -37,6 +37,7 @@ fields:
   name: image
   label: Image
 pages:
+- content/blog/moving-forward-in-2020.md
 - content/philosophy/getting-in-trouble.md
 - content/survive/pain-essay.md
 - content/collapse/how-can-the-enemy-be-this-friendly.md
