@@ -6,8 +6,8 @@ subtitle: After years of argument, anger, conflict, and long bouts of silence, I
 tags:
 - climate change
 - capitalism
-- change
 - extinction rebellion
+- ipcc
 aliases: []
 featured: true
 image: "/uploads/2019/10/15/PRI_88833921.jpg"
