@@ -13,7 +13,7 @@ featured: true
 image: "/uploads/2019/10/15/PRI_88833921.jpg"
 
 ---
-I'm sorry for being so rude to you, for treating you like with the disdain with which I actually feel for myself, for going off and turning into someone you really don't recognize anymore and not giving you the opportunity to learn enough of who I had become through that journey.
+I'm sorry for being so rude to you, for treating with the disdain with which I actually feel for myself, for going off and turning into someone you really don't recognize anymore and not giving you the opportunity to learn enough of who I had become through that journey.
 
 Writing would have helped this, it would have helped me communicate to you what I have been working on, what I have learnt, and experimented with, and come to understand about the world that we live in, together. It would have helped me communicate to myself what I was thinking, it would have helped me focus my thoughts and what I needed to do next.
 
