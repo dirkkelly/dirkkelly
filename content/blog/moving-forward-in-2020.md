@@ -37,7 +37,7 @@ You are not the real holder of power in this system, you are as equally a victim
 
 You do have some private capital though, or at least fundamental decision making power over that allocation of capital. What you are doing with that private capital is, knowing what it is we do at this point about where we are, extremely immoral.
 
-You are a good person, you have a heart that has grown through adversity, you have taken on a world built against you and yet you have still carved our a relatively safe place in this world. I love you, even though I don't show it very well, you must know I really do love you.
+You are a good person, you have a heart that has grown through adversity, you have taken on a world built against you and yet you have still carved out a relatively safe place in this world. I love you, even though I don't show it very well, you must know I really do love you.
 
 I'm not angry, I'm just really disappointed.
 
