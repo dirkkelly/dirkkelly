@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
   path: content/economics
   label: Economics
   create: all
@@ -59,11 +64,6 @@ sections:
   label: Tags
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
