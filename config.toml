@@ -10,6 +10,7 @@ pluralizelisttitles = false
 
 [params]
   author = "dirkkelly"
+  logo = "/images/dirkkelly.png"
   description = "Thinking about politics, economics, and technology during humanity's struggle to navigate the collapse of Capitalism and subsequent Holocene extinction."
 
 [[menu.topbar]]
