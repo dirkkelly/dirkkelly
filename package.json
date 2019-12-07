@@ -1,0 +1,31 @@
+{
+  "name": "DirkKelly",
+  "version": "1.0.0",
+  "main": "dirkkelly.js",
+  "engines": {
+    "node": "11.x.x",
+    "yarn": "1.x.x"
+  },
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dirkkelly/dirkkelly.git"
+  },
+  "dependencies": {
+    "bootstrap": "4.x.x",
+    "gulp": "3.x.x",
+    "gulp-concat": "2.x.x",
+    "gulp-if": "3.x.x",
+    "gulp-include": "2.x.x",
+    "gulp-uglify": "3.x.x",
+    "gulp-watch": "5.x.x",
+    "iframe-resizer": "4.x.x",
+    "jquery": "3.x.x",
+    "popper.js": "1.x.x",
+    "postcss-cli": "6.x.x"
+  },
+  "devDependencies": {
+    "fancy-log": "1.x.x"
+  }
+}

@@ -1,2 +1,16 @@
+[build]
+  publish = "public"
+  command = "bin/build"
+
 [build.environment]
-  HUGO_VERSION = "0.52"
+  HUGO_VERSION = "0.59.1"
+  HUGO_ENV = "production"
+
+[context.production]
+  command = "bin/build -b ${URL}/"
+
+[context.deploy-preview]
+  command = "bin/build -b ${DEPLOY_PRIME_URL}/"
+
+[context.branch-deploy]
+  command = "bin/build -b ${DEPLOY_PRIME_URL}/"
