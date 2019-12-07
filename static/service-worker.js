@@ -1,6 +1,7 @@
 const CACHE_NAME = 'dk-cache-v1.0';
 const FILES_TO_CACHE = [
   '/index.html',
+  '/offline/index.html',
   '/apple-touch-icon.png',
   '/favicon-32x32.png',
   '/favicon-16x16.png',
@@ -38,7 +39,7 @@ self.addEventListener('fetch', (event) => {
     event.respondWith(
       fetch(event.request)
         .catch(() => caches.open(CACHE_NAME)
-          .then(cache => cache.match('offline.html')
+          .then(cache => cache.match('/offline/index.html')
         )
       )
     )

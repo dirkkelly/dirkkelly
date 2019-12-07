@@ -35,7 +35,7 @@
   {{ with .Param "image" }}
     <meta property="og:image" content="{{ . }}">
   {{ else }}
-    <meta property="og:image" content="/images/dirkkelly.png">
+    <meta property="og:image" content="{{ $.Site.Params.logo }}">
   {{ end }}
 
   {{ with .Param "redirect" }}<meta http-equiv="refresh" content="0;URL='{{ . }}'" />{{ end }}
