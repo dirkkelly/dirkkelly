@@ -22,3 +22,9 @@ log/*
 public/*
 
 /static/images/dirkkelly/
+/static/js/
+
+node_modules/
+
+
+yarn-error.log
