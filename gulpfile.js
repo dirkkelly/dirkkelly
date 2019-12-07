@@ -23,7 +23,7 @@ gulp.task('scripts', function() {
         './node_modules/jquery/dist'
       ]
     }))
-    .pipe(gulpif(production, uglify()))
+    // .pipe(gulpif(production, uglify()))
     .pipe(gulp.dest('./' + destination + '/js'));
 });
 
