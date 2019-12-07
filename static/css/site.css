@@ -42,6 +42,7 @@ a { text-decoration: none; }
 .sidebar h1 { font-weight: bold; }
 .sidebar h1 a:hover { text-decoration: none; border-bottom: 0; }
 .sidebar li { list-style: none; font-weight: bold; margin: 5px 5px 5px 0; }
+.sidebar li a { display: block; padding: 5px 5px 5px 0; }
 .sidebar li.active a, .sidebar a:hover { border-bottom: 2px solid #FFF }
 .sidebar li:last-child { margin-right: 0; }
 .sidebar a, .sidebar a:hover { text-decoration: none; color: #FFFFFF; }
