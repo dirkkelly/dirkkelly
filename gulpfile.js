@@ -9,14 +9,16 @@ const sourcemaps = require('gulp-sourcemaps');
 const terser = require('gulp-terser');
 const watch = require('gulp-watch');
 
+sass.compiler = require('node-sass');
+
 const env = process.env.HUGO_ENV;
 const production = ['production','staging'].includes(env);
 const destination = production ? 'public' : 'static';
 
-sass.compiler = require('node-sass');
-
 gulp.task('scripts', function() {
   return gulp.src([
+      // including Popper.js fixes Bootstrap issues
+      // https://github.com/twbs/bootstrap/issues/23381
       './node_modules/popper.js/dist/umd/popper.js',
       './src/js/*.js'
     ])
