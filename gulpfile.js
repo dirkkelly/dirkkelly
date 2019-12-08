@@ -4,10 +4,10 @@ const concat = require('gulp-concat');
 const gulp = require('gulp');
 const gulpif = require('gulp-if');
 const include = require('gulp-include');
-const uglify = require('gulp-uglify');
-const watch = require('gulp-watch');
 const sass = require('gulp-sass');
 const sourcemaps = require('gulp-sourcemaps');
+const terser = require('gulp-terser');
+const watch = require('gulp-watch');
 
 const env = process.env.HUGO_ENV;
 const production = ['production','staging'].includes(env);
@@ -26,7 +26,7 @@ gulp.task('scripts', function() {
         './node_modules/jquery/dist'
       ]
     }))
-    .pipe(gulpif(production, uglify()))
+    .pipe(gulpif(production, terser().on('error', console.error)))
     .pipe(gulp.dest('./' + destination + '/js'));
 });
 

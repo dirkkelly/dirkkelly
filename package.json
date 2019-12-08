@@ -20,7 +20,7 @@
     "gulp-include": "2.x.x",
     "gulp-sass": "^4.x.x",
     "gulp-sourcemaps": "^2.6.5",
-    "gulp-uglify": "3.x.x",
+    "gulp-terser": "^1.x.x",
     "gulp-watch": "5.x.x",
     "iframe-resizer": "4.x.x",
     "jquery": "3.x.x",
