@@ -20,7 +20,7 @@ I hope others decide to take Hugo on as their static site generator, I think the
 
 To help those who are looking to give it a go I thought I'd put together a how-to for what I would consider to be good practice for building a site in Hugo that supports ES6 and SASS.
 
-In order to prep for this I have spent some time working on this site which you can [view the source code for on Github](https://github.com/dirkkelly/dirkkelly/tree/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888). I am only building JavaScript and StyleSheets for this project, if you wanted to add fonts etc you could probably figure out the pattern from there.
+In order to prep for this I have spent some time working on this site which you can [view the source code for on Github](https://github.com/dirkkelly/dirkkelly/tree/9003f17e62f784fecf4dfee6dcd5dd736c18bb56). I am only building JavaScript and StyleSheets for this project, if you wanted to add fonts etc you could probably figure out the pattern from there.
 
 ## Don't Mess With The Folder Structure
 
@@ -32,7 +32,7 @@ There are definitely other ways to manage your assets, [Webpack](https://webpack
 
 So I'm going to recommend you just install Gulp to watch your assets and build them when you deploy. Feel free to disagree, if you really want feel free to submit a PR with a webpack implementation.
 
-### [package.json](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/package.json)
+### [package.json](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/package.json)
 
 This should give you an idea of what node packages you'll need to install.
 
@@ -72,7 +72,7 @@ This should give you an idea of what node packages you'll need to install.
 }
 ```
 
-### [gulpfile.js](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/gulpfile.js)
+### [gulpfile.js](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/gulpfile.js)
 
 ```js
 'use strict';
@@ -139,7 +139,7 @@ gulp.task('serve', ['build'], function () {
 
 ## You develop your assets in `./src`
 
-### [src/js/dirkkelly.js](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/src/js/dirkkelly.js)
+### [src/js/dirkkelly.js](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/src/js/dirkkelly.js)
 
 ```js
 //= require jquery.js
@@ -154,7 +154,7 @@ gulp.task('serve', ['build'], function () {
 - Because of the `includePaths` defined in the `Gulpfile.js` you can reference jQuery and Bootstrap directly (hopefully Bootstrap5 will be getting rid of jQuery dependency).
 - There's some other code in this file that probably isn't relevant to your website, it just makes titles on my pages smaller as you scroll down.
 
-### [src/scss/dirkkelly.scss](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/src/scss/dirkkelly.scss)
+### [src/scss/dirkkelly.scss](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/src/scss/dirkkelly.scss)
 
 ```scss
 @import 'node_modules/bootstrap/scss/bootstrap';
@@ -173,7 +173,7 @@ gulp.task('serve', ['build'], function () {
 
 There's nothing special about your css or js now, they're just files that get output to the root of your project under their respective directories.
 
-#### [layouts/\_default/baseof.html](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/layouts/_default/baseof.html)
+#### [layouts/\_default/baseof.html](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/layouts/_default/baseof.html)
 
 You should be using the [Base Templates and Blocks](https://gohugo.io/templates/base/) pattern in your layout, if you're not you'll just need to put this before your body tag. Then once you have this all working you should refactor to the [Base Templates and Blocks](https://gohugo.io/templates/base/) pattern.
 
@@ -187,7 +187,7 @@ You should be using the [Base Templates and Blocks](https://gohugo.io/templates/
 </html>
 ```
 
-#### [layouts/partials/head.html](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/layouts/partials/head.html)
+#### [layouts/partials/head.html](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/layouts/partials/head.html)
 
 My site's styling is very minimal (in fact I should really cut down on the bootstrap dependencies and I'm sorry for wasting your bandwidth), because of this though I do seem to get away with just loading the single css in the header.
 
@@ -204,7 +204,7 @@ Those of us who have been using [Heroku](https://heroku.com) for many years and 
 
 If Ruby isn't your thing then you may need another way to handle this step, basically though we need a way to run both Gulp and Hugo when we're developing.
 
-### [Procfile.dev](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/Procfile.dev)
+### [Procfile.dev](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/Procfile.dev)
 
 Heroku best practice (you shouldn't be using Heroku for hosting Hugo by the way) is to have a `Procfile` for production/staging and a `Profile.dev` for development. I guess old habits die-hard so this is something I'm still doing here.
 
@@ -213,7 +213,7 @@ hugo: hugo serve --ignoreCache --buildDrafts --buildFuture --disableFastRender
 gulp: gulp serve
 ```
 
-### [bin/serve](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/bin/serve)
+### [bin/serve](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/bin/serve)
 
 You can execute this command independently, I just prefer to have a `bin/serve` executable common across static site projects to serve up a development server.
 
@@ -225,7 +225,7 @@ foreman start -f Procfile.dev
 
 You in no way have to use [Netlify](https://netlify.com) for hosting your production instance and I'm not going to get into too much detail about it, I do recommend checking them out if you don't know about them. Either way you're just going to need an environment where you can define the `HUGO_ENV` variable that will be picked up in the `gulpfile.js`
 
-### [netlify.toml](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/netlify.toml)
+### [netlify.toml](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/netlify.toml)
 
 ```toml
 [build]
@@ -250,7 +250,7 @@ What I really like about Netlify is the automated preview environments tied to m
 
 `HUGO_ENV` is defined in the `build.environment`, technically I should be specifying the staging in the `deploy-preview` and `branch-deploy`, but I actually think I'd be better of just removing the `staging` reference in the `gulpfile.js`
 
-### [bin/build](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/bin/build)
+### [bin/build](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/bin/build)
 
 ```bash
 gulp build
@@ -267,7 +267,7 @@ I'll admit, the implementation I have so far of a PWA is enough to meet the requ
 
 [I followed another guide](https://www.silvestar.codes/articles/how-i-built-my-first-progressive-web-app-pwa/) to get here, hoping that this serves as another reference for other travelers
 
-#### [layouts/\_default/baseof.html](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/layouts/_default/baseof.html)
+#### [layouts/\_default/baseof.html](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/layouts/_default/baseof.html)
 
 First thing you need for a PWA is a service worker, this will allow the site to tell the browser that it's going to be caching some files for offline support.
 
@@ -290,7 +290,7 @@ First thing you need for a PWA is a service worker, this will allow the site to 
 </html>
 ```
 
-#### [src/js/service-worker.js](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/static/service-worker.js)
+#### [src/js/service-worker.js](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/static/service-worker.js)
 
 There are 4 key things going on here.
 
@@ -349,7 +349,7 @@ self.addEventListener('fetch', (event) => {
 })
 ````
 
-### [content/offline.md](https://github.com/dirkkelly/dirkkelly/blob/444d38c63ab15d3d3d5ef2aff9d5b2ca67ef8888/content/offline.md)
+### [content/offline.md](https://github.com/dirkkelly/dirkkelly/blob/9003f17e62f784fecf4dfee6dcd5dd736c18bb56/content/offline.md)
 
 This page does need more work, I'm not caching the CSS or JS right now. Again I really just wanted to get this working so I could make further improvements later on.
 
