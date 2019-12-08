@@ -10,7 +10,7 @@ tags:
 aliases:
 - /technology/building-hugo-gulp-es6-sass-bootstrap/
 - /technology/building-pwa-hugo-gulp-es6-sass-bootstrap/
-image: '/images/technology/2019-100-pwa.png'
+image: '/images/technology/2019-100-pwa.gif'
 featured: true
 ---
 
@@ -367,4 +367,4 @@ I know there isn't much here, and really that's the point. It shouldn't be and i
 
 I hope this helps whoever finds it, especially if that's me whenever I start up my next project.
 
-![PWA](/images/technology/2019-100-pwa.png)
+![PWA](/images/technology/2019-100-pwa.gif)
