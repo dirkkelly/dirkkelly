@@ -144,9 +144,25 @@ Gaining an undergraduate taught me to efficiently recognize and research solutio
 
 ## Skills
 
-#### Full Stack
+### Organizational Development
 
-My development career has given me exposure and expertise across all aspects of web development.
+System Analysis and Design, executive level strategic planning and decision making, long term
+goal setting and operational performance assessment and improvement.
+
+### Team Building
+
+Software development team design, hiring, training, and operating. Experienced in management of
+support, product management, and software engineering.
+
+### Product Design
+
+Organizational transformation to digital products providing opportunities for expansion into 
+emerging markets using agile organizational refocussing.
+
+### Software Engineering
+
+Seasoned professional software engineer specializing in web application development, maintenance,
+operation, and lifecycle management.
 
 * Databases
   * SQL: PostgreSQL, MySQL, OracleDB
@@ -158,32 +174,7 @@ My development career has given me exposure and expertise across all aspects of 
 * Interface
   * ES6, ReactJS, EmberJS
   * HTML 5, CSS 3
-
-#### Test Driver
-
-I use test driven guide me through creating features that are reliable and well documented.
-
 * Integration Testing
   * Cucumber, Behat
 * Unit Testing
   * Rspec, PHPUnit, JUnit
-
-#### User Focussed
-
-My process prioritizes end-user features over solving problems that don't exist yet.
-
-#### Future Prepared
-
-I work closely with product teams to champion and promote quality time spent on technical debt and R&D.
-
-#### Self Directed
-
-I don't need to be managed to produce results. I enjoy roles that split me between coding, designing, training, and planning.
-
-#### Training
-
-I place a high emphasis on the value of pairing as a tool for teaching and reducing instances of code siloing.
-
-#### Open Source
-
-I've been a contributor to many projects across the years, I enjoy using and supporting open source software.
