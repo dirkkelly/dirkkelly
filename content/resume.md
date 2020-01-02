@@ -1,8 +1,8 @@
 ---
-title: Career
+title: Resumé
 type: page
 aliases:
-- "/resume/"
+- "/career/"
 ---
 
 ## Skills
