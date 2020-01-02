@@ -86,9 +86,9 @@ pluralizelisttitles = false
   weight = "6"
 
 [[menu.navbar]]
-  name = "Career"
-  url = "/career/"
-  identifier = "career"
+  name = "Resumé"
+  url = "/resume/"
+  identifier = "resume"
   weight = "7"
 
 [[menu.navbar]]
