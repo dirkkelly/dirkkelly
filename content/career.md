@@ -5,6 +5,45 @@ aliases:
 - "/resume/"
 ---
 
+## Skills
+
+### Organizational Development
+
+System Analysis and Design, executive level strategic planning and decision making, long term
+goal setting and operational performance assessment and improvement.
+
+### Team Building
+
+Software development team design, hiring, training, and operating. Experienced in management of
+support, product management, and software engineering.
+
+### Product Design
+
+Organizational transformation to digital products providing opportunities for expansion into 
+emerging markets using agile organizational refocussing.
+
+### Software Engineering
+
+Seasoned professional software engineer specializing in web application development, maintenance,
+operation, and lifecycle management.
+
+* Databases
+  * SQL: PostgreSQL, MySQL, OracleDB
+  * NoSQL: MongoDB
+* Application
+  * Ruby, PHP, Java, Go
+  * Wordpress, Drupal
+  * Jekyll, Middleman, Hugo
+* Interface
+  * ES6, ReactJS, EmberJS
+  * HTML 5, CSS 3
+* Integration Testing
+  * Cucumber, Behat
+* Unit Testing
+  * Rspec, PHPUnit, JUnit
+
+## Experience
+
 ### Interests Abroad Australia
 
 - **Managing Director** _2018 - now_
@@ -139,42 +178,3 @@ Gaining an undergraduate taught me to efficiently recognize and research solutio
 ### [Leeming Senior High School](http://www.leeming.wa.edu.au/)
 
 ### [Banksia Park Primary School](http://www.banksiapark.wa.edu.au/)
-
-***
-
-## Skills
-
-### Organizational Development
-
-System Analysis and Design, executive level strategic planning and decision making, long term
-goal setting and operational performance assessment and improvement.
-
-### Team Building
-
-Software development team design, hiring, training, and operating. Experienced in management of
-support, product management, and software engineering.
-
-### Product Design
-
-Organizational transformation to digital products providing opportunities for expansion into 
-emerging markets using agile organizational refocussing.
-
-### Software Engineering
-
-Seasoned professional software engineer specializing in web application development, maintenance,
-operation, and lifecycle management.
-
-* Databases
-  * SQL: PostgreSQL, MySQL, OracleDB
-  * NoSQL: MongoDB
-* Application
-  * Ruby, PHP, Java, Go
-  * Wordpress, Drupal
-  * Jekyll, Middleman, Hugo
-* Interface
-  * ES6, ReactJS, EmberJS
-  * HTML 5, CSS 3
-* Integration Testing
-  * Cucumber, Behat
-* Unit Testing
-  * Rspec, PHPUnit, JUnit
