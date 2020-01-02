@@ -5,16 +5,16 @@ aliases:
 - "/resume/"
 ---
 
-### InterExchange Australia
+### Interests Abroad Australia
 
-- **Managing Director (Australia)** <small>(2018 - now)</small>
+- **Managing Director** _2018 - now_
 
 Providing Engineering consulting services to international cultural exchange operators.
 
 ### [InterExchange](http://interexchange.org)
 
-- **Chief Technology Officer** <small>(2015 - now)</small>
-- **Lead Software Engineer** <small>(2013 - 2015)</small>
+- **Chief Technology Officer** _2015 - now_
+- **Lead Software Engineer** _2013 - 2015_
 
 InterExchange provides work and travel opportunities to young people, I manage their use of technology to achieve organizational goals.
 
@@ -24,8 +24,8 @@ Now that I have returned to Perth I have also taken on the responsibility of bui
 
 ### [Pivotal Labs](http://pivotallabs.com/)
 
-- **Lead Software Developer** <small>(2012 - 2013)</small>
-- **Software Developer** <small>(2011 - 2012)</small>
+- **Lead Software Developer** _2012 - 2013_
+- **Software Developer** _2011 - 2012_
 
 Pivotal Labs are agile software consultants who train teams to improve their process of building software through hands-on collaboration on software projects.
 
@@ -35,7 +35,7 @@ Being away from the top of the business allowed me to focus on learning the craf
 
 ### [Mostly Disco](http://web.archive.org/web/20110403040021/http://www.mostlydisco.com/)
 
-- **Co Founder** <small>(2011)</small>
+- **Co Founder** _2011_
 
 A group of friends building a native iOS dating app released throughout Australia.
 
@@ -43,8 +43,8 @@ Potential investors, App Store approval, a language none of us knew, needless to
 
 ### [The Frontier Group](http://www.thefrontiergroup.com.au/)
 
-- **Business Development Manager** <small>(2011)</small>
-- **Software Developer** <small>(2010)</small>
+- **Business Development Manager** _2011_
+- **Software Developer** _2010_
 
 Closed my consulting firm to work for a "more established" consulting firm in Perth. I worked with some incredible people, who were building fantastic systems, from developers and designers to clients and meetups, the community was fantastic.
 
@@ -54,7 +54,7 @@ I'll always be grateful for what I learnt and who I met, at TFG.
 
 ### [Square Talent](https://github.com/squaretalent)
 
-- **Owner Software Developer** <small>(2009 - 2011)</small>
+- **Owner Software Developer** _2009 - 2011_
 
 Rails consulting firm that teams up local designers and developers on projects.
 
@@ -62,15 +62,11 @@ I now know that getting bills paid is hard, that sustainable hours are vital and
 
 ### [Murdoch University](http://www.murdoch.edu.au/)
 
-- **Software Developer** <small>(2007 \~ 2010)</small>
+- **Software Developer** _2007 \~ 2010_
 
 Predominantly built PHP single purpose apps within the student services division. Installed and maintained an [OpenReports](http://oreports.com/) service.
 
 Learned how to respond to business needs promptly, helped build an agile working environment within a less-agile business.
-
-### Chimera Technologies
-
-- **Partner / Website Developer** <small>(2007 \~ 2010)</small>
 
 ### Westnet
 
@@ -96,11 +92,11 @@ Learned how to respond to business needs promptly, helped build an agile working
 
 ## Volunteer
 
-### [TEDxPerth](https://tedxperth.org)<br/><small>(2018 - now)</small>
+### [TEDxPerth](https://tedxperth.org) _2018 - now_
 
 Taken on the role of IT Manager, working to improve systems and processes in the organization to assist with the distribution of ideas that change the world.
 
-### [BetaNYC](https://beta.nyc/)<br/><small>(2016 - 2017)</small>
+### [BetaNYC](https://beta.nyc/) _2016 - 2017_
 
 Attended various meetings of this open group of civic hackers, assisted the community in various open source projects and open days.
 
@@ -110,7 +106,7 @@ After my departure from New York I worked with their new developer and the Code 
 
 Still provide minimal consulting services to the leadership group, as needed.
 
-### [Bullcreek Leeming Scout Group](https://www.blscouts.org.au/)<br/><small>(1998 - 2010)</small>
+### [Bullcreek Leeming Scouts](https://www.blscouts.org.au/) _1998 - 2010_
 
 **Cub Scout Leader** 19½ - 21
 
@@ -128,20 +124,17 @@ As a scout I progressed through the ranks to assistant six leader, I served alon
 
 Joined cub scouts towards the end age bracket, I was introduced to an amazing pack of kind and helpful people, I learnt a lot about camping, volunteering, and community service.
 
-Cub Scouts Do Your Best
-
 ***
 
 ## Education
 
 ### [Murdoch University](http://www.murdoch.edu.au/)
 
-**Internet Software Development**<br/>
-<small>Bachelor of Science (2007 - 2010)</small>
+#### Bachelor of Science _2007 - 2010_
+
+- Internet Software Development
 
 Gaining an undergraduate taught me to efficiently recognize and research solutions to problems.
-
-The degree I hold can be used to in accordance with an E3 visa, I can work within the U.S tech industry.
 
 ### [Leeming Senior High School](http://www.leeming.wa.edu.au/)
 
@@ -155,17 +148,25 @@ The degree I hold can be used to in accordance with an E3 visa, I can work withi
 
 My development career has given me exposure and expertise across all aspects of web development.
 
-* Databases <small>(PostgreSQL, MySQL, OracleDB)</small>
-* Application <small>(Ruby, PHP, Java, Go, Wordpress, Drupal)</small>
-* Javascript <small>(ES6, ReactJS, EmberJS)</small>
-* Frontend <small>(HTML, CSS, Jekyll, Middleman, Hugo)</small>
+* Databases
+  * SQL: PostgreSQL, MySQL, OracleDB
+  * NoSQL: MongoDB
+* Application
+  * Ruby, PHP, Java, Go
+  * Wordpress, Drupal
+  * Jekyll, Middleman, Hugo
+* Interface
+  * ES6, ReactJS, EmberJS
+  * HTML 5, CSS 3
 
 #### Test Driver
 
 I use test driven guide me through creating features that are reliable and well documented.
 
-* Integration <small>(Cucumber, Behat)</small>
-* Unit <small>(Rspec, PHPUnit, JUnit)</small>
+* Integration Testing
+  * Cucumber, Behat
+* Unit Testing
+  * Rspec, PHPUnit, JUnit
 
 #### User Focussed
 
