@@ -4,11 +4,17 @@ type: page
 aliases:
 - "/resume/"
 ---
+
+### InterExchange Australia
+
+- **Managing Director (Australia)** <small>(2018 - now)</small>
+
+Providing Engineering consulting services to international cultural exchange operators.
+
 ### [InterExchange](http://interexchange.org)
 
-**Managing Director (Australia)** <small>(2018 - now)</small><br/>
-**Chief Technology Officer** <small>(2015 - now)</small><br/>
-**Lead Software Engineer** <small>(2013 - 2015)</small>
+- **Chief Technology Officer** <small>(2015 - now)</small>
+- **Lead Software Engineer** <small>(2013 - 2015)</small>
 
 InterExchange provides work and travel opportunities to young people, I manage their use of technology to achieve organizational goals.
 
@@ -18,8 +24,8 @@ Now that I have returned to Perth I have also taken on the responsibility of bui
 
 ### [Pivotal Labs](http://pivotallabs.com/)
 
-**Lead Software Developer** <small>(2012 - 2013)</small><br/>
-**Software Developer** <small>(2011 - 2012)</small>
+- **Lead Software Developer** <small>(2012 - 2013)</small>
+- **Software Developer** <small>(2011 - 2012)</small>
 
 Pivotal Labs are agile software consultants who train teams to improve their process of building software through hands-on collaboration on software projects.
 
@@ -29,7 +35,7 @@ Being away from the top of the business allowed me to focus on learning the craf
 
 ### [Mostly Disco](http://web.archive.org/web/20110403040021/http://www.mostlydisco.com/)
 
-**Co Founder** <small>(2011)</small>
+- **Co Founder** <small>(2011)</small>
 
 A group of friends building a native iOS dating app released throughout Australia.
 
@@ -37,8 +43,8 @@ Potential investors, App Store approval, a language none of us knew, needless to
 
 ### [The Frontier Group](http://www.thefrontiergroup.com.au/)
 
-**Business Development Manager** <small>(2011)</small><br/>
-**Software Developer** <small>(2010)</small>
+- **Business Development Manager** <small>(2011)</small>
+- **Software Developer** <small>(2010)</small>
 
 Closed my consulting firm to work for a "more established" consulting firm in Perth. I worked with some incredible people, who were building fantastic systems, from developers and designers to clients and meetups, the community was fantastic.
 
@@ -48,7 +54,7 @@ I'll always be grateful for what I learnt and who I met, at TFG.
 
 ### [Square Talent](https://github.com/squaretalent)
 
-**Owner Software Developer** <small>(2009 - 2011)</small>
+- **Owner Software Developer** <small>(2009 - 2011)</small>
 
 Rails consulting firm that teams up local designers and developers on projects.
 
@@ -56,7 +62,7 @@ I now know that getting bills paid is hard, that sustainable hours are vital and
 
 ### [Murdoch University](http://www.murdoch.edu.au/)
 
-**Software Developer** <small>(2007 \~ 2010)</small>
+- **Software Developer** <small>(2007 \~ 2010)</small>
 
 Predominantly built PHP single purpose apps within the student services division. Installed and maintained an [OpenReports](http://oreports.com/) service.
 
@@ -64,33 +70,27 @@ Learned how to respond to business needs promptly, helped build an agile working
 
 ### Chimera Technologies
 
-Partner / Website Developer
+- **Partner / Website Developer** <small>(2007 \~ 2010)</small>
 
 ### Westnet
 
-Phone Support Agent
+- Phone Support Agent
 
 ### Dick Smiths
 
-Retail Assistant
+- Retail Assistant
 
 ### Sunnywest
 
-Milk Produce Mover
+- Warehouse Worker
 
-### Hungry Jacks
+### Hungry Jacks (Burger King)
 
-Counter Crew<br/>
-Cleanup Crew<br/>
-Kitchen Crew<br/>
-Open Crew<br/>
-Close Crew
+- Crew Member
 
 ### McDonalds
 
-Kitchen Crew<br/>
-Counter Crew<br/>
-Open Crew
+- Crew Member
 
 ***
 
@@ -99,14 +99,6 @@ Open Crew
 ### [TEDxPerth](https://tedxperth.org)<br/><small>(2018 - now)</small>
 
 Taken on the role of IT Manager, working to improve systems and processes in the organization to assist with the distribution of ideas that change the world.
-
-### [Fort Collins Democratic Socialists of America](https://dsafc.org/)<br/><small>(2018)</small>
-
-Was able to provide leadership and advice for the existing group who were looking to incorporate and join the national organization.
-
-Assisted in development of their Constitution and meeting processes, as well as creation of their website and training on content creation.
-
-This was a fantastic opportunity to engage in the Fort Collins community, even if it was for such a short period.
 
 ### [BetaNYC](https://beta.nyc/)<br/><small>(2016 - 2017)</small>
 
@@ -163,17 +155,17 @@ The degree I hold can be used to in accordance with an E3 visa, I can work withi
 
 My development career has given me exposure and expertise across all aspects of web development.
 
-* Databases<br/><small>(PostgreSQL, MySQL, OracleDB)</small>
-* Application<br/><small>(Ruby, PHP, Java)</small>
-* Interaction<br/><small>(ES6, ReactJS, EmberJS)</small>
-* Interface<br/><small>(HTML, CSS)</small>
+* Databases <small>(PostgreSQL, MySQL, OracleDB)</small>
+* Application <small>(Ruby, PHP, Java, Go, Wordpress, Drupal)</small>
+* Javascript <small>(ES6, ReactJS, EmberJS)</small>
+* Frontend <small>(HTML, CSS, Jekyll, Middleman, Hugo)</small>
 
 #### Test Driver
 
 I use test driven guide me through creating features that are reliable and well documented.
 
-* Integration<br/><small>(Cucumber, Behat)</small>
-* Unit <br/><small>(Rspec, PHPUnit, JUnit)</small>
+* Integration <small>(Cucumber, Behat)</small>
+* Unit <small>(Rspec, PHPUnit, JUnit)</small>
 
 #### User Focussed
 
@@ -187,7 +179,7 @@ I work closely with product teams to champion and promote quality time spent on 
 
 I don't need to be managed to produce results. I enjoy roles that split me between coding, designing, training, and planning.
 
-#### A Learning Teacher
+#### Training
 
 I place a high emphasis on the value of pairing as a tool for teaching and reducing instances of code siloing.
 
