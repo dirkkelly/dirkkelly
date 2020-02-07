@@ -66,19 +66,9 @@
     <div class="col-12 col-lg">
       <h2 class="mb-0 font-weight-bold sticky-top sticky-offset">Featured Writing</h2>
       <ul id="featured" class="list-unstyled">
-        {{ range .Site.Pages }}
-          {{ if and (not .Date.IsZero) (.Param "featured") }}
-            <li class="mt-2 mb-3">
-              <h5 class="font-weight-bold mb-0">
-                <a href="{{ .Permalink }}">
-                  {{ .Title }}
-                </a>
-              </h5>
-              <p class="mb-0"><strong>{{ .PublishDate.Format "January, 2006" }}</strong></p>
-              {{ if .Param "subtitle" }}
-                <p><small>{{ .Param "subtitle" }}</small></p>
-              {{ end }}
-            </li>
+        {{ range where .Site.Pages.ByPublishDate.Reverse ".Params.featured" true }}
+          {{ if .PublishDate }}
+            {{ partial "posts/list_item" . }}
           {{ end }}
         {{ end }}
       </ul>

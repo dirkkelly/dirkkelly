@@ -1,0 +1,11 @@
+<li class="mt-2 mb-3">
+  <h5 class="font-weight-bold mb-0">
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </h5>
+  <p class="mb-0"><strong>{{ .PublishDate.Format "January, 2006" }}</strong></p>
+  {{ if .Param "subtitle" }}
+    <p><small>{{ .Param "subtitle" }}</small></p>
+  {{ end }}
+</li>

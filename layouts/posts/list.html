@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <ul id="featured" class="list-unstyled">
+    {{ range .Site.Pages.ByPublishDate.Reverse }}
+      {{ if .PublishDate }}
+        {{ partial "posts/list_item" . }}
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}
