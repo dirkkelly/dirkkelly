@@ -8,6 +8,11 @@ title = "Dirk Kelly"
 staticman_api = "https://api.staticman.net/v2/entry/dirkkelly/dirkkelly/master/comments"
 pluralizelisttitles = false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   author = "dirkkelly"
   logo = "/images/dirkkelly.jpg"
