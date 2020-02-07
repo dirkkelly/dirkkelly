@@ -2,13 +2,14 @@
 title: XRWA at Perth Festival Feb 2020
 description: Powerful imagery from Extinction Rebellion Western Australia at the shameful
   Fossil Fuel Sponsored Perth Festival.
-date: '2020-02-07'
+date: 2020-02-07 10:27:00 +0800
 tags:
 - extinction rebellion
 - fossil fuels
 - climate catastrophe
 - extinction
 featured: true
+draft: false
 
 ---
 ![XRWA at Perth Festival](/uploads/2020/02/07/_NMT4520.jpg) Magnificently captured by #MilesTweediePhotography Miles Tweedie.
