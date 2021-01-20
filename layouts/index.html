@@ -1,6 +1,6 @@
 {{ define "fullscreen" }}
   <div id="homePage" class="row">
-    <div class="col-12 col-lg">
+    <div class="col-4">
       <h1 class="h2 font-weight-bold sticky-top sticky-offset">
         Hello, I'm <span class="text-nowrap">Dirk Kelly.</span>
       </h1>
@@ -29,53 +29,6 @@
         replacements of these manifestations of power in a manner which
         is collaborative, equitable, and cares for life in our ecosystem.
       </p>
-    </div>
-
-    <div class="col-12 col-lg">
-      <h2 class="mb-0 font-weight-bold sticky-top sticky-offset">Featured Videos</h2>
-
-      <div class="embed-responsive embed-responsive-16by9 mt-2">
-        <iframe title="Ecosocialism 2020: Fighting for ecological and social justice in the fossil fuel heartland" class="embed-responsive-item" src="https://www.youtube.com/embed/dnRKxCF972c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-      
-      <div class="embed-responsive embed-responsive-16by9 mt-2">
-        <iframe title="Black Lives Matter vs Fascism - Prolekult American Carnage and Discussion by Jono Mi Lo & Dirk Kelly" class="embed-responsive-item" src="https://www.youtube.com/embed/NPONobQasiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-
-      <div class="embed-responsive embed-responsive-16by9 mt-2">
-        <iframe title="Anarchist Economics" class="embed-responsive-item" src="https://www.youtube.com/embed/KlMlZTHShFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-
-      <div class="embed-responsive embed-responsive-16by9 mt-2">
-        <iframe title="BreadTube.tv Channel Import" width="560" height="315" src="https://www.youtube.com/embed/A13Xer-IvFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-
-      <div class="embed-responsive embed-responsive-16by9 mt-2">
-        <iframe title="What Was I Digging Holes For" class="embed-responsive-item" src="https://www.youtube.com/embed/EpoFF_XCJLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-
-      <div class="embed-responsive embed-responsive-16by9 mt-2">
-        <iframe title="Happy New Year" class="embed-responsive-item" src="https://www.youtube.com/embed/M-gz63vVhY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-
-      <div class="embed-responsive embed-responsive-16by9 mt-2">
-        <iframe title="Infinite Leftist Posting" class="embed-responsive-item" src="https://www.youtube.com/embed/9gvkwp4uPc0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-
-      <div class="embed-responsive embed-responsive-16by9 mt-2">
-        <iframe title="Serve a Purpose Greater Than Yourself" width="560" height="315" src="https://www.youtube.com/embed/EoWV1fvkjHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <div class="col-12 col-lg">
-      <h2 class="mb-0 font-weight-bold sticky-top sticky-offset">Featured Writing</h2>
-      <ul id="featured" class="list-unstyled">
-        {{ range where .Site.Pages.ByPublishDate.Reverse ".Params.featured" true }}
-          {{ if .PublishDate }}
-            {{ partial "posts/list_item" . }}
-          {{ end }}
-        {{ end }}
-      </ul>
     </div>
   </div>
 {{ end }}

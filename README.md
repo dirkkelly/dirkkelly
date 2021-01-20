@@ -46,7 +46,11 @@ brew install hugo direnv
 git clone git@github.com:dirkkelly/dirkkelly.git
 cd dirkkelly
 direnv allow
-start
+nvm install
+npm install -g gulp yarn
+rbenv install
+gem install foreman
+bim/serve
 ```
 
 ## Deployment
