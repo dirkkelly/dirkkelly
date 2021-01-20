@@ -6,7 +6,7 @@ type: media
 tags:
 - Politics
 - Joe Biden
-- USAmerica
+- USA
 aliases: []
 image: ''
 ---
