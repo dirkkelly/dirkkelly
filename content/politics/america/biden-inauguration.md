@@ -11,15 +11,19 @@ aliases: []
 image: ''
 ---
 
-Today is an overall good day in politics but we also have to be balanced in our reckoning. There are significant issues in the United States that need to be resolved and will take a significant change in policy from the Democrats norm. 
+## Unity is not possible if your beliefs are rooted in my oppression.
+
+> Today is an overall good day in politics but we also have to be balanced in our reckoning. There are significant issues in the United States that need to be resolved and will take a significant change in policy from the Democrats norm. - The Young Turks
 
 The Young Turks are really covering this fantastically, I'll end up going back to watch the whole coverage. 
 
 {{<youtube OZWm6ex4IsU>}}
 
-### Unity is not possible if your beliefs are rooted in my oppression.
+{{<twitter 1351941410480562176>}}
 
 Apparently a bunch of executive orders to be signed at 5pm to drastically rewind the damages of trump. Which is good and is also politics.
+
+## Meanwhile
 
 Bernie has to get back to his job, of doing politics.
 
