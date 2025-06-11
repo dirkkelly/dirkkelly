@@ -35,6 +35,7 @@ operation, and lifecycle management.
   * Ruby, Python, PHP, Java, Go
   * Wordpress, Drupal
   * Jekyll, Middleman, Hugo
+* Ops
   * Google Analytics, Tag Manager, Adwords
   * Datadog, Plausible, Github, Gitlab
   * Railway, Fly.io, Heroku, AWS, Digital Ocean, Heroku
