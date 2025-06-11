@@ -28,25 +28,33 @@ Seasoned professional software engineer specializing in web application developm
 operation, and lifecycle management.
 
 * Databases
+  * Warehousing: Meltano, DBT, 
   * SQL: PostgreSQL, MySQL, OracleDB
   * NoSQL: MongoDB
 * Application
-  * Ruby, PHP, Java, Go
+  * Ruby, Python, PHP, Java, Go
   * Wordpress, Drupal
   * Jekyll, Middleman, Hugo
+  * Google Analytics, Tag Manager, Adwords
+  * Datadog, Plausible, Github, Gitlab
+  * Railway, Fly.io, Heroku, AWS, Digital Ocean, Heroku
 * Interface
   * ES6, ReactJS, EmberJS
   * HTML 5, CSS 3
-* Integration Testing
-  * Cucumber, Behat
-* Unit Testing
-  * Rspec, PHPUnit, JUnit
+* Testing
+  * Integration: Cucumber, Behat
+  * E2E: Puppeteer, Playwright, Cypress, Selenium
+  * Unit: Rspec, PHPUnit, JUnit
 
 ## Experience
 
+### **Down Under Software Consulting** _2021 - now_
+
+> [dusc.dev](https://www.dusc.dev) We create technological solutions to enhance human life.
+ 
 ### Interests Abroad Australia
 
-- **Managing Director** _2018 - now_
+- **Managing Director** _2018 - 2021_
 
 Providing Engineering consulting services to international cultural exchange operators.
 
@@ -119,7 +127,7 @@ Learned how to respond to business needs promptly, helped build an agile working
 
 - Warehouse Worker
 
-### Hungry Jacks (Burger King)
+### Hungry Jacks
 
 - Crew Member
 
