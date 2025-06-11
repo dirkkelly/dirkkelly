@@ -49,14 +49,12 @@ operation, and lifecycle management.
 
 ## Experience
 
-### **Down Under Software Consulting**
+### [Down Under Software Consulting](https://www.dusc.dev)
 
 - **Staff Software Engineer** _2021 - now_
 
 One of Four Directors at an engineering firm focussed on improving technologies' impact on human life.
 
-[dusc.dev](https://www.dusc.dev)
- 
 ### Interests Abroad Australia
 
 - **Managing Director** _2018 - 2021_
