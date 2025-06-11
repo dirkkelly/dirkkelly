@@ -19,8 +19,6 @@ The Young Turks are really covering this fantastically, I'll end up going back t
 
 {{<youtube OZWm6ex4IsU>}}
 
-{{<twitter 1351941410480562176>}}
-
 Apparently a bunch of executive orders to be signed at 5pm to drastically rewind the damages of trump. Which is good and is also politics.
 
 ## Meanwhile
