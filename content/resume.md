@@ -63,7 +63,7 @@ Providing Engineering consulting services to international cultural exchange ope
 
 ### [InterExchange](http://interexchange.org)
 
-- **Chief Technology Officer** _2015 - now_
+- **Chief Technology Officer** _2015 - 2021_
 - **Lead Software Engineer** _2013 - 2015_
 
 InterExchange provides work and travel opportunities to young people, I manage their use of technology to achieve organizational goals.
