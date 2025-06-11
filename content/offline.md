@@ -2,4 +2,8 @@
 title: Offline
 ---
 
-Check out on my [Twitter](https://twitter.com/dirkkellycom), I'm probably still rambling there.
+This site would appear to be offline.
+
+## [Linked In](https://www.linkedin.com/in/dirk-kelly)
+
+## [dusc.dev](https://www.dusc.dev/)
