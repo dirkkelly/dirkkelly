@@ -1,7 +1,7 @@
 {{ $currentPage := . }}
 {{ $currentSection := .CurrentSection }}
 <ul class="navbar-nav">
-  {{ range .Site.Menus.topbar }}
+  {{ range .Site.Menus.sidebar }}
     {{if .URL }}
       {{if $currentSection }}
         <li class="nav-item {{if (eq $currentSection.URL .URL) }}active{{end}}">

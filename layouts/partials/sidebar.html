@@ -1,6 +1,6 @@
 {{ $currentPage := . }}
 {{ $currentSection := .CurrentSection }}
-{{ range .Site.Menus.topbar }}
+{{ range .Site.Menus.sidebar }}
   {{if .URL }}
     <li class="{{if or (in $currentPage.Params.tags (lower .Name)) (in $currentPage.Params.tags (humanize .Name)) (eq $currentPage.URL .URL) }}active{{end}} pb-1">
       <a href="{{.URL}}" {{ if hasPrefix .URL "http" }}target="_blank"{{ end }}>{{ .Name }}</a>

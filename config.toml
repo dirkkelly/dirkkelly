@@ -18,48 +18,6 @@ pluralizelisttitles = false
   logo = "/images/dirkkelly.jpg"
   description = "Thinking about politics, economics, and technology during humanity's struggle to navigate the collapse of Capitalism and subsequent Holocene extinction."
 
-[[menu.topbar]]
-  name = "Politics"
-  url = "/politics/"
-  identifier = "politics"
-  weight = 1
-
-[[menu.topbar]]
-  name = "Economics"
-  url = "/economics/"
-  identifier = "economics"
-  weight = 2
-
-[[menu.topbar]]
-  name = "Technology"
-  url = "/technology/"
-  identifier = "technology"
-  weight = 3
-
-[[menu.topbar]]
-  name = "Philosophy"
-  url = "/philosophy/"
-  identifier = "philosophy"
-  weight = 4
-
-[[menu.topbar]]
-  name = "Survive"
-  url = "/survive/"
-  identifier = "survive"
-  weight = 5
-
-[[menu.topbar]]
-  name = "Collapse"
-  url = "/collapse/"
-  identifier = "collapse"
-  weight = 6
-
-[[menu.topbar]]
-  identifier = "channels"
-
-[[menu.topbar]]
-  identifier = "redirects"
-
 [[menu.navbar]]
   name = "Essays"
   url = "/essays/"
@@ -76,55 +34,31 @@ pluralizelisttitles = false
   name = "Media"
   url = "/media/"
   identifier = "media"
-  weight = "4"
+  weight = "3"
 
-[[menu.navbar]]
-  name = "Videos"
-  url = "/videos/"
-  identifier = "videos"
-  weight = "5"
-
-[[menu.navbar]]
-  name = "Tags"
-  url = "/tags/"
-  identifier = "tags"
-  weight = "6"
-
-[[menu.navbar]]
+[[menu.sidebar]]
   name = "Resumé"
   url = "/resume/"
   identifier = "resume"
-  weight = "7"
+  weight = "1"
 
-[[menu.navbar]]
+[[menu.sidebar]]
   name = "About"
   url = "/about/"
   identifier = "about"
-  weight = "8"
+  weight = "2"
 
-[[menu.navbar]]
+[[menu.sidebar]]
   name = "Contact"
   url = "/contact/"
   identifier = "contact"
-  weight = "9"
-
-[[menu.navbar_right]]
-  name = "BreadTube"
-  url = "https://breadtube.tv/"
-  identifier = "breadtube"
-  weight = "1"
+  weight = "3"
 
 [[menu.navbar_right]]
   name = "Youtube"
   url = "https://youtube.com/dirkkelly"
   identifier = "youtube"
   weight = "2"
-
-[[menu.navbar_right]]
-  name = "Reddit"
-  url = "https://www.reddit.com/u/dirkkelly"
-  identifier = "reddit"
-  weight = "3"
 
 [[menu.navbar_right]]
   name = "LinkedIn"
